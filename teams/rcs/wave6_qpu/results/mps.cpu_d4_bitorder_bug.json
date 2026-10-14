@@ -1,0 +1,21 @@
+{
+ "job_id": "KjYbiIsHJH6rn6Nd",
+ "device": "mps.cpu",
+ "depth": 4,
+ "status": "COMPLETED",
+ "cost": 0.0,
+ "est_cost": 0.0,
+ "error": null,
+ "device_options": "{'mps_bond_dimension': 256, 'mps_truncation_threshold': 1e-10}",
+ "run_results": "{'mps_build_time': 0.18343114852905273}",
+ "cz": 94,
+ "input_bits_q0_first": "1111110111000010110101011110001010111011011111011011100011000",
+ "hits": 0,
+ "shots": 1000,
+ "survival": 0.0,
+ "wilson95": [
+  0.0,
+  0.003826898586390522
+ ],
+ "distinct_outcomes": 1
+}

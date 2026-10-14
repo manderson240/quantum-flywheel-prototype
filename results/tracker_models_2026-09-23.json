@@ -1,0 +1,101 @@
+{
+  "operator_loschmidt_echo": {
+    "instances": [
+      {
+        "id": "operator_loschmidt_echo_49x648",
+        "path": "49Q_OLE_circuit_L_3_b_0.25_delta0.15.qasm",
+        "qubits": 49,
+        "gates": 648,
+        "category": "Baseline benchmarks"
+      },
+      {
+        "id": "operator_loschmidt_echo_49x1296",
+        "path": "49Q_OLE_circuit_L_6_b_0.25_delta0.15.qasm",
+        "qubits": 49,
+        "gates": 1296,
+        "category": "Active candidates"
+      },
+      {
+        "id": "operator_loschmidt_echo_70x1872",
+        "path": "70Q_OLE_circuit_L_6_b_0.25_delta0.15.qasm",
+        "qubits": 70,
+        "gates": 1872,
+        "category": "Active candidates"
+      },
+      {
+        "id": "operator_loschmidt_echo_56x1488",
+        "path": "operator_loschmidt_echo_56x1488_alpha_0.15.qasm",
+        "qubits": 56,
+        "gates": 1488,
+        "category": "Active candidates"
+      }
+    ]
+  },
+  "su2_hadron_dynamics_lsh": {
+    "instances": [
+      {
+        "id": "su2_hadron_dynamics_lsh_x_100_SCV",
+        "path": "x_100_SCV.qasm",
+        "qubits": 120,
+        "gates": 60000,
+        "category": "Active candidates"
+      },
+      {
+        "id": "su2_hadron_dynamics_lsh_x_100_meson",
+        "path": "x_100_meson.qasm",
+        "qubits": 120,
+        "gates": 60000,
+        "category": "Active candidates"
+      }
+    ]
+  },
+  "floquet_mixed_field_ising": {
+    "instances": [
+      {
+        "id": "floquet_mixed_field_ising_mag_51qx16c",
+        "path": "floquet_mixed_field_ising_mag_51qx16c.qasm",
+        "qubits": 51,
+        "gates": 896,
+        "floquet_cycles": 16,
+        "measured_observable": "magnetization",
+        "category": "Active candidates"
+      },
+      {
+        "id": "floquet_mixed_field_ising_zzd2_51qx16c",
+        "path": "floquet_mixed_field_ising_zzd2_51qx16c.qasm",
+        "qubits": 51,
+        "gates": 896,
+        "floquet_cycles": 16,
+        "measured_observable": "ZZ_{d=2}",
+        "category": "Active candidates"
+      },
+      {
+        "id": "floquet_mixed_field_ising_zzd3_51qx16c",
+        "path": "floquet_mixed_field_ising_zzd3_51qx16c.qasm",
+        "qubits": 51,
+        "gates": 896,
+        "floquet_cycles": 16,
+        "measured_observable": "ZZ_{d=3}",
+        "category": "Active candidates"
+      },
+      {
+        "id": "floquet_mixed_field_ising_mag_51qx30c",
+        "path": "floquet_mixed_field_ising_mag_51qx30c.qasm",
+        "qubits": 51,
+        "gates": 1680,
+        "floquet_cycles": 30,
+        "measured_observable": "magnetization",
+        "category": "Active candidates"
+      },
+      {
+        "id": "floquet_mixed_field_ising_mag_74qx27c",
+        "path": "floquet_mixed_field_ising_mag_74qx27c.qasm",
+        "qubits": 74,
+        "gates": 2214,
+        "floquet_cycles": 27,
+        "measured_observable": "magnetization",
+        "category": "Active candidates"
+      }
+    ]
+  }
+}

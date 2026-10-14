@@ -1,0 +1,444 @@
+09-26 22:12:06 supervisor: launching runner (MemAvailable 34298828 kB)
+09-26 22:12:06 runner start, threads 8
+09-26 22:12:06 START C3_LOG_SB {"kind": "fwd16", "variant": "LOG_SB"} pred=None
+09-26 22:12:14 DONE C3_LOG_SB {'survival': None, 'max_abs_amp_err': 3.5154248549844264e-16, 'wall_s': 7.442721128463745, 'peak_rss_mb': 47.2578125}
+09-26 22:12:14 START C3_LOG_NSB {"kind": "fwd16", "variant": "LOG_NSB"} pred=None
+09-26 22:12:14 DONE C3_LOG_NSB {'survival': None, 'max_abs_amp_err': 7.804004091845276e-17, 'wall_s': 0.4269404411315918, 'peak_rss_mb': 36.0546875}
+09-26 22:12:14 START C3_RSN_SB {"kind": "fwd16", "variant": "RSN_SB"} pred=None
+09-26 22:12:22 DONE C3_RSN_SB {'survival': None, 'max_abs_amp_err': 2.2016513132307724e-16, 'wall_s': 7.0897228717803955, 'peak_rss_mb': 45.9921875}
+09-26 22:12:22 START C3_RSN_NSB {"kind": "fwd16", "variant": "RSN_NSB"} pred=None
+09-26 22:12:22 DONE C3_RSN_NSB {'survival': None, 'max_abs_amp_err': 3.74575767654754e-17, 'wall_s': 0.19380640983581543, 'peak_rss_mb': 36.70703125}
+09-26 22:12:22 START C3_CRA_SB {"kind": "fwd16", "variant": "CRA_SB"} pred=None
+09-26 22:12:22 DONE C3_CRA_SB {'survival': None, 'max_abs_amp_err': 3.005316518260989e-17, 'wall_s': 0.16441726684570312, 'peak_rss_mb': 35.21484375}
+09-26 22:12:22 START C3_CRA_NSB {"kind": "fwd16", "variant": "CRA_NSB"} pred=None
+09-26 22:12:22 DONE C3_CRA_NSB {'survival': None, 'max_abs_amp_err': 4.504184999908325e-17, 'wall_s': 0.18774628639221191, 'peak_rss_mb': 35.5703125}
+09-26 22:12:22 START C3_CSN_SB {"kind": "fwd16", "variant": "CSN_SB"} pred=None
+09-26 22:12:23 DONE C3_CSN_SB {'survival': None, 'max_abs_amp_err': 7.127423367889407e-17, 'wall_s': 0.16870594024658203, 'peak_rss_mb': 34.91796875}
+09-26 22:12:23 START C3_CSN_NSB {"kind": "fwd16", "variant": "CSN_NSB"} pred=None
+09-26 22:12:23 DONE C3_CSN_NSB {'survival': None, 'max_abs_amp_err': 3.9693054660659823e-17, 'wall_s': 0.19392132759094238, 'peak_rss_mb': 36.85546875}
+09-26 22:12:23 START C3_RCM_SB {"kind": "fwd16", "variant": "RCM_SB"} pred=None
+09-26 22:12:23 DONE C3_RCM_SB {'survival': None, 'max_abs_amp_err': 8.322718925585222e-17, 'wall_s': 0.3056302070617676, 'peak_rss_mb': 55.76953125}
+09-26 22:12:23 START C3_RCM_NSB {"kind": "fwd16", "variant": "RCM_NSB"} pred=None
+09-26 22:12:24 DONE C3_RCM_NSB {'survival': None, 'max_abs_amp_err': 9.969850626492421e-17, 'wall_s': 0.30449676513671875, 'peak_rss_mb': 54.69140625}
+09-26 22:12:24 START C3_TWR_SB {"kind": "fwd16", "variant": "TWR_SB"} pred=None
+09-26 22:12:24 DONE C3_TWR_SB {'survival': None, 'max_abs_amp_err': 6.115515372048533e-17, 'wall_s': 0.2072734832763672, 'peak_rss_mb': 40.6875}
+09-26 22:12:24 START C3_TWR_NSB {"kind": "fwd16", "variant": "TWR_NSB"} pred=None
+09-26 22:12:24 DONE C3_TWR_NSB {'survival': None, 'max_abs_amp_err': 4.626380998120692e-17, 'wall_s': 0.1841747760772705, 'peak_rss_mb': 36.203125}
+09-26 22:12:24 START M_g1raw_LOG_NSB {"kind": "fwd16", "variant": "LOG_NSB", "mutate": "g1raw"} pred=None
+09-26 22:12:24 DONE M_g1raw_LOG_NSB {'survival': None, 'max_abs_amp_err': 0.006107478560022383, 'wall_s': 0.18572759628295898, 'peak_rss_mb': 36.87890625}
+09-26 22:12:24 START M_book_LOG_NSB {"kind": "fwd16", "variant": "LOG_NSB", "mutate": "book"} pred=None
+09-26 22:12:26 DONE M_book_LOG_NSB {'survival': None, 'max_abs_amp_err': 0.003104852375545415, 'wall_s': 1.4620800018310547, 'peak_rss_mb': 44.84375}
+09-26 22:12:26 START M_g1raw_RSN_SB {"kind": "fwd16", "variant": "RSN_SB", "mutate": "g1raw"} pred=None
+09-26 22:12:30 DONE M_g1raw_RSN_SB {'survival': None, 'max_abs_amp_err': 0.007874823758955863, 'wall_s': 4.11435604095459, 'peak_rss_mb': 47.265625}
+09-26 22:12:30 START M_g1raw_RSN_NSB {"kind": "fwd16", "variant": "RSN_NSB", "mutate": "g1raw"} pred=None
+09-26 22:12:30 DONE M_g1raw_RSN_NSB {'survival': None, 'max_abs_amp_err': 0.005143010051946769, 'wall_s': 0.20351552963256836, 'peak_rss_mb': 36.984375}
+09-26 22:12:30 START M_book_RSN_NSB {"kind": "fwd16", "variant": "RSN_NSB", "mutate": "book"} pred=None
+09-26 22:12:34 DONE M_book_RSN_NSB {'survival': None, 'max_abs_amp_err': 0.003968592236739249, 'wall_s': 3.2408485412597656, 'peak_rss_mb': 46.31640625}
+09-26 22:12:34 START M_g1raw_CRA_SB {"kind": "fwd16", "variant": "CRA_SB", "mutate": "g1raw"} pred=None
+09-26 22:12:34 DONE M_g1raw_CRA_SB {'survival': None, 'max_abs_amp_err': 0.003959529679491009, 'wall_s': 0.1945512294769287, 'peak_rss_mb': 35.03125}
+09-26 22:12:34 START M_g1raw_CRA_NSB {"kind": "fwd16", "variant": "CRA_NSB", "mutate": "g1raw"} pred=None
+09-26 22:12:34 DONE M_g1raw_CRA_NSB {'survival': None, 'max_abs_amp_err': 0.0037158297956308385, 'wall_s': 0.2114882469177246, 'peak_rss_mb': 35.36328125}
+09-26 22:12:34 START M_book_CRA_NSB {"kind": "fwd16", "variant": "CRA_NSB", "mutate": "book"} pred=None
+09-26 22:12:35 DONE M_book_CRA_NSB {'survival': None, 'max_abs_amp_err': 0.005019876251411662, 'wall_s': 0.2171649932861328, 'peak_rss_mb': 34.39453125}
+09-26 22:12:35 START M_g1raw_CSN_SB {"kind": "fwd16", "variant": "CSN_SB", "mutate": "g1raw"} pred=None
+09-26 22:12:35 DONE M_g1raw_CSN_SB {'survival': None, 'max_abs_amp_err': 0.005521913748786537, 'wall_s': 0.15463542938232422, 'peak_rss_mb': 34.7734375}
+09-26 22:12:35 START M_g1raw_CSN_NSB {"kind": "fwd16", "variant": "CSN_NSB", "mutate": "g1raw"} pred=None
+09-26 22:12:35 DONE M_g1raw_CSN_NSB {'survival': None, 'max_abs_amp_err': 0.004821975239331753, 'wall_s': 0.20010995864868164, 'peak_rss_mb': 36.859375}
+09-26 22:12:35 START M_book_CSN_NSB {"kind": "fwd16", "variant": "CSN_NSB", "mutate": "book"} pred=None
+09-26 22:12:35 DONE M_book_CSN_NSB {'survival': None, 'max_abs_amp_err': 0.0040839182399668526, 'wall_s': 0.17168569564819336, 'peak_rss_mb': 34.30078125}
+09-26 22:12:35 START M_g1raw_RCM_SB {"kind": "fwd16", "variant": "RCM_SB", "mutate": "g1raw"} pred=None
+09-26 22:12:36 DONE M_g1raw_RCM_SB {'survival': None, 'max_abs_amp_err': 0.009140412817557295, 'wall_s': 0.316514253616333, 'peak_rss_mb': 55.12890625}
+09-26 22:12:36 START M_g1raw_RCM_NSB {"kind": "fwd16", "variant": "RCM_NSB", "mutate": "g1raw"} pred=None
+09-26 22:12:36 DONE M_g1raw_RCM_NSB {'survival': None, 'max_abs_amp_err': 0.005006901993079689, 'wall_s': 0.32363462448120117, 'peak_rss_mb': 55.3515625}
+09-26 22:12:36 START M_book_RCM_NSB {"kind": "fwd16", "variant": "RCM_NSB", "mutate": "book"} pred=None
+09-26 22:12:37 DONE M_book_RCM_NSB {'survival': None, 'max_abs_amp_err': 0.0020467013345385745, 'wall_s': 0.3504669666290283, 'peak_rss_mb': 57.4140625}
+09-26 22:12:37 START M_g1raw_TWR_SB {"kind": "fwd16", "variant": "TWR_SB", "mutate": "g1raw"} pred=None
+09-26 22:12:37 DONE M_g1raw_TWR_SB {'survival': None, 'max_abs_amp_err': 0.004726613760595789, 'wall_s': 0.2685384750366211, 'peak_rss_mb': 40.0625}
+09-26 22:12:37 START M_g1raw_TWR_NSB {"kind": "fwd16", "variant": "TWR_NSB", "mutate": "g1raw"} pred=None
+09-26 22:12:37 DONE M_g1raw_TWR_NSB {'survival': None, 'max_abs_amp_err': 0.0055289826725297584, 'wall_s': 0.20409631729125977, 'peak_rss_mb': 36.1875}
+09-26 22:12:37 START M_book_TWR_NSB {"kind": "fwd16", "variant": "TWR_NSB", "mutate": "book"} pred=None
+09-26 22:12:38 DONE M_book_TWR_NSB {'survival': None, 'max_abs_amp_err': 0.003293071591996603, 'wall_s': 0.2759096622467041, 'peak_rss_mb': 43.13671875}
+09-26 22:12:38 START C1_i0 {"kind": "mirror", "variant": "LOG_SB", "inst": 0, "d": 36, "chi": 128} pred=None
+09-26 22:15:16 DONE C1_i0 {'survival': 1.2056539296058813e-07, 'max_abs_amp_err': None, 'wall_s': 158.76398539543152, 'peak_rss_mb': 89.68359375}
+09-26 22:15:16 START C2_i0 {"kind": "mirror", "variant": "LOG_NSB", "inst": 0, "d": 36, "chi": 128} pred=None
+09-26 22:20:05 DONE C2_i0 {'survival': 3.509756290187863e-08, 'max_abs_amp_err': None, 'wall_s': 288.0220808982849, 'peak_rss_mb': 73.0703125}
+09-26 22:20:05 START C1_i1 {"kind": "mirror", "variant": "LOG_SB", "inst": 1, "d": 36, "chi": 128} pred=None
+09-26 22:23:09 DONE C1_i1 {'survival': 2.403956770066524e-08, 'max_abs_amp_err': None, 'wall_s': 183.98535442352295, 'peak_rss_mb': 89.6484375}
+09-26 22:23:09 START C2_i1 {"kind": "mirror", "variant": "LOG_NSB", "inst": 1, "d": 36, "chi": 128} pred=None
+09-26 22:28:42 DONE C2_i1 {'survival': 1.992883138414603e-09, 'max_abs_amp_err': None, 'wall_s': 333.20231342315674, 'peak_rss_mb': 72.58203125}
+09-26 22:28:42 START C1_i2 {"kind": "mirror", "variant": "LOG_SB", "inst": 2, "d": 36, "chi": 128} pred=None
+09-26 22:33:13 DONE C1_i2 {'survival': 5.8572436777755304e-08, 'max_abs_amp_err': None, 'wall_s': 270.33689880371094, 'peak_rss_mb': 88.984375}
+09-26 22:33:13 START C2_i2 {"kind": "mirror", "variant": "LOG_NSB", "inst": 2, "d": 36, "chi": 128} pred=None
+09-26 22:37:01 WAIT mem during C2_i2 MEMLOW MemAvailable < 12 GiB mid-cell
+09-26 22:39:01 supervisor: WAIT MemAvailable 19789456 kB < 20 GiB
+09-26 22:41:01 supervisor: WAIT MemAvailable 19394184 kB < 20 GiB
+09-26 22:43:01 supervisor: WAIT MemAvailable 16039204 kB < 20 GiB
+09-26 22:45:01 supervisor: launching runner (MemAvailable 32752360 kB)
+09-26 22:45:01 runner start, threads 8
+09-26 22:45:01 START C2_i2 {"kind": "mirror", "variant": "LOG_NSB", "inst": 2, "d": 36, "chi": 128} pred=None
+09-26 22:49:54 DONE C2_i2 {'survival': 3.661423203712726e-09, 'max_abs_amp_err': None, 'wall_s': 292.45707654953003, 'peak_rss_mb': 70.7734375}
+09-26 22:49:54 START P_LOG_SB_d16_i0 {"kind": "mirror", "variant": "LOG_SB", "inst": 0, "d": 16, "chi": 64} pred=None
+09-26 22:50:11 DONE P_LOG_SB_d16_i0 {'survival': 0.0010693329897491109, 'max_abs_amp_err': None, 'wall_s': 16.66690731048584, 'peak_rss_mb': 45.703125}
+09-26 22:50:11 START P_LOG_SB_d20_i0 {"kind": "mirror", "variant": "LOG_SB", "inst": 0, "d": 20, "chi": 64} pred=None
+09-26 22:50:37 DONE P_LOG_SB_d20_i0 {'survival': 0.0007914766839996206, 'max_abs_amp_err': None, 'wall_s': 26.039452075958252, 'peak_rss_mb': 45.9140625}
+09-26 22:50:37 START P_LOG_SB_d16_i1 {"kind": "mirror", "variant": "LOG_SB", "inst": 1, "d": 16, "chi": 64} pred=None
+09-26 22:50:51 DONE P_LOG_SB_d16_i1 {'survival': 0.0004261600694121393, 'max_abs_amp_err': None, 'wall_s': 13.655433654785156, 'peak_rss_mb': 46.1953125}
+09-26 22:50:51 START P_LOG_SB_d20_i1 {"kind": "mirror", "variant": "LOG_SB", "inst": 1, "d": 20, "chi": 64} pred=None
+09-26 22:51:06 DONE P_LOG_SB_d20_i1 {'survival': 0.00032174048723608925, 'max_abs_amp_err': None, 'wall_s': 14.794745445251465, 'peak_rss_mb': 45.8515625}
+09-26 22:51:06 START P_LOG_SB_d16_i2 {"kind": "mirror", "variant": "LOG_SB", "inst": 2, "d": 16, "chi": 64} pred=None
+09-26 22:51:27 DONE P_LOG_SB_d16_i2 {'survival': 0.0013563776878036025, 'max_abs_amp_err': None, 'wall_s': 21.493077516555786, 'peak_rss_mb': 46.8515625}
+09-26 22:51:27 START P_LOG_SB_d20_i2 {"kind": "mirror", "variant": "LOG_SB", "inst": 2, "d": 20, "chi": 64} pred=None
+09-26 22:51:45 DONE P_LOG_SB_d20_i2 {'survival': 0.0009224940592843028, 'max_abs_amp_err': None, 'wall_s': 17.447447538375854, 'peak_rss_mb': 45.5546875}
+09-26 22:51:45 START P_LOG_NSB_d16_i0 {"kind": "mirror", "variant": "LOG_NSB", "inst": 0, "d": 16, "chi": 64} pred=None
+09-26 22:52:04 DONE P_LOG_NSB_d16_i0 {'survival': 0.01001849802128526, 'max_abs_amp_err': None, 'wall_s': 19.082789421081543, 'peak_rss_mb': 41.8984375}
+09-26 22:52:04 START P_LOG_NSB_d20_i0 {"kind": "mirror", "variant": "LOG_NSB", "inst": 0, "d": 20, "chi": 64} pred=None
+09-26 22:52:17 DONE P_LOG_NSB_d20_i0 {'survival': 0.0013815459406459518, 'max_abs_amp_err': None, 'wall_s': 12.631532907485962, 'peak_rss_mb': 42.296875}
+09-26 22:52:17 START P_LOG_NSB_d16_i1 {"kind": "mirror", "variant": "LOG_NSB", "inst": 1, "d": 16, "chi": 64} pred=None
+09-26 22:52:28 DONE P_LOG_NSB_d16_i1 {'survival': 0.006688572196544464, 'max_abs_amp_err': None, 'wall_s': 11.51068377494812, 'peak_rss_mb': 41.953125}
+09-26 22:52:28 START P_LOG_NSB_d20_i1 {"kind": "mirror", "variant": "LOG_NSB", "inst": 1, "d": 20, "chi": 64} pred=None
+09-26 22:52:41 DONE P_LOG_NSB_d20_i1 {'survival': 0.0005606953690368493, 'max_abs_amp_err': None, 'wall_s': 12.522503137588501, 'peak_rss_mb': 42.59765625}
+09-26 22:52:41 START P_LOG_NSB_d16_i2 {"kind": "mirror", "variant": "LOG_NSB", "inst": 2, "d": 16, "chi": 64} pred=None
+09-26 22:52:51 DONE P_LOG_NSB_d16_i2 {'survival': 0.01982006979034122, 'max_abs_amp_err': None, 'wall_s': 10.199681758880615, 'peak_rss_mb': 41.08203125}
+09-26 22:52:51 START P_LOG_NSB_d20_i2 {"kind": "mirror", "variant": "LOG_NSB", "inst": 2, "d": 20, "chi": 64} pred=None
+09-26 22:53:03 DONE P_LOG_NSB_d20_i2 {'survival': 0.0022718808836808164, 'max_abs_amp_err': None, 'wall_s': 12.01328420639038, 'peak_rss_mb': 42.4609375}
+09-26 22:53:03 START P_RSN_SB_d16_i0 {"kind": "mirror", "variant": "RSN_SB", "inst": 0, "d": 16, "chi": 64} pred=None
+09-26 22:53:14 DONE P_RSN_SB_d16_i0 {'survival': 0.0013194801269070073, 'max_abs_amp_err': None, 'wall_s': 10.383299350738525, 'peak_rss_mb': 46.46484375}
+09-26 22:53:14 START P_RSN_SB_d20_i0 {"kind": "mirror", "variant": "RSN_SB", "inst": 0, "d": 20, "chi": 64} pred=None
+09-26 22:53:25 DONE P_RSN_SB_d20_i0 {'survival': 0.000918692265540135, 'max_abs_amp_err': None, 'wall_s': 10.855140686035156, 'peak_rss_mb': 46.30078125}
+09-26 22:53:25 START P_RSN_SB_d16_i1 {"kind": "mirror", "variant": "RSN_SB", "inst": 1, "d": 16, "chi": 64} pred=None
+09-26 22:53:36 DONE P_RSN_SB_d16_i1 {'survival': 0.0006042436625728121, 'max_abs_amp_err': None, 'wall_s': 11.46467900276184, 'peak_rss_mb': 47.08203125}
+09-26 22:53:36 START P_RSN_SB_d20_i1 {"kind": "mirror", "variant": "RSN_SB", "inst": 1, "d": 20, "chi": 64} pred=None
+09-26 22:53:49 DONE P_RSN_SB_d20_i1 {'survival': 0.00044568793728778206, 'max_abs_amp_err': None, 'wall_s': 12.995291471481323, 'peak_rss_mb': 46.53515625}
+09-26 22:53:49 START P_RSN_SB_d16_i2 {"kind": "mirror", "variant": "RSN_SB", "inst": 2, "d": 16, "chi": 64} pred=None
+09-26 22:54:02 DONE P_RSN_SB_d16_i2 {'survival': 0.0010391054408137037, 'max_abs_amp_err': None, 'wall_s': 13.167816400527954, 'peak_rss_mb': 46.53515625}
+09-26 22:54:02 START P_RSN_SB_d20_i2 {"kind": "mirror", "variant": "RSN_SB", "inst": 2, "d": 20, "chi": 64} pred=None
+09-26 22:54:19 DONE P_RSN_SB_d20_i2 {'survival': 0.0006662303388740998, 'max_abs_amp_err': None, 'wall_s': 15.97313928604126, 'peak_rss_mb': 46.24609375}
+09-26 22:54:19 START P_RSN_NSB_d16_i0 {"kind": "mirror", "variant": "RSN_NSB", "inst": 0, "d": 16, "chi": 64} pred=None
+09-26 22:54:33 DONE P_RSN_NSB_d16_i0 {'survival': 0.009977013069725194, 'max_abs_amp_err': None, 'wall_s': 14.49980092048645, 'peak_rss_mb': 41.6484375}
+09-26 22:54:33 START P_RSN_NSB_d20_i0 {"kind": "mirror", "variant": "RSN_NSB", "inst": 0, "d": 20, "chi": 64} pred=None
+09-26 22:54:51 DONE P_RSN_NSB_d20_i0 {'survival': 0.001373601721220396, 'max_abs_amp_err': None, 'wall_s': 17.91622805595398, 'peak_rss_mb': 42.35546875}
+09-26 22:54:51 WAIT mem before P_RSN_NSB_d16_i1
+09-26 22:56:51 supervisor: WAIT MemAvailable 15323140 kB < 20 GiB
+09-26 22:58:51 supervisor: WAIT MemAvailable 16131028 kB < 20 GiB
+09-26 23:00:51 supervisor: WAIT MemAvailable 13739708 kB < 20 GiB
+09-26 23:02:51 supervisor: WAIT MemAvailable 14409568 kB < 20 GiB
+09-26 23:04:51 supervisor: WAIT MemAvailable 15989836 kB < 20 GiB
+09-26 23:06:51 supervisor: WAIT MemAvailable 19195276 kB < 20 GiB
+09-26 23:08:51 supervisor: WAIT MemAvailable 17844996 kB < 20 GiB
+09-26 23:10:51 supervisor: WAIT MemAvailable 15425136 kB < 20 GiB
+09-26 23:12:51 supervisor: WAIT MemAvailable 15340968 kB < 20 GiB
+09-26 23:14:51 supervisor: WAIT MemAvailable 14894996 kB < 20 GiB
+09-26 23:16:51 supervisor: WAIT MemAvailable 18356292 kB < 20 GiB
+09-26 23:18:51 supervisor: launching runner (MemAvailable 21319304 kB)
+09-26 23:18:51 runner start, threads 8
+09-26 23:18:51 START P_RSN_NSB_d16_i1 {"kind": "mirror", "variant": "RSN_NSB", "inst": 1, "d": 16, "chi": 64} pred=None
+09-26 23:19:06 DONE P_RSN_NSB_d16_i1 {'survival': 0.0066646412843078965, 'max_abs_amp_err': None, 'wall_s': 14.018272161483765, 'peak_rss_mb': 42.078125}
+09-26 23:19:06 START P_RSN_NSB_d20_i1 {"kind": "mirror", "variant": "RSN_NSB", "inst": 1, "d": 20, "chi": 64} pred=None
+09-26 23:19:21 DONE P_RSN_NSB_d20_i1 {'survival': 0.0005584686750933362, 'max_abs_amp_err': None, 'wall_s': 15.33087682723999, 'peak_rss_mb': 41.70703125}
+09-26 23:19:21 START P_RSN_NSB_d16_i2 {"kind": "mirror", "variant": "RSN_NSB", "inst": 2, "d": 16, "chi": 64} pred=None
+09-26 23:19:35 DONE P_RSN_NSB_d16_i2 {'survival': 0.019814741881466997, 'max_abs_amp_err': None, 'wall_s': 13.782002925872803, 'peak_rss_mb': 41.8984375}
+09-26 23:19:35 START P_RSN_NSB_d20_i2 {"kind": "mirror", "variant": "RSN_NSB", "inst": 2, "d": 20, "chi": 64} pred=None
+09-26 23:19:51 DONE P_RSN_NSB_d20_i2 {'survival': 0.002277932292914867, 'max_abs_amp_err': None, 'wall_s': 15.781566381454468, 'peak_rss_mb': 42.1796875}
+09-26 23:19:51 START P_CRA_SB_d16_i0 {"kind": "mirror", "variant": "CRA_SB", "inst": 0, "d": 16, "chi": 64} pred=None
+09-26 23:20:06 DONE P_CRA_SB_d16_i0 {'survival': 0.02164869362952795, 'max_abs_amp_err': None, 'wall_s': 14.992012739181519, 'peak_rss_mb': 45.765625}
+09-26 23:20:06 START P_CRA_SB_d20_i0 {"kind": "mirror", "variant": "CRA_SB", "inst": 0, "d": 20, "chi": 64} pred=None
+09-26 23:20:29 DONE P_CRA_SB_d20_i0 {'survival': 8.049621740075591e-05, 'max_abs_amp_err': None, 'wall_s': 23.311182498931885, 'peak_rss_mb': 46.5625}
+09-26 23:20:29 START P_CRA_SB_d16_i1 {"kind": "mirror", "variant": "CRA_SB", "inst": 1, "d": 16, "chi": 64} pred=None
+09-26 23:20:42 DONE P_CRA_SB_d16_i1 {'survival': 0.023713230021962985, 'max_abs_amp_err': None, 'wall_s': 13.111231565475464, 'peak_rss_mb': 45.6484375}
+09-26 23:20:42 START P_CRA_SB_d20_i1 {"kind": "mirror", "variant": "CRA_SB", "inst": 1, "d": 20, "chi": 64} pred=None
+09-26 23:21:04 DONE P_CRA_SB_d20_i1 {'survival': 4.5347572118246764e-05, 'max_abs_amp_err': None, 'wall_s': 21.541094064712524, 'peak_rss_mb': 46.265625}
+09-26 23:21:04 START P_CRA_SB_d16_i2 {"kind": "mirror", "variant": "CRA_SB", "inst": 2, "d": 16, "chi": 64} pred=None
+09-26 23:21:20 DONE P_CRA_SB_d16_i2 {'survival': 0.016620786194984305, 'max_abs_amp_err': None, 'wall_s': 15.682253360748291, 'peak_rss_mb': 45.71484375}
+09-26 23:21:20 START P_CRA_SB_d20_i2 {"kind": "mirror", "variant": "CRA_SB", "inst": 2, "d": 20, "chi": 64} pred=None
+09-26 23:21:42 DONE P_CRA_SB_d20_i2 {'survival': 3.5282984781727687e-05, 'max_abs_amp_err': None, 'wall_s': 22.266386032104492, 'peak_rss_mb': 45.1484375}
+09-26 23:21:42 START P_CRA_NSB_d16_i0 {"kind": "mirror", "variant": "CRA_NSB", "inst": 0, "d": 16, "chi": 64} pred=None
+09-26 23:21:55 DONE P_CRA_NSB_d16_i0 {'survival': 0.07080801800707598, 'max_abs_amp_err': None, 'wall_s': 12.3585524559021, 'peak_rss_mb': 42.38671875}
+09-26 23:21:55 START P_CRA_NSB_d20_i0 {"kind": "mirror", "variant": "CRA_NSB", "inst": 0, "d": 20, "chi": 64} pred=None
+09-26 23:22:24 DONE P_CRA_NSB_d20_i0 {'survival': 0.0023949241894577274, 'max_abs_amp_err': None, 'wall_s': 29.697919607162476, 'peak_rss_mb': 42.421875}
+09-26 23:22:24 START P_CRA_NSB_d16_i1 {"kind": "mirror", "variant": "CRA_NSB", "inst": 1, "d": 16, "chi": 64} pred=None
+09-26 23:22:48 DONE P_CRA_NSB_d16_i1 {'survival': 0.04700209442818241, 'max_abs_amp_err': None, 'wall_s': 23.629796981811523, 'peak_rss_mb': 40.75}
+09-26 23:22:48 START P_CRA_NSB_d20_i1 {"kind": "mirror", "variant": "CRA_NSB", "inst": 1, "d": 20, "chi": 64} pred=None
+09-26 23:23:18 DONE P_CRA_NSB_d20_i1 {'survival': 0.0007821464554581183, 'max_abs_amp_err': None, 'wall_s': 29.288769245147705, 'peak_rss_mb': 41.9453125}
+09-26 23:23:18 START P_CRA_NSB_d16_i2 {"kind": "mirror", "variant": "CRA_NSB", "inst": 2, "d": 16, "chi": 64} pred=None
+09-26 23:23:36 DONE P_CRA_NSB_d16_i2 {'survival': 0.04314435231265525, 'max_abs_amp_err': None, 'wall_s': 18.604493141174316, 'peak_rss_mb': 41.7734375}
+09-26 23:23:36 START P_CRA_NSB_d20_i2 {"kind": "mirror", "variant": "CRA_NSB", "inst": 2, "d": 20, "chi": 64} pred=None
+09-26 23:24:07 DONE P_CRA_NSB_d20_i2 {'survival': 0.0006828991668797289, 'max_abs_amp_err': None, 'wall_s': 31.005987405776978, 'peak_rss_mb': 40.94921875}
+09-26 23:24:07 START P_CSN_SB_d16_i0 {"kind": "mirror", "variant": "CSN_SB", "inst": 0, "d": 16, "chi": 64} pred=None
+09-26 23:24:26 DONE P_CSN_SB_d16_i0 {'survival': 0.01949299463787492, 'max_abs_amp_err': None, 'wall_s': 18.349427938461304, 'peak_rss_mb': 46.265625}
+09-26 23:24:26 START P_CSN_SB_d20_i0 {"kind": "mirror", "variant": "CSN_SB", "inst": 0, "d": 20, "chi": 64} pred=None
+09-26 23:25:02 DONE P_CSN_SB_d20_i0 {'survival': 0.00011027971485762412, 'max_abs_amp_err': None, 'wall_s': 35.480138540267944, 'peak_rss_mb': 46.859375}
+09-26 23:25:02 START P_CSN_SB_d16_i1 {"kind": "mirror", "variant": "CSN_SB", "inst": 1, "d": 16, "chi": 64} pred=None
+09-26 23:25:23 DONE P_CSN_SB_d16_i1 {'survival': 0.016886344103282575, 'max_abs_amp_err': None, 'wall_s': 20.884480237960815, 'peak_rss_mb': 46.6328125}
+09-26 23:25:23 START P_CSN_SB_d20_i1 {"kind": "mirror", "variant": "CSN_SB", "inst": 1, "d": 20, "chi": 64} pred=None
+09-26 23:25:57 DONE P_CSN_SB_d20_i1 {'survival': 7.164041907025547e-05, 'max_abs_amp_err': None, 'wall_s': 34.67797827720642, 'peak_rss_mb': 46.734375}
+09-26 23:25:57 START P_CSN_SB_d16_i2 {"kind": "mirror", "variant": "CSN_SB", "inst": 2, "d": 16, "chi": 64} pred=None
+09-26 23:26:17 DONE P_CSN_SB_d16_i2 {'survival': 0.017734388984366203, 'max_abs_amp_err': None, 'wall_s': 19.7016384601593, 'peak_rss_mb': 45.87890625}
+09-26 23:26:17 START P_CSN_SB_d20_i2 {"kind": "mirror", "variant": "CSN_SB", "inst": 2, "d": 20, "chi": 64} pred=None
+09-26 23:26:55 DONE P_CSN_SB_d20_i2 {'survival': 9.901368301041692e-05, 'max_abs_amp_err': None, 'wall_s': 37.818981647491455, 'peak_rss_mb': 47.37109375}
+09-26 23:26:55 START P_CSN_NSB_d16_i0 {"kind": "mirror", "variant": "CSN_NSB", "inst": 0, "d": 16, "chi": 64} pred=None
+09-26 23:27:11 DONE P_CSN_NSB_d16_i0 {'survival': 0.0708080180070757, 'max_abs_amp_err': None, 'wall_s': 15.41288709640503, 'peak_rss_mb': 41.98828125}
+09-26 23:27:11 START P_CSN_NSB_d20_i0 {"kind": "mirror", "variant": "CSN_NSB", "inst": 0, "d": 20, "chi": 64} pred=None
+09-26 23:27:45 DONE P_CSN_NSB_d20_i0 {'survival': 0.0023949241894578067, 'max_abs_amp_err': None, 'wall_s': 33.696406841278076, 'peak_rss_mb': 42.1796875}
+09-26 23:27:45 START P_CSN_NSB_d16_i1 {"kind": "mirror", "variant": "CSN_NSB", "inst": 1, "d": 16, "chi": 64} pred=None
+09-26 23:28:02 DONE P_CSN_NSB_d16_i1 {'survival': 0.0470020944281823, 'max_abs_amp_err': None, 'wall_s': 17.061267375946045, 'peak_rss_mb': 41.796875}
+09-26 23:28:02 START P_CSN_NSB_d20_i1 {"kind": "mirror", "variant": "CSN_NSB", "inst": 1, "d": 20, "chi": 64} pred=None
+09-26 23:28:33 DONE P_CSN_NSB_d20_i1 {'survival': 0.0007821464554582254, 'max_abs_amp_err': None, 'wall_s': 31.33394145965576, 'peak_rss_mb': 41.5703125}
+09-26 23:28:33 START P_CSN_NSB_d16_i2 {"kind": "mirror", "variant": "CSN_NSB", "inst": 2, "d": 16, "chi": 64} pred=None
+09-26 23:29:08 DONE P_CSN_NSB_d16_i2 {'survival': 0.043144352312654746, 'max_abs_amp_err': None, 'wall_s': 34.04552245140076, 'peak_rss_mb': 41.984375}
+09-26 23:29:08 START P_CSN_NSB_d20_i2 {"kind": "mirror", "variant": "CSN_NSB", "inst": 2, "d": 20, "chi": 64} pred=None
+09-26 23:29:46 DONE P_CSN_NSB_d20_i2 {'survival': 0.0006828991668797455, 'max_abs_amp_err': None, 'wall_s': 38.33106565475464, 'peak_rss_mb': 41.88671875}
+09-26 23:29:46 START P_RCM_SB_d16_i0 {"kind": "mirror", "variant": "RCM_SB", "inst": 0, "d": 16, "chi": 64} pred=None
+09-26 23:30:05 DONE P_RCM_SB_d16_i0 {'survival': 0.015590087383761404, 'max_abs_amp_err': None, 'wall_s': 19.069085836410522, 'peak_rss_mb': 66.31640625}
+09-26 23:30:05 START P_RCM_SB_d20_i0 {"kind": "mirror", "variant": "RCM_SB", "inst": 0, "d": 20, "chi": 64} pred=None
+09-26 23:30:23 DONE P_RCM_SB_d20_i0 {'survival': 0.0012369208832641884, 'max_abs_amp_err': None, 'wall_s': 17.43729257583618, 'peak_rss_mb': 66.51171875}
+09-26 23:30:23 START P_RCM_SB_d16_i1 {"kind": "mirror", "variant": "RCM_SB", "inst": 1, "d": 16, "chi": 64} pred=None
+09-26 23:30:35 DONE P_RCM_SB_d16_i1 {'survival': 0.006965243040999338, 'max_abs_amp_err': None, 'wall_s': 12.331197738647461, 'peak_rss_mb': 66.5546875}
+09-26 23:30:35 START P_RCM_SB_d20_i1 {"kind": "mirror", "variant": "RCM_SB", "inst": 1, "d": 20, "chi": 64} pred=None
+09-26 23:30:54 DONE P_RCM_SB_d20_i1 {'survival': 0.0007131429765992629, 'max_abs_amp_err': None, 'wall_s': 18.754082202911377, 'peak_rss_mb': 66.9375}
+09-26 23:30:54 START P_RCM_SB_d16_i2 {"kind": "mirror", "variant": "RCM_SB", "inst": 2, "d": 16, "chi": 64} pred=None
+09-26 23:31:21 DONE P_RCM_SB_d16_i2 {'survival': 0.017500667906636125, 'max_abs_amp_err': None, 'wall_s': 26.76626682281494, 'peak_rss_mb': 67.62890625}
+09-26 23:31:21 START P_RCM_SB_d20_i2 {"kind": "mirror", "variant": "RCM_SB", "inst": 2, "d": 20, "chi": 64} pred=None
+09-26 23:32:07 DONE P_RCM_SB_d20_i2 {'survival': 0.0013388162005595788, 'max_abs_amp_err': None, 'wall_s': 45.5502564907074, 'peak_rss_mb': 65.4453125}
+09-26 23:32:07 START P_RCM_NSB_d16_i0 {"kind": "mirror", "variant": "RCM_NSB", "inst": 0, "d": 16, "chi": 64} pred=None
+09-26 23:32:46 DONE P_RCM_NSB_d16_i0 {'survival': 0.0518791234584316, 'max_abs_amp_err': None, 'wall_s': 39.11335730552673, 'peak_rss_mb': 62.8828125}
+09-26 23:32:46 START P_RCM_NSB_d20_i0 {"kind": "mirror", "variant": "RCM_NSB", "inst": 0, "d": 20, "chi": 64} pred=None
+09-26 23:33:19 DONE P_RCM_NSB_d20_i0 {'survival': 0.003130031370361621, 'max_abs_amp_err': None, 'wall_s': 32.93466353416443, 'peak_rss_mb': 62.55859375}
+09-26 23:33:19 START P_RCM_NSB_d16_i1 {"kind": "mirror", "variant": "RCM_NSB", "inst": 1, "d": 16, "chi": 64} pred=None
+09-26 23:33:56 DONE P_RCM_NSB_d16_i1 {'survival': 0.017073418372689105, 'max_abs_amp_err': None, 'wall_s': 37.039391040802, 'peak_rss_mb': 62.04296875}
+09-26 23:33:56 START P_RCM_NSB_d20_i1 {"kind": "mirror", "variant": "RCM_NSB", "inst": 1, "d": 20, "chi": 64} pred=None
+09-26 23:34:34 DONE P_RCM_NSB_d20_i1 {'survival': 0.0009743302640985329, 'max_abs_amp_err': None, 'wall_s': 36.83408331871033, 'peak_rss_mb': 62.00390625}
+09-26 23:34:34 START P_RCM_NSB_d16_i2 {"kind": "mirror", "variant": "RCM_NSB", "inst": 2, "d": 16, "chi": 64} pred=None
+09-26 23:35:53 DONE P_RCM_NSB_d16_i2 {'survival': 0.027999785574955458, 'max_abs_amp_err': None, 'wall_s': 78.70868039131165, 'peak_rss_mb': 61.70703125}
+09-26 23:35:53 START P_RCM_NSB_d20_i2 {"kind": "mirror", "variant": "RCM_NSB", "inst": 2, "d": 20, "chi": 64} pred=None
+09-26 23:38:21 DONE P_RCM_NSB_d20_i2 {'survival': 0.0017764049170290693, 'max_abs_amp_err': None, 'wall_s': 147.74985241889954, 'peak_rss_mb': 60.63671875}
+09-26 23:38:21 START P_TWR_SB_d16_i0 {"kind": "mirror", "variant": "TWR_SB", "inst": 0, "d": 16, "chi": 64} pred=None
+09-26 23:41:37 DONE P_TWR_SB_d16_i0 {'survival': 0.00312313632917487, 'max_abs_amp_err': None, 'wall_s': 196.15413904190063, 'peak_rss_mb': 43.21484375}
+09-26 23:41:37 START P_TWR_SB_d20_i0 {"kind": "mirror", "variant": "TWR_SB", "inst": 0, "d": 20, "chi": 64} pred=None
+09-26 23:43:51 DONE P_TWR_SB_d20_i0 {'survival': 0.0020232008180679543, 'max_abs_amp_err': None, 'wall_s': 132.78624057769775, 'peak_rss_mb': 44.77734375}
+09-26 23:43:51 START P_TWR_SB_d16_i1 {"kind": "mirror", "variant": "TWR_SB", "inst": 1, "d": 16, "chi": 64} pred=None
+09-26 23:44:54 DONE P_TWR_SB_d16_i1 {'survival': 0.001086703042125471, 'max_abs_amp_err': None, 'wall_s': 62.78392720222473, 'peak_rss_mb': 44.140625}
+09-26 23:44:54 START P_TWR_SB_d20_i1 {"kind": "mirror", "variant": "TWR_SB", "inst": 1, "d": 20, "chi": 64} pred=None
+09-26 23:45:49 DONE P_TWR_SB_d20_i1 {'survival': 0.00053439765618267, 'max_abs_amp_err': None, 'wall_s': 55.19370198249817, 'peak_rss_mb': 44.96484375}
+09-26 23:45:49 START P_TWR_SB_d16_i2 {"kind": "mirror", "variant": "TWR_SB", "inst": 2, "d": 16, "chi": 64} pred=None
+09-26 23:46:11 DONE P_TWR_SB_d16_i2 {'survival': 0.0055198700502016905, 'max_abs_amp_err': None, 'wall_s': 22.04844570159912, 'peak_rss_mb': 46.40625}
+09-26 23:46:11 START P_TWR_SB_d20_i2 {"kind": "mirror", "variant": "TWR_SB", "inst": 2, "d": 20, "chi": 64} pred=None
+09-26 23:46:26 DONE P_TWR_SB_d20_i2 {'survival': 0.0030755926717563387, 'max_abs_amp_err': None, 'wall_s': 14.539130687713623, 'peak_rss_mb': 46.79296875}
+09-26 23:46:26 START P_TWR_NSB_d16_i0 {"kind": "mirror", "variant": "TWR_NSB", "inst": 0, "d": 16, "chi": 64} pred=None
+09-26 23:46:40 DONE P_TWR_NSB_d16_i0 {'survival': 0.024404938075417198, 'max_abs_amp_err': None, 'wall_s': 14.100234270095825, 'peak_rss_mb': 41.88671875}
+09-26 23:46:40 START P_TWR_NSB_d20_i0 {"kind": "mirror", "variant": "TWR_NSB", "inst": 0, "d": 20, "chi": 64} pred=None
+09-26 23:46:54 DONE P_TWR_NSB_d20_i0 {'survival': 0.004259776849108132, 'max_abs_amp_err': None, 'wall_s': 13.599804401397705, 'peak_rss_mb': 42.09375}
+09-26 23:46:54 START P_TWR_NSB_d16_i1 {"kind": "mirror", "variant": "TWR_NSB", "inst": 1, "d": 16, "chi": 64} pred=None
+09-26 23:47:08 DONE P_TWR_NSB_d16_i1 {'survival': 0.006866038016793626, 'max_abs_amp_err': None, 'wall_s': 14.361154079437256, 'peak_rss_mb': 41.85546875}
+09-26 23:47:08 START P_TWR_NSB_d20_i1 {"kind": "mirror", "variant": "TWR_NSB", "inst": 1, "d": 20, "chi": 64} pred=None
+09-26 23:47:23 DONE P_TWR_NSB_d20_i1 {'survival': 0.0018281296861330691, 'max_abs_amp_err': None, 'wall_s': 15.13477611541748, 'peak_rss_mb': 42.09765625}
+09-26 23:47:23 START P_TWR_NSB_d16_i2 {"kind": "mirror", "variant": "TWR_NSB", "inst": 2, "d": 16, "chi": 64} pred=None
+09-26 23:47:37 DONE P_TWR_NSB_d16_i2 {'survival': 0.02559145415441943, 'max_abs_amp_err': None, 'wall_s': 13.313611030578613, 'peak_rss_mb': 41.609375}
+09-26 23:47:37 START P_TWR_NSB_d20_i2 {"kind": "mirror", "variant": "TWR_NSB", "inst": 2, "d": 20, "chi": 64} pred=None
+09-26 23:48:00 DONE P_TWR_NSB_d20_i2 {'survival': 0.00671142512789556, 'max_abs_amp_err': None, 'wall_s': 22.83720326423645, 'peak_rss_mb': 40.5234375}
+09-26 23:48:00 SELECTED ['LOG_SB', 'TWR_NSB', 'CSN_NSB', 'CRA_NSB', 'RCM_NSB', 'LOG_NSB']
+09-26 23:48:00 START H_LOG_SB_c128_d36_i0 {"kind": "mirror", "variant": "LOG_SB", "inst": 0, "d": 36, "chi": 128} pred=None
+09-26 23:51:19 DONE H_LOG_SB_c128_d36_i0 {'survival': 1.2056539296058813e-07, 'max_abs_amp_err': None, 'wall_s': 198.8036913871765, 'peak_rss_mb': 89.53515625}
+09-26 23:51:19 START H_LOG_SB_c128_d36_i1 {"kind": "mirror", "variant": "LOG_SB", "inst": 1, "d": 36, "chi": 128} pred=198.8036913871765
+09-26 23:54:34 DONE H_LOG_SB_c128_d36_i1 {'survival': 2.403956770066524e-08, 'max_abs_amp_err': None, 'wall_s': 195.16359615325928, 'peak_rss_mb': 89.01171875}
+09-26 23:54:34 START H_LOG_SB_c128_d36_i2 {"kind": "mirror", "variant": "LOG_SB", "inst": 2, "d": 36, "chi": 128} pred=196.9836437702179
+09-26 23:57:55 DONE H_LOG_SB_c128_d36_i2 {'survival': 5.8572436777755304e-08, 'max_abs_amp_err': None, 'wall_s': 200.8434488773346, 'peak_rss_mb': 90.46484375}
+09-26 23:57:55 START H_TWR_NSB_c128_d36_i0 {"kind": "mirror", "variant": "TWR_NSB", "inst": 0, "d": 36, "chi": 128} pred=198.27024547259012
+09-27 00:02:51 DONE H_TWR_NSB_c128_d36_i0 {'survival': 9.620528015113836e-08, 'max_abs_amp_err': None, 'wall_s': 295.6561164855957, 'peak_rss_mb': 71.01953125}
+09-27 00:02:51 START H_TWR_NSB_c128_d36_i1 {"kind": "mirror", "variant": "TWR_NSB", "inst": 1, "d": 36, "chi": 128} pred=222.61671322584152
+09-27 00:07:19 DONE H_TWR_NSB_c128_d36_i1 {'survival': 6.64314871020616e-09, 'max_abs_amp_err': None, 'wall_s': 268.1121680736542, 'peak_rss_mb': 70.98828125}
+09-27 00:07:19 START H_TWR_NSB_c128_d36_i2 {"kind": "mirror", "variant": "TWR_NSB", "inst": 2, "d": 36, "chi": 128} pred=231.71580419540405
+09-27 00:10:37 WAIT mem during H_TWR_NSB_c128_d36_i2 MEMLOW MemAvailable < 12 GiB mid-cell
+09-27 00:12:37 supervisor: launching runner (MemAvailable 38641064 kB)
+09-27 00:12:37 runner start, threads 8
+09-27 00:12:37 START H_TWR_NSB_c128_d36_i2 {"kind": "mirror", "variant": "TWR_NSB", "inst": 2, "d": 36, "chi": 128} pred=231.71580419540405
+09-27 00:18:59 DONE H_TWR_NSB_c128_d36_i2 {'survival': 3.899173651786323e-09, 'max_abs_amp_err': None, 'wall_s': 381.4036855697632, 'peak_rss_mb': 71.10546875}
+09-27 00:18:59 START H_CSN_NSB_c128_d36_i0 {"kind": "mirror", "variant": "CSN_NSB", "inst": 0, "d": 36, "chi": 128} pred=256.6637844244639
+09-27 00:23:58 DONE H_CSN_NSB_c128_d36_i0 {'survival': 8.352806369044102e-08, 'max_abs_amp_err': None, 'wall_s': 299.17710638046265, 'peak_rss_mb': 73.5}
+09-27 00:23:58 START H_CSN_NSB_c128_d36_i1 {"kind": "mirror", "variant": "CSN_NSB", "inst": 1, "d": 36, "chi": 128} pred=262.7371161324637
+09-27 00:29:06 DONE H_CSN_NSB_c128_d36_i1 {'survival': 3.4030909133720462e-09, 'max_abs_amp_err': None, 'wall_s': 307.8804044723511, 'peak_rss_mb': 72.7890625}
+09-27 00:29:06 START H_CSN_NSB_c128_d36_i2 {"kind": "mirror", "variant": "CSN_NSB", "inst": 2, "d": 36, "chi": 128} pred=268.38002717494965
+09-27 00:33:33 DONE H_CSN_NSB_c128_d36_i2 {'survival': 5.368121924099588e-09, 'max_abs_amp_err': None, 'wall_s': 266.5728392601013, 'peak_rss_mb': 72.171875}
+09-27 00:33:33 START H_CRA_NSB_c128_d36_i0 {"kind": "mirror", "variant": "CRA_NSB", "inst": 0, "d": 36, "chi": 128} pred=268.17922851774426
+09-27 00:37:44 DONE H_CRA_NSB_c128_d36_i0 {'survival': 8.35280636906384e-08, 'max_abs_amp_err': None, 'wall_s': 250.877756357193, 'peak_rss_mb': 73.37109375}
+09-27 00:37:44 START H_CRA_NSB_c128_d36_i1 {"kind": "mirror", "variant": "CRA_NSB", "inst": 1, "d": 36, "chi": 128} pred=266.44908130168915
+09-27 00:54:42 DONE H_CRA_NSB_c128_d36_i1 {'survival': 3.4030909044970935e-09, 'max_abs_amp_err': None, 'wall_s': 1017.8685300350189, 'peak_rss_mb': 72.48828125}
+09-27 00:54:42 START H_CRA_NSB_c128_d36_i2 {"kind": "mirror", "variant": "CRA_NSB", "inst": 2, "d": 36, "chi": 128} pred=334.7599402774464
+09-27 01:11:57 DONE H_CRA_NSB_c128_d36_i2 {'survival': 5.368121924097702e-09, 'max_abs_amp_err': None, 'wall_s': 1035.21395945549, 'peak_rss_mb': 71.421875}
+09-27 01:11:57 START H_RCM_NSB_c128_d36_i0 {"kind": "mirror", "variant": "RCM_NSB", "inst": 0, "d": 36, "chi": 128} pred=393.13110854228336
+09-27 01:21:27 WAIT mem during H_RCM_NSB_c128_d36_i0 MEMLOW MemAvailable < 12 GiB mid-cell
+09-27 01:23:28 supervisor: launching runner (MemAvailable 28974552 kB)
+09-27 01:23:28 runner start, threads 8
+09-27 01:23:28 START H_RCM_NSB_c128_d36_i0 {"kind": "mirror", "variant": "RCM_NSB", "inst": 0, "d": 36, "chi": 128} pred=393.13110854228336
+09-27 01:39:50 DONE H_RCM_NSB_c128_d36_i0 {'survival': 2.4605567801904418e-08, 'max_abs_amp_err': None, 'wall_s': 981.174916267395, 'peak_rss_mb': 94.54296875}
+09-27 01:39:50 START H_RCM_NSB_c128_d36_i1 {"kind": "mirror", "variant": "RCM_NSB", "inst": 1, "d": 36, "chi": 128} pred=438.3652475980612
+09-27 02:00:10 DONE H_RCM_NSB_c128_d36_i1 {'survival': 2.4408937403180536e-08, 'max_abs_amp_err': None, 'wall_s': 1219.7128286361694, 'peak_rss_mb': 90.3046875}
+09-27 02:00:10 START H_RCM_NSB_c128_d36_i2 {"kind": "mirror", "variant": "RCM_NSB", "inst": 2, "d": 36, "chi": 128} pred=494.1757891007832
+09-27 02:17:51 DONE H_RCM_NSB_c128_d36_i2 {'survival': 9.262805637362326e-09, 'max_abs_amp_err': None, 'wall_s': 1061.3625423908234, 'peak_rss_mb': 89.67578125}
+09-27 02:17:51 START H_LOG_NSB_c128_d36_i0 {"kind": "mirror", "variant": "LOG_NSB", "inst": 0, "d": 36, "chi": 128} pred=531.9882393201192
+09-27 02:33:26 DONE H_LOG_NSB_c128_d36_i0 {'survival': 3.509756290187863e-08, 'max_abs_amp_err': None, 'wall_s': 934.4797608852386, 'peak_rss_mb': 71.9765625}
+09-27 02:33:26 START H_LOG_NSB_c128_d36_i1 {"kind": "mirror", "variant": "LOG_NSB", "inst": 1, "d": 36, "chi": 128} pred=557.1439594179392
+09-27 02:46:12 DONE H_LOG_NSB_c128_d36_i1 {'survival': 1.992883138414603e-09, 'max_abs_amp_err': None, 'wall_s': 766.1337382793427, 'peak_rss_mb': 71.7109375}
+09-27 02:46:12 WAIT mem before H_LOG_NSB_c128_d36_i2
+09-27 02:48:12 supervisor: WAIT MemAvailable 14285340 kB < 20 GiB
+09-27 02:50:12 supervisor: WAIT MemAvailable 13532228 kB < 20 GiB
+09-27 02:52:12 supervisor: WAIT MemAvailable 12507296 kB < 20 GiB
+09-27 02:54:13 supervisor: WAIT MemAvailable 12563168 kB < 20 GiB
+09-27 02:56:13 supervisor: WAIT MemAvailable 13313872 kB < 20 GiB
+09-27 02:58:13 supervisor: WAIT MemAvailable 12391204 kB < 20 GiB
+09-27 03:00:13 supervisor: WAIT MemAvailable 14984516 kB < 20 GiB
+09-27 03:02:13 supervisor: WAIT MemAvailable 14416848 kB < 20 GiB
+09-27 03:04:13 supervisor: WAIT MemAvailable 14391196 kB < 20 GiB
+09-27 03:06:13 supervisor: WAIT MemAvailable 14292584 kB < 20 GiB
+09-27 03:08:13 supervisor: WAIT MemAvailable 13846576 kB < 20 GiB
+09-27 03:10:13 supervisor: WAIT MemAvailable 13432848 kB < 20 GiB
+09-27 03:12:13 supervisor: WAIT MemAvailable 13747052 kB < 20 GiB
+09-27 03:14:13 supervisor: launching runner (MemAvailable 38793076 kB)
+09-27 03:14:13 runner start, threads 8
+09-27 03:14:13 START H_LOG_NSB_c128_d36_i2 {"kind": "mirror", "variant": "LOG_NSB", "inst": 2, "d": 36, "chi": 128} pred=569.4374758215512
+09-27 03:16:41 DONE H_LOG_NSB_c128_d36_i2 {'survival': 3.661423203712726e-09, 'max_abs_amp_err': None, 'wall_s': 148.51369094848633, 'peak_rss_mb': 73.83984375}
+09-27 03:16:41 START H_LOG_SB_c256_d36_i0 {"kind": "mirror", "variant": "LOG_SB", "inst": 0, "d": 36, "chi": 256} pred=4368.422568851047
+09-27 03:29:07 DONE H_LOG_SB_c256_d36_i0 {'survival': 1.3087714509654637e-06, 'max_abs_amp_err': None, 'wall_s': 745.3312373161316, 'peak_rss_mb': 269.50390625}
+09-27 03:29:07 WAIT mem before H_LOG_SB_c256_d36_i1
+09-27 03:31:07 supervisor: launching runner (MemAvailable 23435244 kB)
+09-27 03:31:07 runner start, threads 8
+09-27 03:31:07 START H_LOG_SB_c256_d36_i1 {"kind": "mirror", "variant": "LOG_SB", "inst": 1, "d": 36, "chi": 256} pred=745.3312373161316
+09-27 03:40:52 DONE H_LOG_SB_c256_d36_i1 {'survival': 2.604458125912205e-07, 'max_abs_amp_err': None, 'wall_s': 584.8055732250214, 'peak_rss_mb': 261.37109375}
+09-27 03:40:52 START H_LOG_SB_c256_d36_i2 {"kind": "mirror", "variant": "LOG_SB", "inst": 2, "d": 36, "chi": 256} pred=665.0684052705765
+09-27 03:50:24 DONE H_LOG_SB_c256_d36_i2 {'survival': 1.210352267058064e-06, 'max_abs_amp_err': None, 'wall_s': 571.8663139343262, 'peak_rss_mb': 270.6015625}
+09-27 03:50:24 START H_TWR_NSB_c256_d36_i0 {"kind": "mirror", "variant": "TWR_NSB", "inst": 0, "d": 36, "chi": 256} pred=634.0010414918264
+09-27 04:05:39 DONE H_TWR_NSB_c256_d36_i0 {'survival': 7.805029084826238e-07, 'max_abs_amp_err': None, 'wall_s': 914.9147596359253, 'peak_rss_mb': 207.3359375}
+09-27 04:05:39 START H_TWR_NSB_c256_d36_i1 {"kind": "mirror", "variant": "TWR_NSB", "inst": 1, "d": 36, "chi": 256} pred=704.2294710278511
+09-27 04:21:14 DONE H_TWR_NSB_c256_d36_i1 {'survival': 8.923679396715095e-08, 'max_abs_amp_err': None, 'wall_s': 935.579404592514, 'peak_rss_mb': 194.27734375}
+09-27 04:21:14 WAIT mem before H_TWR_NSB_c256_d36_i2
+09-27 04:23:14 supervisor: WAIT MemAvailable 19175440 kB < 20 GiB
+09-27 04:25:14 supervisor: WAIT MemAvailable 19220484 kB < 20 GiB
+09-27 04:27:14 supervisor: WAIT MemAvailable 19016588 kB < 20 GiB
+09-27 04:29:14 supervisor: WAIT MemAvailable 19089168 kB < 20 GiB
+09-27 04:31:14 supervisor: launching runner (MemAvailable 52257896 kB)
+09-27 04:31:15 runner start, threads 8
+09-27 04:31:15 START H_TWR_NSB_c256_d36_i2 {"kind": "mirror", "variant": "TWR_NSB", "inst": 2, "d": 36, "chi": 256} pred=750.4994577407837
+09-27 04:46:50 DONE H_TWR_NSB_c256_d36_i2 {'survival': 1.9631879866320253e-08, 'max_abs_amp_err': None, 'wall_s': 935.5344321727753, 'peak_rss_mb': 192.6328125}
+09-27 04:46:50 WAIT mem before H_CSN_NSB_c256_d36_i0
+09-27 04:48:50 supervisor: WAIT MemAvailable 18021448 kB < 20 GiB
+09-27 04:50:50 supervisor: WAIT MemAvailable 17782852 kB < 20 GiB
+09-27 04:52:50 supervisor: WAIT MemAvailable 17845164 kB < 20 GiB
+09-27 04:54:50 supervisor: WAIT MemAvailable 17769860 kB < 20 GiB
+09-27 04:56:50 supervisor: WAIT MemAvailable 17521404 kB < 20 GiB
+09-27 04:58:50 supervisor: WAIT MemAvailable 17410436 kB < 20 GiB
+09-27 05:00:50 supervisor: WAIT MemAvailable 17524768 kB < 20 GiB
+09-27 05:02:50 supervisor: WAIT MemAvailable 17498520 kB < 20 GiB
+09-27 05:04:50 supervisor: WAIT MemAvailable 17666348 kB < 20 GiB
+09-27 05:06:50 supervisor: WAIT MemAvailable 17467880 kB < 20 GiB
+09-27 05:08:50 supervisor: WAIT MemAvailable 17312732 kB < 20 GiB
+09-27 05:10:50 supervisor: WAIT MemAvailable 17335464 kB < 20 GiB
+09-27 05:12:50 supervisor: WAIT MemAvailable 16857192 kB < 20 GiB
+09-27 05:14:50 supervisor: WAIT MemAvailable 16497296 kB < 20 GiB
+09-27 05:16:50 supervisor: WAIT MemAvailable 16111336 kB < 20 GiB
+09-27 05:18:50 supervisor: WAIT MemAvailable 16450828 kB < 20 GiB
+09-27 05:20:50 supervisor: WAIT MemAvailable 16703800 kB < 20 GiB
+09-27 05:22:50 supervisor: WAIT MemAvailable 17111076 kB < 20 GiB
+09-27 05:24:50 supervisor: WAIT MemAvailable 17375056 kB < 20 GiB
+09-27 05:26:50 supervisor: WAIT MemAvailable 17534196 kB < 20 GiB
+09-27 05:28:50 supervisor: WAIT MemAvailable 17524316 kB < 20 GiB
+09-27 05:30:50 supervisor: WAIT MemAvailable 18195472 kB < 20 GiB
+09-27 05:32:50 supervisor: WAIT MemAvailable 17953060 kB < 20 GiB
+09-27 05:34:50 supervisor: WAIT MemAvailable 17805948 kB < 20 GiB
+09-27 05:36:50 supervisor: WAIT MemAvailable 18274356 kB < 20 GiB
+09-27 05:38:51 supervisor: WAIT MemAvailable 18450772 kB < 20 GiB
+09-27 05:40:51 supervisor: WAIT MemAvailable 18497568 kB < 20 GiB
+09-27 05:42:51 supervisor: WAIT MemAvailable 17938032 kB < 20 GiB
+09-27 05:44:51 supervisor: WAIT MemAvailable 17919972 kB < 20 GiB
+09-27 05:46:51 supervisor: WAIT MemAvailable 17642308 kB < 20 GiB
+09-27 05:48:51 supervisor: WAIT MemAvailable 17971464 kB < 20 GiB
+09-27 05:50:51 supervisor: WAIT MemAvailable 17394604 kB < 20 GiB
+09-27 05:52:51 supervisor: WAIT MemAvailable 15844148 kB < 20 GiB
+09-27 05:54:51 supervisor: WAIT MemAvailable 16787164 kB < 20 GiB
+09-27 05:56:51 supervisor: WAIT MemAvailable 18454544 kB < 20 GiB
+09-27 05:58:51 supervisor: WAIT MemAvailable 18356892 kB < 20 GiB
+09-27 06:00:51 supervisor: WAIT MemAvailable 17978092 kB < 20 GiB
+09-27 06:02:51 supervisor: launching runner (MemAvailable 55735380 kB)
+09-27 06:02:51 runner start, threads 8
+09-27 06:02:51 START H_CSN_NSB_c256_d36_i0 {"kind": "mirror", "variant": "CSN_NSB", "inst": 0, "d": 36, "chi": 256} pred=781.3386201461157
+09-27 06:24:59 DONE H_CSN_NSB_c256_d36_i0 {'survival': 5.877893178123083e-07, 'max_abs_amp_err': None, 'wall_s': 1328.5071609020233, 'peak_rss_mb': 194.125}
+09-27 06:24:59 START H_CSN_NSB_c256_d36_i1 {"kind": "mirror", "variant": "CSN_NSB", "inst": 1, "d": 36, "chi": 256} pred=859.5055545398167
+09-27 06:43:42 WAIT mem during H_CSN_NSB_c256_d36_i1 MEMLOW MemAvailable < 12 GiB mid-cell
+09-27 06:45:42 supervisor: launching runner (MemAvailable 27030940 kB)
+09-27 06:45:42 runner start, threads 8
+09-27 06:45:42 START H_CSN_NSB_c256_d36_i1 {"kind": "mirror", "variant": "CSN_NSB", "inst": 1, "d": 36, "chi": 256} pred=859.5055545398167
+09-27 07:08:39 DONE H_CSN_NSB_c256_d36_i1 {'survival': 3.026737261031937e-08, 'max_abs_amp_err': None, 'wall_s': 1375.9463648796082, 'peak_rss_mb': 191.703125}
+09-27 07:08:39 START H_CSN_NSB_c256_d36_i2 {"kind": "mirror", "variant": "CSN_NSB", "inst": 2, "d": 36, "chi": 256} pred=924.0606558322906
+09-27 07:31:40 DONE H_CSN_NSB_c256_d36_i2 {'survival': 1.0406913026036281e-08, 'max_abs_amp_err': None, 'wall_s': 1381.4835357666016, 'peak_rss_mb': 202.9453125}
+09-27 07:31:40 START H_CRA_NSB_c256_d36_i0 {"kind": "mirror", "variant": "CRA_NSB", "inst": 0, "d": 36, "chi": 256} pred=974.8854202694363
+09-27 07:52:01 DONE H_CRA_NSB_c256_d36_i0 {'survival': 5.877893180219123e-07, 'max_abs_amp_err': None, 'wall_s': 1220.242856502533, 'peak_rss_mb': 193.3515625}
+09-27 07:52:01 START H_CRA_NSB_c256_d36_i1 {"kind": "mirror", "variant": "CRA_NSB", "inst": 1, "d": 36, "chi": 256} pred=999.421163892746
+09-27 08:15:51 DONE H_CRA_NSB_c256_d36_i1 {'survival': 3.026737261333769e-08, 'max_abs_amp_err': None, 'wall_s': 1430.0229787826538, 'peak_rss_mb': 193.52734375}
+09-27 08:15:51 START H_CRA_NSB_c256_d36_i2 {"kind": "mirror", "variant": "CRA_NSB", "inst": 2, "d": 36, "chi": 256} pred=1038.5667834281921
+09-27 08:37:51 DONE H_CRA_NSB_c256_d36_i2 {'survival': 1.0406913026176058e-08, 'max_abs_amp_err': None, 'wall_s': 1319.6748650074005, 'peak_rss_mb': 201.80859375}
+09-27 08:37:51 START H_RCM_NSB_c256_d36_i0 {"kind": "mirror", "variant": "RCM_NSB", "inst": 0, "d": 36, "chi": 256} pred=1061.9924568931262
+09-27 08:57:39 DONE H_RCM_NSB_c256_d36_i0 {'survival': 3.5676904213846755e-07, 'max_abs_amp_err': None, 'wall_s': 1188.4913170337677, 'peak_rss_mb': 225.65625}
+09-27 08:57:39 START H_RCM_NSB_c256_d36_i1 {"kind": "mirror", "variant": "RCM_NSB", "inst": 1, "d": 36, "chi": 256} pred=1071.7231384424063
+09-27 09:17:08 DONE H_RCM_NSB_c256_d36_i1 {'survival': 1.8476010948447092e-07, 'max_abs_amp_err': None, 'wall_s': 1168.4158470630646, 'peak_rss_mb': 225.1875}
+09-27 09:17:08 WAIT mem before H_RCM_NSB_c256_d36_i2
+09-27 09:19:08 supervisor: WAIT MemAvailable 17022336 kB < 20 GiB
+09-27 09:21:08 supervisor: WAIT MemAvailable 16927364 kB < 20 GiB
+09-27 09:23:08 supervisor: WAIT MemAvailable 15680396 kB < 20 GiB
+09-27 09:25:08 supervisor: WAIT MemAvailable 17028120 kB < 20 GiB
+09-27 09:27:08 supervisor: WAIT MemAvailable 16245872 kB < 20 GiB
+09-27 09:29:08 supervisor: WAIT MemAvailable 16549380 kB < 20 GiB
+09-27 09:31:08 supervisor: WAIT MemAvailable 16626428 kB < 20 GiB
+09-27 09:33:08 supervisor: launching runner (MemAvailable 51987648 kB)
+09-27 09:33:08 runner start, threads 8
+09-27 09:33:08 START H_RCM_NSB_c256_d36_i2 {"kind": "mirror", "variant": "RCM_NSB", "inst": 2, "d": 36, "chi": 256} pred=1078.629760486739
+09-27 09:51:50 DONE H_RCM_NSB_c256_d36_i2 {'survival': 7.241438313104169e-08, 'max_abs_amp_err': None, 'wall_s': 1121.756593465805, 'peak_rss_mb': 226.10546875}
+09-27 09:51:50 START H_LOG_NSB_c256_d36_i0 {"kind": "mirror", "variant": "LOG_NSB", "inst": 0, "d": 36, "chi": 256} pred=1081.5048826853433
+09-27 10:10:35 DONE H_LOG_NSB_c256_d36_i0 {'survival': 3.81702482439153e-07, 'max_abs_amp_err': None, 'wall_s': 1124.6351671218872, 'peak_rss_mb': 205.5234375}
+09-27 10:10:35 START H_LOG_NSB_c256_d36_i1 {"kind": "mirror", "variant": "LOG_NSB", "inst": 1, "d": 36, "chi": 256} pred=1084.2005254626274
+09-27 10:31:30 DONE H_LOG_NSB_c256_d36_i1 {'survival': 2.8453982252420145e-08, 'max_abs_amp_err': None, 'wall_s': 1255.3821613788605, 'peak_rss_mb': 205.6328125}
+09-27 10:31:30 WAIT mem before H_LOG_NSB_c256_d36_i2
+09-27 10:33:30 supervisor: WAIT MemAvailable 17860940 kB < 20 GiB
+09-27 10:35:30 supervisor: launching runner (MemAvailable 21894748 kB)
+09-27 10:35:31 runner start, threads 8
+09-27 10:35:31 START H_LOG_NSB_c256_d36_i2 {"kind": "mirror", "variant": "LOG_NSB", "inst": 2, "d": 36, "chi": 256} pred=1094.2700334577
+09-27 10:57:36 DONE H_LOG_NSB_c256_d36_i2 {'survival': 4.501690270192838e-08, 'max_abs_amp_err': None, 'wall_s': 1325.1785497665405, 'peak_rss_mb': 219.43359375}
+09-27 10:57:36 START H_LOG_SB_c512_d36_i0 {"kind": "mirror", "variant": "LOG_SB", "inst": 0, "d": 36, "chi": 512} pred=8856.786274909973
+09-27 12:32:35 supervisor: launching runner (MemAvailable 64699172 kB)
+09-27 12:32:36 runner start, threads 8
+09-27 12:32:36 START H_LOG_SB_c512_d36_i0 {"kind": "mirror", "variant": "LOG_SB", "inst": 0, "d": 36, "chi": 512} pred=8856.786274909973
+09-27 13:08:40 WAIT mem during H_LOG_SB_c512_d36_i0 MEMLOW MemAvailable < 12 GiB mid-cell
+09-27 13:10:40 supervisor: launching runner (MemAvailable 66109072 kB)
+09-27 13:10:40 runner start, threads 8
+09-27 13:10:40 START H_LOG_SB_c512_d36_i0 {"kind": "mirror", "variant": "LOG_SB", "inst": 0, "d": 36, "chi": 512} pred=8856.786274909973
+09-27 14:30:30 supervisor: launching runner (MemAvailable 41186964 kB)
+09-27 14:30:30 runner start, threads 8
+09-27 14:30:30 START H_LOG_SB_c512_d36_i0 {"kind": "mirror", "variant": "LOG_SB", "inst": 0, "d": 36, "chi": 512} pred=8856.786274909973
+09-27 14:31:03 supervisor: launching runner (MemAvailable 36619060 kB)
+09-27 14:31:03 runner start, threads 8
+09-27 14:31:03 START H_LOG_SB_c512_d36_i0 {"kind": "mirror", "variant": "LOG_SB", "inst": 0, "d": 36, "chi": 512} pred=8856.786274909973
+09-27 15:51:31 DONE H_LOG_SB_c512_d36_i0 {'survival': 1.0227004696000952e-05, 'max_abs_amp_err': None, 'wall_s': 4828.152731180191, 'peak_rss_mb': 921.62109375}
+09-27 15:51:31 START H_LOG_SB_c512_d36_i1 {"kind": "mirror", "variant": "LOG_SB", "inst": 1, "d": 36, "chi": 512} pred=4828.152731180191
+09-27 17:48:03 DONE H_LOG_SB_c512_d36_i1 {'survival': 2.4493189128448107e-06, 'max_abs_amp_err': None, 'wall_s': 6991.918803215027, 'peak_rss_mb': 897.17578125}
+09-27 17:48:03 START H_LOG_SB_c512_d36_i2 {"kind": "mirror", "variant": "LOG_SB", "inst": 2, "d": 36, "chi": 512} pred=5910.035767197609
+09-27 19:29:00 DONE H_LOG_SB_c512_d36_i2 {'survival': 8.828394231675497e-06, 'max_abs_amp_err': None, 'wall_s': 6056.095441579819, 'peak_rss_mb': 928.2890625}
+09-27 19:29:00 START H_TWR_NSB_c512_d36_i0 {"kind": "mirror", "variant": "TWR_NSB", "inst": 0, "d": 36, "chi": 512} pred=5958.722325325012
+09-27 23:13:48 DONE H_TWR_NSB_c512_d36_i0 {'survival': 3.8690018739941906e-06, 'max_abs_amp_err': None, 'wall_s': 13488.539276361465, 'peak_rss_mb': 628.66796875}
+09-27 23:13:48 START H_TWR_NSB_c512_d36_i1 {"kind": "mirror", "variant": "TWR_NSB", "inst": 1, "d": 36, "chi": 512} pred=7841.1765630841255
+09-28 02:30:28 WAIT mem during H_TWR_NSB_c512_d36_i1 MEMLOW MemAvailable < 12 GiB mid-cell
+09-28 02:32:28 supervisor: WAIT MemAvailable 17069680 kB < 20 GiB
+09-28 02:34:28 supervisor: WAIT MemAvailable 17257972 kB < 20 GiB
+09-28 02:36:28 supervisor: launching runner (MemAvailable 49561176 kB)
+09-28 02:36:29 runner start, threads 8
+09-28 02:36:29 START H_TWR_NSB_c512_d36_i1 {"kind": "mirror", "variant": "TWR_NSB", "inst": 1, "d": 36, "chi": 512} pred=7841.1765630841255
+09-28 05:18:16 WAIT mem during H_TWR_NSB_c512_d36_i1 MEMLOW MemAvailable < 12 GiB mid-cell
+09-28 05:20:17 supervisor: WAIT MemAvailable 12195732 kB < 20 GiB
+09-28 05:22:17 supervisor: launching runner (MemAvailable 51154784 kB)
+09-28 05:22:17 runner start, threads 8
+09-28 05:22:17 START H_TWR_NSB_c512_d36_i1 {"kind": "mirror", "variant": "TWR_NSB", "inst": 1, "d": 36, "chi": 512} pred=7841.1765630841255
+09-28 08:59:38 DONE H_TWR_NSB_c512_d36_i1 {'survival': 5.796460665769153e-07, 'max_abs_amp_err': None, 'wall_s': 13040.85819196701, 'peak_rss_mb': 635.7265625}
+09-28 08:59:38 START H_TWR_NSB_c512_d36_i2 {"kind": "mirror", "variant": "TWR_NSB", "inst": 2, "d": 36, "chi": 512} pred=8881.112888860702
+09-28 10:39:32 WAIT mem during H_TWR_NSB_c512_d36_i2 MEMLOW MemAvailable < 12 GiB mid-cell
+09-28 10:41:36 supervisor: WAIT MemAvailable 9563236 kB < 20 GiB
+09-28 10:43:36 supervisor: launching runner (MemAvailable 45988200 kB)
+09-28 10:43:37 runner start, threads 8
+09-28 10:43:37 START H_TWR_NSB_c512_d36_i2 {"kind": "mirror", "variant": "TWR_NSB", "inst": 2, "d": 36, "chi": 512} pred=8881.112888860702
+09-28 14:18:16 DONE H_TWR_NSB_c512_d36_i2 {'survival': 2.8022263673809523e-07, 'max_abs_amp_err': None, 'wall_s': 12877.985158443451, 'peak_rss_mb': 625.890625}
+09-28 14:18:16 START H_CRA_NSB_c512_d36_i0 {"kind": "mirror", "variant": "CRA_NSB", "inst": 0, "d": 36, "chi": 512} pred=9547.258267124495

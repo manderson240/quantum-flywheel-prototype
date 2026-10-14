@@ -1,0 +1,14 @@
+[
+ {
+  "difficulty": 1,
+  "err": "{\"error_message\":\"Access denied for this endpoint\",\"ret\":\"FAILED\"}. HTTP response status code: 403. Request ID: 05a212e9-d779-4d29-8782-cc8d50bea239"
+ },
+ {
+  "difficulty": 2,
+  "err": "{\"error_message\":\"Access denied for this endpoint\",\"ret\":\"FAILED\"}. HTTP response status code: 403. Request ID: 4d225755-5605-4402-ab9b-d352ad09d323"
+ },
+ {
+  "difficulty": 3,
+  "err": "{\"error_message\":\"Access denied for this endpoint\",\"ret\":\"FAILED\"}. HTTP response status code: 403. Request ID: 26f06579-9181-4672-9b5f-0342c695f8d1"
+ }
+]

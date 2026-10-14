@@ -1,0 +1,11 @@
+{
+ "max_abs_amp_err": 0.005019876251411662,
+ "max_bond": 64,
+ "n_cz": 83,
+ "kind": "fwd16",
+ "variant": "CRA_NSB",
+ "mutate": "book",
+ "wall_s": 0.2171649932861328,
+ "peak_rss_mb": 34.39453125,
+ "threads": "8"
+}

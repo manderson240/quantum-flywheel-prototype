@@ -1,0 +1,32 @@
+{
+ "chi128_i0": {
+  "survival_no_swap_back_perm": 3.509756290216659e-08,
+  "wall_s": 145.50815272331238,
+  "peak_rss_mb": 72.1328125
+ },
+ "chi128_i1": {
+  "survival_no_swap_back_perm": 1.992883138373016e-09,
+  "wall_s": 137.11246633529663,
+  "peak_rss_mb": 72.1328125
+ },
+ "chi128_i2": {
+  "survival_no_swap_back_perm": 3.661423203504603e-09,
+  "wall_s": 137.3284683227539,
+  "peak_rss_mb": 72.1328125
+ },
+ "chi256_i0": {
+  "survival_no_swap_back_perm": 3.817024824129213e-07,
+  "wall_s": 868.7410318851471,
+  "peak_rss_mb": 200.90234375
+ },
+ "chi256_i1": {
+  "survival_no_swap_back_perm": 2.8453982289354517e-08,
+  "wall_s": 880.9607357978821,
+  "peak_rss_mb": 209.0625
+ },
+ "chi256_i2": {
+  "survival_no_swap_back_perm": 4.501690270157484e-08,
+  "wall_s": 886.6908593177795,
+  "peak_rss_mb": 210.0234375
+ }
+}

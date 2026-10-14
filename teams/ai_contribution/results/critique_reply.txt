@@ -1,0 +1,1 @@
+Ollama Cloud call (deepseek-v4-pro:cloud) returned HTTP 429 (session usage limit) on 2026-09-25; no reply obtained. Status: UNKNOWN (throttled), not 'no objection'. Not retried (optional step, one-call max).

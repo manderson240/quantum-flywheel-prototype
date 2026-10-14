@@ -1,0 +1,36 @@
+{
+ "C2_rows1-3": {
+  "n": 23,
+  "cz_effective": 298,
+  "max_crossings": 75,
+  "cap_max": 11,
+  "exact_log2_bound_max": 11,
+  "mid_bond": 10,
+  "mid_cycle_exceeding": {
+   "8": 3,
+   "16": 4,
+   "32": 4,
+   "64": 4,
+   "128": 4,
+   "256": 6
+  },
+  "mid_cycle_reaching_cap": 7
+ },
+ "C2_rows6-8": {
+  "n": 23,
+  "cz_effective": 308,
+  "max_crossings": 80,
+  "cap_max": 11,
+  "exact_log2_bound_max": 11,
+  "mid_bond": 10,
+  "mid_cycle_exceeding": {
+   "8": 3,
+   "16": 3,
+   "32": 4,
+   "64": 4,
+   "128": 4,
+   "256": 4
+  },
+  "mid_cycle_reaching_cap": 7
+ }
+}

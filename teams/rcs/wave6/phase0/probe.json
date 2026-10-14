@@ -1,0 +1,77 @@
+{
+ "est_mps.cpu": {
+  "device": "mps.cpu",
+  "estimated_runtime": "11392500",
+  "estimated_cost": "0.32",
+  "num_qubits": "61",
+  "warning_message": "This is just an estimate; the actual runtime may be less or more.",
+  "error_message": "None"
+ },
+ "est_mps.gpu": {
+  "device": "mps.gpu",
+  "estimated_runtime": "4284200",
+  "estimated_cost": "4.77",
+  "num_qubits": "61",
+  "warning_message": "This is just an estimate; the actual runtime may be less or more.",
+  "error_message": "None"
+ },
+ "est_tensor-network": "ERR BlueQubit client was not authorized. For full functionality please specify an API token to init(<your-api-token>) or have API token set in BLUEQUBIT_API_TOKEN environment variable. You can find your API token once you log in to https://app.bluequbit.io. Request ID: 1a33b308-d4fb-4b99-9dcc-ba4004f9b4",
+ "est_quantum": {
+  "device": "quantum",
+  "estimated_runtime": "None",
+  "estimated_cost": "None",
+  "num_qubits": "None",
+  "warning_message": "None",
+  "error_message": "Circuit has no measurement"
+ },
+ "est_gpu": {
+  "device": "gpu",
+  "estimated_runtime": "None",
+  "estimated_cost": "None",
+  "num_qubits": "None",
+  "warning_message": "None",
+  "error_message": "Circuit num qubits (61) is too high for GPU backend"
+ },
+ "est_pauli-path": {
+  "device": "pauli-path",
+  "estimated_runtime": "None",
+  "estimated_cost": "None",
+  "num_qubits": "None",
+  "warning_message": "None",
+  "error_message": "Device pauli-path requires the pauli_sum parameter to be specified."
+ },
+ "small_mps_job": {
+  "_backend_connection": "<bluequbit.backend_connection.BackendConnection object at 0x7fa758c76660>",
+  "_pennylane_result": "None",
+  "_results_path": "https://storage.googleapis.com/jobs-data-prod/AebIDpX0H5cOIUi5hhKsLhcixGs1/XdZCyyeA6K5dSYPQ_",
+  "_statevector": "None",
+  "_top_100k_results": "None",
+  "batch_id": "None",
+  "circuit": "None",
+  "cost": "0.0",
+  "created_on": "2026-09-26 16:00:41.723000+00:00",
+  "device": "mps.cpu",
+  "device_options": "{'mps_bond_dimension': 4, 'mps_truncation_threshold': 1e-10}",
+  "error_message": "None",
+  "estimated_cost": "0.0",
+  "estimated_runtime": "6600",
+  "expectation_value": "None",
+  "has_statevector": "False",
+  "job_id": "XdZCyyeA6K5dSYPQ",
+  "job_name": "None",
+  "num_qubits": "12",
+  "num_qubits_used": "12",
+  "ok": "True",
+  "pauli_sum": "None",
+  "queue_time_ms": "127",
+  "run_end": "2026-09-26 16:00:47.840000+00:00",
+  "run_results": "{'mps_build_time': 0.1686859130859375}",
+  "run_start": "2026-09-26 16:00:41.850000+00:00",
+  "run_status": "COMPLETED",
+  "run_time_ms": "5990",
+  "sdk_version": "0.18.12b1",
+  "shots": "2000",
+  "tags": "None",
+  "top_128_results": "{'000000010111': 5, '000000011000': 4, '000000110011': 4, '000000111000': 17, '000000111011': 7, '000000111100': 5, '000010011100': 4, '000011000111': 6, '000011001011': 4, '000011100000': 5, '000011111000': 6, '000011111011': 8, '000011111101': 4, '000100000000': 11, '000100000111': 7, '00010000100"
+ }
+}

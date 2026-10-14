@@ -1,0 +1,39 @@
+[
+ {
+  "alpha": "0.00",
+  "delta": 0.001,
+  "seed": 0,
+  "k": 0,
+  "sigma": -1,
+  "n": 56,
+  "gates": 13763,
+  "f_z": 0.0,
+  "term": -0.0,
+  "cost": 0.0,
+  "s": 12.9
+ },
+ {
+  "alpha": "0.00",
+  "delta": 0.0001,
+  "seed": 0,
+  "k": 0,
+  "sigma": -1,
+  "n": 56,
+  "gates": 13763,
+  "f_z": 0.0,
+  "term": -0.0,
+  "cost": 0.0,
+  "s": 209.4
+ },
+ {
+  "alpha": "0.00",
+  "delta": 1e-05,
+  "seed": 0,
+  "k": 0,
+  "sigma": -1,
+  "n": 56,
+  "gates": 13763,
+  "err": "Job fgW8tB7IJKhGDksG finished with status: FAILED_VALIDATION. Truncation threshold used is too small for the input circuit/observable. It could lead to memory overflow. Please try with a larger value of truncation threshold.",
+  "s": 6.0
+ }
+]

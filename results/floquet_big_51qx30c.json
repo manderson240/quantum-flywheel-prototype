@@ -1,0 +1,33 @@
+[
+ {
+  "file": "floquet_mixed_field_ising_mag_51qx30c.qasm",
+  "n": 51,
+  "cycles": 30,
+  "obs": "mag",
+  "pau_0.001": 0.0,
+  "pau_0.001_cost": 0.0,
+  "pau_0.001_s": 48.5,
+  "pau_0.0001": 0.10397326521555858,
+  "pau_0.0001_cost": 0.0,
+  "pau_0.0001_s": 18.1,
+  "mps_64": 0.6355235806800167,
+  "mps_64_cost": 0.0,
+  "mps_64_s": 175.0,
+  "mps_256": 0.5795877728978691,
+  "mps_256_cost": 0.0,
+  "mps_256_s": 1160.9,
+  "mps_512": 0.5583479436611802,
+  "mps_512_cost": 0.0,
+  "mps_512_s": 6990.4,
+  "mps_1024": 0.5383666430889399,
+  "mps_1024_cost": 0.0,
+  "mps_1024_s": 48226.9,
+  "mps_2048": null,
+  "mps_2048_err": "Job wwu3QYpFjIEXyh36 finished with status: TERMINATED. Something went wrong with the request, we are investigating it.",
+  "mps_2048_s": 27815.0,
+  "mps_2048_async_job": "et92IhnigBLGNytE",
+  "mps_2048_async_status": "TERMINATED",
+  "mps_2048_async_billed": 0.0,
+  "mps_2048_async_err": "Something went wrong with the request, we are investigating it."
+ }
+]

@@ -1,0 +1,814 @@
+[BQ-PYTHON-SDK][WARNING] - Beta version 0.18.12b1 of BlueQubit Python SDK is being used.
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: ouZ7eUFUtCavaXGH, device: pauli-path, run status: RUNNING, created on: 2026-09-23 18:37:31 UTC, estimated runtime: 360000000 ms, estimated cost: $0.00, num qubits: 19
+tracker|c1|mag pp_0.01 {'value': 0.33041617464865725, 'wall_s': 1.7}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: IaXTbx9YUaieEOBm, device: pauli-path, run status: RUNNING, created on: 2026-09-23 18:37:33 UTC, estimated runtime: 360000000 ms, estimated cost: $0.00, num qubits: 19
+tracker|c1|mag pp_0.0003 {'value': 0.4629238695239858, 'wall_s': 1.6}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: GLAR4lDRs5Sw1tbv, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 18:37:34 UTC, estimated runtime: 6600 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+tracker|c1|mag mps_4 {'value': 0.5535630921280862, 'wall_s': 1.8}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: xsEqjLarCG2p4QJp, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 18:37:36 UTC, estimated runtime: 19900 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+tracker|c1|mag mps_32 {'value': 0.4830063662008574, 'wall_s': 1.7}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: pis8ZgO9qEG4x7Kf, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 18:37:38 UTC, estimated runtime: 33700 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+tracker|c1|mag mps_128 {'value': 0.46400916504623035, 'wall_s': 4.3}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: M6oMuqq1P4wSR9eS, device: pauli-path, run status: RUNNING, created on: 2026-09-23 18:37:42 UTC, estimated runtime: 360000000 ms, estimated cost: $0.00, num qubits: 19
+tracker|c1|zzd2 pp_0.01 {'value': 0.2776595558349397, 'wall_s': 1.7}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: 3BsJAzPF5y5IrbTK, device: pauli-path, run status: RUNNING, created on: 2026-09-23 18:37:44 UTC, estimated runtime: 360000000 ms, estimated cost: $0.00, num qubits: 19
+tracker|c1|zzd2 pp_0.0003 {'value': 0.2164598684299523, 'wall_s': 1.7}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: EuTcSV8Aa91JGgi5, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 18:37:46 UTC, estimated runtime: 6600 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+tracker|c1|zzd2 mps_4 {'value': 0.30704929353534527, 'wall_s': 1.7}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: XHdO78c5589UbNx6, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 18:37:47 UTC, estimated runtime: 19900 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+tracker|c1|zzd2 mps_32 {'value': 0.2376180525033152, 'wall_s': 1.7}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: zb0zB8biMkVtPYAv, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 18:37:49 UTC, estimated runtime: 33700 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+tracker|c1|zzd2 mps_128 {'value': 0.2231928417026505, 'wall_s': 4.0}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: h1fPwfUf87GxdsTx, device: pauli-path, run status: RUNNING, created on: 2026-09-23 18:37:53 UTC, estimated runtime: 360000000 ms, estimated cost: $0.00, num qubits: 19
+tracker|c1|zzd3 pp_0.01 {'value': 0.2985744805072147, 'wall_s': 1.7}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: HJ2aE9mAsqOobqpi, device: pauli-path, run status: RUNNING, created on: 2026-09-23 18:37:55 UTC, estimated runtime: 360000000 ms, estimated cost: $0.00, num qubits: 19
+tracker|c1|zzd3 pp_0.0003 {'value': 0.204714593601316, 'wall_s': 2.0}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: o4PkIjuiGx5IqzJe, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 18:37:57 UTC, estimated runtime: 6600 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+tracker|c1|zzd3 mps_4 {'value': 0.32016671832038374, 'wall_s': 1.7}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: 4OVZc6Ra5o7RYzFE, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 18:37:58 UTC, estimated runtime: 19900 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+tracker|c1|zzd3 mps_32 {'value': 0.23690157320821453, 'wall_s': 1.7}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: No7N3cie0pjvhFDP, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 18:38:00 UTC, estimated runtime: 33700 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+tracker|c1|zzd3 mps_128 {'value': 0.2211801507958675, 'wall_s': 3.9}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: x9grEKV5xoapAM9U, device: pauli-path, run status: RUNNING, created on: 2026-09-23 18:38:04 UTC, estimated runtime: 360000000 ms, estimated cost: $0.00, num qubits: 19
+tracker|c2|mag pp_0.01 {'value': -0.015623090155410966, 'wall_s': 1.6}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: VUvAgBnl4Mx1b4EZ, device: pauli-path, run status: RUNNING, created on: 2026-09-23 18:38:06 UTC, estimated runtime: 360000000 ms, estimated cost: $0.00, num qubits: 19
+tracker|c2|mag pp_0.0003 {'value': 0.17628959416911122, 'wall_s': 1.7}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: Y67iGvECAEkLyrOm, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 18:38:07 UTC, estimated runtime: 6600 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+tracker|c2|mag mps_4 {'value': 0.566175730272997, 'wall_s': 1.7}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: 5xE4k7UoOWMTiohC, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 18:38:09 UTC, estimated runtime: 16600 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+tracker|c2|mag mps_32 {'value': 0.3049042965216025, 'wall_s': 2.8}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: 75wR7g3HI01EEjqN, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 18:38:12 UTC, estimated runtime: 59900 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+tracker|c2|mag mps_128 {'value': 0.21438292786621965, 'wall_s': 7.2}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: 2EixiLn4AxSsdHwA, device: pauli-path, run status: RUNNING, created on: 2026-09-23 18:38:19 UTC, estimated runtime: 360000000 ms, estimated cost: $0.00, num qubits: 19
+tracker|c2|zzd2 pp_0.01 {'value': 0.0, 'wall_s': 1.8}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: pQPFTBCDNjkhFzyc, device: pauli-path, run status: RUNNING, created on: 2026-09-23 18:38:21 UTC, estimated runtime: 360000000 ms, estimated cost: $0.00, num qubits: 19
+tracker|c2|zzd2 pp_0.0003 {'value': 0.21485335965906088, 'wall_s': 1.7}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: wBZ1a3TUz58JBawL, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 18:38:23 UTC, estimated runtime: 6600 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+tracker|c2|zzd2 mps_4 {'value': 0.44469880615765406, 'wall_s': 1.7}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: HdsDJRWizYTSvDNA, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 18:38:24 UTC, estimated runtime: 15700 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+tracker|c2|zzd2 mps_16 {'value': 0.33296109423581227, 'wall_s': 1.8}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: qt7OzNkEBlq64xKS, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 18:38:26 UTC, estimated runtime: 16600 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+tracker|c2|zzd2 mps_32 {'value': 0.3101332080460115, 'wall_s': 2.8}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: 1DponcYu5fWzSmks, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 18:38:29 UTC, estimated runtime: 59900 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+tracker|c2|zzd2 mps_128 {'value': 0.28096763535890645, 'wall_s': 7.3}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: J9mjBZjhjvglfEGt, device: pauli-path, run status: RUNNING, created on: 2026-09-23 18:38:36 UTC, estimated runtime: 360000000 ms, estimated cost: $0.00, num qubits: 19
+tracker|c2|zzd3 pp_0.01 {'value': 0.0, 'wall_s': 1.6}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: hhmNT5Fved5z3NqU, device: pauli-path, run status: RUNNING, created on: 2026-09-23 18:38:38 UTC, estimated runtime: 360000000 ms, estimated cost: $0.00, num qubits: 19
+tracker|c2|zzd3 pp_0.0003 {'value': 0.02628871625586866, 'wall_s': 1.7}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: 2twIY7ruZgvNmZxd, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 18:38:39 UTC, estimated runtime: 6600 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+tracker|c2|zzd3 mps_4 {'value': 0.3980700161964791, 'wall_s': 1.7}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: XPdUYKpShI8iLvT0, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 18:38:41 UTC, estimated runtime: 16600 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+tracker|c2|zzd3 mps_32 {'value': 0.1849191053296039, 'wall_s': 2.8}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: ZZ8jO9MXa1s737m5, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 18:38:44 UTC, estimated runtime: 59900 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+tracker|c2|zzd3 mps_128 {'value': 0.13772376459539418, 'wall_s': 7.2}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: NsPpzEECqLJ6uPFc, device: pauli-path, run status: RUNNING, created on: 2026-09-23 18:38:51 UTC, estimated runtime: 360000000 ms, estimated cost: $0.00, num qubits: 19
+tracker|c3|mag pp_0.01 {'value': 0.013436340751093363, 'wall_s': 1.7}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: 3JD4Dboxuc9jljID, device: pauli-path, run status: RUNNING, created on: 2026-09-23 18:38:53 UTC, estimated runtime: 360000000 ms, estimated cost: $0.00, num qubits: 19
+tracker|c3|mag pp_0.0003 {'value': 0.18783601367416874, 'wall_s': 1.7}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: pZoCTjmH2X3mhwht, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 18:38:55 UTC, estimated runtime: 7600 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+tracker|c3|mag mps_4 {'value': 0.7489628755809439, 'wall_s': 1.7}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: QmqSj5LnnoI1Pwl8, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 18:38:56 UTC, estimated runtime: 19300 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+tracker|c3|mag mps_32 {'value': 0.44774387128508647, 'wall_s': 2.8}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: Och5DayM6OsqlyND, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 18:38:59 UTC, estimated runtime: 81000 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+tracker|c3|mag mps_128 {'value': 0.3038886760171625, 'wall_s': 11.6}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: y0O8QMuetZGdItDR, device: pauli-path, run status: RUNNING, created on: 2026-09-23 18:39:11 UTC, estimated runtime: 360000000 ms, estimated cost: $0.00, num qubits: 19
+tracker|c3|zzd2 pp_0.01 {'value': 0.0, 'wall_s': 1.8}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: SqMvx0OJccPvkcMz, device: pauli-path, run status: RUNNING, created on: 2026-09-23 18:39:12 UTC, estimated runtime: 360000000 ms, estimated cost: $0.00, num qubits: 19
+tracker|c3|zzd2 pp_0.0003 {'value': 0.1761924277506298, 'wall_s': 1.7}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: xy1VeI0IlqCS1hSc, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 18:39:14 UTC, estimated runtime: 7600 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+tracker|c3|zzd2 mps_4 {'value': 0.6067519693063255, 'wall_s': 1.8}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: ytbXbsW0J69SvtBX, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 18:39:16 UTC, estimated runtime: 19300 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+tracker|c3|zzd2 mps_32 {'value': 0.4005393738604943, 'wall_s': 2.8}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: 8lvbvbC1yYx3uD3j, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 18:39:19 UTC, estimated runtime: 81000 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+tracker|c3|zzd2 mps_128 {'value': 0.31818543637025437, 'wall_s': 11.6}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: Dr8C2gOoeQ0hzBCt, device: pauli-path, run status: RUNNING, created on: 2026-09-23 18:39:30 UTC, estimated runtime: 360000000 ms, estimated cost: $0.00, num qubits: 19
+tracker|c3|zzd3 pp_0.01 {'value': 0.0, 'wall_s': 1.8}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: T7j4KW8C30dGMpd2, device: pauli-path, run status: RUNNING, created on: 2026-09-23 18:39:32 UTC, estimated runtime: 360000000 ms, estimated cost: $0.00, num qubits: 19
+tracker|c3|zzd3 pp_0.0003 {'value': 0.02215094771866932, 'wall_s': 1.7}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: XzAwhrdA4oV4gZpH, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 18:39:34 UTC, estimated runtime: 7600 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+tracker|c3|zzd3 mps_4 {'value': 0.6045984134396328, 'wall_s': 1.9}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: wAJZhavj4XoQmxRM, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 18:39:36 UTC, estimated runtime: 19300 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+tracker|c3|zzd3 mps_32 {'value': 0.3515041930995781, 'wall_s': 2.9}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: zXJqKOs21ptA96Cv, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 18:39:39 UTC, estimated runtime: 81000 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+tracker|c3|zzd3 mps_128 {'value': 0.2523017567435549, 'wall_s': 12.7}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: 0IVj08Ql0wTxo1NQ, device: pauli-path, run status: RUNNING, created on: 2026-09-23 18:39:51 UTC, estimated runtime: 360000000 ms, estimated cost: $0.00, num qubits: 19
+tracker|c4|mag pp_0.01 {'value': 0.0, 'wall_s': 1.8}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: YOkJcyvyl0h8CCY9, device: pauli-path, run status: RUNNING, created on: 2026-09-23 18:39:53 UTC, estimated runtime: 360000000 ms, estimated cost: $0.00, num qubits: 19
+tracker|c4|mag pp_0.0003 {'value': 0.21200682945902244, 'wall_s': 1.7}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: ImYzcK4W6YpYwNvy, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 18:39:55 UTC, estimated runtime: 8600 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+tracker|c4|mag mps_4 {'value': 0.8111766289424382, 'wall_s': 1.7}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: m1vkeavCSR9Mg6Aj, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 18:39:57 UTC, estimated runtime: 21700 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+tracker|c4|mag mps_32 {'value': 0.6764254892361754, 'wall_s': 4.0}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: fJfl4gNyLk3TehTB, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 18:40:01 UTC, estimated runtime: 101600 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+tracker|c4|mag mps_128 {'value': 0.4768485381911296, 'wall_s': 17.3}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: e6YmMIpvYMq7c5w5, device: pauli-path, run status: RUNNING, created on: 2026-09-23 18:40:18 UTC, estimated runtime: 360000000 ms, estimated cost: $0.00, num qubits: 19
+tracker|c4|zzd2 pp_0.01 {'value': 0.0, 'wall_s': 1.7}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: s0Wzu8sw1FIGleOM, device: pauli-path, run status: RUNNING, created on: 2026-09-23 18:40:20 UTC, estimated runtime: 360000000 ms, estimated cost: $0.00, num qubits: 19
+tracker|c4|zzd2 pp_0.0003 {'value': 0.1180512958941334, 'wall_s': 1.7}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: ccJOJURt5k1ZHsDR, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 18:40:21 UTC, estimated runtime: 8600 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+tracker|c4|zzd2 mps_4 {'value': 0.6454404497036771, 'wall_s': 1.8}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: UgmFjHiSjWcEbUXi, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 18:40:23 UTC, estimated runtime: 21700 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+tracker|c4|zzd2 mps_32 {'value': 0.5691666471971426, 'wall_s': 4.0}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: CFxkPOaQYtsiL9It, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 18:40:27 UTC, estimated runtime: 101600 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+tracker|c4|zzd2 mps_128 {'value': 0.4208827465753703, 'wall_s': 17.9}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: nek0ODsZHGDQ6btR, device: pauli-path, run status: RUNNING, created on: 2026-09-23 18:40:45 UTC, estimated runtime: 360000000 ms, estimated cost: $0.00, num qubits: 19
+tracker|c4|zzd3 pp_0.01 {'value': 0.0, 'wall_s': 2.3}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: 1xNf8namupQ89pcb, device: pauli-path, run status: RUNNING, created on: 2026-09-23 18:40:47 UTC, estimated runtime: 360000000 ms, estimated cost: $0.00, num qubits: 19
+tracker|c4|zzd3 pp_0.0003 {'value': 0.0027426643956645564, 'wall_s': 1.7}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: vQ9Bc4StAVUtqKxr, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 18:40:49 UTC, estimated runtime: 8600 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+tracker|c4|zzd3 mps_4 {'value': 0.6510452341671569, 'wall_s': 1.8}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: Efw9eh4MM4e3HHLQ, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 18:40:51 UTC, estimated runtime: 21700 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+tracker|c4|zzd3 mps_32 {'value': 0.5614183564490244, 'wall_s': 4.0}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: VGIaoD1dQvUbDKNC, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 18:40:55 UTC, estimated runtime: 101600 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+tracker|c4|zzd3 mps_128 {'value': 0.3864069247872238, 'wall_s': 17.3}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: 0x7IkWu8SZd8BPcV, device: pauli-path, run status: RUNNING, created on: 2026-09-23 18:41:12 UTC, estimated runtime: 360000000 ms, estimated cost: $0.00, num qubits: 19
+tracker|c6|mag pp_0.01 {'value': 0.0, 'wall_s': 1.8}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: RpXhyA5ToaF8Cvwt, device: pauli-path, run status: RUNNING, created on: 2026-09-23 18:41:14 UTC, estimated runtime: 360000000 ms, estimated cost: $0.00, num qubits: 19
+tracker|c6|mag pp_0.0003 {'value': 0.18641712118223785, 'wall_s': 2.9}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: lQIFbHi6saFlEgkw, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 18:41:17 UTC, estimated runtime: 10400 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+tracker|c6|mag mps_4 {'value': 0.7394752496717656, 'wall_s': 1.8}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: 15dzrJb5vulyLf1Y, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 18:41:18 UTC, estimated runtime: 19200 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+tracker|c6|mag mps_32 {'value': 0.5766924752479595, 'wall_s': 4.1}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: 8KUR9phvUwnGZKzC, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 18:41:23 UTC, estimated runtime: 141800 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+tracker|c6|mag mps_128 {'value': 0.4928138943889046, 'wall_s': 30.2}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: kjsG7MJN0U34tMIu, device: pauli-path, run status: RUNNING, created on: 2026-09-23 18:41:53 UTC, estimated runtime: 360000000 ms, estimated cost: $0.00, num qubits: 19
+tracker|c6|zzd2 pp_0.01 {'value': 0.0, 'wall_s': 1.8}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: j4C3n93Re5Sz3MvQ, device: pauli-path, run status: RUNNING, created on: 2026-09-23 18:41:54 UTC, estimated runtime: 360000000 ms, estimated cost: $0.00, num qubits: 19
+tracker|c6|zzd2 pp_0.0003 {'value': 0.039688629055108095, 'wall_s': 2.9}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: Ding1mFvGIlBOdvv, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 18:41:57 UTC, estimated runtime: 10400 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+tracker|c6|zzd2 mps_4 {'value': 0.5500555826689033, 'wall_s': 1.8}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: EnM7xpk7HpxFb0yn, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 18:41:59 UTC, estimated runtime: 19200 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+tracker|c6|zzd2 mps_32 {'value': 0.36876494855129693, 'wall_s': 5.1}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: wDbaDU52sQKpEVN9, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 18:42:04 UTC, estimated runtime: 141800 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+tracker|c6|zzd2 mps_128 {'value': 0.30441367046408097, 'wall_s': 30.5}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: I82jIqaI7sbc60D1, device: pauli-path, run status: RUNNING, created on: 2026-09-23 18:42:35 UTC, estimated runtime: 360000000 ms, estimated cost: $0.00, num qubits: 19
+tracker|c6|zzd3 pp_0.01 {'value': 0.0, 'wall_s': 1.8}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: oeovyHfzD0SCYl8m, device: pauli-path, run status: RUNNING, created on: 2026-09-23 18:42:37 UTC, estimated runtime: 360000000 ms, estimated cost: $0.00, num qubits: 19
+tracker|c6|zzd3 pp_0.0003 {'value': 0.0, 'wall_s': 1.8}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: SyHq1JIMisYnZeWC, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 18:42:38 UTC, estimated runtime: 10400 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+tracker|c6|zzd3 mps_4 {'value': 0.554215595280735, 'wall_s': 1.8}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: cdp1s94wcR2qk5DJ, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 18:42:40 UTC, estimated runtime: 19200 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+tracker|c6|zzd3 mps_32 {'value': 0.35244439385134035, 'wall_s': 5.1}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: 9I2C1ZJMbWmCW8GL, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 18:42:45 UTC, estimated runtime: 141800 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+tracker|c6|zzd3 mps_128 {'value': 0.2680869618316256, 'wall_s': 29.6}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: Pu5jJDLNiLULfPnW, device: pauli-path, run status: RUNNING, created on: 2026-09-23 18:43:15 UTC, estimated runtime: 360000000 ms, estimated cost: $0.00, num qubits: 19
+tracker|c8|mag pp_0.01 {'value': 0.0, 'wall_s': 1.7}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: IqHgIDLZGXoItS5A, device: pauli-path, run status: RUNNING, created on: 2026-09-23 18:43:17 UTC, estimated runtime: 360000000 ms, estimated cost: $0.00, num qubits: 19
+tracker|c8|mag pp_0.0003 {'value': 0.12978234577115613, 'wall_s': 2.8}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: ewAsqEInuYfXvN3V, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 18:43:19 UTC, estimated runtime: 12000 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+tracker|c8|mag mps_4 {'value': 0.7467186961300982, 'wall_s': 2.9}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: xUU980a97oIj3Z3y, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 18:43:22 UTC, estimated runtime: 21900 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+tracker|c8|mag mps_32 {'value': 0.7457110791550545, 'wall_s': 6.2}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: p5rH9CUqJZB2TPE8, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 18:43:28 UTC, estimated runtime: 343500 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+tracker|c8|mag mps_128 {'value': 0.5447862781022976, 'wall_s': 42.4}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: Pywty6kFxzbectYd, device: pauli-path, run status: RUNNING, created on: 2026-09-23 18:44:11 UTC, estimated runtime: 360000000 ms, estimated cost: $0.00, num qubits: 19
+tracker|c8|zzd2 pp_0.01 {'value': 0.0, 'wall_s': 1.8}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: t22COXBlJNZy1gtk, device: pauli-path, run status: RUNNING, created on: 2026-09-23 18:44:13 UTC, estimated runtime: 360000000 ms, estimated cost: $0.00, num qubits: 19
+tracker|c8|zzd2 pp_0.0003 {'value': 0.003068935222988602, 'wall_s': 2.8}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: ypxOxyHUmbZdVDqT, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 18:44:15 UTC, estimated runtime: 12000 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+tracker|c8|zzd2 mps_4 {'value': 0.5628425678401002, 'wall_s': 2.8}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: PJgHptkkTMfT3xjN, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 18:44:18 UTC, estimated runtime: 21900 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+tracker|c8|zzd2 mps_32 {'value': 0.6175770982558381, 'wall_s': 6.2}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: EXaDUfZsbj6WbBmL, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 18:44:24 UTC, estimated runtime: 343500 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+tracker|c8|zzd2 mps_128 {'value': 0.44481991204798604, 'wall_s': 43.9}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: 09Co1yt2Y08YEtXB, device: pauli-path, run status: RUNNING, created on: 2026-09-23 18:45:08 UTC, estimated runtime: 360000000 ms, estimated cost: $0.00, num qubits: 19
+tracker|c8|zzd3 pp_0.01 {'value': 0.0, 'wall_s': 1.7}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: ND7l0Njt20lFVhqW, device: pauli-path, run status: RUNNING, created on: 2026-09-23 18:45:10 UTC, estimated runtime: 360000000 ms, estimated cost: $0.00, num qubits: 19
+tracker|c8|zzd3 pp_0.0003 {'value': 0.0, 'wall_s': 1.7}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: O6kPHs8PptcHkpuT, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 18:45:12 UTC, estimated runtime: 12000 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+tracker|c8|zzd3 mps_4 {'value': 0.572432235693838, 'wall_s': 2.8}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: ynwAKXo4b0TE6MW1, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 18:45:15 UTC, estimated runtime: 21900 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+tracker|c8|zzd3 mps_32 {'value': 0.6062257829569885, 'wall_s': 6.2}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: ypKNT9Xm1CZ64zW1, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 18:45:21 UTC, estimated runtime: 343500 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+tracker|c8|zzd3 mps_128 {'value': 0.39212205242531895, 'wall_s': 41.7}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: eU7xsOK3EnLHttjG, device: pauli-path, run status: RUNNING, created on: 2026-09-23 18:46:02 UTC, estimated runtime: 360000000 ms, estimated cost: $0.00, num qubits: 19
+tracker|c10|mag pp_0.01 {'value': 0.0, 'wall_s': 1.7}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: mOFP2osed22ZhMUv, device: pauli-path, run status: RUNNING, created on: 2026-09-23 18:46:04 UTC, estimated runtime: 360000000 ms, estimated cost: $0.00, num qubits: 19
+tracker|c10|mag pp_0.0003 {'value': 0.14450342646775835, 'wall_s': 2.8}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: xzZRDRqnj3Sjm9yB, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 18:46:07 UTC, estimated runtime: 13500 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+tracker|c10|mag mps_4 {'value': 0.8088640280710423, 'wall_s': 2.8}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: OTemW1BJqheM3Go6, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 18:46:10 UTC, estimated runtime: 24400 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+tracker|c10|mag mps_32 {'value': 0.6563327494409512, 'wall_s': 7.5}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: 5VdGZ5zMfuCdKCbD, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 18:46:17 UTC, estimated runtime: 400900 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+tracker|c10|mag mps_128 {'value': 0.5425576642890202, 'wall_s': 60.4}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: 2HUSdeS5QR2q7dDU, device: pauli-path, run status: RUNNING, created on: 2026-09-23 18:47:18 UTC, estimated runtime: 360000000 ms, estimated cost: $0.00, num qubits: 19
+tracker|c10|zzd2 pp_0.01 {'value': 0.0, 'wall_s': 2.4}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: 14MazLjVyajraZOl, device: pauli-path, run status: RUNNING, created on: 2026-09-23 18:47:20 UTC, estimated runtime: 360000000 ms, estimated cost: $0.00, num qubits: 19
+tracker|c10|zzd2 pp_0.0003 {'value': 0.0, 'wall_s': 2.8}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: ZZ56gn4ZpVJqvaZz, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 18:47:23 UTC, estimated runtime: 13500 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+tracker|c10|zzd2 mps_4 {'value': 0.649619520859171, 'wall_s': 2.8}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: BRRu0fT4IGDOJHHb, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 18:47:26 UTC, estimated runtime: 24400 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+tracker|c10|zzd2 mps_32 {'value': 0.4755546478892178, 'wall_s': 7.3}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: 96swpjNGzHYv79Ou, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 18:47:34 UTC, estimated runtime: 400900 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+tracker|c10|zzd2 mps_128 {'value': 0.36613094479173275, 'wall_s': 54.5}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: hGrx1doiFl4wuMWo, device: pauli-path, run status: RUNNING, created on: 2026-09-23 18:48:27 UTC, estimated runtime: 360000000 ms, estimated cost: $0.00, num qubits: 19
+tracker|c10|zzd3 pp_0.01 {'value': 0.0, 'wall_s': 1.6}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: K8ZbFlHnsaszAD4s, device: pauli-path, run status: RUNNING, created on: 2026-09-23 18:48:29 UTC, estimated runtime: 360000000 ms, estimated cost: $0.00, num qubits: 19
+tracker|c10|zzd3 pp_0.0003 {'value': 0.0, 'wall_s': 2.8}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: T9DjMPItLntWYu4g, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 18:48:32 UTC, estimated runtime: 13500 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+tracker|c10|zzd3 mps_4 {'value': 0.6644933772736337, 'wall_s': 2.9}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: LH9wgv7npYtG7ihg, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 18:48:35 UTC, estimated runtime: 24400 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+tracker|c10|zzd3 mps_32 {'value': 0.466243775431346, 'wall_s': 7.3}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: T9pt7syj2jmJGCvC, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 18:48:42 UTC, estimated runtime: 400900 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+tracker|c10|zzd3 mps_128 {'value': 0.33189474763233406, 'wall_s': 51.8}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: hNZvaOJtVPXPtXfn, device: pauli-path, run status: RUNNING, created on: 2026-09-23 18:49:34 UTC, estimated runtime: 360000000 ms, estimated cost: $0.00, num qubits: 19
+tracker|c13|mag pp_0.01 {'value': 0.0, 'wall_s': 1.7}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: L0I0vFyiER8d4pkL, device: pauli-path, run status: RUNNING, created on: 2026-09-23 18:49:36 UTC, estimated runtime: 360000000 ms, estimated cost: $0.00, num qubits: 19
+tracker|c13|mag pp_0.0003 {'value': 0.1421530312237118, 'wall_s': 2.8}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: LKsimzfPMIIGObRL, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 18:49:38 UTC, estimated runtime: 15600 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+tracker|c13|mag mps_4 {'value': 0.8100701812184707, 'wall_s': 2.9}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: VpGL1VMmzvZTF1Kp, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 18:49:41 UTC, estimated runtime: 28100 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+tracker|c13|mag mps_32 {'value': 0.7841969429489063, 'wall_s': 8.5}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: ReMPZDtwENY04XYW, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 18:49:50 UTC, estimated runtime: 482800 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+tracker|c13|mag mps_128 {'value': 0.5840777123322963, 'wall_s': 65.0}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: txaqjKOeAJfIhMWX, device: pauli-path, run status: RUNNING, created on: 2026-09-23 18:50:55 UTC, estimated runtime: 360000000 ms, estimated cost: $0.00, num qubits: 19
+tracker|c13|zzd2 pp_0.01 {'value': 0.0, 'wall_s': 1.7}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: caEoOAReoOyjDvYZ, device: pauli-path, run status: RUNNING, created on: 2026-09-23 18:50:57 UTC, estimated runtime: 360000000 ms, estimated cost: $0.00, num qubits: 19
+tracker|c13|zzd2 pp_0.0003 {'value': 0.0, 'wall_s': 2.8}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: LVBhynqXiJjUHE6s, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 18:50:59 UTC, estimated runtime: 15600 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+tracker|c13|zzd2 mps_4 {'value': 0.6683027470273853, 'wall_s': 2.9}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: HqS6EMGRfiZYBEco, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 18:51:02 UTC, estimated runtime: 28100 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+tracker|c13|zzd2 mps_32 {'value': 0.6511925991234194, 'wall_s': 9.5}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: UZl2fsSDyC8xjGFK, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 18:51:12 UTC, estimated runtime: 482800 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+tracker|c13|zzd2 mps_128 {'value': 0.4860750157508219, 'wall_s': 71.4}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: 3NH9UlmzWSnT6oFJ, device: pauli-path, run status: RUNNING, created on: 2026-09-23 18:52:23 UTC, estimated runtime: 360000000 ms, estimated cost: $0.00, num qubits: 19
+tracker|c13|zzd3 pp_0.01 {'value': 0.0, 'wall_s': 1.7}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: IEXsqA2PKldq4u9h, device: pauli-path, run status: RUNNING, created on: 2026-09-23 18:52:25 UTC, estimated runtime: 360000000 ms, estimated cost: $0.00, num qubits: 19
+tracker|c13|zzd3 pp_0.0003 {'value': 0.0, 'wall_s': 2.8}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: Sm9UMYsXwjdU4zzZ, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 18:52:28 UTC, estimated runtime: 15600 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+tracker|c13|zzd3 mps_4 {'value': 0.6652650546395436, 'wall_s': 2.8}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: qEwxUBpR6pGTjx3J, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 18:52:31 UTC, estimated runtime: 28100 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+tracker|c13|zzd3 mps_32 {'value': 0.6431833679970909, 'wall_s': 10.4}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: hfeCSCbxS6Fiofif, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 18:52:41 UTC, estimated runtime: 482800 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+tracker|c13|zzd3 mps_128 {'value': 0.4348451979402271, 'wall_s': 75.4}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: zignCPcKNsFOECao, device: pauli-path, run status: RUNNING, created on: 2026-09-23 18:53:56 UTC, estimated runtime: 360000000 ms, estimated cost: $0.00, num qubits: 19
+tracker|c16|mag pp_0.01 {'value': 0.0, 'wall_s': 1.8}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: Nr4C7WZkhbxVcRIz, device: pauli-path, run status: RUNNING, created on: 2026-09-23 18:53:58 UTC, estimated runtime: 360000000 ms, estimated cost: $0.00, num qubits: 19
+tracker|c16|mag pp_0.0003 {'value': 0.13851534012296027, 'wall_s': 2.8}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: 3KyOiMvGQqUxyJzD, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 18:54:01 UTC, estimated runtime: 17500 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+tracker|c16|mag mps_4 {'value': 0.8062792667054893, 'wall_s': 3.4}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: jYLS3S6ZJuBjZB9p, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 18:54:04 UTC, estimated runtime: 31700 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+tracker|c16|mag mps_32 {'value': 0.8154862464452105, 'wall_s': 10.8}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: Gas5z7GIqiKvlDxG, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 18:54:15 UTC, estimated runtime: 561000 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+tracker|c16|mag mps_128 {'value': 0.6992360126507449, 'wall_s': 89.0}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: uMnX4Q4rsS479uou, device: pauli-path, run status: RUNNING, created on: 2026-09-23 18:55:44 UTC, estimated runtime: 360000000 ms, estimated cost: $0.00, num qubits: 19
+tracker|c16|zzd2 pp_0.01 {'value': 0.0, 'wall_s': 1.7}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: ePkXHPWcdOnJuIgC, device: pauli-path, run status: RUNNING, created on: 2026-09-23 18:55:46 UTC, estimated runtime: 360000000 ms, estimated cost: $0.00, num qubits: 19
+tracker|c16|zzd2 pp_0.0003 {'value': 0.0, 'wall_s': 2.8}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: G4qh9GR2xlXKLeTT, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 18:55:49 UTC, estimated runtime: 17500 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+tracker|c16|zzd2 mps_4 {'value': 0.6596784847200924, 'wall_s': 3.4}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: L4eM60NKEz3zwTmy, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 18:55:52 UTC, estimated runtime: 31700 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+tracker|c16|zzd2 mps_32 {'value': 0.6822341626977456, 'wall_s': 10.6}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: LNaUvoPcu8BgPrPT, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 18:56:03 UTC, estimated runtime: 561000 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+tracker|c16|zzd2 mps_128 {'value': 0.5835925583890004, 'wall_s': 90.7}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: jg3zSzpDNiF2HR1D, device: pauli-path, run status: RUNNING, created on: 2026-09-23 18:57:33 UTC, estimated runtime: 360000000 ms, estimated cost: $0.00, num qubits: 19
+tracker|c16|zzd3 pp_0.01 {'value': 0.0, 'wall_s': 1.8}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: 63XIpDZdG1zpdid4, device: pauli-path, run status: RUNNING, created on: 2026-09-23 18:57:35 UTC, estimated runtime: 360000000 ms, estimated cost: $0.00, num qubits: 19
+tracker|c16|zzd3 pp_0.0003 {'value': 0.0, 'wall_s': 2.8}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: 4EEVRtcNG8Rqko3n, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 18:57:38 UTC, estimated runtime: 17500 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+tracker|c16|zzd3 mps_4 {'value': 0.6634929683372129, 'wall_s': 2.9}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: KqFS8Si9KkCWSV2B, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 18:57:41 UTC, estimated runtime: 31700 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+tracker|c16|zzd3 mps_32 {'value': 0.6761626229018077, 'wall_s': 10.9}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: au3hNPzQtNB3ufmQ, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 18:57:52 UTC, estimated runtime: 561000 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+tracker|c16|zzd3 mps_128 {'value': 0.5439001203121713, 'wall_s': 87.2}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: FjXD2jQYYiIgDpyp, device: pauli-path, run status: RUNNING, created on: 2026-09-23 18:59:19 UTC, estimated runtime: 360000000 ms, estimated cost: $0.00, num qubits: 19
+c47|c1|mag pp_0.01 {'value': 0.0, 'wall_s': 1.6}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: tSI7Lci7u1Y3R5x1, device: pauli-path, run status: RUNNING, created on: 2026-09-23 18:59:20 UTC, estimated runtime: 360000000 ms, estimated cost: $0.00, num qubits: 19
+c47|c1|mag pp_0.0003 {'value': -0.025000969444844732, 'wall_s': 1.7}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: DJhAky1a1WyCIPVX, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 18:59:22 UTC, estimated runtime: 6600 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+c47|c1|mag mps_4 {'value': -0.08741567648207864, 'wall_s': 1.7}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: MOthDnvxCqxo1azJ, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 18:59:24 UTC, estimated runtime: 19900 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+c47|c1|mag mps_32 {'value': -0.04848703797311912, 'wall_s': 1.6}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: Wt70UqjOdnfdyp2I, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 18:59:25 UTC, estimated runtime: 33700 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+c47|c1|mag mps_128 {'value': -0.031245555646948548, 'wall_s': 2.8}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: pDLRVLv0GRxYGV3H, device: pauli-path, run status: RUNNING, created on: 2026-09-23 18:59:28 UTC, estimated runtime: 360000000 ms, estimated cost: $0.00, num qubits: 19
+c47|c1|zzd2 pp_0.01 {'value': 0.0, 'wall_s': 1.7}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: Hs3bZmjiJ94TSWNX, device: pauli-path, run status: RUNNING, created on: 2026-09-23 18:59:30 UTC, estimated runtime: 360000000 ms, estimated cost: $0.00, num qubits: 19
+c47|c1|zzd2 pp_0.0003 {'value': 0.0, 'wall_s': 1.6}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: Cssg25wJNR63jRhR, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 18:59:31 UTC, estimated runtime: 6600 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+c47|c1|zzd2 mps_4 {'value': 0.005314112259483266, 'wall_s': 1.7}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: xH49kAjdG0Z7nZQi, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 18:59:33 UTC, estimated runtime: 19900 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+c47|c1|zzd2 mps_32 {'value': -0.00090672082178089, 'wall_s': 1.9}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: nMYUgJzufEiZud5g, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 18:59:35 UTC, estimated runtime: 33700 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+c47|c1|zzd2 mps_128 {'value': -0.0004208634656698085, 'wall_s': 2.9}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: fZeZCWdhh5ECySgt, device: pauli-path, run status: RUNNING, created on: 2026-09-23 18:59:38 UTC, estimated runtime: 360000000 ms, estimated cost: $0.00, num qubits: 19
+c47|c1|zzd3 pp_0.01 {'value': 0.0, 'wall_s': 1.7}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: 0iwIRBzP7WVLBvfv, device: pauli-path, run status: RUNNING, created on: 2026-09-23 18:59:40 UTC, estimated runtime: 360000000 ms, estimated cost: $0.00, num qubits: 19
+c47|c1|zzd3 pp_0.0003 {'value': 0.0, 'wall_s': 1.7}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: fE9dqRAnTKXHZJVs, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 18:59:41 UTC, estimated runtime: 6600 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+c47|c1|zzd3 mps_4 {'value': 0.006964814731019214, 'wall_s': 1.7}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: 2IGB2QuY11tq8u8K, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 18:59:43 UTC, estimated runtime: 19900 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+c47|c1|zzd3 mps_32 {'value': 0.0003977461654215441, 'wall_s': 1.8}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: vHuzDpN1vrNDBQFS, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 18:59:45 UTC, estimated runtime: 33700 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+c47|c1|zzd3 mps_128 {'value': 0.00151095236045186, 'wall_s': 3.9}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: uRkoAPMZkH5r26IC, device: pauli-path, run status: RUNNING, created on: 2026-09-23 18:59:49 UTC, estimated runtime: 360000000 ms, estimated cost: $0.00, num qubits: 19
+c47|c2|mag pp_0.01 {'value': -0.220671278724849, 'wall_s': 1.7}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: T58ces4qnOYkMA4I, device: pauli-path, run status: RUNNING, created on: 2026-09-23 18:59:50 UTC, estimated runtime: 360000000 ms, estimated cost: $0.00, num qubits: 19
+c47|c2|mag pp_0.0003 {'value': -0.24470767878743716, 'wall_s': 1.8}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: wUG40H0OS4NRk2tV, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 18:59:52 UTC, estimated runtime: 6600 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+c47|c2|mag mps_4 {'value': -0.8209013658028435, 'wall_s': 1.7}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: Z02kMgun1LmE4NKi, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 18:59:54 UTC, estimated runtime: 16600 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+c47|c2|mag mps_32 {'value': -0.504779340428986, 'wall_s': 2.8}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: fpkFDNAmf6SUoNn4, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 18:59:57 UTC, estimated runtime: 59900 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+c47|c2|mag mps_128 {'value': -0.32573607258509374, 'wall_s': 7.2}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: Bu0wlKpYUR078eLM, device: pauli-path, run status: RUNNING, created on: 2026-09-23 19:00:04 UTC, estimated runtime: 360000000 ms, estimated cost: $0.00, num qubits: 19
+c47|c2|zzd2 pp_0.01 {'value': 0.0, 'wall_s': 1.7}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: hXYm5tgM67RabVOY, device: pauli-path, run status: RUNNING, created on: 2026-09-23 19:00:06 UTC, estimated runtime: 360000000 ms, estimated cost: $0.00, num qubits: 19
+c47|c2|zzd2 pp_0.0003 {'value': 0.061183794617023536, 'wall_s': 1.7}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: ac54ddizatbzhgY3, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 19:00:07 UTC, estimated runtime: 6600 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+c47|c2|zzd2 mps_4 {'value': 0.6625074223656813, 'wall_s': 1.7}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: lzA22PbwH7ZTOpD5, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 19:00:09 UTC, estimated runtime: 16600 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+c47|c2|zzd2 mps_32 {'value': 0.24090592163679345, 'wall_s': 2.8}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: oVGY361itfILzHus, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 19:00:12 UTC, estimated runtime: 59900 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+c47|c2|zzd2 mps_128 {'value': 0.0941053427271261, 'wall_s': 7.3}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: Yvpzqik3U4Ujm8Uk, device: pauli-path, run status: RUNNING, created on: 2026-09-23 19:00:19 UTC, estimated runtime: 360000000 ms, estimated cost: $0.00, num qubits: 19
+c47|c2|zzd3 pp_0.01 {'value': 0.0, 'wall_s': 1.7}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: r1ol1194l7sKRPrE, device: pauli-path, run status: RUNNING, created on: 2026-09-23 19:00:21 UTC, estimated runtime: 360000000 ms, estimated cost: $0.00, num qubits: 19
+c47|c2|zzd3 pp_0.0003 {'value': 0.050495541681378237, 'wall_s': 1.7}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: v41oMrMKXkmEUBy1, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 19:00:23 UTC, estimated runtime: 6600 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+c47|c2|zzd3 mps_4 {'value': 0.6713617343923237, 'wall_s': 1.7}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: yzVuJhHoeHLBD5kO, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 19:00:24 UTC, estimated runtime: 16600 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+c47|c2|zzd3 mps_32 {'value': 0.22806685357924414, 'wall_s': 2.8}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: Z6pvXwiIuyzLMVpW, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 19:00:27 UTC, estimated runtime: 59900 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+c47|c2|zzd3 mps_128 {'value': 0.08131600791386057, 'wall_s': 7.2}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: 9n8whoWboXrO88Bc, device: pauli-path, run status: RUNNING, created on: 2026-09-23 19:00:34 UTC, estimated runtime: 360000000 ms, estimated cost: $0.00, num qubits: 19
+c47|c3|mag pp_0.01 {'value': 0.0, 'wall_s': 1.8}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: KvvHv5b2ZeoFsm9m, device: pauli-path, run status: RUNNING, created on: 2026-09-23 19:00:36 UTC, estimated runtime: 360000000 ms, estimated cost: $0.00, num qubits: 19
+c47|c3|mag pp_0.0003 {'value': -0.015209370437217495, 'wall_s': 1.7}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: Igx96VAH2UZSCnSq, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 19:00:38 UTC, estimated runtime: 7600 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+c47|c3|mag mps_4 {'value': 0.22820423387174207, 'wall_s': 1.8}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: Rm4Bel9IckHvh0VE, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 19:00:40 UTC, estimated runtime: 19300 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+c47|c3|mag mps_32 {'value': 0.011060202632053432, 'wall_s': 2.8}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: Q9iv3sLsqNMAqCp6, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 19:00:42 UTC, estimated runtime: 81000 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+c47|c3|mag mps_128 {'value': -0.015085538091583743, 'wall_s': 12.9}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: QLIbhNlp0Dn4fphR, device: pauli-path, run status: RUNNING, created on: 2026-09-23 19:00:56 UTC, estimated runtime: 360000000 ms, estimated cost: $0.00, num qubits: 19
+c47|c3|zzd2 pp_0.01 {'value': 0.0, 'wall_s': 2.3}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: hSVZcFl7iWxi1Mf5, device: pauli-path, run status: RUNNING, created on: 2026-09-23 19:00:58 UTC, estimated runtime: 360000000 ms, estimated cost: $0.00, num qubits: 19
+c47|c3|zzd2 pp_0.0003 {'value': 0.04462876615371987, 'wall_s': 2.3}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: asw9ZqfLHKORTPVX, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 19:01:00 UTC, estimated runtime: 7600 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+c47|c3|zzd2 mps_4 {'value': 0.11067415390682937, 'wall_s': 1.7}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: QR2MF2WFyfA4yzu6, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 19:01:02 UTC, estimated runtime: 19300 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+c47|c3|zzd2 mps_32 {'value': 0.11998253730236741, 'wall_s': 2.8}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: TLpiRWi8RIUBh2ye, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 19:01:04 UTC, estimated runtime: 81000 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+c47|c3|zzd2 mps_128 {'value': 0.08227713658239008, 'wall_s': 11.7}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: 0mD5cyhSsmzqGRG6, device: pauli-path, run status: RUNNING, created on: 2026-09-23 19:01:16 UTC, estimated runtime: 360000000 ms, estimated cost: $0.00, num qubits: 19
+c47|c3|zzd3 pp_0.01 {'value': 0.0, 'wall_s': 1.8}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: H5zho89QcWKAMEl2, device: pauli-path, run status: RUNNING, created on: 2026-09-23 19:01:18 UTC, estimated runtime: 360000000 ms, estimated cost: $0.00, num qubits: 19
+c47|c3|zzd3 pp_0.0003 {'value': 0.010323733122995126, 'wall_s': 1.7}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: ALsaUWKz3aOQOCMC, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 19:01:21 UTC, estimated runtime: 7600 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+c47|c3|zzd3 mps_4 {'value': 0.06164411930961857, 'wall_s': 2.8}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: CtkAoUnXpcxYialc, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 19:01:22 UTC, estimated runtime: 19300 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+c47|c3|zzd3 mps_32 {'value': 0.07329594459666751, 'wall_s': 2.8}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: CMkZvFoijkAtY4M9, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 19:01:25 UTC, estimated runtime: 81000 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+c47|c3|zzd3 mps_128 {'value': 0.039396435673704135, 'wall_s': 11.6}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: YxSboFwuHYSb5Dqx, device: pauli-path, run status: RUNNING, created on: 2026-09-23 19:01:37 UTC, estimated runtime: 360000000 ms, estimated cost: $0.00, num qubits: 19
+c47|c4|mag pp_0.01 {'value': 0.0, 'wall_s': 1.8}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: Hg4eIP41Fut0xrRW, device: pauli-path, run status: RUNNING, created on: 2026-09-23 19:01:39 UTC, estimated runtime: 360000000 ms, estimated cost: $0.00, num qubits: 19
+c47|c4|mag pp_0.0003 {'value': 0.04553471877102031, 'wall_s': 1.9}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: t3ZOrOAx9HPwUiXT, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 19:01:41 UTC, estimated runtime: 8600 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+c47|c4|mag mps_4 {'value': 0.7142056906625273, 'wall_s': 1.8}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: a9bzvPfYA4oDNBWk, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 19:01:42 UTC, estimated runtime: 21700 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+c47|c4|mag mps_32 {'value': 0.6180586389009808, 'wall_s': 4.0}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: 4GNoOuIDI4bOMqS7, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 19:01:46 UTC, estimated runtime: 101600 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+c47|c4|mag mps_128 {'value': 0.31917644699274456, 'wall_s': 18.4}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: C1d1n9vfOmCq6no8, device: pauli-path, run status: RUNNING, created on: 2026-09-23 19:02:05 UTC, estimated runtime: 360000000 ms, estimated cost: $0.00, num qubits: 19
+c47|c4|zzd2 pp_0.01 {'value': 0.0, 'wall_s': 1.8}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: aytDDhoIOdPGRIfN, device: pauli-path, run status: RUNNING, created on: 2026-09-23 19:02:07 UTC, estimated runtime: 360000000 ms, estimated cost: $0.00, num qubits: 19
+c47|c4|zzd2 pp_0.0003 {'value': 0.08718000282676887, 'wall_s': 2.9}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: NVKTumvFLyYqVfm0, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 19:02:10 UTC, estimated runtime: 8600 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+c47|c4|zzd2 mps_4 {'value': 0.462363889058497, 'wall_s': 1.7}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: 9UiC4khoMsZALfYb, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 19:02:11 UTC, estimated runtime: 21700 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+c47|c4|zzd2 mps_32 {'value': 0.4148071173159135, 'wall_s': 4.0}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: CBFlpZ6z581cV6ge, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 19:02:15 UTC, estimated runtime: 101600 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+c47|c4|zzd2 mps_128 {'value': 0.22440481142533547, 'wall_s': 17.2}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: jSjqLU7BLQ4qnYSE, device: pauli-path, run status: RUNNING, created on: 2026-09-23 19:02:32 UTC, estimated runtime: 360000000 ms, estimated cost: $0.00, num qubits: 19
+c47|c4|zzd3 pp_0.01 {'value': 0.0, 'wall_s': 1.7}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: u1S1L1ceDrFTXfsM, device: pauli-path, run status: RUNNING, created on: 2026-09-23 19:02:34 UTC, estimated runtime: 360000000 ms, estimated cost: $0.00, num qubits: 19
+c47|c4|zzd3 pp_0.0003 {'value': 0.008507742202909783, 'wall_s': 3.3}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: O7xLYTSP8XdJUMfB, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 19:02:37 UTC, estimated runtime: 8600 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+c47|c4|zzd3 mps_4 {'value': 0.47109270454480257, 'wall_s': 1.7}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: xnW40zjtM97kG0hg, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 19:02:39 UTC, estimated runtime: 21700 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+c47|c4|zzd3 mps_32 {'value': 0.38881273892125706, 'wall_s': 2.9}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: r6oj28hOI9uK9Pnv, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 19:02:42 UTC, estimated runtime: 101600 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+c47|c4|zzd3 mps_128 {'value': 0.14121509918612254, 'wall_s': 17.3}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: vC35AuJcF2LM3Z6D, device: pauli-path, run status: RUNNING, created on: 2026-09-23 19:02:59 UTC, estimated runtime: 360000000 ms, estimated cost: $0.00, num qubits: 19
+c47|c6|mag pp_0.01 {'value': 0.0, 'wall_s': 1.8}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: djyB832rmfy9EUoM, device: pauli-path, run status: RUNNING, created on: 2026-09-23 19:03:01 UTC, estimated runtime: 360000000 ms, estimated cost: $0.00, num qubits: 19
+c47|c6|mag pp_0.0003 {'value': -0.013318904895121306, 'wall_s': 2.9}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: 85Nt9gRDNVLQHdWM, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 19:03:04 UTC, estimated runtime: 10400 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+c47|c6|mag mps_4 {'value': -0.6285000609499778, 'wall_s': 1.8}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: o7z8U9TVHuJtVmim, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 19:03:06 UTC, estimated runtime: 19200 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+c47|c6|mag mps_32 {'value': -0.6465784653146236, 'wall_s': 5.1}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: T1Q2f0rgFO241ffV, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 19:03:11 UTC, estimated runtime: 141800 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+c47|c6|mag mps_128 {'value': -0.41082904053374847, 'wall_s': 26.4}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: FuR0TjUxXtZKd85X, device: pauli-path, run status: RUNNING, created on: 2026-09-23 19:03:37 UTC, estimated runtime: 360000000 ms, estimated cost: $0.00, num qubits: 19
+c47|c6|zzd2 pp_0.01 {'value': 0.0, 'wall_s': 1.9}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: De3A8PtUMi7uc8NM, device: pauli-path, run status: RUNNING, created on: 2026-09-23 19:03:39 UTC, estimated runtime: 360000000 ms, estimated cost: $0.00, num qubits: 19
+c47|c6|zzd2 pp_0.0003 {'value': 0.01867020428729114, 'wall_s': 3.0}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: GQ1OqTrlgMCqPesA, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 19:03:42 UTC, estimated runtime: 10400 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+c47|c6|zzd2 mps_4 {'value': 0.3988028555796224, 'wall_s': 2.9}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: F8HB1WJaTz0T2Oyr, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 19:03:45 UTC, estimated runtime: 19200 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+c47|c6|zzd2 mps_32 {'value': 0.42167062935453714, 'wall_s': 5.2}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: BXsSd8CdFR7jN0Ku, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 19:03:50 UTC, estimated runtime: 141800 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+c47|c6|zzd2 mps_128 {'value': 0.22447255856904025, 'wall_s': 30.5}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: Eqf1I18LqiSCOj5P, device: pauli-path, run status: RUNNING, created on: 2026-09-23 19:04:21 UTC, estimated runtime: 360000000 ms, estimated cost: $0.00, num qubits: 19
+c47|c6|zzd3 pp_0.01 {'value': 0.0, 'wall_s': 1.8}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: 4ecxB6rtTHdXWd46, device: pauli-path, run status: RUNNING, created on: 2026-09-23 19:04:23 UTC, estimated runtime: 360000000 ms, estimated cost: $0.00, num qubits: 19
+c47|c6|zzd3 pp_0.0003 {'value': 0.0008886650825987391, 'wall_s': 2.9}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: yH2A1f7PXFyqcYge, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 19:04:26 UTC, estimated runtime: 10400 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+c47|c6|zzd3 mps_4 {'value': 0.3962612394303402, 'wall_s': 1.9}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: 26Al9HPEvD4cN61D, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 19:04:28 UTC, estimated runtime: 19200 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+c47|c6|zzd3 mps_32 {'value': 0.4057740562188937, 'wall_s': 4.1}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: WwOZatMWrbvMKwA7, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 19:04:32 UTC, estimated runtime: 141800 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+c47|c6|zzd3 mps_128 {'value': 0.18293429649115742, 'wall_s': 32.9}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: wiyknOY3NaVLR0SZ, device: pauli-path, run status: RUNNING, created on: 2026-09-23 19:05:05 UTC, estimated runtime: 360000000 ms, estimated cost: $0.00, num qubits: 19
+c47|c8|mag pp_0.01 {'value': 0.0, 'wall_s': 1.7}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: 5mm8NOFVxKBR8x5j, device: pauli-path, run status: RUNNING, created on: 2026-09-23 19:05:06 UTC, estimated runtime: 360000000 ms, estimated cost: $0.00, num qubits: 19
+c47|c8|mag pp_0.0003 {'value': -0.008760303309156715, 'wall_s': 2.8}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: bBZIkpUHHsT5crvi, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 19:05:09 UTC, estimated runtime: 12000 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+c47|c8|mag mps_4 {'value': 0.4354897279904111, 'wall_s': 2.8}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: AQXsayBqQbhieEd8, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 19:05:12 UTC, estimated runtime: 21900 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+c47|c8|mag mps_32 {'value': 0.6706016288432468, 'wall_s': 7.3}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: K2TDmuwuJGnECYQW, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 19:05:19 UTC, estimated runtime: 343500 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+c47|c8|mag mps_128 {'value': 0.44925376131541483, 'wall_s': 43.9}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: 5kACb3RneVe2WOTA, device: pauli-path, run status: RUNNING, created on: 2026-09-23 19:06:03 UTC, estimated runtime: 360000000 ms, estimated cost: $0.00, num qubits: 19
+c47|c8|zzd2 pp_0.01 {'value': 0.0, 'wall_s': 1.7}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: W24EaLhR3jlW8Noy, device: pauli-path, run status: RUNNING, created on: 2026-09-23 19:06:05 UTC, estimated runtime: 360000000 ms, estimated cost: $0.00, num qubits: 19
+c47|c8|zzd2 pp_0.0003 {'value': 0.01020260347113326, 'wall_s': 2.8}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: GzY68rnd6XBgJnzF, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 19:06:08 UTC, estimated runtime: 12000 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+c47|c8|zzd2 mps_4 {'value': 0.2509960643443816, 'wall_s': 2.8}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: O1w5cN8WLuxnAZJM, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 19:06:10 UTC, estimated runtime: 21900 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+c47|c8|zzd2 mps_32 {'value': 0.46861298006075824, 'wall_s': 6.2}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: XVUPTBEXQPUR3sIu, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 19:06:17 UTC, estimated runtime: 343500 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+c47|c8|zzd2 mps_128 {'value': 0.2802117611070165, 'wall_s': 42.8}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: CuZeW9l82NFDWHj9, device: pauli-path, run status: RUNNING, created on: 2026-09-23 19:06:59 UTC, estimated runtime: 360000000 ms, estimated cost: $0.00, num qubits: 19
+c47|c8|zzd3 pp_0.01 {'value': 0.0, 'wall_s': 1.8}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: gKsrw8ut0zSGHMSL, device: pauli-path, run status: RUNNING, created on: 2026-09-23 19:07:01 UTC, estimated runtime: 360000000 ms, estimated cost: $0.00, num qubits: 19
+c47|c8|zzd3 pp_0.0003 {'value': 0.0, 'wall_s': 2.8}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: S3fYgyaKb5VbZv0p, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 19:07:04 UTC, estimated runtime: 12000 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+c47|c8|zzd3 mps_4 {'value': 0.13580142204191437, 'wall_s': 2.8}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: dE9J0TC0WdD5An8k, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 19:07:07 UTC, estimated runtime: 21900 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+c47|c8|zzd3 mps_32 {'value': 0.43368962759461227, 'wall_s': 6.1}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: um9wz4c3nCEZfAt9, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 19:07:13 UTC, estimated runtime: 343500 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+c47|c8|zzd3 mps_128 {'value': 0.23072844788643582, 'wall_s': 45.1}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: SBbNZXiyJMs90eHN, device: pauli-path, run status: RUNNING, created on: 2026-09-23 19:07:58 UTC, estimated runtime: 360000000 ms, estimated cost: $0.00, num qubits: 19
+c47|c10|mag pp_0.01 {'value': 0.0, 'wall_s': 1.7}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: gqyRV6VJMBHlcjd3, device: pauli-path, run status: RUNNING, created on: 2026-09-23 19:08:00 UTC, estimated runtime: 360000000 ms, estimated cost: $0.00, num qubits: 19
+c47|c10|mag pp_0.0003 {'value': -0.0023417044649620203, 'wall_s': 3.9}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: 927WxnCbLC6jQMMe, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 19:08:04 UTC, estimated runtime: 13500 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+c47|c10|mag mps_4 {'value': -0.46214650918647554, 'wall_s': 2.8}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: eAi4UJ3oznh8eI8c, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 19:08:06 UTC, estimated runtime: 24400 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+c47|c10|mag mps_32 {'value': -0.6348012270621892, 'wall_s': 7.2}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: lzKP6EjUDLsRnF5C, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 19:08:14 UTC, estimated runtime: 400900 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+c47|c10|mag mps_128 {'value': -0.5333431222359146, 'wall_s': 54.1}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: IuQQ4YQZVMOheNgx, device: pauli-path, run status: RUNNING, created on: 2026-09-23 19:09:08 UTC, estimated runtime: 360000000 ms, estimated cost: $0.00, num qubits: 19
+c47|c10|zzd2 pp_0.01 {'value': 0.0, 'wall_s': 1.7}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: UlZVxd8GAlhw2LJ8, device: pauli-path, run status: RUNNING, created on: 2026-09-23 19:09:09 UTC, estimated runtime: 360000000 ms, estimated cost: $0.00, num qubits: 19
+c47|c10|zzd2 pp_0.0003 {'value': 0.0015111222282340186, 'wall_s': 2.7}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: 1YMnhz8SO1z8UJet, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 19:09:12 UTC, estimated runtime: 13500 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+c47|c10|zzd2 mps_4 {'value': 0.24413223003163215, 'wall_s': 2.8}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: 0Dzpnxh4lNBxFlQ3, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 19:09:15 UTC, estimated runtime: 24400 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+c47|c10|zzd2 mps_32 {'value': 0.406653349209895, 'wall_s': 8.3}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: Txfp2Qh8X7fuhPip, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 19:09:23 UTC, estimated runtime: 400900 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+c47|c10|zzd2 mps_128 {'value': 0.321833479977856, 'wall_s': 60.4}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: mFVa3lnpWGr76V29, device: pauli-path, run status: RUNNING, created on: 2026-09-23 19:10:24 UTC, estimated runtime: 360000000 ms, estimated cost: $0.00, num qubits: 19
+c47|c10|zzd3 pp_0.01 {'value': 0.0, 'wall_s': 1.7}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: AxwYORAx6RH6Swcg, device: pauli-path, run status: RUNNING, created on: 2026-09-23 19:10:25 UTC, estimated runtime: 360000000 ms, estimated cost: $0.00, num qubits: 19
+c47|c10|zzd3 pp_0.0003 {'value': 0.0, 'wall_s': 2.8}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: irM0d3WFRTLo4c7o, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 19:10:28 UTC, estimated runtime: 13500 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+c47|c10|zzd3 mps_4 {'value': 0.19202696270700553, 'wall_s': 2.9}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: 7QoUf6rFKoK8s7KQ, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 19:10:31 UTC, estimated runtime: 24400 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+c47|c10|zzd3 mps_32 {'value': 0.39230949544594323, 'wall_s': 8.4}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: OHw6bYObq8VBSyFF, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 19:10:40 UTC, estimated runtime: 400900 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+c47|c10|zzd3 mps_128 {'value': 0.2954480396627621, 'wall_s': 58.3}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: bf02zXO1fQGQn5oT, device: pauli-path, run status: RUNNING, created on: 2026-09-23 19:11:38 UTC, estimated runtime: 360000000 ms, estimated cost: $0.00, num qubits: 19
+c47|c13|mag pp_0.01 {'value': 0.0, 'wall_s': 1.7}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: Uz12egxRMwiZbT5I, device: pauli-path, run status: RUNNING, created on: 2026-09-23 19:11:40 UTC, estimated runtime: 360000000 ms, estimated cost: $0.00, num qubits: 19
+c47|c13|mag pp_0.0003 {'value': -0.0003902242229073836, 'wall_s': 3.9}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: tuFEXvtR8yWS7ggY, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 19:11:44 UTC, estimated runtime: 15600 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+c47|c13|mag mps_4 {'value': -0.6671992710964816, 'wall_s': 3.5}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: UpaVckN4KC1RdYrR, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 19:11:47 UTC, estimated runtime: 28100 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+c47|c13|mag mps_32 {'value': -0.3609790053746864, 'wall_s': 9.7}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: zQe9BflAwNSwAHAT, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 19:11:57 UTC, estimated runtime: 482800 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+c47|c13|mag mps_128 {'value': -0.04667762376730227, 'wall_s': 76.9}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: Hg55xROsVtRIZWLs, device: pauli-path, run status: RUNNING, created on: 2026-09-23 19:13:14 UTC, estimated runtime: 360000000 ms, estimated cost: $0.00, num qubits: 19
+c47|c13|zzd2 pp_0.01 {'value': 0.0, 'wall_s': 1.7}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: 6kzZu5VUB2zd2q2x, device: pauli-path, run status: RUNNING, created on: 2026-09-23 19:13:15 UTC, estimated runtime: 360000000 ms, estimated cost: $0.00, num qubits: 19
+c47|c13|zzd2 pp_0.0003 {'value': 0.0, 'wall_s': 2.8}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: HHIezUhMyi3RXIQD, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 19:13:18 UTC, estimated runtime: 15600 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+c47|c13|zzd2 mps_4 {'value': 0.40563641696218183, 'wall_s': 2.9}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: S4M3Eqg39QA8HZ6p, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 19:13:21 UTC, estimated runtime: 28100 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+c47|c13|zzd2 mps_32 {'value': 0.2046167755967122, 'wall_s': 10.6}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: ucLO79RzbtxAzedo, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 19:13:32 UTC, estimated runtime: 482800 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+c47|c13|zzd2 mps_128 {'value': 0.1802714778501809, 'wall_s': 74.8}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: Ub5xCcuCBDFcZdJW, device: pauli-path, run status: RUNNING, created on: 2026-09-23 19:14:47 UTC, estimated runtime: 360000000 ms, estimated cost: $0.00, num qubits: 19
+c47|c13|zzd3 pp_0.01 {'value': 0.0, 'wall_s': 1.8}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: 1vFkVUm6IufKW2bB, device: pauli-path, run status: RUNNING, created on: 2026-09-23 19:14:48 UTC, estimated runtime: 360000000 ms, estimated cost: $0.00, num qubits: 19
+c47|c13|zzd3 pp_0.0003 {'value': 0.0, 'wall_s': 2.8}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: E8y7P9TUjvhiLrYZ, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 19:14:51 UTC, estimated runtime: 15600 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+c47|c13|zzd3 mps_4 {'value': 0.44005200438266534, 'wall_s': 2.9}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: h8dfQwegqSntTTZh, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 19:14:54 UTC, estimated runtime: 28100 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+c47|c13|zzd3 mps_32 {'value': 0.16195701600676557, 'wall_s': 9.5}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: P6TYrm2vRsxR6I7e, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 19:15:04 UTC, estimated runtime: 482800 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+c47|c13|zzd3 mps_128 {'value': 0.12035785443362186, 'wall_s': 76.5}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: 8zniDwJpkJvDSEpu, device: pauli-path, run status: RUNNING, created on: 2026-09-23 19:16:20 UTC, estimated runtime: 360000000 ms, estimated cost: $0.00, num qubits: 19
+c47|c16|mag pp_0.01 {'value': 0.0, 'wall_s': 1.7}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: HixOzLRbkssPHD6I, device: pauli-path, run status: RUNNING, created on: 2026-09-23 19:16:22 UTC, estimated runtime: 360000000 ms, estimated cost: $0.00, num qubits: 19
+c47|c16|mag pp_0.0003 {'value': 0.0, 'wall_s': 3.9}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: g1QsVPNU8F064dWs, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 19:16:26 UTC, estimated runtime: 17500 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+c47|c16|mag mps_4 {'value': 0.38111889569740437, 'wall_s': 3.0}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: LwtpFCpN5dhMewSk, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 19:16:29 UTC, estimated runtime: 31700 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+c47|c16|mag mps_32 {'value': 0.5649635225565686, 'wall_s': 12.9}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: BTZsgQ8u0aHTvD0s, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 19:16:42 UTC, estimated runtime: 561000 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+c47|c16|mag mps_128 {'value': 0.5509069925405138, 'wall_s': 94.7}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: i4HKFNrqo8exuAKY, device: pauli-path, run status: RUNNING, created on: 2026-09-23 19:18:16 UTC, estimated runtime: 360000000 ms, estimated cost: $0.00, num qubits: 19
+c47|c16|zzd2 pp_0.01 {'value': 0.0, 'wall_s': 1.8}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: 20AVWch2gR6O8Ryb, device: pauli-path, run status: RUNNING, created on: 2026-09-23 19:18:18 UTC, estimated runtime: 360000000 ms, estimated cost: $0.00, num qubits: 19
+c47|c16|zzd2 pp_0.0003 {'value': 0.0, 'wall_s': 2.9}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: KDxYxtfYITF5ie0t, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 19:18:21 UTC, estimated runtime: 17500 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+c47|c16|zzd2 mps_4 {'value': 0.179001394424402, 'wall_s': 3.1}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: Oior0L1nwmnJdKBr, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 19:18:25 UTC, estimated runtime: 31700 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+c47|c16|zzd2 mps_32 {'value': 0.33171809434228716, 'wall_s': 11.2}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: vOIjGaMv2iU3n3Vq, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 19:18:36 UTC, estimated runtime: 561000 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+c47|c16|zzd2 mps_128 {'value': 0.33238983912153225, 'wall_s': 96.1}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: E0hf01F2Z5abyplw, device: pauli-path, run status: RUNNING, created on: 2026-09-23 19:20:12 UTC, estimated runtime: 360000000 ms, estimated cost: $0.00, num qubits: 19
+c47|c16|zzd3 pp_0.01 {'value': 0.0, 'wall_s': 1.7}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: KpCd1VXOxB3uDDgA, device: pauli-path, run status: RUNNING, created on: 2026-09-23 19:20:13 UTC, estimated runtime: 360000000 ms, estimated cost: $0.00, num qubits: 19
+c47|c16|zzd3 pp_0.0003 {'value': 0.0, 'wall_s': 2.8}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: Zep5Lg2y5vX2TliO, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 19:20:16 UTC, estimated runtime: 17500 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+c47|c16|zzd3 mps_4 {'value': 0.1661030820767992, 'wall_s': 2.9}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: SICFUEELuyr0RPcA, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 19:20:19 UTC, estimated runtime: 31700 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+c47|c16|zzd3 mps_32 {'value': 0.3116750165593713, 'wall_s': 11.7}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: 5nO0wf40RNSkSpTg, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 19:20:31 UTC, estimated runtime: 561000 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+c47|c16|zzd3 mps_128 {'value': 0.30275337954418535, 'wall_s': 96.3}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: g8DYEADwNXzU0wTu, device: pauli-path, run status: RUNNING, created on: 2026-09-23 19:22:07 UTC, estimated runtime: 360000000 ms, estimated cost: $0.00, num qubits: 19
+c24|c1|mag pp_0.01 {'value': -0.10288206146196999, 'wall_s': 1.7}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: yU21BBSzoC2Wg95l, device: pauli-path, run status: RUNNING, created on: 2026-09-23 19:22:09 UTC, estimated runtime: 360000000 ms, estimated cost: $0.00, num qubits: 19
+c24|c1|mag pp_0.0003 {'value': 0.06764045663887525, 'wall_s': 1.8}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: ANWPiCkf4RQC45H6, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 19:22:11 UTC, estimated runtime: 6600 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+c24|c1|mag mps_4 {'value': 0.16133596027791547, 'wall_s': 1.7}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: XR3BFsbYu0N0lF99, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 19:22:12 UTC, estimated runtime: 19900 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+c24|c1|mag mps_32 {'value': 0.1023540199504606, 'wall_s': 1.7}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: W4lglVXUX1n0DmHo, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 19:22:14 UTC, estimated runtime: 33700 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+c24|c1|mag mps_128 {'value': 0.07081930709439614, 'wall_s': 3.9}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: ohkdpWS0QUcNoUHx, device: pauli-path, run status: RUNNING, created on: 2026-09-23 19:22:18 UTC, estimated runtime: 360000000 ms, estimated cost: $0.00, num qubits: 19
+c24|c1|zzd2 pp_0.01 {'value': 0.0, 'wall_s': 1.7}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: QgwTqgoLG3AOJQs5, device: pauli-path, run status: RUNNING, created on: 2026-09-23 19:22:19 UTC, estimated runtime: 360000000 ms, estimated cost: $0.00, num qubits: 19
+c24|c1|zzd2 pp_0.0003 {'value': 0.07185918880649526, 'wall_s': 1.7}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: 455M1GI3Jp3rZO1L, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 19:22:21 UTC, estimated runtime: 6600 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+c24|c1|zzd2 mps_4 {'value': 0.058652103253822696, 'wall_s': 1.7}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: 1cJ1RuDqYDn6cU2F, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 19:22:23 UTC, estimated runtime: 19900 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+c24|c1|zzd2 mps_32 {'value': 0.07941355500406287, 'wall_s': 1.7}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: VPDq9M23aFBAPPLB, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 19:22:25 UTC, estimated runtime: 33700 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+c24|c1|zzd2 mps_128 {'value': 0.0826419926108916, 'wall_s': 3.9}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: L6JF07GwHET3EHwx, device: pauli-path, run status: RUNNING, created on: 2026-09-23 19:22:28 UTC, estimated runtime: 360000000 ms, estimated cost: $0.00, num qubits: 19
+c24|c1|zzd3 pp_0.01 {'value': 0.0, 'wall_s': 1.7}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: YwTRbCp6dTCq9YiG, device: pauli-path, run status: RUNNING, created on: 2026-09-23 19:22:30 UTC, estimated runtime: 360000000 ms, estimated cost: $0.00, num qubits: 19
+c24|c1|zzd3 pp_0.0003 {'value': 0.007407027532885814, 'wall_s': 1.7}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: oAgXfCSneKYTfIvA, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 19:22:32 UTC, estimated runtime: 6600 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+c24|c1|zzd3 mps_4 {'value': 0.01616261880693512, 'wall_s': 1.7}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: ldPK7KdAhcPcsGUN, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 19:22:33 UTC, estimated runtime: 19900 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+c24|c1|zzd3 mps_32 {'value': 0.013087940663473225, 'wall_s': 1.6}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: 9JEVQF0O0fj3jqEG, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 19:22:35 UTC, estimated runtime: 33700 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+c24|c1|zzd3 mps_128 {'value': 0.00878048030514993, 'wall_s': 3.9}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: bxAAI8fw7F6OGbJM, device: pauli-path, run status: RUNNING, created on: 2026-09-23 19:22:39 UTC, estimated runtime: 360000000 ms, estimated cost: $0.00, num qubits: 19
+c24|c2|mag pp_0.01 {'value': 0.0, 'wall_s': 1.7}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: jkpa5EqjzfQKXAFg, device: pauli-path, run status: RUNNING, created on: 2026-09-23 19:22:41 UTC, estimated runtime: 360000000 ms, estimated cost: $0.00, num qubits: 19
+c24|c2|mag pp_0.0003 {'value': 0.08820446783758379, 'wall_s': 1.7}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: H2H9Hwu1dYftWbYP, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 19:22:42 UTC, estimated runtime: 6600 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+c24|c2|mag mps_4 {'value': 0.25356634864173316, 'wall_s': 1.7}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: rInkdkjwbGVKah4B, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 19:22:44 UTC, estimated runtime: 16600 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+c24|c2|mag mps_32 {'value': 0.1510381800869016, 'wall_s': 2.8}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: c24BiKrfojZDSDvo, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 19:22:47 UTC, estimated runtime: 59900 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+c24|c2|mag mps_128 {'value': 0.11614308213550001, 'wall_s': 7.3}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: qEJTtuCYMog3K9iN, device: pauli-path, run status: RUNNING, created on: 2026-09-23 19:22:54 UTC, estimated runtime: 360000000 ms, estimated cost: $0.00, num qubits: 19
+c24|c2|zzd2 pp_0.01 {'value': 0.0, 'wall_s': 1.7}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: 2oI9gVPmkMvSNsgh, device: pauli-path, run status: RUNNING, created on: 2026-09-23 19:22:56 UTC, estimated runtime: 360000000 ms, estimated cost: $0.00, num qubits: 19
+c24|c2|zzd2 pp_0.0003 {'value': -0.0012048117881311177, 'wall_s': 1.7}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: D48G7aO6R4dXOHoC, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 19:22:58 UTC, estimated runtime: 6600 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+c24|c2|zzd2 mps_4 {'value': 0.13983615551574569, 'wall_s': 1.7}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: QUtentvZj6lQLcbl, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 19:22:59 UTC, estimated runtime: 16600 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+c24|c2|zzd2 mps_32 {'value': 0.05160314145713367, 'wall_s': 2.8}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: QnmFNAslRLsnEmbi, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 19:23:02 UTC, estimated runtime: 59900 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+c24|c2|zzd2 mps_128 {'value': 0.02314867480799198, 'wall_s': 7.2}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: o7nhKw88B1x5slvH, device: pauli-path, run status: RUNNING, created on: 2026-09-23 19:23:09 UTC, estimated runtime: 360000000 ms, estimated cost: $0.00, num qubits: 19
+c24|c2|zzd3 pp_0.01 {'value': 0.0, 'wall_s': 1.7}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: 4ief025dKjKiXtRr, device: pauli-path, run status: RUNNING, created on: 2026-09-23 19:23:11 UTC, estimated runtime: 360000000 ms, estimated cost: $0.00, num qubits: 19
+c24|c2|zzd3 pp_0.0003 {'value': 0.02073353350831001, 'wall_s': 1.7}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: TUx5duO6ItGQ9KLK, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 19:23:13 UTC, estimated runtime: 6600 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+c24|c2|zzd3 mps_4 {'value': 0.062118069525967844, 'wall_s': 1.6}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: 5dYX9ZAA1sPraU63, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 19:23:14 UTC, estimated runtime: 16600 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+c24|c2|zzd3 mps_32 {'value': 0.07630141300863041, 'wall_s': 2.8}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: jM3IWQ0NdBnu2BB7, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 19:23:17 UTC, estimated runtime: 59900 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+c24|c2|zzd3 mps_128 {'value': 0.0643967940212517, 'wall_s': 7.3}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: Xaq2jO2IfJN2BEMQ, device: pauli-path, run status: RUNNING, created on: 2026-09-23 19:23:24 UTC, estimated runtime: 360000000 ms, estimated cost: $0.00, num qubits: 19
+c24|c3|mag pp_0.01 {'value': 0.0, 'wall_s': 1.8}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: by3EaUlUClNP3FBy, device: pauli-path, run status: RUNNING, created on: 2026-09-23 19:23:26 UTC, estimated runtime: 360000000 ms, estimated cost: $0.00, num qubits: 19
+c24|c3|mag pp_0.0003 {'value': 0.4334107899201196, 'wall_s': 1.7}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: 8wm5xfdGqUDgMiSK, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 19:23:28 UTC, estimated runtime: 7600 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+c24|c3|mag mps_4 {'value': 0.5972862515902467, 'wall_s': 1.8}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: GuttP5NxLGD2j9Gg, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 19:23:30 UTC, estimated runtime: 19300 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+c24|c3|mag mps_32 {'value': 0.6323923979981918, 'wall_s': 2.9}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: tla07KFpiYJqyfqV, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 19:23:33 UTC, estimated runtime: 81000 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+c24|c3|mag mps_128 {'value': 0.5339873199796409, 'wall_s': 11.8}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: oEF8VqUXqDx397hE, device: pauli-path, run status: RUNNING, created on: 2026-09-23 19:23:44 UTC, estimated runtime: 360000000 ms, estimated cost: $0.00, num qubits: 19
+c24|c3|zzd2 pp_0.01 {'value': 0.0, 'wall_s': 1.7}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: iNHd85ntMGot5QQO, device: pauli-path, run status: RUNNING, created on: 2026-09-23 19:23:46 UTC, estimated runtime: 360000000 ms, estimated cost: $0.00, num qubits: 19
+c24|c3|zzd2 pp_0.0003 {'value': 0.08266836254495219, 'wall_s': 1.7}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: 87WDsePk3lBAtfZd, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 19:23:48 UTC, estimated runtime: 7600 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+c24|c3|zzd2 mps_4 {'value': 0.337960765476219, 'wall_s': 1.7}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: xVgPGHYjA9uJCD54, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 19:23:49 UTC, estimated runtime: 19300 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+c24|c3|zzd2 mps_32 {'value': 0.39700962738398243, 'wall_s': 2.8}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: R6TOvaYmhkJVE7bf, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 19:23:52 UTC, estimated runtime: 81000 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+c24|c3|zzd2 mps_128 {'value': 0.2815275737414482, 'wall_s': 12.7}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: wiWeQI9eUyKoimvX, device: pauli-path, run status: RUNNING, created on: 2026-09-23 19:24:05 UTC, estimated runtime: 360000000 ms, estimated cost: $0.00, num qubits: 19
+c24|c3|zzd3 pp_0.01 {'value': 0.0, 'wall_s': 1.7}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: tGdGY5tM6tVhvLbI, device: pauli-path, run status: RUNNING, created on: 2026-09-23 19:24:07 UTC, estimated runtime: 360000000 ms, estimated cost: $0.00, num qubits: 19
+c24|c3|zzd3 pp_0.0003 {'value': 0.024667953309214674, 'wall_s': 1.7}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: ELMS5HNxfJsR3mZq, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 19:24:08 UTC, estimated runtime: 7600 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+c24|c3|zzd3 mps_4 {'value': 0.28823676245495133, 'wall_s': 1.7}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: ZnOTPOBRum1mQszX, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 19:24:10 UTC, estimated runtime: 19300 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+c24|c3|zzd3 mps_32 {'value': 0.37911197019156195, 'wall_s': 2.8}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: Tfhg1qXpvv2r7eXE, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 19:24:13 UTC, estimated runtime: 81000 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+c24|c3|zzd3 mps_128 {'value': 0.2728913554873379, 'wall_s': 11.7}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: NjO17BcY2xI245WH, device: pauli-path, run status: RUNNING, created on: 2026-09-23 19:24:25 UTC, estimated runtime: 360000000 ms, estimated cost: $0.00, num qubits: 19
+c24|c4|mag pp_0.01 {'value': 0.0, 'wall_s': 1.7}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: ixrfeXYnVtqDsk03, device: pauli-path, run status: RUNNING, created on: 2026-09-23 19:24:26 UTC, estimated runtime: 360000000 ms, estimated cost: $0.00, num qubits: 19
+c24|c4|mag pp_0.0003 {'value': 0.14472039318170216, 'wall_s': 1.8}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: VIFXc7mAMlTujHs6, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 19:24:28 UTC, estimated runtime: 8600 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+c24|c4|mag mps_4 {'value': -0.058426589402882485, 'wall_s': 1.8}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: SkqT0wj2FybChwGN, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 19:24:30 UTC, estimated runtime: 21700 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+c24|c4|mag mps_32 {'value': 0.10971340655374746, 'wall_s': 3.9}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: m6dPGIbNZ80SronK, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 19:24:34 UTC, estimated runtime: 101600 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+c24|c4|mag mps_128 {'value': 0.13649129734792936, 'wall_s': 18.5}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: pDg5udOt8GMaEZG8, device: pauli-path, run status: RUNNING, created on: 2026-09-23 19:24:52 UTC, estimated runtime: 360000000 ms, estimated cost: $0.00, num qubits: 19
+c24|c4|zzd2 pp_0.01 {'value': 0.0, 'wall_s': 1.7}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: XPQcvm8VYHf8fNfJ, device: pauli-path, run status: RUNNING, created on: 2026-09-23 19:24:54 UTC, estimated runtime: 360000000 ms, estimated cost: $0.00, num qubits: 19
+c24|c4|zzd2 pp_0.0003 {'value': 0.03949999369163609, 'wall_s': 1.7}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: KT8EVH57n9u0LcF7, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 19:24:56 UTC, estimated runtime: 8600 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+c24|c4|zzd2 mps_4 {'value': 0.01828052449322453, 'wall_s': 1.7}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: WdgqIfV0EAqvGFcn, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 19:24:57 UTC, estimated runtime: 21700 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+c24|c4|zzd2 mps_32 {'value': 0.03919196019933172, 'wall_s': 3.9}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: pnxoeCUN1uvXrStO, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 19:25:01 UTC, estimated runtime: 101600 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+c24|c4|zzd2 mps_128 {'value': 0.022105587478307046, 'wall_s': 18.3}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: 2IWGlpQJZs6vsMf0, device: pauli-path, run status: RUNNING, created on: 2026-09-23 19:25:20 UTC, estimated runtime: 360000000 ms, estimated cost: $0.00, num qubits: 19
+c24|c4|zzd3 pp_0.01 {'value': 0.0, 'wall_s': 1.7}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: QlVjLZ65W0xfPSms, device: pauli-path, run status: RUNNING, created on: 2026-09-23 19:25:21 UTC, estimated runtime: 360000000 ms, estimated cost: $0.00, num qubits: 19
+c24|c4|zzd3 pp_0.0003 {'value': 5.2794241976521987e-05, 'wall_s': 1.8}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: fWW2VutAl4dl8kj7, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 19:25:23 UTC, estimated runtime: 8600 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+c24|c4|zzd3 mps_4 {'value': 0.018377479624660645, 'wall_s': 1.7}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: XjxfN4Hl20rz6Pwk, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 19:25:25 UTC, estimated runtime: 21700 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+c24|c4|zzd3 mps_32 {'value': 0.015463357872915298, 'wall_s': 4.0}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: LJbtBiPmCV2D0YTd, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 19:25:29 UTC, estimated runtime: 101600 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+c24|c4|zzd3 mps_128 {'value': 0.0033822105255035375, 'wall_s': 18.3}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: tbb5X69rJZ40Em0A, device: pauli-path, run status: RUNNING, created on: 2026-09-23 19:25:47 UTC, estimated runtime: 360000000 ms, estimated cost: $0.00, num qubits: 19
+c24|c6|mag pp_0.01 {'value': 0.0, 'wall_s': 1.8}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: wYUEAoXD0tnrTC0Z, device: pauli-path, run status: RUNNING, created on: 2026-09-23 19:25:49 UTC, estimated runtime: 360000000 ms, estimated cost: $0.00, num qubits: 19
+c24|c6|mag pp_0.0003 {'value': 0.20438543798333114, 'wall_s': 2.9}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: 04tvPCgdpfqej567, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 19:25:52 UTC, estimated runtime: 10400 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+c24|c6|mag mps_4 {'value': 0.3915449220736998, 'wall_s': 1.8}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: ruyp5LYYLzdfyIwh, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 19:25:54 UTC, estimated runtime: 19200 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+c24|c6|mag mps_32 {'value': 0.5529581833569539, 'wall_s': 5.1}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: fOBrvIPapjQpWenY, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 19:25:59 UTC, estimated runtime: 141800 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+c24|c6|mag mps_128 {'value': 0.516033043332744, 'wall_s': 29.3}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: odUnteQhKbGEdyQx, device: pauli-path, run status: RUNNING, created on: 2026-09-23 19:26:28 UTC, estimated runtime: 360000000 ms, estimated cost: $0.00, num qubits: 19
+c24|c6|zzd2 pp_0.01 {'value': 0.0, 'wall_s': 1.8}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: PL0LKBpcYtchZGyg, device: pauli-path, run status: RUNNING, created on: 2026-09-23 19:26:30 UTC, estimated runtime: 360000000 ms, estimated cost: $0.00, num qubits: 19
+c24|c6|zzd2 pp_0.0003 {'value': 0.0077651748549175436, 'wall_s': 1.8}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: 06CPxpYAM4PVoVZD, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 19:26:32 UTC, estimated runtime: 10400 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+c24|c6|zzd2 mps_4 {'value': 0.12660475253544137, 'wall_s': 1.8}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: FSDnig2Y3FG3vdzy, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 19:26:34 UTC, estimated runtime: 19200 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+c24|c6|zzd2 mps_32 {'value': 0.296805573072854, 'wall_s': 5.2}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: bO3iXXbGQAzz5vNN, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 19:26:39 UTC, estimated runtime: 141800 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+c24|c6|zzd2 mps_128 {'value': 0.29153375332193404, 'wall_s': 27.1}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: DBMvA9umVMC1ozsB, device: pauli-path, run status: RUNNING, created on: 2026-09-23 19:27:06 UTC, estimated runtime: 360000000 ms, estimated cost: $0.00, num qubits: 19
+c24|c6|zzd3 pp_0.01 {'value': 0.0, 'wall_s': 1.8}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: zwM0krBU4GzTiuTP, device: pauli-path, run status: RUNNING, created on: 2026-09-23 19:27:08 UTC, estimated runtime: 360000000 ms, estimated cost: $0.00, num qubits: 19
+c24|c6|zzd3 pp_0.0003 {'value': 0.000441675238134874, 'wall_s': 2.0}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: MdNqvmAgWNhIqAI7, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 19:27:10 UTC, estimated runtime: 10400 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+c24|c6|zzd3 mps_4 {'value': 0.11527536401932142, 'wall_s': 1.8}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: jzV3BkfmAmODrnD3, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 19:27:12 UTC, estimated runtime: 19200 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+c24|c6|zzd3 mps_32 {'value': 0.28243331729238597, 'wall_s': 5.2}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: hZcPjJ5pxt5RzeWQ, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 19:27:17 UTC, estimated runtime: 141800 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+c24|c6|zzd3 mps_128 {'value': 0.26116227909528444, 'wall_s': 30.7}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: K2h7SckLt89soYWC, device: pauli-path, run status: RUNNING, created on: 2026-09-23 19:27:47 UTC, estimated runtime: 360000000 ms, estimated cost: $0.00, num qubits: 19
+c24|c8|mag pp_0.01 {'value': 0.0, 'wall_s': 1.7}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: QPtxA2duB8g9dtsJ, device: pauli-path, run status: RUNNING, created on: 2026-09-23 19:27:49 UTC, estimated runtime: 360000000 ms, estimated cost: $0.00, num qubits: 19
+c24|c8|mag pp_0.0003 {'value': 0.08299370150319416, 'wall_s': 2.7}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: 5cDgHEtkORDad8Ck, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 19:27:52 UTC, estimated runtime: 12000 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+c24|c8|mag mps_4 {'value': 0.16935405835514108, 'wall_s': 2.8}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: 7Ot4blsS261Usgdk, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 19:27:55 UTC, estimated runtime: 21900 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+c24|c8|mag mps_32 {'value': 0.15955091642214844, 'wall_s': 6.2}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: dRBDKreHeWVLcDCZ, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 19:28:01 UTC, estimated runtime: 343500 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+c24|c8|mag mps_128 {'value': 0.03467366839731889, 'wall_s': 42.8}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: GxL2IBeTdQ2SDduo, device: pauli-path, run status: RUNNING, created on: 2026-09-23 19:28:44 UTC, estimated runtime: 360000000 ms, estimated cost: $0.00, num qubits: 19
+c24|c8|zzd2 pp_0.01 {'value': 0.0, 'wall_s': 1.7}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: k9MvrkLP8whueBYe, device: pauli-path, run status: RUNNING, created on: 2026-09-23 19:28:45 UTC, estimated runtime: 360000000 ms, estimated cost: $0.00, num qubits: 19
+c24|c8|zzd2 pp_0.0003 {'value': -0.0001509870477616545, 'wall_s': 2.8}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: zKj4UmLgz1uvgoxN, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 19:28:48 UTC, estimated runtime: 12000 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+c24|c8|zzd2 mps_4 {'value': -0.05770995248870191, 'wall_s': 2.8}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: Xtf1YBPXuiEmAXVJ, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 19:28:51 UTC, estimated runtime: 21900 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+c24|c8|zzd2 mps_32 {'value': 0.014888630932152664, 'wall_s': 6.2}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: n5iMPEgH1UDwEsx1, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 19:28:57 UTC, estimated runtime: 343500 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+c24|c8|zzd2 mps_128 {'value': 0.03566688671775693, 'wall_s': 41.5}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: luw4rlXWz3gGHL7v, device: pauli-path, run status: RUNNING, created on: 2026-09-23 19:29:38 UTC, estimated runtime: 360000000 ms, estimated cost: $0.00, num qubits: 19
+c24|c8|zzd3 pp_0.01 {'value': 0.0, 'wall_s': 1.7}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: Wcxu2norIZrY5Gva, device: pauli-path, run status: RUNNING, created on: 2026-09-23 19:29:40 UTC, estimated runtime: 360000000 ms, estimated cost: $0.00, num qubits: 19
+c24|c8|zzd3 pp_0.0003 {'value': 0.0, 'wall_s': 1.7}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: WJIUT4rkKr75gde8, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 19:29:42 UTC, estimated runtime: 12000 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+c24|c8|zzd3 mps_4 {'value': 0.07837966797373513, 'wall_s': 2.8}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: etwx9kjgQe7P7HRp, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 19:29:45 UTC, estimated runtime: 21900 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+c24|c8|zzd3 mps_32 {'value': 0.06815583383778905, 'wall_s': 6.2}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: VAv7hSzLRh3x5Xd6, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 19:29:51 UTC, estimated runtime: 343500 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+c24|c8|zzd3 mps_128 {'value': 0.031545418682489335, 'wall_s': 47.3}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: A6Ac3LgmkPkXRkAU, device: pauli-path, run status: RUNNING, created on: 2026-09-23 19:30:38 UTC, estimated runtime: 360000000 ms, estimated cost: $0.00, num qubits: 19
+c24|c10|mag pp_0.01 {'value': 0.0, 'wall_s': 1.1}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: QSVtV6RfhtebbnzG, device: pauli-path, run status: RUNNING, created on: 2026-09-23 19:30:39 UTC, estimated runtime: 360000000 ms, estimated cost: $0.00, num qubits: 19
+c24|c10|mag pp_0.0003 {'value': 0.0841176152130873, 'wall_s': 2.9}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: QSPow5aUW6UOtVKf, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 19:30:42 UTC, estimated runtime: 13500 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+c24|c10|mag mps_4 {'value': 0.3639973463329475, 'wall_s': 2.8}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: Ujw2P6l47yPe2EhX, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 19:30:45 UTC, estimated runtime: 24400 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+c24|c10|mag mps_32 {'value': 0.05302412633061314, 'wall_s': 7.3}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: 7Xs56SvJVrhtxprK, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 19:30:52 UTC, estimated runtime: 400900 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+c24|c10|mag mps_128 {'value': 0.09534103953812785, 'wall_s': 56.5}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: CgIzqgJogddnseCF, device: pauli-path, run status: RUNNING, created on: 2026-09-23 19:31:49 UTC, estimated runtime: 360000000 ms, estimated cost: $0.00, num qubits: 19
+c24|c10|zzd2 pp_0.01 {'value': 0.0, 'wall_s': 1.7}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: rZsr1OXLQI4aGwaI, device: pauli-path, run status: RUNNING, created on: 2026-09-23 19:31:50 UTC, estimated runtime: 360000000 ms, estimated cost: $0.00, num qubits: 19
+c24|c10|zzd2 pp_0.0003 {'value': -0.0004049919732668777, 'wall_s': 2.8}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: p39QjFZ2fDxkaOWR, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 19:31:53 UTC, estimated runtime: 13500 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+c24|c10|zzd2 mps_4 {'value': 0.14235785810597554, 'wall_s': 2.8}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: 6Uc4c1PaRxMF5ggU, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 19:31:56 UTC, estimated runtime: 24400 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+c24|c10|zzd2 mps_32 {'value': 0.007566923037413015, 'wall_s': 7.3}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: bMGjMi8j5XyIAbxd, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 19:32:03 UTC, estimated runtime: 400900 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+c24|c10|zzd2 mps_128 {'value': 0.0012064061759528566, 'wall_s': 56.9}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: OaGC6k3vsjGrndIp, device: pauli-path, run status: RUNNING, created on: 2026-09-23 19:33:00 UTC, estimated runtime: 360000000 ms, estimated cost: $0.00, num qubits: 19
+c24|c10|zzd3 pp_0.01 {'value': 0.0, 'wall_s': 1.7}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: tnb3i0oNGEgKbRt8, device: pauli-path, run status: RUNNING, created on: 2026-09-23 19:33:02 UTC, estimated runtime: 360000000 ms, estimated cost: $0.00, num qubits: 19
+c24|c10|zzd3 pp_0.0003 {'value': 0.0, 'wall_s': 1.7}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: 9GsV7nHH6ybmipF8, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 19:33:04 UTC, estimated runtime: 13500 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+c24|c10|zzd3 mps_4 {'value': 0.17117680523997922, 'wall_s': 2.8}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: jSu8ToFwcgn03koL, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 19:33:07 UTC, estimated runtime: 24400 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+c24|c10|zzd3 mps_32 {'value': -0.0398230365750463, 'wall_s': 7.3}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: RKoPtlDDgQwFUax6, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 19:33:14 UTC, estimated runtime: 400900 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+c24|c10|zzd3 mps_128 {'value': -0.015070603665276348, 'wall_s': 56.1}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: XzVyGTxMa0zGhF82, device: pauli-path, run status: RUNNING, created on: 2026-09-23 19:34:10 UTC, estimated runtime: 360000000 ms, estimated cost: $0.00, num qubits: 19
+c24|c13|mag pp_0.01 {'value': 0.0, 'wall_s': 1.7}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: m1DXoDR2bBXNvYi3, device: pauli-path, run status: RUNNING, created on: 2026-09-23 19:34:12 UTC, estimated runtime: 360000000 ms, estimated cost: $0.00, num qubits: 19
+c24|c13|mag pp_0.0003 {'value': 0.058221734455148944, 'wall_s': 2.8}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: 7JHGRcPifoLRWVqn, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 19:34:14 UTC, estimated runtime: 15600 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+c24|c13|mag mps_4 {'value': 0.25328888339938727, 'wall_s': 2.8}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: oGdxt1vrBxWWNwv7, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 19:34:17 UTC, estimated runtime: 28100 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+c24|c13|mag mps_32 {'value': -0.03581932964947961, 'wall_s': 9.4}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: T72xbc8LnIuFRhCO, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 19:34:27 UTC, estimated runtime: 482800 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+c24|c13|mag mps_128 {'value': 0.10659232267968179, 'wall_s': 75.1}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: vubIpE4Ejvs2b6td, device: pauli-path, run status: RUNNING, created on: 2026-09-23 19:35:42 UTC, estimated runtime: 360000000 ms, estimated cost: $0.00, num qubits: 19
+c24|c13|zzd2 pp_0.01 {'value': 0.0, 'wall_s': 1.8}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: Tj44RwPHaDJRL4G9, device: pauli-path, run status: RUNNING, created on: 2026-09-23 19:35:44 UTC, estimated runtime: 360000000 ms, estimated cost: $0.00, num qubits: 19
+c24|c13|zzd2 pp_0.0003 {'value': 0.0, 'wall_s': 2.8}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: he7ufBKXcaf0CmtV, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 19:35:46 UTC, estimated runtime: 15600 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+c24|c13|zzd2 mps_4 {'value': -0.024841012835972787, 'wall_s': 2.9}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: 7a9tZRkPbl7102Si, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 19:35:49 UTC, estimated runtime: 28100 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+c24|c13|zzd2 mps_32 {'value': 0.017249310898794386, 'wall_s': 9.5}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: y1nuY3DpQqChMY5e, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 19:35:59 UTC, estimated runtime: 482800 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+c24|c13|zzd2 mps_128 {'value': 0.029262582409750403, 'wall_s': 76.8}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: 4eYqDU4LmYWXJaoa, device: pauli-path, run status: RUNNING, created on: 2026-09-23 19:37:15 UTC, estimated runtime: 360000000 ms, estimated cost: $0.00, num qubits: 19
+c24|c13|zzd3 pp_0.01 {'value': 0.0, 'wall_s': 1.7}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: JijBe8h197AZNYMM, device: pauli-path, run status: RUNNING, created on: 2026-09-23 19:37:17 UTC, estimated runtime: 360000000 ms, estimated cost: $0.00, num qubits: 19
+c24|c13|zzd3 pp_0.0003 {'value': 0.0, 'wall_s': 2.9}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: hzPzL8CjMZ2VCRpn, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 19:37:20 UTC, estimated runtime: 15600 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+c24|c13|zzd3 mps_4 {'value': 0.08709927664119045, 'wall_s': 2.8}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: pGBH44ENlWRzbNju, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 19:37:23 UTC, estimated runtime: 28100 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+c24|c13|zzd3 mps_32 {'value': -0.04823128783666342, 'wall_s': 9.7}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: 4SvQlZPYrZWASYcT, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 19:37:33 UTC, estimated runtime: 482800 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+c24|c13|zzd3 mps_128 {'value': -0.013230108391841355, 'wall_s': 74.6}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: kRSKI35Enwsv79Jr, device: pauli-path, run status: RUNNING, created on: 2026-09-23 19:38:47 UTC, estimated runtime: 360000000 ms, estimated cost: $0.00, num qubits: 19
+c24|c16|mag pp_0.01 {'value': 0.0, 'wall_s': 1.7}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: 7W5c0InBEBPzvbJf, device: pauli-path, run status: RUNNING, created on: 2026-09-23 19:38:49 UTC, estimated runtime: 360000000 ms, estimated cost: $0.00, num qubits: 19
+c24|c16|mag pp_0.0003 {'value': 0.041604558751902096, 'wall_s': 2.9}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: 2K4OYig1fNeFTBm9, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 19:38:52 UTC, estimated runtime: 17500 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+c24|c16|mag mps_4 {'value': 0.17816349649480434, 'wall_s': 2.9}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: Y4rbNoqkCQ45BfbJ, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 19:38:55 UTC, estimated runtime: 31700 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+c24|c16|mag mps_32 {'value': 0.02073347385445749, 'wall_s': 12.9}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: z8Xjp9mlOMGOT15l, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 19:39:08 UTC, estimated runtime: 561000 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+c24|c16|mag mps_128 {'value': 0.11467841492564829, 'wall_s': 95.1}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: m4O1XXIFxvQA8XIv, device: pauli-path, run status: RUNNING, created on: 2026-09-23 19:40:43 UTC, estimated runtime: 360000000 ms, estimated cost: $0.00, num qubits: 19
+c24|c16|zzd2 pp_0.01 {'value': 0.0, 'wall_s': 1.7}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: hnf1ZxT13QSnC3or, device: pauli-path, run status: RUNNING, created on: 2026-09-23 19:40:44 UTC, estimated runtime: 360000000 ms, estimated cost: $0.00, num qubits: 19
+c24|c16|zzd2 pp_0.0003 {'value': 0.0, 'wall_s': 2.8}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: h4OplJOCWk14FcKL, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 19:40:47 UTC, estimated runtime: 17500 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+c24|c16|zzd2 mps_4 {'value': 0.010837474260517933, 'wall_s': 2.9}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: K2qigoxzrZZQWRls, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 19:40:50 UTC, estimated runtime: 31700 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+c24|c16|zzd2 mps_32 {'value': -0.058285056431809645, 'wall_s': 11.7}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: fPqEzgb3By004H2i, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 19:41:02 UTC, estimated runtime: 561000 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+c24|c16|zzd2 mps_128 {'value': -0.0014558642666510188, 'wall_s': 95.7}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: 7co9eKaz0tskwBib, device: pauli-path, run status: RUNNING, created on: 2026-09-23 19:42:38 UTC, estimated runtime: 360000000 ms, estimated cost: $0.00, num qubits: 19
+c24|c16|zzd3 pp_0.01 {'value': 0.0, 'wall_s': 1.8}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: BzYZrul5ulDWSHWc, device: pauli-path, run status: RUNNING, created on: 2026-09-23 19:42:39 UTC, estimated runtime: 360000000 ms, estimated cost: $0.00, num qubits: 19
+c24|c16|zzd3 pp_0.0003 {'value': 0.0, 'wall_s': 2.0}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: xYtVYWR97TWHJRWs, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 19:42:42 UTC, estimated runtime: 17500 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+c24|c16|zzd3 mps_4 {'value': -0.026109082876907483, 'wall_s': 3.4}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: GgY9j38RkkDfxmqI, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 19:42:45 UTC, estimated runtime: 31700 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+c24|c16|zzd3 mps_32 {'value': -0.046049396158480596, 'wall_s': 12.9}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: mTkeWBlySyuytMp7, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 19:42:58 UTC, estimated runtime: 561000 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+c24|c16|zzd3 mps_128 {'value': -0.014287681111475346, 'wall_s': 95.4}
+instances 81 saved /home/mike-anderson/cohezion-labs/bluequbit-flywheel/pilot/table.json

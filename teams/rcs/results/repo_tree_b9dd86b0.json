@@ -1,0 +1,4661 @@
+{
+  "sha": "b9dd86b016743465ebc97fb9f6677f4a251a3baa",
+  "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/trees/b9dd86b016743465ebc97fb9f6677f4a251a3baa",
+  "tree": [
+    {
+      "path": ".gitignore",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "2ec707cca51418daa0188b84b25b52724fae22a9",
+      "size": 100,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/2ec707cca51418daa0188b84b25b52724fae22a9"
+    },
+    {
+      "path": "LICENSE",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "261eeb9e9f8b2b4b0d119366dda99c6fd7d35c64",
+      "size": 11357,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/261eeb9e9f8b2b4b0d119366dda99c6fd7d35c64"
+    },
+    {
+      "path": "README.md",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "edd79db693ff492958a23083af89480b67c3c9f1",
+      "size": 4957,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/edd79db693ff492958a23083af89480b67c3c9f1"
+    },
+    {
+      "path": "analysis",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "a6383dfcc3fa655b81aecbb30f277b2c69449c5b",
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/trees/a6383dfcc3fa655b81aecbb30f277b2c69449c5b"
+    },
+    {
+      "path": "analysis/compute_patch_xeb.py",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "541291f394e29d277ddeca37993c1a8240c00c46",
+      "size": 2964,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/541291f394e29d277ddeca37993c1a8240c00c46"
+    },
+    {
+      "path": "analysis/fidelity_vs_depth.py",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "ded05517ac2260a5d67650ce2be1e210c863393c",
+      "size": 6712,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/ded05517ac2260a5d67650ce2be1e210c863393c"
+    },
+    {
+      "path": "analysis/run_accounting.py",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "eae079332712a40b49cdbdcb33486326a7e586fa",
+      "size": 1874,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/eae079332712a40b49cdbdcb33486326a7e586fa"
+    },
+    {
+      "path": "analysis/sampling_cost_table.py",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "3305f0ce8b7e4e2ed7ec273f43486bad8b0bef21",
+      "size": 2887,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/3305f0ce8b7e4e2ed7ec273f43486bad8b0bef21"
+    },
+    {
+      "path": "contraction_cost",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "7a67152f57760d6019369dd611de6f86447a0932",
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/trees/7a67152f57760d6019369dd611de6f86447a0932"
+    },
+    {
+      "path": "contraction_cost/README.md",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "56ba0690049eaffea8c3f6836c8efd67e440a3e9",
+      "size": 3028,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/56ba0690049eaffea8c3f6836c8efd67e440a3e9"
+    },
+    {
+      "path": "contraction_cost/build_zcz3_rcs.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fb23d80caa99db4a755113fdbd23a212813dee03",
+      "size": 3224,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/fb23d80caa99db4a755113fdbd23a212813dee03"
+    },
+    {
+      "path": "contraction_cost/data",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "6e6a39915d4a21f5462d09bc5029cacb7995f7c3",
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/trees/6e6a39915d4a21f5462d09bc5029cacb7995f7c3"
+    },
+    {
+      "path": "contraction_cost/data/google_rcs_tnsa",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "47a1e481b9753ad6af2eda07b67ed62ee823cfe5",
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/trees/47a1e481b9753ad6af2eda07b67ed62ee823cfe5"
+    },
+    {
+      "path": "contraction_cost/data/google_rcs_tnsa/NOTICE.md",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "8df731cb1956a1bbb0f744b4e12eb24eacf703a7",
+      "size": 634,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/8df731cb1956a1bbb0f744b4e12eb24eacf703a7"
+    },
+    {
+      "path": "contraction_cost/data/google_rcs_tnsa/google_n53_m20.graph",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "0110848fc089ad8c559f9199c83dae20cc200403",
+      "size": 8180,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/0110848fc089ad8c559f9199c83dae20cc200403"
+    },
+    {
+      "path": "contraction_cost/data/google_rcs_tnsa/google_n53_m20.groups",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "49252cf7528e30c6735c1aee29a1707924954c0c",
+      "size": 6624,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/49252cf7528e30c6735c1aee29a1707924954c0c"
+    },
+    {
+      "path": "contraction_cost/data/google_rcs_tnsa/google_n67_m32.graph",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "f662834681adc5a9e73dd83d3fd51b8c9d39114a",
+      "size": 17180,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/f662834681adc5a9e73dd83d3fd51b8c9d39114a"
+    },
+    {
+      "path": "contraction_cost/data/google_rcs_tnsa/google_n67_m32.groups",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "aa36c8fb73e96ed308df6b697a4a13003efcded0",
+      "size": 14128,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/aa36c8fb73e96ed308df6b697a4a13003efcded0"
+    },
+    {
+      "path": "contraction_cost/data/google_rcs_tnsa/google_n70_m24.graph",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "12b0807a5cf182b9095a1ca81350fc1eaddf8ae9",
+      "size": 13620,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/12b0807a5cf182b9095a1ca81350fc1eaddf8ae9"
+    },
+    {
+      "path": "contraction_cost/data/google_rcs_tnsa/google_n70_m24.groups",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "7035441eb37e4310fd2b8576868696bfd87a7e7c",
+      "size": 11821,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/7035441eb37e4310fd2b8576868696bfd87a7e7c"
+    },
+    {
+      "path": "contraction_cost/data/google_rcs_tnsa/ustc_n56_m20.graph",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "f9478c8d2484a8025f346318e2a84a11886d34c4",
+      "size": 8980,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/f9478c8d2484a8025f346318e2a84a11886d34c4"
+    },
+    {
+      "path": "contraction_cost/data/google_rcs_tnsa/ustc_n56_m20.groups",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "f8a1cddecc387d16b9ed947aacbf49fdfe9c518f",
+      "size": 7293,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/f8a1cddecc387d16b9ed947aacbf49fdfe9c518f"
+    },
+    {
+      "path": "contraction_cost/data/google_rcs_tnsa/ustc_n60_m24.graph",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "a04570a06821b05386c661b4e6142d05a62962f4",
+      "size": 11460,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/a04570a06821b05386c661b4e6142d05a62962f4"
+    },
+    {
+      "path": "contraction_cost/data/google_rcs_tnsa/ustc_n60_m24.groups",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "0ef32b8c09c8cf5445c1dd3141796f052518f23f",
+      "size": 9654,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/0ef32b8c09c8cf5445c1dd3141796f052518f23f"
+    },
+    {
+      "path": "contraction_cost/depth_sweep.py",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "ae96a78b712984b18fadc0a03f4958daf65d24d9",
+      "size": 3116,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/ae96a78b712984b18fadc0a03f4958daf65d24d9"
+    },
+    {
+      "path": "contraction_cost/docs",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "91dae8422510159dea20d89b73892755860e8200",
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/trees/91dae8422510159dea20d89b73892755860e8200"
+    },
+    {
+      "path": "contraction_cost/docs/sampling_cost_notes.md",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "af24391719923352992878c7beebf5f1a9c30b84",
+      "size": 12367,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/af24391719923352992878c7beebf5f1a9c30b84"
+    },
+    {
+      "path": "contraction_cost/estimate_sampling_cost.py",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "b8329a146e279f464a1cf17faa4322e26cdc41f3",
+      "size": 8900,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/b8329a146e279f464a1cf17faa4322e26cdc41f3"
+    },
+    {
+      "path": "contraction_cost/export_rcs_tnsa_graph.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e503835c71f3a439c8b7c793ba3be6481288d4a0",
+      "size": 3857,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/e503835c71f3a439c8b7c793ba3be6481288d4a0"
+    },
+    {
+      "path": "contraction_cost/flops_estimator.py",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "b62b945bab6e2daae43ac3cee1c306ca674937e1",
+      "size": 6341,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/b62b945bab6e2daae43ac3cee1c306ca674937e1"
+    },
+    {
+      "path": "contraction_cost/load_rcs_tnsa_graph.py",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "df2a0fafb18aac628a9d7f3370378d09479ec3c3",
+      "size": 3215,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/df2a0fafb18aac628a9d7f3370378d09479ec3c3"
+    },
+    {
+      "path": "contraction_cost/parse_tnsa_results.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8f7165111ebdf56b88849425bfa44dd45e46a8d3",
+      "size": 2650,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/8f7165111ebdf56b88849425bfa44dd45e46a8d3"
+    },
+    {
+      "path": "contraction_cost/plot_plateau.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "112bd99b3bc989ac91e2407b77c5a2e246fc2a2c",
+      "size": 3657,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/112bd99b3bc989ac91e2407b77c5a2e246fc2a2c"
+    },
+    {
+      "path": "contraction_cost/results",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "2ba94dc0bdfff6e47cccf05b4cc65f1dfc4a30b4",
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/trees/2ba94dc0bdfff6e47cccf05b4cc65f1dfc4a30b4"
+    },
+    {
+      "path": "contraction_cost/results/depth_sweep.json",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "b9db635cef326428ee9432cb38ab56da19b01255",
+      "size": 2763,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/b9db635cef326428ee9432cb38ab56da19b01255"
+    },
+    {
+      "path": "contraction_cost/results/validation",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "8d789ba77778c719ff28b57e34241929cbd21c2b",
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/trees/8d789ba77778c719ff28b57e34241929cbd21c2b"
+    },
+    {
+      "path": "contraction_cost/results/validation/rcs_tnsa_costs_google_n53_m20.json",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "3abd4c53221eb048ee40cae816189204984f76bb",
+      "size": 1152,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/3abd4c53221eb048ee40cae816189204984f76bb"
+    },
+    {
+      "path": "contraction_cost/results/validation/rcs_tnsa_costs_google_n67_m32.json",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "14caa4a9495f89e61f55978e5c4ffca91669e470",
+      "size": 1118,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/14caa4a9495f89e61f55978e5c4ffca91669e470"
+    },
+    {
+      "path": "contraction_cost/results/validation/rcs_tnsa_costs_google_n70_m24.json",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "46c96fbd3692cfca198a832be670625618c675d4",
+      "size": 1104,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/46c96fbd3692cfca198a832be670625618c675d4"
+    },
+    {
+      "path": "contraction_cost/results/validation/rcs_tnsa_costs_ustc_n56_m20.json",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "4d7e16f7fcf2748120fd5e250a476831467a4cbd",
+      "size": 1154,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/4d7e16f7fcf2748120fd5e250a476831467a4cbd"
+    },
+    {
+      "path": "contraction_cost/results/validation/rcs_tnsa_costs_ustc_n60_m24.json",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "17b5ca25442e123a6fc2bd73ca778887b06da479",
+      "size": 1098,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/17b5ca25442e123a6fc2bd73ca778887b06da479"
+    },
+    {
+      "path": "contraction_cost/run_memory_sweep.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "401b4154ce730d3e764c0e58fe90ce26a2da94b5",
+      "size": 6719,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/401b4154ce730d3e764c0e58fe90ce26a2da94b5"
+    },
+    {
+      "path": "contraction_cost/run_plateau.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "283c9dcd0319eaa9ee2ffe93c540e7102449ef7e",
+      "size": 7969,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/283c9dcd0319eaa9ee2ffe93c540e7102449ef7e"
+    },
+    {
+      "path": "contraction_cost/run_rcs_tnsa_graphs.py",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "ba1a5a285742da09c038f17e9298410ee2fe1e4b",
+      "size": 11691,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/ba1a5a285742da09c038f17e9298410ee2fe1e4b"
+    },
+    {
+      "path": "contraction_cost/sampling_cost.py",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "8153b54b2749bb71612fca2cec4607b309976866",
+      "size": 27764,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/8153b54b2749bb71612fca2cec4607b309976866"
+    },
+    {
+      "path": "contraction_cost/validation_table.py",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "a42b2af74d75fe7ddda581e5eb9b3390533faa3a",
+      "size": 1186,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/a42b2af74d75fe7ddda581e5eb9b3390533faa3a"
+    },
+    {
+      "path": "data",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "b6e67de5e69ff75c94ef3788fb39c2133b955e56",
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/trees/b6e67de5e69ff75c94ef3788fb39c2133b955e56"
+    },
+    {
+      "path": "data/README.md",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "7fe41f853fea68aba355cfbccb3963f1494a5ae1",
+      "size": 2175,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/7fe41f853fea68aba355cfbccb3963f1494a5ae1"
+    },
+    {
+      "path": "data/circuits",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "d47aee9bc7b15c86befb623f84eaf29017aba053",
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/trees/d47aee9bc7b15c86befb623f84eaf29017aba053"
+    },
+    {
+      "path": "data/circuits/full",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "60c7d54b149036e30685d3c1e7645722aa8c358b",
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/trees/60c7d54b149036e30685d3c1e7645722aa8c358b"
+    },
+    {
+      "path": "data/circuits/full/d04_logical.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "c433b444106194ef473278f48b8cdc6cb6e9973e",
+      "size": 28070,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/c433b444106194ef473278f48b8cdc6cb6e9973e"
+    },
+    {
+      "path": "data/circuits/full/d04_logical.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "8bc380ee8b1c0601867e83160304505b5d34232a",
+      "size": 56648,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/8bc380ee8b1c0601867e83160304505b5d34232a"
+    },
+    {
+      "path": "data/circuits/full/d08_logical.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "a28e209bc2684930d2cc5bb3d01a7287f96bc4fc",
+      "size": 54698,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/a28e209bc2684930d2cc5bb3d01a7287f96bc4fc"
+    },
+    {
+      "path": "data/circuits/full/d08_logical.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "d801f11f9472cfccf9378a31525cb02d82406676",
+      "size": 109058,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/d801f11f9472cfccf9378a31525cb02d82406676"
+    },
+    {
+      "path": "data/circuits/full/d12_logical.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "b9cd9770d9c905c4a11408aa3e9eac8d0d38aa99",
+      "size": 81332,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/b9cd9770d9c905c4a11408aa3e9eac8d0d38aa99"
+    },
+    {
+      "path": "data/circuits/full/d12_logical.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "1e8d4cd8f5eade8394c6519c00071b07535cd4e5",
+      "size": 161469,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/1e8d4cd8f5eade8394c6519c00071b07535cd4e5"
+    },
+    {
+      "path": "data/circuits/full/d16_logical.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "1d67581e5fe376e27e7ab4e19dd6192508194930",
+      "size": 107944,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/1d67581e5fe376e27e7ab4e19dd6192508194930"
+    },
+    {
+      "path": "data/circuits/full/d16_logical.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "6fd3f6da440bb24b2ef9e3c5d01ea5208ddaf658",
+      "size": 213879,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/6fd3f6da440bb24b2ef9e3c5d01ea5208ddaf658"
+    },
+    {
+      "path": "data/circuits/full/d20_logical.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "a2fa396fc5f1e6f127f2dce0d0d070cb71e51894",
+      "size": 134555,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/a2fa396fc5f1e6f127f2dce0d0d070cb71e51894"
+    },
+    {
+      "path": "data/circuits/full/d20_logical.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "da8d4964c2c18031c7e06431e0afca4af256689d",
+      "size": 266289,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/da8d4964c2c18031c7e06431e0afca4af256689d"
+    },
+    {
+      "path": "data/circuits/full/d24_logical.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "920a661f4fba878fafe5e50fd906116e32d41fab",
+      "size": 161181,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/920a661f4fba878fafe5e50fd906116e32d41fab"
+    },
+    {
+      "path": "data/circuits/full/d24_logical.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "a3260bd53276deed35c23b46c34e1d867fd792e7",
+      "size": 318699,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/a3260bd53276deed35c23b46c34e1d867fd792e7"
+    },
+    {
+      "path": "data/circuits/full/d28_logical.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "bbb8bb489316970537e2aa357a3b1b21195f5ffe",
+      "size": 187836,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/bbb8bb489316970537e2aa357a3b1b21195f5ffe"
+    },
+    {
+      "path": "data/circuits/full/d28_logical.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "485c14ac99402e23968baba85e64b90fa5a38c89",
+      "size": 371109,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/485c14ac99402e23968baba85e64b90fa5a38c89"
+    },
+    {
+      "path": "data/circuits/full/d32_logical.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "1b9a87e36aedf1930b19aa7f7429c5b5c6795cc9",
+      "size": 214529,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/1b9a87e36aedf1930b19aa7f7429c5b5c6795cc9"
+    },
+    {
+      "path": "data/circuits/full/d32_logical.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "79b9ddaa0161e66e8d0de61849c6dd445b768a67",
+      "size": 423519,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/79b9ddaa0161e66e8d0de61849c6dd445b768a67"
+    },
+    {
+      "path": "data/circuits/full/d36_executed.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "df9ee9eb3106bfccbcaab74bac2af2c4fb8a82b7",
+      "size": 258414,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/df9ee9eb3106bfccbcaab74bac2af2c4fb8a82b7"
+    },
+    {
+      "path": "data/circuits/full/d36_executed.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "2536dbb055a33e088cfbbb445e4cf7a31d2ea913",
+      "size": 672549,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/2536dbb055a33e088cfbbb445e4cf7a31d2ea913"
+    },
+    {
+      "path": "data/circuits/full/d36_logical.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "455c62436eae7dfafdcfc52cb2ce566708ef4194",
+      "size": 241165,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/455c62436eae7dfafdcfc52cb2ce566708ef4194"
+    },
+    {
+      "path": "data/circuits/full/d36_logical.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "64713a8ac2053336709c2df32b92b27ccb42509f",
+      "size": 475929,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/64713a8ac2053336709c2df32b92b27ccb42509f"
+    },
+    {
+      "path": "data/circuits/full/d40_logical.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "f2ca444b03eae61f40c2b332921a4186ee025e99",
+      "size": 267806,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/f2ca444b03eae61f40c2b332921a4186ee025e99"
+    },
+    {
+      "path": "data/circuits/full/d40_logical.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "e807e3620a9593772a9a26f342a4b6bd829a4aae",
+      "size": 528339,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/e807e3620a9593772a9a26f342a4b6bd829a4aae"
+    },
+    {
+      "path": "data/circuits/manifest.json",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "06ee4cc15936fed8971759f562b0af676b8618ed",
+      "size": 57997,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/06ee4cc15936fed8971759f562b0af676b8618ed"
+    },
+    {
+      "path": "data/circuits/mirror",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "6e0f6a94f840eba5d09e2eed605ee9e515a0b2b7",
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/trees/6e0f6a94f840eba5d09e2eed605ee9e515a0b2b7"
+    },
+    {
+      "path": "data/circuits/mirror/d04_instance0.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "280e5aff92f03b6e6dae5fe7a73e0dfc634beaac",
+      "size": 32319,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/280e5aff92f03b6e6dae5fe7a73e0dfc634beaac"
+    },
+    {
+      "path": "data/circuits/mirror/d04_instance0.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "531cae9e031a23cbea318d362fc5d92431c3d705",
+      "size": 62538,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/531cae9e031a23cbea318d362fc5d92431c3d705"
+    },
+    {
+      "path": "data/circuits/mirror/d04_instance1.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "24b3a847a5af695c2785ed117ddf5a3591ffd08f",
+      "size": 32359,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/24b3a847a5af695c2785ed117ddf5a3591ffd08f"
+    },
+    {
+      "path": "data/circuits/mirror/d04_instance1.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "37697bf8bd6baa53ae3052b835b8bdb8fa6e9f06",
+      "size": 62538,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/37697bf8bd6baa53ae3052b835b8bdb8fa6e9f06"
+    },
+    {
+      "path": "data/circuits/mirror/d04_instance2.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "2b3b8aae96a9cb20dcb9f039e75d7519eeddc159",
+      "size": 32341,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/2b3b8aae96a9cb20dcb9f039e75d7519eeddc159"
+    },
+    {
+      "path": "data/circuits/mirror/d04_instance2.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "4e2cc9b1fe77172e95adcf147b5400a52bb20175",
+      "size": 62538,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/4e2cc9b1fe77172e95adcf147b5400a52bb20175"
+    },
+    {
+      "path": "data/circuits/mirror/d06_instance0.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "9947ed80c4f1a468da04b9cca1adf301da61ee4a",
+      "size": 45922,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/9947ed80c4f1a468da04b9cca1adf301da61ee4a"
+    },
+    {
+      "path": "data/circuits/mirror/d06_instance0.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "b733d9e89c8c4b5305f3f5440744783434bdc731",
+      "size": 88988,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/b733d9e89c8c4b5305f3f5440744783434bdc731"
+    },
+    {
+      "path": "data/circuits/mirror/d06_instance1.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "faf2b4089a4a268cdf1dad8de790876e4ad47dac",
+      "size": 45958,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/faf2b4089a4a268cdf1dad8de790876e4ad47dac"
+    },
+    {
+      "path": "data/circuits/mirror/d06_instance1.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "62d092897f50407ee73a33e3c7ab80e4eff7fee3",
+      "size": 88988,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/62d092897f50407ee73a33e3c7ab80e4eff7fee3"
+    },
+    {
+      "path": "data/circuits/mirror/d06_instance2.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "153f1dce3b101ee1f8b5e929a923fa6b677051cc",
+      "size": 45908,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/153f1dce3b101ee1f8b5e929a923fa6b677051cc"
+    },
+    {
+      "path": "data/circuits/mirror/d06_instance2.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "d290df641f9b4905e6702919fa4d2e387108f81c",
+      "size": 88988,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/d290df641f9b4905e6702919fa4d2e387108f81c"
+    },
+    {
+      "path": "data/circuits/mirror/d08_instance0.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "5b55ce1f7964153c5ebc892a71accd96e7bf8f5e",
+      "size": 59245,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/5b55ce1f7964153c5ebc892a71accd96e7bf8f5e"
+    },
+    {
+      "path": "data/circuits/mirror/d08_instance0.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "a505bad51b94ebf2776c47937434443825b94a2e",
+      "size": 114654,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/a505bad51b94ebf2776c47937434443825b94a2e"
+    },
+    {
+      "path": "data/circuits/mirror/d08_instance1.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "2f33982028fa9e51158b2847b3f8c0ee601a131d",
+      "size": 59257,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/2f33982028fa9e51158b2847b3f8c0ee601a131d"
+    },
+    {
+      "path": "data/circuits/mirror/d08_instance1.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "434b0de352066cdd2fbb8f8aa79ad185e4814882",
+      "size": 114654,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/434b0de352066cdd2fbb8f8aa79ad185e4814882"
+    },
+    {
+      "path": "data/circuits/mirror/d08_instance2.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "67637bf539eb6fde6ee1e2599a3ad00096dfb5a8",
+      "size": 59217,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/67637bf539eb6fde6ee1e2599a3ad00096dfb5a8"
+    },
+    {
+      "path": "data/circuits/mirror/d08_instance2.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "55c04736b4fcff6bac896edba342f1542f471f85",
+      "size": 114654,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/55c04736b4fcff6bac896edba342f1542f471f85"
+    },
+    {
+      "path": "data/circuits/mirror/d10_instance0.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "a504dd42a404e16c564ce96f04b3eeff5cd14499",
+      "size": 72612,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/a504dd42a404e16c564ce96f04b3eeff5cd14499"
+    },
+    {
+      "path": "data/circuits/mirror/d10_instance0.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "44fce3547a8ed263d0abf003fd51bfadc81b990c",
+      "size": 140419,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/44fce3547a8ed263d0abf003fd51bfadc81b990c"
+    },
+    {
+      "path": "data/circuits/mirror/d10_instance1.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "45c321c179775e6233d5c5bd4cb7105e27c64295",
+      "size": 72574,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/45c321c179775e6233d5c5bd4cb7105e27c64295"
+    },
+    {
+      "path": "data/circuits/mirror/d10_instance1.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "fc0c694e97de0d4aa6dba91393e4cbb7164c0dee",
+      "size": 140419,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/fc0c694e97de0d4aa6dba91393e4cbb7164c0dee"
+    },
+    {
+      "path": "data/circuits/mirror/d10_instance2.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "b4304923be1deff0847ca048e4ad37e3c5159226",
+      "size": 72580,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/b4304923be1deff0847ca048e4ad37e3c5159226"
+    },
+    {
+      "path": "data/circuits/mirror/d10_instance2.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "2d437e2fd8721fad7217ed1b3c96b2e30e1c5466",
+      "size": 140419,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/2d437e2fd8721fad7217ed1b3c96b2e30e1c5466"
+    },
+    {
+      "path": "data/circuits/mirror/d12_instance0.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "9eec972a305000ee3a1e124bd044ea8774273771",
+      "size": 85781,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/9eec972a305000ee3a1e124bd044ea8774273771"
+    },
+    {
+      "path": "data/circuits/mirror/d12_instance0.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "3dd2d4ab300a8e13f0c063da3238873ff74bce25",
+      "size": 165693,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/3dd2d4ab300a8e13f0c063da3238873ff74bce25"
+    },
+    {
+      "path": "data/circuits/mirror/d12_instance1.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "cd94d1d8238a80b479ab4f858ee13ebbe73e6874",
+      "size": 85753,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/cd94d1d8238a80b479ab4f858ee13ebbe73e6874"
+    },
+    {
+      "path": "data/circuits/mirror/d12_instance1.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "b1b5a0aa13942667808896dd1e3295236f04246d",
+      "size": 165693,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/b1b5a0aa13942667808896dd1e3295236f04246d"
+    },
+    {
+      "path": "data/circuits/mirror/d12_instance2.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "e47dc83e94728aa940738a4a62bfc2251d71dd32",
+      "size": 85773,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/e47dc83e94728aa940738a4a62bfc2251d71dd32"
+    },
+    {
+      "path": "data/circuits/mirror/d12_instance2.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "59a89f9050bdc9c8128e8f23067a493da7d10aae",
+      "size": 165693,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/59a89f9050bdc9c8128e8f23067a493da7d10aae"
+    },
+    {
+      "path": "data/circuits/mirror/d14_instance0.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "b55c324245756834731c79b8dd656e95d7e2239e",
+      "size": 99200,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/b55c324245756834731c79b8dd656e95d7e2239e"
+    },
+    {
+      "path": "data/circuits/mirror/d14_instance0.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "fc453cad9c182b63c7c3a1b54e68c17af6e24381",
+      "size": 191751,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/fc453cad9c182b63c7c3a1b54e68c17af6e24381"
+    },
+    {
+      "path": "data/circuits/mirror/d14_instance1.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "79e25595b6fd2b93697ddd3bf8f677e7c5721392",
+      "size": 99204,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/79e25595b6fd2b93697ddd3bf8f677e7c5721392"
+    },
+    {
+      "path": "data/circuits/mirror/d14_instance1.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "f7d27a96f2032aab6ffa1f1af8b29b33f0c081bc",
+      "size": 191751,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/f7d27a96f2032aab6ffa1f1af8b29b33f0c081bc"
+    },
+    {
+      "path": "data/circuits/mirror/d14_instance2.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "51e3c66899cd5e19a8c7f6e20acef655e920257a",
+      "size": 99238,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/51e3c66899cd5e19a8c7f6e20acef655e920257a"
+    },
+    {
+      "path": "data/circuits/mirror/d14_instance2.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "5953b84b593010b49e299ae707f5230420f3be3d",
+      "size": 191751,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/5953b84b593010b49e299ae707f5230420f3be3d"
+    },
+    {
+      "path": "data/circuits/mirror/d16_instance0.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "2e2b7a8cc8b866b6acc4fb92d316ffb04de9703b",
+      "size": 112461,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/2e2b7a8cc8b866b6acc4fb92d316ffb04de9703b"
+    },
+    {
+      "path": "data/circuits/mirror/d16_instance0.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "cc84d57ae0200b9353359240e6e89f4e2cde9320",
+      "size": 217221,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/cc84d57ae0200b9353359240e6e89f4e2cde9320"
+    },
+    {
+      "path": "data/circuits/mirror/d16_instance1.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "91e2c50cd75c58de3b39ef594a9a252e7dc96439",
+      "size": 112457,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/91e2c50cd75c58de3b39ef594a9a252e7dc96439"
+    },
+    {
+      "path": "data/circuits/mirror/d16_instance1.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "fb6118190b1326e3e041d9868043b1ef96375293",
+      "size": 217221,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/fb6118190b1326e3e041d9868043b1ef96375293"
+    },
+    {
+      "path": "data/circuits/mirror/d16_instance2.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "dfa3bf5f29105513b355510c4bbc909268ea0705",
+      "size": 112519,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/dfa3bf5f29105513b355510c4bbc909268ea0705"
+    },
+    {
+      "path": "data/circuits/mirror/d16_instance2.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "d980dd40b33b18765ea8505a1df1d1919257e6c7",
+      "size": 217221,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/d980dd40b33b18765ea8505a1df1d1919257e6c7"
+    },
+    {
+      "path": "data/circuits/mirror/d18_instance0.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "871416e4c9f87cfc310dbfad35ced68403a05a51",
+      "size": 125948,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/871416e4c9f87cfc310dbfad35ced68403a05a51"
+    },
+    {
+      "path": "data/circuits/mirror/d18_instance0.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "d290935f1b8ee39650242715f00a997bee16a20c",
+      "size": 243377,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/d290935f1b8ee39650242715f00a997bee16a20c"
+    },
+    {
+      "path": "data/circuits/mirror/d18_instance1.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "59aaddcb7afc998372105b658789b6dc73d90a46",
+      "size": 125922,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/59aaddcb7afc998372105b658789b6dc73d90a46"
+    },
+    {
+      "path": "data/circuits/mirror/d18_instance1.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "78510a6c19e40a70042ccb6eaf536c70303565af",
+      "size": 243377,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/78510a6c19e40a70042ccb6eaf536c70303565af"
+    },
+    {
+      "path": "data/circuits/mirror/d18_instance2.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "c466a98a7aba1fc11e03d973602bc35741b06109",
+      "size": 125998,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/c466a98a7aba1fc11e03d973602bc35741b06109"
+    },
+    {
+      "path": "data/circuits/mirror/d18_instance2.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "92c93d2a6bdaf896bf03414664c2e7e25722ff98",
+      "size": 243377,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/92c93d2a6bdaf896bf03414664c2e7e25722ff98"
+    },
+    {
+      "path": "data/circuits/mirror/d20_instance0.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "07b2ec0d0338a1c89d8c205809e1f07f68fb7046",
+      "size": 139315,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/07b2ec0d0338a1c89d8c205809e1f07f68fb7046"
+    },
+    {
+      "path": "data/circuits/mirror/d20_instance0.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "3d50ee2f7662262a74f29896a9c3cb94b6d1f862",
+      "size": 269240,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/3d50ee2f7662262a74f29896a9c3cb94b6d1f862"
+    },
+    {
+      "path": "data/circuits/mirror/d20_instance1.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "cf1fe82a1b55c1c5851c474a761b0d06ae49d042",
+      "size": 139313,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/cf1fe82a1b55c1c5851c474a761b0d06ae49d042"
+    },
+    {
+      "path": "data/circuits/mirror/d20_instance1.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "bec7b11c273c20a98263406567e9254e7b1f622b",
+      "size": 269240,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/bec7b11c273c20a98263406567e9254e7b1f622b"
+    },
+    {
+      "path": "data/circuits/mirror/d20_instance2.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "ac26327e6912ddd0ec14c03b4941c3828b5e6030",
+      "size": 139385,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/ac26327e6912ddd0ec14c03b4941c3828b5e6030"
+    },
+    {
+      "path": "data/circuits/mirror/d20_instance2.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "ca0d9cd2314a17d8bbdb3fb4c32890a17297b28a",
+      "size": 269240,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/ca0d9cd2314a17d8bbdb3fb4c32890a17297b28a"
+    },
+    {
+      "path": "data/circuits/mirror/d24_instance0.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "8b7dec2fbe8859c7fcd35d6e86d45695ac1447ce",
+      "size": 166127,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/8b7dec2fbe8859c7fcd35d6e86d45695ac1447ce"
+    },
+    {
+      "path": "data/circuits/mirror/d24_instance0.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "f4f20487b781d88eb7f3ac5ecd4b90eb934026f6",
+      "size": 321062,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/f4f20487b781d88eb7f3ac5ecd4b90eb934026f6"
+    },
+    {
+      "path": "data/circuits/mirror/d24_instance1.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "3678af5445e0802fbca4a7f736b351cb6c185aa1",
+      "size": 166133,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/3678af5445e0802fbca4a7f736b351cb6c185aa1"
+    },
+    {
+      "path": "data/circuits/mirror/d24_instance1.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "28681045a2371d79a5f14f785f359f13a9e00379",
+      "size": 321062,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/28681045a2371d79a5f14f785f359f13a9e00379"
+    },
+    {
+      "path": "data/circuits/mirror/d24_instance2.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "c72ed823ab7d4292d901966364f1488591986601",
+      "size": 166203,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/c72ed823ab7d4292d901966364f1488591986601"
+    },
+    {
+      "path": "data/circuits/mirror/d24_instance2.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "7973fb3f4241e97e197347fca7b0706468f3e620",
+      "size": 321062,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/7973fb3f4241e97e197347fca7b0706468f3e620"
+    },
+    {
+      "path": "data/circuits/mirror/d28_instance0.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "5f80942a8cef9ec1dc5b4dc59cd31a22d21f36b3",
+      "size": 192791,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/5f80942a8cef9ec1dc5b4dc59cd31a22d21f36b3"
+    },
+    {
+      "path": "data/circuits/mirror/d28_instance0.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "737cdee01a4c9feaf3f3bffe644a78052d9f26ce",
+      "size": 372590,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/737cdee01a4c9feaf3f3bffe644a78052d9f26ce"
+    },
+    {
+      "path": "data/circuits/mirror/d28_instance1.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "a183aac98958579e7d170d8f3f5f22a8654cf567",
+      "size": 192869,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/a183aac98958579e7d170d8f3f5f22a8654cf567"
+    },
+    {
+      "path": "data/circuits/mirror/d28_instance1.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "b473ee7edc23f63f61d87a76977bba63050ad211",
+      "size": 372590,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/b473ee7edc23f63f61d87a76977bba63050ad211"
+    },
+    {
+      "path": "data/circuits/mirror/d28_instance2.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "3b4a4562e31483f5a98eb9924b90ef91c392502b",
+      "size": 192907,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/3b4a4562e31483f5a98eb9924b90ef91c392502b"
+    },
+    {
+      "path": "data/circuits/mirror/d28_instance2.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "d3bdd77272ba927fa9c131f9d1d0e34e4ce6c2d3",
+      "size": 372590,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/d3bdd77272ba927fa9c131f9d1d0e34e4ce6c2d3"
+    },
+    {
+      "path": "data/circuits/mirror/d32_instance0.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "1e3dd587715689ffbd847535e465e5a05fe6ceb9",
+      "size": 219583,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/1e3dd587715689ffbd847535e465e5a05fe6ceb9"
+    },
+    {
+      "path": "data/circuits/mirror/d32_instance0.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "e353f70848afec19d8c991667ab005632ffa7152",
+      "size": 424412,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/e353f70848afec19d8c991667ab005632ffa7152"
+    },
+    {
+      "path": "data/circuits/mirror/d32_instance1.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "ba95051dc64db055c3c87dd9ecc8adab7156669d",
+      "size": 219647,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/ba95051dc64db055c3c87dd9ecc8adab7156669d"
+    },
+    {
+      "path": "data/circuits/mirror/d32_instance1.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "e4a9b01c6d6a414408c52ea765729a4c9e4da2ed",
+      "size": 424412,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/e4a9b01c6d6a414408c52ea765729a4c9e4da2ed"
+    },
+    {
+      "path": "data/circuits/mirror/d32_instance2.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "9ca589850e5f0084a2cf004a768fc9a23c3120f3",
+      "size": 219741,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/9ca589850e5f0084a2cf004a768fc9a23c3120f3"
+    },
+    {
+      "path": "data/circuits/mirror/d32_instance2.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "329ba6e992ba56b93a06e3ff8d8b2f5277073bfc",
+      "size": 424412,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/329ba6e992ba56b93a06e3ff8d8b2f5277073bfc"
+    },
+    {
+      "path": "data/circuits/mirror/d36_instance0.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "f88f0608b06b5da6785c3410c8c8f597f76dfdae",
+      "size": 246473,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/f88f0608b06b5da6785c3410c8c8f597f76dfdae"
+    },
+    {
+      "path": "data/circuits/mirror/d36_instance0.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "c527dde530230c5732dddc19948b9e1127057bcc",
+      "size": 476528,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/c527dde530230c5732dddc19948b9e1127057bcc"
+    },
+    {
+      "path": "data/circuits/mirror/d36_instance1.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "b44a076d506f240865362e132314600747636f95",
+      "size": 246525,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/b44a076d506f240865362e132314600747636f95"
+    },
+    {
+      "path": "data/circuits/mirror/d36_instance1.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "0602e3b18528de398c19d7b976a74a8b194f3606",
+      "size": 476528,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/0602e3b18528de398c19d7b976a74a8b194f3606"
+    },
+    {
+      "path": "data/circuits/mirror/d36_instance2.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "7fc31492882e5a78ca7668deaa95946cf88d4e81",
+      "size": 246693,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/7fc31492882e5a78ca7668deaa95946cf88d4e81"
+    },
+    {
+      "path": "data/circuits/mirror/d36_instance2.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "29f9c5cf7201df6f0a2fed5574b7c03ed14f9258",
+      "size": 476528,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/29f9c5cf7201df6f0a2fed5574b7c03ed14f9258"
+    },
+    {
+      "path": "data/circuits/mirror/d40_instance0.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "d906069638b60551a2976f294563f02cba961c92",
+      "size": 273163,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/d906069638b60551a2976f294563f02cba961c92"
+    },
+    {
+      "path": "data/circuits/mirror/d40_instance0.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "71b4e9b63fc8a79e0fcd485bd93601363f87e5d5",
+      "size": 528154,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/71b4e9b63fc8a79e0fcd485bd93601363f87e5d5"
+    },
+    {
+      "path": "data/circuits/mirror/d40_instance1.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "a31952291fe59e88958f17e283d61c4d555e7c1e",
+      "size": 273285,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/a31952291fe59e88958f17e283d61c4d555e7c1e"
+    },
+    {
+      "path": "data/circuits/mirror/d40_instance1.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "6d49ecb1b78a484c8707a5da8f79fa9cbb39a04c",
+      "size": 528154,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/6d49ecb1b78a484c8707a5da8f79fa9cbb39a04c"
+    },
+    {
+      "path": "data/circuits/mirror/d40_instance2.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "e6931fdb99f1734e619f9e02fb6753d538ef5bbe",
+      "size": 273443,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/e6931fdb99f1734e619f9e02fb6753d538ef5bbe"
+    },
+    {
+      "path": "data/circuits/mirror/d40_instance2.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "8a95f6423673d27aaa63ca6eddb8cc7dbba78b32",
+      "size": 528154,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/8a95f6423673d27aaa63ca6eddb8cc7dbba78b32"
+    },
+    {
+      "path": "data/circuits/patched",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "7c786c9f99045eb0c509c24d2985c319373e7616",
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/trees/7c786c9f99045eb0c509c24d2985c319373e7616"
+    },
+    {
+      "path": "data/circuits/patched/K3",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "2087a62c22ff1cc9aa0ba88cb2ab63f04b0c13bc",
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/trees/2087a62c22ff1cc9aa0ba88cb2ab63f04b0c13bc"
+    },
+    {
+      "path": "data/circuits/patched/K3/d20",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "55a35d6ed566a36a6aa40e7cf6c12f9ec2980e5f",
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/trees/55a35d6ed566a36a6aa40e7cf6c12f9ec2980e5f"
+    },
+    {
+      "path": "data/circuits/patched/K3/d20/partition0_instance0.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "071e3d10e32eed858ef82f291ab83614ab903c4e",
+      "size": 133545,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/071e3d10e32eed858ef82f291ab83614ab903c4e"
+    },
+    {
+      "path": "data/circuits/patched/K3/d20/partition0_instance0.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "450bea48a4732727cfbc0e5f8536eaeef755a9a6",
+      "size": 263442,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/450bea48a4732727cfbc0e5f8536eaeef755a9a6"
+    },
+    {
+      "path": "data/circuits/patched/K3/d20/partition0_instance1.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "d1cabd982c3df00ee194126efcb5b283a2dc5dca",
+      "size": 133592,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/d1cabd982c3df00ee194126efcb5b283a2dc5dca"
+    },
+    {
+      "path": "data/circuits/patched/K3/d20/partition0_instance1.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "6159c54821195938f95582f46a8c4a3582397c49",
+      "size": 263445,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/6159c54821195938f95582f46a8c4a3582397c49"
+    },
+    {
+      "path": "data/circuits/patched/K3/d20/partition0_instance2.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "73a208a031c5fca7d48f4b8b100378039ea524e7",
+      "size": 133622,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/73a208a031c5fca7d48f4b8b100378039ea524e7"
+    },
+    {
+      "path": "data/circuits/patched/K3/d20/partition0_instance2.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "addc51f994381b5e826249cb6f02bc8cb6f78d3b",
+      "size": 263445,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/addc51f994381b5e826249cb6f02bc8cb6f78d3b"
+    },
+    {
+      "path": "data/circuits/patched/K3/d20/partition1_instance0.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "d4ed368e7bc80df4fffe4a1a4edc4523c9663851",
+      "size": 133465,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/d4ed368e7bc80df4fffe4a1a4edc4523c9663851"
+    },
+    {
+      "path": "data/circuits/patched/K3/d20/partition1_instance0.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "fd533944e90554865b60b412f6a759fba2806dc3",
+      "size": 263204,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/fd533944e90554865b60b412f6a759fba2806dc3"
+    },
+    {
+      "path": "data/circuits/patched/K3/d20/partition1_instance1.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "f7c97a810610d95c387643be2c06c000e68bdbaa",
+      "size": 133512,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/f7c97a810610d95c387643be2c06c000e68bdbaa"
+    },
+    {
+      "path": "data/circuits/patched/K3/d20/partition1_instance1.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "ca4e4d44bf531001d86ec8fddc62b0c057cfb668",
+      "size": 263207,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/ca4e4d44bf531001d86ec8fddc62b0c057cfb668"
+    },
+    {
+      "path": "data/circuits/patched/K3/d20/partition1_instance2.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "9d1ad030d1c7122912b76096d325b83a9d421450",
+      "size": 133542,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/9d1ad030d1c7122912b76096d325b83a9d421450"
+    },
+    {
+      "path": "data/circuits/patched/K3/d20/partition1_instance2.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "ddfef1af863fffafd0069f4be9ea4aecaab0f695",
+      "size": 263207,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/ddfef1af863fffafd0069f4be9ea4aecaab0f695"
+    },
+    {
+      "path": "data/circuits/patched/K3/d20/partition2_instance0.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "9a1b75547b0d960dc2e2fb82c95c44c0f26f3d54",
+      "size": 133465,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/9a1b75547b0d960dc2e2fb82c95c44c0f26f3d54"
+    },
+    {
+      "path": "data/circuits/patched/K3/d20/partition2_instance0.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "fde47dfe46e5e9dfb1938907cea16afc3932272a",
+      "size": 263204,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/fde47dfe46e5e9dfb1938907cea16afc3932272a"
+    },
+    {
+      "path": "data/circuits/patched/K3/d20/partition2_instance1.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "071cad7a567976c38fa2bcf1ec58f0e4747a3a6f",
+      "size": 133512,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/071cad7a567976c38fa2bcf1ec58f0e4747a3a6f"
+    },
+    {
+      "path": "data/circuits/patched/K3/d20/partition2_instance1.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "d6d0ee88fbc7fc0b03b89439afd070335a7c5b2d",
+      "size": 263207,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/d6d0ee88fbc7fc0b03b89439afd070335a7c5b2d"
+    },
+    {
+      "path": "data/circuits/patched/K3/d20/partition2_instance2.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "fba25ee7f76af917808db458edab1400c7ea69e0",
+      "size": 133542,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/fba25ee7f76af917808db458edab1400c7ea69e0"
+    },
+    {
+      "path": "data/circuits/patched/K3/d20/partition2_instance2.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "c70be528421a04e94cf9afed2a1e99b279e43c1a",
+      "size": 263207,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/c70be528421a04e94cf9afed2a1e99b279e43c1a"
+    },
+    {
+      "path": "data/circuits/patched/K3/d20/partition3_instance0.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "391a61739c8df2a6c6e0ed167424fdf89544e3aa",
+      "size": 133375,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/391a61739c8df2a6c6e0ed167424fdf89544e3aa"
+    },
+    {
+      "path": "data/circuits/patched/K3/d20/partition3_instance0.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "b49ad49adc38f8063a8688c9a182a2736a672d8c",
+      "size": 262968,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/b49ad49adc38f8063a8688c9a182a2736a672d8c"
+    },
+    {
+      "path": "data/circuits/patched/K3/d20/partition3_instance1.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "03a1ac07fb52091f3f410fbb2714f3168a0791a4",
+      "size": 133422,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/03a1ac07fb52091f3f410fbb2714f3168a0791a4"
+    },
+    {
+      "path": "data/circuits/patched/K3/d20/partition3_instance1.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "2d60584655e4b78f10aef3c667d901f527ba423d",
+      "size": 262971,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/2d60584655e4b78f10aef3c667d901f527ba423d"
+    },
+    {
+      "path": "data/circuits/patched/K3/d20/partition3_instance2.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "134a00e9b3e942abd8f9f7fda6888bb90b6f9563",
+      "size": 133452,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/134a00e9b3e942abd8f9f7fda6888bb90b6f9563"
+    },
+    {
+      "path": "data/circuits/patched/K3/d20/partition3_instance2.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "be8d550d171fd50d26ee926c933c7b70b39686bd",
+      "size": 262971,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/be8d550d171fd50d26ee926c933c7b70b39686bd"
+    },
+    {
+      "path": "data/circuits/patched/K3/d20/partition4_instance0.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "af33174f87ac35a10f44c8f62c0f173867466927",
+      "size": 133380,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/af33174f87ac35a10f44c8f62c0f173867466927"
+    },
+    {
+      "path": "data/circuits/patched/K3/d20/partition4_instance0.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "809246f536177d9acf7744423ac6b139a3b5a313",
+      "size": 262967,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/809246f536177d9acf7744423ac6b139a3b5a313"
+    },
+    {
+      "path": "data/circuits/patched/K3/d20/partition4_instance1.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "100ad81251293712a7d5cddaee010683bdf0099a",
+      "size": 133427,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/100ad81251293712a7d5cddaee010683bdf0099a"
+    },
+    {
+      "path": "data/circuits/patched/K3/d20/partition4_instance1.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "07be70a44b46d311c70a271e4590592c860f3f19",
+      "size": 262970,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/07be70a44b46d311c70a271e4590592c860f3f19"
+    },
+    {
+      "path": "data/circuits/patched/K3/d20/partition4_instance2.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "7bc26794fe924abe05acd7f8095ce66c9bdf2e04",
+      "size": 133457,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/7bc26794fe924abe05acd7f8095ce66c9bdf2e04"
+    },
+    {
+      "path": "data/circuits/patched/K3/d20/partition4_instance2.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "a16e02210e14de3b4882a111a392d56e84ac2a40",
+      "size": 262970,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/a16e02210e14de3b4882a111a392d56e84ac2a40"
+    },
+    {
+      "path": "data/circuits/patched/K3/d24",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "664b92269a4b103d4e51da471b4fbcdfd4bea83c",
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/trees/664b92269a4b103d4e51da471b4fbcdfd4bea83c"
+    },
+    {
+      "path": "data/circuits/patched/K3/d24/partition0_instance0.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "6d22e6bdee8a1466c6c53b459d716e6c3db5f110",
+      "size": 159969,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/6d22e6bdee8a1466c6c53b459d716e6c3db5f110"
+    },
+    {
+      "path": "data/circuits/patched/K3/d24/partition0_instance0.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "436d874c419ecc4797681bd43755c345b0d0e638",
+      "size": 315264,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/436d874c419ecc4797681bd43755c345b0d0e638"
+    },
+    {
+      "path": "data/circuits/patched/K3/d24/partition0_instance1.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "d8883ec2fee0be91ce9d68745ae56d42aa510cb0",
+      "size": 160027,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/d8883ec2fee0be91ce9d68745ae56d42aa510cb0"
+    },
+    {
+      "path": "data/circuits/patched/K3/d24/partition0_instance1.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "f57df1ed20e777a7db974bed3db4ac9faaaa0f5f",
+      "size": 315267,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/f57df1ed20e777a7db974bed3db4ac9faaaa0f5f"
+    },
+    {
+      "path": "data/circuits/patched/K3/d24/partition0_instance2.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "4fcf3f791ddca2de6d4ffb243156a50ac08c030b",
+      "size": 160021,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/4fcf3f791ddca2de6d4ffb243156a50ac08c030b"
+    },
+    {
+      "path": "data/circuits/patched/K3/d24/partition0_instance2.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "5bca6b85a14aa0217ae7c4c83c1cce56ec62a783",
+      "size": 315267,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/5bca6b85a14aa0217ae7c4c83c1cce56ec62a783"
+    },
+    {
+      "path": "data/circuits/patched/K3/d24/partition1_instance0.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "41c0ed59eab76d176a4c9cff850081ea68aa6ba6",
+      "size": 159873,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/41c0ed59eab76d176a4c9cff850081ea68aa6ba6"
+    },
+    {
+      "path": "data/circuits/patched/K3/d24/partition1_instance0.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "f0ae455d24b35d7b389f9034c9079ba613052fa6",
+      "size": 314977,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/f0ae455d24b35d7b389f9034c9079ba613052fa6"
+    },
+    {
+      "path": "data/circuits/patched/K3/d24/partition1_instance1.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "5d58aa5a1e09766a8b72eb6ed0e2fd83e9687211",
+      "size": 159931,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/5d58aa5a1e09766a8b72eb6ed0e2fd83e9687211"
+    },
+    {
+      "path": "data/circuits/patched/K3/d24/partition1_instance1.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "e4b9307c4b10fa79361105f75af4edf7bd5be3fc",
+      "size": 314980,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/e4b9307c4b10fa79361105f75af4edf7bd5be3fc"
+    },
+    {
+      "path": "data/circuits/patched/K3/d24/partition1_instance2.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "251138b5c1e9156ec43799e10581b435a7a0bdf4",
+      "size": 159925,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/251138b5c1e9156ec43799e10581b435a7a0bdf4"
+    },
+    {
+      "path": "data/circuits/patched/K3/d24/partition1_instance2.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "5f2375986e89f3fbf815ecfa8429da2c37b7fb7d",
+      "size": 314980,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/5f2375986e89f3fbf815ecfa8429da2c37b7fb7d"
+    },
+    {
+      "path": "data/circuits/patched/K3/d24/partition2_instance0.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "ef95bef014ecb4c7ab2db02c86ab0c8cd5317e13",
+      "size": 159873,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/ef95bef014ecb4c7ab2db02c86ab0c8cd5317e13"
+    },
+    {
+      "path": "data/circuits/patched/K3/d24/partition2_instance0.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "d5ff91d392c370c089cf4912f1dd7cd36aec1fc8",
+      "size": 314977,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/d5ff91d392c370c089cf4912f1dd7cd36aec1fc8"
+    },
+    {
+      "path": "data/circuits/patched/K3/d24/partition2_instance1.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "3e868c4c2208bde68d3e11ddec8ba3eed9559e4e",
+      "size": 159931,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/3e868c4c2208bde68d3e11ddec8ba3eed9559e4e"
+    },
+    {
+      "path": "data/circuits/patched/K3/d24/partition2_instance1.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "59882220495988e4e193780a45f65985e0d99662",
+      "size": 314980,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/59882220495988e4e193780a45f65985e0d99662"
+    },
+    {
+      "path": "data/circuits/patched/K3/d24/partition2_instance2.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "2001bb7e5788ffee212e664b52fe1f6b88d0ad3e",
+      "size": 159925,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/2001bb7e5788ffee212e664b52fe1f6b88d0ad3e"
+    },
+    {
+      "path": "data/circuits/patched/K3/d24/partition2_instance2.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "37080c6181baeaf4508b649ff35e75ba12edd59c",
+      "size": 314980,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/37080c6181baeaf4508b649ff35e75ba12edd59c"
+    },
+    {
+      "path": "data/circuits/patched/K3/d24/partition3_instance0.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "97e4ef27af8202ef8e3ab76bcb6c7c67c70a6a9d",
+      "size": 159765,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/97e4ef27af8202ef8e3ab76bcb6c7c67c70a6a9d"
+    },
+    {
+      "path": "data/circuits/patched/K3/d24/partition3_instance0.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "460244e8348026a3047a3fafb96ca7a5929c859c",
+      "size": 314692,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/460244e8348026a3047a3fafb96ca7a5929c859c"
+    },
+    {
+      "path": "data/circuits/patched/K3/d24/partition3_instance1.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "3b89a55a61ad4e5b845e4be47b9a01a5b51e16f0",
+      "size": 159823,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/3b89a55a61ad4e5b845e4be47b9a01a5b51e16f0"
+    },
+    {
+      "path": "data/circuits/patched/K3/d24/partition3_instance1.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "38c693820a2cc3b993df4fa6c8c8bd8d86c91b1c",
+      "size": 314695,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/38c693820a2cc3b993df4fa6c8c8bd8d86c91b1c"
+    },
+    {
+      "path": "data/circuits/patched/K3/d24/partition3_instance2.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "d0cb104fce4501f9549281d3eaaeb706ffd85800",
+      "size": 159817,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/d0cb104fce4501f9549281d3eaaeb706ffd85800"
+    },
+    {
+      "path": "data/circuits/patched/K3/d24/partition3_instance2.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "b3727c04d5881e0bdddf4088f5d7d56d05b87190",
+      "size": 314695,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/b3727c04d5881e0bdddf4088f5d7d56d05b87190"
+    },
+    {
+      "path": "data/circuits/patched/K3/d24/partition4_instance0.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "193583f6ce0870392468803e67a9351df9caff77",
+      "size": 159771,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/193583f6ce0870392468803e67a9351df9caff77"
+    },
+    {
+      "path": "data/circuits/patched/K3/d24/partition4_instance0.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "722003cf96b31eb0a8d0c837d289bba57fba3019",
+      "size": 314691,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/722003cf96b31eb0a8d0c837d289bba57fba3019"
+    },
+    {
+      "path": "data/circuits/patched/K3/d24/partition4_instance1.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "61d4bc7381a19c00a1727238c13101d0a66aa0de",
+      "size": 159829,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/61d4bc7381a19c00a1727238c13101d0a66aa0de"
+    },
+    {
+      "path": "data/circuits/patched/K3/d24/partition4_instance1.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "04d498deb87a9f519f38a0af757b71a4d10c894c",
+      "size": 314694,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/04d498deb87a9f519f38a0af757b71a4d10c894c"
+    },
+    {
+      "path": "data/circuits/patched/K3/d24/partition4_instance2.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "390d49d7b29a8ec869a5e20565365615563787bd",
+      "size": 159823,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/390d49d7b29a8ec869a5e20565365615563787bd"
+    },
+    {
+      "path": "data/circuits/patched/K3/d24/partition4_instance2.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "e1f777146d67274b67998228dbd9ed2f5f0e05e9",
+      "size": 314694,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/e1f777146d67274b67998228dbd9ed2f5f0e05e9"
+    },
+    {
+      "path": "data/circuits/patched/K3/d28",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "f13e7bc9cfbe0ac51941d150ec109f743dabbcd7",
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/trees/f13e7bc9cfbe0ac51941d150ec109f743dabbcd7"
+    },
+    {
+      "path": "data/circuits/patched/K3/d28/partition0_instance0.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "e411be964eef75f6cff33f3d4c1f7d00cc7d872b",
+      "size": 186422,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/e411be964eef75f6cff33f3d4c1f7d00cc7d872b"
+    },
+    {
+      "path": "data/circuits/patched/K3/d28/partition0_instance0.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "448537cdb88f2c0653371b4de3f51664246fce83",
+      "size": 367086,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/448537cdb88f2c0653371b4de3f51664246fce83"
+    },
+    {
+      "path": "data/circuits/patched/K3/d28/partition0_instance1.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "cec6a354cd84d8f6ee6c3d3a318cebf2d73d836b",
+      "size": 186471,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/cec6a354cd84d8f6ee6c3d3a318cebf2d73d836b"
+    },
+    {
+      "path": "data/circuits/patched/K3/d28/partition0_instance1.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "b0586302079f5775e40806f25e2cb3b35d76b9b2",
+      "size": 367089,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/b0586302079f5775e40806f25e2cb3b35d76b9b2"
+    },
+    {
+      "path": "data/circuits/patched/K3/d28/partition0_instance2.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "f7ca0bf545e15e28cffa32cfa84b9a6639f01558",
+      "size": 186416,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/f7ca0bf545e15e28cffa32cfa84b9a6639f01558"
+    },
+    {
+      "path": "data/circuits/patched/K3/d28/partition0_instance2.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "3cee5eeb727980a136db701deea58504d8545b8d",
+      "size": 367089,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/3cee5eeb727980a136db701deea58504d8545b8d"
+    },
+    {
+      "path": "data/circuits/patched/K3/d28/partition1_instance0.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "ca8df578e778d945fc6ad8ca6f0612023075e08e",
+      "size": 186310,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/ca8df578e778d945fc6ad8ca6f0612023075e08e"
+    },
+    {
+      "path": "data/circuits/patched/K3/d28/partition1_instance0.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "cd011401bbec866ba4fd4b9bb94a9ec756d79acc",
+      "size": 366750,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/cd011401bbec866ba4fd4b9bb94a9ec756d79acc"
+    },
+    {
+      "path": "data/circuits/patched/K3/d28/partition1_instance1.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "5541146a81764b097d18fce2b18ff7bbabf09306",
+      "size": 186359,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/5541146a81764b097d18fce2b18ff7bbabf09306"
+    },
+    {
+      "path": "data/circuits/patched/K3/d28/partition1_instance1.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "0bfa9b8d80c34f5c46137130045ced3efcdb1dc0",
+      "size": 366753,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/0bfa9b8d80c34f5c46137130045ced3efcdb1dc0"
+    },
+    {
+      "path": "data/circuits/patched/K3/d28/partition1_instance2.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "04a5933c8a49775a53ff7ee355328cc41358c50f",
+      "size": 186304,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/04a5933c8a49775a53ff7ee355328cc41358c50f"
+    },
+    {
+      "path": "data/circuits/patched/K3/d28/partition1_instance2.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "a3c64f4e6b2c04c99e77111b9fcb3f8dc2af6be9",
+      "size": 366753,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/a3c64f4e6b2c04c99e77111b9fcb3f8dc2af6be9"
+    },
+    {
+      "path": "data/circuits/patched/K3/d28/partition2_instance0.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "1edd1a17f06dc1110894818b8851f41f50c197e2",
+      "size": 186310,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/1edd1a17f06dc1110894818b8851f41f50c197e2"
+    },
+    {
+      "path": "data/circuits/patched/K3/d28/partition2_instance0.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "95fe45295c149c44f4e3773265cec22ad102a4db",
+      "size": 366750,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/95fe45295c149c44f4e3773265cec22ad102a4db"
+    },
+    {
+      "path": "data/circuits/patched/K3/d28/partition2_instance1.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "a7b76a1611a72f17de375787ecad3ce7e2574d18",
+      "size": 186359,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/a7b76a1611a72f17de375787ecad3ce7e2574d18"
+    },
+    {
+      "path": "data/circuits/patched/K3/d28/partition2_instance1.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "23a5dfed528ee8734137fad0a733e13908b5ac7c",
+      "size": 366753,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/23a5dfed528ee8734137fad0a733e13908b5ac7c"
+    },
+    {
+      "path": "data/circuits/patched/K3/d28/partition2_instance2.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "52c7091d211ea512385d86f3ac06de8822fd4008",
+      "size": 186304,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/52c7091d211ea512385d86f3ac06de8822fd4008"
+    },
+    {
+      "path": "data/circuits/patched/K3/d28/partition2_instance2.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "1c81a16a989de700f67977beedb38ae13f21492e",
+      "size": 366753,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/1c81a16a989de700f67977beedb38ae13f21492e"
+    },
+    {
+      "path": "data/circuits/patched/K3/d28/partition3_instance0.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "f2481961531ce29cb23a713650979e378e4394bf",
+      "size": 186184,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/f2481961531ce29cb23a713650979e378e4394bf"
+    },
+    {
+      "path": "data/circuits/patched/K3/d28/partition3_instance0.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "bfad297f33fa96ab5ac3890f65ff4dc66ad0e87a",
+      "size": 366416,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/bfad297f33fa96ab5ac3890f65ff4dc66ad0e87a"
+    },
+    {
+      "path": "data/circuits/patched/K3/d28/partition3_instance1.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "d8a736b0c488b5eb273b4e66641b8b9cb579c8fa",
+      "size": 186233,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/d8a736b0c488b5eb273b4e66641b8b9cb579c8fa"
+    },
+    {
+      "path": "data/circuits/patched/K3/d28/partition3_instance1.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "31d98fae024ab849fe86929201cbabceed11ccfc",
+      "size": 366419,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/31d98fae024ab849fe86929201cbabceed11ccfc"
+    },
+    {
+      "path": "data/circuits/patched/K3/d28/partition3_instance2.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "a16b6488cf3ad129b7a53ffbc44cb03f9424e3df",
+      "size": 186178,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/a16b6488cf3ad129b7a53ffbc44cb03f9424e3df"
+    },
+    {
+      "path": "data/circuits/patched/K3/d28/partition3_instance2.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "dd224409127bb643979d434144f4a178bba0823e",
+      "size": 366419,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/dd224409127bb643979d434144f4a178bba0823e"
+    },
+    {
+      "path": "data/circuits/patched/K3/d28/partition4_instance0.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "1d9869d22422bd6c45ab54eed21b4a24aebe60ac",
+      "size": 186191,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/1d9869d22422bd6c45ab54eed21b4a24aebe60ac"
+    },
+    {
+      "path": "data/circuits/patched/K3/d28/partition4_instance0.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "071fd6d49129cbdd4f38dc07a7b4da9ee50f41d3",
+      "size": 366415,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/071fd6d49129cbdd4f38dc07a7b4da9ee50f41d3"
+    },
+    {
+      "path": "data/circuits/patched/K3/d28/partition4_instance1.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "7f06dd02cf101dca93e94296e64920dfe5c40456",
+      "size": 186240,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/7f06dd02cf101dca93e94296e64920dfe5c40456"
+    },
+    {
+      "path": "data/circuits/patched/K3/d28/partition4_instance1.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "a4aba1bc32336f829e83476261b3801c76cc1a61",
+      "size": 366418,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/a4aba1bc32336f829e83476261b3801c76cc1a61"
+    },
+    {
+      "path": "data/circuits/patched/K3/d28/partition4_instance2.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "b50386af3705639fbe414215ffe07b7c9d81e0e1",
+      "size": 186185,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/b50386af3705639fbe414215ffe07b7c9d81e0e1"
+    },
+    {
+      "path": "data/circuits/patched/K3/d28/partition4_instance2.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "97b9e1b7638660835f94406dc27afd6f17407f39",
+      "size": 366418,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/97b9e1b7638660835f94406dc27afd6f17407f39"
+    },
+    {
+      "path": "data/circuits/patched/K3/d32",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "0a3d8fb221a60f83e7da7ebe7d9ccb72349036d5",
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/trees/0a3d8fb221a60f83e7da7ebe7d9ccb72349036d5"
+    },
+    {
+      "path": "data/circuits/patched/K3/d32/partition0_instance0.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "82b364b8ab2c0b61d6068a01b161279acb84e565",
+      "size": 212913,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/82b364b8ab2c0b61d6068a01b161279acb84e565"
+    },
+    {
+      "path": "data/circuits/patched/K3/d32/partition0_instance0.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "46f72b32a5dbba995961eaa52b368d06b675a21a",
+      "size": 418908,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/46f72b32a5dbba995961eaa52b368d06b675a21a"
+    },
+    {
+      "path": "data/circuits/patched/K3/d32/partition0_instance1.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "756a46994afce76b9764716a651b02b4e50e0244",
+      "size": 212882,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/756a46994afce76b9764716a651b02b4e50e0244"
+    },
+    {
+      "path": "data/circuits/patched/K3/d32/partition0_instance1.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "09bef5bff026a9ae0514359271d67537803bd3c4",
+      "size": 418911,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/09bef5bff026a9ae0514359271d67537803bd3c4"
+    },
+    {
+      "path": "data/circuits/patched/K3/d32/partition0_instance2.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "eaf44e35a946c4717f0de645e3faea82a2236c79",
+      "size": 212808,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/eaf44e35a946c4717f0de645e3faea82a2236c79"
+    },
+    {
+      "path": "data/circuits/patched/K3/d32/partition0_instance2.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "bf4151b7a9017163806f22ebf32d00390a2ff870",
+      "size": 418911,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/bf4151b7a9017163806f22ebf32d00390a2ff870"
+    },
+    {
+      "path": "data/circuits/patched/K3/d32/partition1_instance0.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "c3df90b267d0befc78728677bcff3e1085a46272",
+      "size": 212785,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/c3df90b267d0befc78728677bcff3e1085a46272"
+    },
+    {
+      "path": "data/circuits/patched/K3/d32/partition1_instance0.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "de92db45d1da0495568d2f71ea94659bb49dfd00",
+      "size": 418523,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/de92db45d1da0495568d2f71ea94659bb49dfd00"
+    },
+    {
+      "path": "data/circuits/patched/K3/d32/partition1_instance1.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "72a25b33f07dda3e719ac3e725cafb444cd71a1f",
+      "size": 212754,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/72a25b33f07dda3e719ac3e725cafb444cd71a1f"
+    },
+    {
+      "path": "data/circuits/patched/K3/d32/partition1_instance1.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "d074c415c95c88bd62fda1d443035a5c4efd6be0",
+      "size": 418526,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/d074c415c95c88bd62fda1d443035a5c4efd6be0"
+    },
+    {
+      "path": "data/circuits/patched/K3/d32/partition1_instance2.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "5fe93780edb13878207a7279787ce020ab263833",
+      "size": 212680,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/5fe93780edb13878207a7279787ce020ab263833"
+    },
+    {
+      "path": "data/circuits/patched/K3/d32/partition1_instance2.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "5ea69cd470ce9beda13304e49246cf5553e9b6ff",
+      "size": 418526,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/5ea69cd470ce9beda13304e49246cf5553e9b6ff"
+    },
+    {
+      "path": "data/circuits/patched/K3/d32/partition2_instance0.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "1babda53235960d41c7704b31758fa15ac4ae0ad",
+      "size": 212785,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/1babda53235960d41c7704b31758fa15ac4ae0ad"
+    },
+    {
+      "path": "data/circuits/patched/K3/d32/partition2_instance0.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "c3b55639588a6573c24ecc7e2e744a88ccffeb40",
+      "size": 418523,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/c3b55639588a6573c24ecc7e2e744a88ccffeb40"
+    },
+    {
+      "path": "data/circuits/patched/K3/d32/partition2_instance1.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "f45b315f64c35ee22568de74b2df7d36ab6266df",
+      "size": 212754,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/f45b315f64c35ee22568de74b2df7d36ab6266df"
+    },
+    {
+      "path": "data/circuits/patched/K3/d32/partition2_instance1.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "d52afafcc7ec1db1b72dd50b6747c18ebbe2b397",
+      "size": 418526,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/d52afafcc7ec1db1b72dd50b6747c18ebbe2b397"
+    },
+    {
+      "path": "data/circuits/patched/K3/d32/partition2_instance2.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "46f9069c1b2c3e16de5ee83ec3bc018c8f29aeb8",
+      "size": 212680,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/46f9069c1b2c3e16de5ee83ec3bc018c8f29aeb8"
+    },
+    {
+      "path": "data/circuits/patched/K3/d32/partition2_instance2.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "1dd89ae672ad36406471cf2e6295d5fe612a2d25",
+      "size": 418526,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/1dd89ae672ad36406471cf2e6295d5fe612a2d25"
+    },
+    {
+      "path": "data/circuits/patched/K3/d32/partition3_instance0.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "8b991a5f5bec82c477851607d302150a15150782",
+      "size": 212641,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/8b991a5f5bec82c477851607d302150a15150782"
+    },
+    {
+      "path": "data/circuits/patched/K3/d32/partition3_instance0.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "32d2b6b4fe408b2e209217ad2607da04d10eacb4",
+      "size": 418140,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/32d2b6b4fe408b2e209217ad2607da04d10eacb4"
+    },
+    {
+      "path": "data/circuits/patched/K3/d32/partition3_instance1.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "ca30016cb9ec58d5c54444e74cb85b7c40d749ee",
+      "size": 212610,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/ca30016cb9ec58d5c54444e74cb85b7c40d749ee"
+    },
+    {
+      "path": "data/circuits/patched/K3/d32/partition3_instance1.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "d6661a73e3f45b50f48515c787be0092d6cfca0d",
+      "size": 418143,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/d6661a73e3f45b50f48515c787be0092d6cfca0d"
+    },
+    {
+      "path": "data/circuits/patched/K3/d32/partition3_instance2.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "b1365b00e5ee06a017dcf1d45ce413a06198a554",
+      "size": 212536,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/b1365b00e5ee06a017dcf1d45ce413a06198a554"
+    },
+    {
+      "path": "data/circuits/patched/K3/d32/partition3_instance2.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "2aeb3259933abf1be38511b689d16aee756959ec",
+      "size": 418143,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/2aeb3259933abf1be38511b689d16aee756959ec"
+    },
+    {
+      "path": "data/circuits/patched/K3/d32/partition4_instance0.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "b684c17713009453fb230a21fff7506cf8c94dcc",
+      "size": 212649,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/b684c17713009453fb230a21fff7506cf8c94dcc"
+    },
+    {
+      "path": "data/circuits/patched/K3/d32/partition4_instance0.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "ab2a00ed147bc40bb4a5ffef25971394bf122cbf",
+      "size": 418139,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/ab2a00ed147bc40bb4a5ffef25971394bf122cbf"
+    },
+    {
+      "path": "data/circuits/patched/K3/d32/partition4_instance1.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "c2edd76b18330d9a65c5415a59e6b9c0302bce61",
+      "size": 212618,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/c2edd76b18330d9a65c5415a59e6b9c0302bce61"
+    },
+    {
+      "path": "data/circuits/patched/K3/d32/partition4_instance1.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "f3a126dcb983527efa8d4802407dfcf9a7137ac3",
+      "size": 418142,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/f3a126dcb983527efa8d4802407dfcf9a7137ac3"
+    },
+    {
+      "path": "data/circuits/patched/K3/d32/partition4_instance2.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "83b31907824f8220bf858d01e9aa83615aa4fe52",
+      "size": 212544,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/83b31907824f8220bf858d01e9aa83615aa4fe52"
+    },
+    {
+      "path": "data/circuits/patched/K3/d32/partition4_instance2.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "d580de762bbad26f09265130111163655ba825d2",
+      "size": 418142,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/d580de762bbad26f09265130111163655ba825d2"
+    },
+    {
+      "path": "data/circuits/patched/K3/d36",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "7e2b9f4d050cec1802b23f953433150f8ca8ab48",
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/trees/7e2b9f4d050cec1802b23f953433150f8ca8ab48"
+    },
+    {
+      "path": "data/circuits/patched/K3/d36/partition0_instance0.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "bb8eaf1e36a34f08451c16710f810399f31513ba",
+      "size": 239347,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/bb8eaf1e36a34f08451c16710f810399f31513ba"
+    },
+    {
+      "path": "data/circuits/patched/K3/d36/partition0_instance0.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "626d6d2f1082de3c3f2c17bad7a657ee907cb5cb",
+      "size": 470730,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/626d6d2f1082de3c3f2c17bad7a657ee907cb5cb"
+    },
+    {
+      "path": "data/circuits/patched/K3/d36/partition0_instance1.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "274fc6a3d7d023bd7534d3b4736f369087a7eeb5",
+      "size": 239312,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/274fc6a3d7d023bd7534d3b4736f369087a7eeb5"
+    },
+    {
+      "path": "data/circuits/patched/K3/d36/partition0_instance1.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "312608d06793ff905406aeca8fc5b71216940f5c",
+      "size": 470733,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/312608d06793ff905406aeca8fc5b71216940f5c"
+    },
+    {
+      "path": "data/circuits/patched/K3/d36/partition0_instance2.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "4940ba91078120ecb455ea14a97fac81cdd9aed4",
+      "size": 239210,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/4940ba91078120ecb455ea14a97fac81cdd9aed4"
+    },
+    {
+      "path": "data/circuits/patched/K3/d36/partition0_instance2.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "149bb678e8b86bc374e6688025fad5638090bb07",
+      "size": 470733,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/149bb678e8b86bc374e6688025fad5638090bb07"
+    },
+    {
+      "path": "data/circuits/patched/K3/d36/partition1_instance0.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "68c9305e852a9a3ec611e0087b2d2b0efba92650",
+      "size": 239203,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/68c9305e852a9a3ec611e0087b2d2b0efba92650"
+    },
+    {
+      "path": "data/circuits/patched/K3/d36/partition1_instance0.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "8ef4ee1d3633f75a8bb76ad6764816ada2e98e45",
+      "size": 470296,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/8ef4ee1d3633f75a8bb76ad6764816ada2e98e45"
+    },
+    {
+      "path": "data/circuits/patched/K3/d36/partition1_instance1.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "4e665d1cff24679b878280a846d3776d5c649f77",
+      "size": 239168,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/4e665d1cff24679b878280a846d3776d5c649f77"
+    },
+    {
+      "path": "data/circuits/patched/K3/d36/partition1_instance1.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "8da5b2437c294eedf867134cde2638ca68f3a46a",
+      "size": 470299,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/8da5b2437c294eedf867134cde2638ca68f3a46a"
+    },
+    {
+      "path": "data/circuits/patched/K3/d36/partition1_instance2.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "0ef6b02ebfa255ca981ea6d57adbc19869ab3de7",
+      "size": 239066,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/0ef6b02ebfa255ca981ea6d57adbc19869ab3de7"
+    },
+    {
+      "path": "data/circuits/patched/K3/d36/partition1_instance2.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "a7e396819de51c6847223dba0faef7840923a6f8",
+      "size": 470299,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/a7e396819de51c6847223dba0faef7840923a6f8"
+    },
+    {
+      "path": "data/circuits/patched/K3/d36/partition2_instance0.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "f783704a353b7c6754a15fa73f08129e60251a42",
+      "size": 239203,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/f783704a353b7c6754a15fa73f08129e60251a42"
+    },
+    {
+      "path": "data/circuits/patched/K3/d36/partition2_instance0.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "3aeeb76b5d6eb1077f13ad7d9ca79378e3bb3663",
+      "size": 470296,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/3aeeb76b5d6eb1077f13ad7d9ca79378e3bb3663"
+    },
+    {
+      "path": "data/circuits/patched/K3/d36/partition2_instance1.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "786267abe447e1bdad51bd61b98f4b31e11283ff",
+      "size": 239168,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/786267abe447e1bdad51bd61b98f4b31e11283ff"
+    },
+    {
+      "path": "data/circuits/patched/K3/d36/partition2_instance1.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "8a7fe0e419da479a7d198387f15d3e4b61536c61",
+      "size": 470299,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/8a7fe0e419da479a7d198387f15d3e4b61536c61"
+    },
+    {
+      "path": "data/circuits/patched/K3/d36/partition2_instance2.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "7ca83fd101281a48ebc219842dc987acc747b9da",
+      "size": 239066,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/7ca83fd101281a48ebc219842dc987acc747b9da"
+    },
+    {
+      "path": "data/circuits/patched/K3/d36/partition2_instance2.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "3c494749b04d4701a696fc1dfdfabf397a52734f",
+      "size": 470299,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/3c494749b04d4701a696fc1dfdfabf397a52734f"
+    },
+    {
+      "path": "data/circuits/patched/K3/d36/partition3_instance0.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "d02c9c2171e182d8ce6d69b6bb90728fa168351d",
+      "size": 239041,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/d02c9c2171e182d8ce6d69b6bb90728fa168351d"
+    },
+    {
+      "path": "data/circuits/patched/K3/d36/partition3_instance0.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "8841a523c591737cdd3e1488d02588442d9168d2",
+      "size": 469864,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/8841a523c591737cdd3e1488d02588442d9168d2"
+    },
+    {
+      "path": "data/circuits/patched/K3/d36/partition3_instance1.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "3ab67280ca535f6ee8a16a5bb14287e7efc2e764",
+      "size": 239006,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/3ab67280ca535f6ee8a16a5bb14287e7efc2e764"
+    },
+    {
+      "path": "data/circuits/patched/K3/d36/partition3_instance1.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "e401675155c89488e4f5baee92da24baebaadad2",
+      "size": 469867,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/e401675155c89488e4f5baee92da24baebaadad2"
+    },
+    {
+      "path": "data/circuits/patched/K3/d36/partition3_instance2.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "22776ca52401b5d756d541ce7f2fc4b763fee9fc",
+      "size": 238904,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/22776ca52401b5d756d541ce7f2fc4b763fee9fc"
+    },
+    {
+      "path": "data/circuits/patched/K3/d36/partition3_instance2.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "800001fae77d63f6b1aa60202f4ca8fabb26d476",
+      "size": 469867,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/800001fae77d63f6b1aa60202f4ca8fabb26d476"
+    },
+    {
+      "path": "data/circuits/patched/K3/d36/partition4_instance0.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "f9f129a321d6104c0bb47775667d666ababb5adc",
+      "size": 239050,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/f9f129a321d6104c0bb47775667d666ababb5adc"
+    },
+    {
+      "path": "data/circuits/patched/K3/d36/partition4_instance0.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "e5e1649d4ec6e6cd4f99cf0cec72a266577fefea",
+      "size": 469863,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/e5e1649d4ec6e6cd4f99cf0cec72a266577fefea"
+    },
+    {
+      "path": "data/circuits/patched/K3/d36/partition4_instance1.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "a28c15c1380641af3fe177a39a5f55ac2444b990",
+      "size": 239015,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/a28c15c1380641af3fe177a39a5f55ac2444b990"
+    },
+    {
+      "path": "data/circuits/patched/K3/d36/partition4_instance1.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "e86f03fa7025866b84a5bd96b84b68239ae27eaf",
+      "size": 469866,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/e86f03fa7025866b84a5bd96b84b68239ae27eaf"
+    },
+    {
+      "path": "data/circuits/patched/K3/d36/partition4_instance2.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "ff2e29d7b062b7ee5b06741c71a5e668c77b155e",
+      "size": 238913,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/ff2e29d7b062b7ee5b06741c71a5e668c77b155e"
+    },
+    {
+      "path": "data/circuits/patched/K3/d36/partition4_instance2.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "935d37883a18e04a1c6ab92f3a6c2364835f3fd5",
+      "size": 469866,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/935d37883a18e04a1c6ab92f3a6c2364835f3fd5"
+    },
+    {
+      "path": "data/circuits/patched/K3/d40",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "9ade1f364d6ece9a1eb2b27a2186edd61d97c421",
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/trees/9ade1f364d6ece9a1eb2b27a2186edd61d97c421"
+    },
+    {
+      "path": "data/circuits/patched/K3/d40/partition0_instance0.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "8b567c286c637077922f5c305d8990ceb23bcaf6",
+      "size": 265786,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/8b567c286c637077922f5c305d8990ceb23bcaf6"
+    },
+    {
+      "path": "data/circuits/patched/K3/d40/partition0_instance0.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "e5b6c3f25f7eb01aaef76dfe9e3de883eba1b4f0",
+      "size": 522552,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/e5b6c3f25f7eb01aaef76dfe9e3de883eba1b4f0"
+    },
+    {
+      "path": "data/circuits/patched/K3/d40/partition0_instance1.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "bbf52907b5563a89eda9bdc7eed357e4cc21a52a",
+      "size": 265757,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/bbf52907b5563a89eda9bdc7eed357e4cc21a52a"
+    },
+    {
+      "path": "data/circuits/patched/K3/d40/partition0_instance1.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "c6a7cb8b9ab0306cd8dae3d444659e0c8f59e834",
+      "size": 522555,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/c6a7cb8b9ab0306cd8dae3d444659e0c8f59e834"
+    },
+    {
+      "path": "data/circuits/patched/K3/d40/partition0_instance2.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "5a5de7c4df673211518a0cdd0550cbaf64b91e47",
+      "size": 265621,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/5a5de7c4df673211518a0cdd0550cbaf64b91e47"
+    },
+    {
+      "path": "data/circuits/patched/K3/d40/partition0_instance2.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "003da624e7ed11a9ea59369c0137a802f20ab11d",
+      "size": 522555,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/003da624e7ed11a9ea59369c0137a802f20ab11d"
+    },
+    {
+      "path": "data/circuits/patched/K3/d40/partition1_instance0.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "a306678eef87bbda0b2c774cf00851b190942990",
+      "size": 265626,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/a306678eef87bbda0b2c774cf00851b190942990"
+    },
+    {
+      "path": "data/circuits/patched/K3/d40/partition1_instance0.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "d7841b7799ec25707f89c5d770570d59a2c13e59",
+      "size": 522069,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/d7841b7799ec25707f89c5d770570d59a2c13e59"
+    },
+    {
+      "path": "data/circuits/patched/K3/d40/partition1_instance1.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "71b91432f0beb477aace9845fbed49c5bd779080",
+      "size": 265597,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/71b91432f0beb477aace9845fbed49c5bd779080"
+    },
+    {
+      "path": "data/circuits/patched/K3/d40/partition1_instance1.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "2d67d96f72cb48c462c4f3d80a67d44bd9d7321e",
+      "size": 522072,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/2d67d96f72cb48c462c4f3d80a67d44bd9d7321e"
+    },
+    {
+      "path": "data/circuits/patched/K3/d40/partition1_instance2.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "194ac7a58cff31274a1f0aa375d86873ab9f5bfe",
+      "size": 265461,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/194ac7a58cff31274a1f0aa375d86873ab9f5bfe"
+    },
+    {
+      "path": "data/circuits/patched/K3/d40/partition1_instance2.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "4fdad8df261d54b3e67fd5dea45d712159099811",
+      "size": 522072,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/4fdad8df261d54b3e67fd5dea45d712159099811"
+    },
+    {
+      "path": "data/circuits/patched/K3/d40/partition2_instance0.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "976aabf44b4c91104cbc83971200f8a7d1f1d813",
+      "size": 265626,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/976aabf44b4c91104cbc83971200f8a7d1f1d813"
+    },
+    {
+      "path": "data/circuits/patched/K3/d40/partition2_instance0.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "60c251ce229f3d5bede6ab48872958081f9967f8",
+      "size": 522069,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/60c251ce229f3d5bede6ab48872958081f9967f8"
+    },
+    {
+      "path": "data/circuits/patched/K3/d40/partition2_instance1.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "44308392e953201fa41e12c74d44907fae296b98",
+      "size": 265597,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/44308392e953201fa41e12c74d44907fae296b98"
+    },
+    {
+      "path": "data/circuits/patched/K3/d40/partition2_instance1.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "eabd1b375148f6f371c82f80a69e49f0c50d2d7c",
+      "size": 522072,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/eabd1b375148f6f371c82f80a69e49f0c50d2d7c"
+    },
+    {
+      "path": "data/circuits/patched/K3/d40/partition2_instance2.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "6e3647fd61b2b45e679794d136d9fb367931ed35",
+      "size": 265461,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/6e3647fd61b2b45e679794d136d9fb367931ed35"
+    },
+    {
+      "path": "data/circuits/patched/K3/d40/partition2_instance2.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "7730c832e51d0e386bbd40428fdd9adf21c8e865",
+      "size": 522072,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/7730c832e51d0e386bbd40428fdd9adf21c8e865"
+    },
+    {
+      "path": "data/circuits/patched/K3/d40/partition3_instance0.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "d2035fdefc89024929c9d6263d09a66584aef713",
+      "size": 265446,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/d2035fdefc89024929c9d6263d09a66584aef713"
+    },
+    {
+      "path": "data/circuits/patched/K3/d40/partition3_instance0.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "7aaf5b9e3ce9c9d53c232bda7bd819ce78044d87",
+      "size": 521588,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/7aaf5b9e3ce9c9d53c232bda7bd819ce78044d87"
+    },
+    {
+      "path": "data/circuits/patched/K3/d40/partition3_instance1.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "3eddb661212285bbae694dfdd89cc3b9d8062c8a",
+      "size": 265417,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/3eddb661212285bbae694dfdd89cc3b9d8062c8a"
+    },
+    {
+      "path": "data/circuits/patched/K3/d40/partition3_instance1.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "912696ed922988d1f64419867c82b5246c47c87f",
+      "size": 521591,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/912696ed922988d1f64419867c82b5246c47c87f"
+    },
+    {
+      "path": "data/circuits/patched/K3/d40/partition3_instance2.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "fb4d31c01539ceca01a6496d7674a54e83e7f0df",
+      "size": 265281,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/fb4d31c01539ceca01a6496d7674a54e83e7f0df"
+    },
+    {
+      "path": "data/circuits/patched/K3/d40/partition3_instance2.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "d0c710ac104c47ab10ee2f919c5473fdf865f94f",
+      "size": 521591,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/d0c710ac104c47ab10ee2f919c5473fdf865f94f"
+    },
+    {
+      "path": "data/circuits/patched/K3/d40/partition4_instance0.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "97d4b53039adb54bf9d9d643cf9c0905005a4e88",
+      "size": 265456,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/97d4b53039adb54bf9d9d643cf9c0905005a4e88"
+    },
+    {
+      "path": "data/circuits/patched/K3/d40/partition4_instance0.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "41de158db0da643fa531a16dad2e78130b4d1755",
+      "size": 521587,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/41de158db0da643fa531a16dad2e78130b4d1755"
+    },
+    {
+      "path": "data/circuits/patched/K3/d40/partition4_instance1.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "742f866867befb0582f3474de9aea5c78e433bd3",
+      "size": 265427,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/742f866867befb0582f3474de9aea5c78e433bd3"
+    },
+    {
+      "path": "data/circuits/patched/K3/d40/partition4_instance1.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "3d43d08f4b7203907bd6f8c93f7c7338cecfe741",
+      "size": 521590,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/3d43d08f4b7203907bd6f8c93f7c7338cecfe741"
+    },
+    {
+      "path": "data/circuits/patched/K3/d40/partition4_instance2.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "69e6774a1e73a72ecd6a8e453e4625a3e9a0bcee",
+      "size": 265291,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/69e6774a1e73a72ecd6a8e453e4625a3e9a0bcee"
+    },
+    {
+      "path": "data/circuits/patched/K3/d40/partition4_instance2.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "ffbe86388d96a4eab1581167992003b1312d9e48",
+      "size": 521590,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/ffbe86388d96a4eab1581167992003b1312d9e48"
+    },
+    {
+      "path": "data/circuits/patched/K4",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "cc2c548dbed0cd481915699b7ede59c2bc708717",
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/trees/cc2c548dbed0cd481915699b7ede59c2bc708717"
+    },
+    {
+      "path": "data/circuits/patched/K4/d20",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "525e728853c1a81576054c28b82f3150d51e032c",
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/trees/525e728853c1a81576054c28b82f3150d51e032c"
+    },
+    {
+      "path": "data/circuits/patched/K4/d20/partition0_instance0.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "036beaec2586f3cd2d6d68ea30979c1db4be4065",
+      "size": 132970,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/036beaec2586f3cd2d6d68ea30979c1db4be4065"
+    },
+    {
+      "path": "data/circuits/patched/K4/d20/partition0_instance0.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "94a0ae5e1341f5765edbdb15bd5170125ac3761b",
+      "size": 261779,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/94a0ae5e1341f5765edbdb15bd5170125ac3761b"
+    },
+    {
+      "path": "data/circuits/patched/K4/d20/partition0_instance1.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "ef1eb78cd8a9d5d2e8e109f82fbcb53cdd5acbe6",
+      "size": 133017,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/ef1eb78cd8a9d5d2e8e109f82fbcb53cdd5acbe6"
+    },
+    {
+      "path": "data/circuits/patched/K4/d20/partition0_instance1.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "303ee18571d1b636a85f9156ebf7b34a7e4ca429",
+      "size": 261782,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/303ee18571d1b636a85f9156ebf7b34a7e4ca429"
+    },
+    {
+      "path": "data/circuits/patched/K4/d20/partition0_instance2.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "77b1d7d62d83e5efa3288745e15096fa92d9b5ba",
+      "size": 133047,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/77b1d7d62d83e5efa3288745e15096fa92d9b5ba"
+    },
+    {
+      "path": "data/circuits/patched/K4/d20/partition0_instance2.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "4499d2c5a77220fd44cda5da2661d5ae98298da6",
+      "size": 261782,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/4499d2c5a77220fd44cda5da2661d5ae98298da6"
+    },
+    {
+      "path": "data/circuits/patched/K4/d20/partition1_instance0.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "e8250b1c2062eed16bcbc2cdf7ca65bf94931af8",
+      "size": 132720,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/e8250b1c2062eed16bcbc2cdf7ca65bf94931af8"
+    },
+    {
+      "path": "data/circuits/patched/K4/d20/partition1_instance0.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "71d3b91dd2726af97d796d2cfc2d43ed693c8ebc",
+      "size": 261067,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/71d3b91dd2726af97d796d2cfc2d43ed693c8ebc"
+    },
+    {
+      "path": "data/circuits/patched/K4/d20/partition1_instance1.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "87c73f4c7b3bd8a30924c5271f22704c69fa6934",
+      "size": 132767,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/87c73f4c7b3bd8a30924c5271f22704c69fa6934"
+    },
+    {
+      "path": "data/circuits/patched/K4/d20/partition1_instance1.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "203dce8330261890b73c3caf1b97371b2560a7f7",
+      "size": 261070,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/203dce8330261890b73c3caf1b97371b2560a7f7"
+    },
+    {
+      "path": "data/circuits/patched/K4/d20/partition1_instance2.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "4ef49a67074d2af57db58bc4e8bc8f50aa4323f7",
+      "size": 132797,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/4ef49a67074d2af57db58bc4e8bc8f50aa4323f7"
+    },
+    {
+      "path": "data/circuits/patched/K4/d20/partition1_instance2.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "d07a9ad6087ccbe6c6b22c0b73b3551f63a7474a",
+      "size": 261070,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/d07a9ad6087ccbe6c6b22c0b73b3551f63a7474a"
+    },
+    {
+      "path": "data/circuits/patched/K4/d20/partition2_instance0.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "0b7992c586fb5603287a4abe659316f27e005fc9",
+      "size": 132695,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/0b7992c586fb5603287a4abe659316f27e005fc9"
+    },
+    {
+      "path": "data/circuits/patched/K4/d20/partition2_instance0.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "050266ce82beed9054bad512026a0f6e93c8da28",
+      "size": 261072,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/050266ce82beed9054bad512026a0f6e93c8da28"
+    },
+    {
+      "path": "data/circuits/patched/K4/d20/partition2_instance1.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "73c96b931f61442b511ddf8e921d71693cc9777d",
+      "size": 132742,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/73c96b931f61442b511ddf8e921d71693cc9777d"
+    },
+    {
+      "path": "data/circuits/patched/K4/d20/partition2_instance1.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "40d2b8146d693d8b874efe28adf5b4e528940ecc",
+      "size": 261075,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/40d2b8146d693d8b874efe28adf5b4e528940ecc"
+    },
+    {
+      "path": "data/circuits/patched/K4/d20/partition2_instance2.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "dcab8fd42a9514cede840109dd6d1eedad7c4a67",
+      "size": 132772,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/dcab8fd42a9514cede840109dd6d1eedad7c4a67"
+    },
+    {
+      "path": "data/circuits/patched/K4/d20/partition2_instance2.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "4d2c127719c48878037ddff021c848f08f97bd29",
+      "size": 261075,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/4d2c127719c48878037ddff021c848f08f97bd29"
+    },
+    {
+      "path": "data/circuits/patched/K4/d20/partition3_instance0.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "1663c1b84ebfa2f54137e7a65365e369130a3383",
+      "size": 132610,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/1663c1b84ebfa2f54137e7a65365e369130a3383"
+    },
+    {
+      "path": "data/circuits/patched/K4/d20/partition3_instance0.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "7e604e7503e8ba3c9d1c056ec6cebc8143917616",
+      "size": 260835,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/7e604e7503e8ba3c9d1c056ec6cebc8143917616"
+    },
+    {
+      "path": "data/circuits/patched/K4/d20/partition3_instance1.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "82684f07e242287715766a5bbe0e65ccdada993c",
+      "size": 132657,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/82684f07e242287715766a5bbe0e65ccdada993c"
+    },
+    {
+      "path": "data/circuits/patched/K4/d20/partition3_instance1.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "cd50f1b75668c91c126df880833869955dcc5576",
+      "size": 260838,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/cd50f1b75668c91c126df880833869955dcc5576"
+    },
+    {
+      "path": "data/circuits/patched/K4/d20/partition3_instance2.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "17321518a3c142835eb7c671a29ea6a0ec64c184",
+      "size": 132687,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/17321518a3c142835eb7c671a29ea6a0ec64c184"
+    },
+    {
+      "path": "data/circuits/patched/K4/d20/partition3_instance2.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "05d4aa1f8e6181c9f669657b0912514cf8b610c8",
+      "size": 260838,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/05d4aa1f8e6181c9f669657b0912514cf8b610c8"
+    },
+    {
+      "path": "data/circuits/patched/K4/d20/partition4_instance0.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "0c193b8964a63653a989f04c08932c21b5cb6530",
+      "size": 132610,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/0c193b8964a63653a989f04c08932c21b5cb6530"
+    },
+    {
+      "path": "data/circuits/patched/K4/d20/partition4_instance0.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "af50ea4826cc3f6084fc5844146f15e087754b43",
+      "size": 260835,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/af50ea4826cc3f6084fc5844146f15e087754b43"
+    },
+    {
+      "path": "data/circuits/patched/K4/d20/partition4_instance1.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "af7ec24e7e8208f64a4857740641a592103784e0",
+      "size": 132657,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/af7ec24e7e8208f64a4857740641a592103784e0"
+    },
+    {
+      "path": "data/circuits/patched/K4/d20/partition4_instance1.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "e7b51591623ec255149671bb280011f7f746601d",
+      "size": 260838,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/e7b51591623ec255149671bb280011f7f746601d"
+    },
+    {
+      "path": "data/circuits/patched/K4/d20/partition4_instance2.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "4fa2fa42a2dde0b402e5fdb8b87234f3afb26eb8",
+      "size": 132687,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/4fa2fa42a2dde0b402e5fdb8b87234f3afb26eb8"
+    },
+    {
+      "path": "data/circuits/patched/K4/d20/partition4_instance2.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "e446d99316a1974b82dec77641187e586b2ab0da",
+      "size": 260838,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/e446d99316a1974b82dec77641187e586b2ab0da"
+    },
+    {
+      "path": "data/circuits/patched/K4/d24",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "41619d4b6e9effbb4a7fc57274c7dbc4b36e0047",
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/trees/41619d4b6e9effbb4a7fc57274c7dbc4b36e0047"
+    },
+    {
+      "path": "data/circuits/patched/K4/d24/partition0_instance0.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "05cca8171934d9ad4452c10e0196dc3e1417408b",
+      "size": 159279,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/05cca8171934d9ad4452c10e0196dc3e1417408b"
+    },
+    {
+      "path": "data/circuits/patched/K4/d24/partition0_instance0.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "27fa266b7b460a1f395e946b8aa6bc0b95b19af1",
+      "size": 313258,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/27fa266b7b460a1f395e946b8aa6bc0b95b19af1"
+    },
+    {
+      "path": "data/circuits/patched/K4/d24/partition0_instance1.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "a55c3aaca2ce04628cf7b1111a9d2c6d869e2fc6",
+      "size": 159337,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/a55c3aaca2ce04628cf7b1111a9d2c6d869e2fc6"
+    },
+    {
+      "path": "data/circuits/patched/K4/d24/partition0_instance1.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "c8caa849b54e68fdd8ffc332ca16cd177f2d03a3",
+      "size": 313261,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/c8caa849b54e68fdd8ffc332ca16cd177f2d03a3"
+    },
+    {
+      "path": "data/circuits/patched/K4/d24/partition0_instance2.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "c184c9f5b69dcc75b3bc68ac7e5c488e9e73a17a",
+      "size": 159331,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/c184c9f5b69dcc75b3bc68ac7e5c488e9e73a17a"
+    },
+    {
+      "path": "data/circuits/patched/K4/d24/partition0_instance2.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "519f98d43161cd7147ff0911414a3d144c5daeec",
+      "size": 313261,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/519f98d43161cd7147ff0911414a3d144c5daeec"
+    },
+    {
+      "path": "data/circuits/patched/K4/d24/partition1_instance0.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "0b6024fe682b07a24432dfa4e89228fec03790eb",
+      "size": 158979,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/0b6024fe682b07a24432dfa4e89228fec03790eb"
+    },
+    {
+      "path": "data/circuits/patched/K4/d24/partition1_instance0.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "db8cee3182f7d421284c206ec65364d9024a17d6",
+      "size": 312399,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/db8cee3182f7d421284c206ec65364d9024a17d6"
+    },
+    {
+      "path": "data/circuits/patched/K4/d24/partition1_instance1.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "3ec31a84973ffc9e99ccbb9606c28766887f2e50",
+      "size": 159037,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/3ec31a84973ffc9e99ccbb9606c28766887f2e50"
+    },
+    {
+      "path": "data/circuits/patched/K4/d24/partition1_instance1.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "8b1e025a54534ea5ebc4498ce701ef89b21a6cfc",
+      "size": 312402,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/8b1e025a54534ea5ebc4498ce701ef89b21a6cfc"
+    },
+    {
+      "path": "data/circuits/patched/K4/d24/partition1_instance2.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "1b91f918863c4f5542cb7b7576abadc0300f82cd",
+      "size": 159031,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/1b91f918863c4f5542cb7b7576abadc0300f82cd"
+    },
+    {
+      "path": "data/circuits/patched/K4/d24/partition1_instance2.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "0fc95eadc08278562a8f2593bc1ab377575f36da",
+      "size": 312402,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/0fc95eadc08278562a8f2593bc1ab377575f36da"
+    },
+    {
+      "path": "data/circuits/patched/K4/d24/partition2_instance0.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "57ebb95dc1c18d0fce01db293c35b8ee53559f8e",
+      "size": 158949,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/57ebb95dc1c18d0fce01db293c35b8ee53559f8e"
+    },
+    {
+      "path": "data/circuits/patched/K4/d24/partition2_instance0.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "3acae3f55e852558b43829b961379c824abc1e18",
+      "size": 312404,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/3acae3f55e852558b43829b961379c824abc1e18"
+    },
+    {
+      "path": "data/circuits/patched/K4/d24/partition2_instance1.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "285acabba0b790e0801d67a7e33b5b0808fc0c92",
+      "size": 159007,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/285acabba0b790e0801d67a7e33b5b0808fc0c92"
+    },
+    {
+      "path": "data/circuits/patched/K4/d24/partition2_instance1.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "3376a2fc21046591746a9e8ed699a5382dc270ff",
+      "size": 312407,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/3376a2fc21046591746a9e8ed699a5382dc270ff"
+    },
+    {
+      "path": "data/circuits/patched/K4/d24/partition2_instance2.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "5e35e33baa79fe0f9ef2262d9dbe4528906e820f",
+      "size": 159001,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/5e35e33baa79fe0f9ef2262d9dbe4528906e820f"
+    },
+    {
+      "path": "data/circuits/patched/K4/d24/partition2_instance2.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "9691a7ca2291a3a37844d208c76acf9680d39cea",
+      "size": 312407,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/9691a7ca2291a3a37844d208c76acf9680d39cea"
+    },
+    {
+      "path": "data/circuits/patched/K4/d24/partition3_instance0.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "44ec27968114c39f75f6b3cf28bda372fd7a79f9",
+      "size": 158847,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/44ec27968114c39f75f6b3cf28bda372fd7a79f9"
+    },
+    {
+      "path": "data/circuits/patched/K4/d24/partition3_instance0.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "37072cfe4e848073edfe2e70a47585642247ca73",
+      "size": 312118,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/37072cfe4e848073edfe2e70a47585642247ca73"
+    },
+    {
+      "path": "data/circuits/patched/K4/d24/partition3_instance1.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "69cf1156092047d677426ee0bd69ed156e354344",
+      "size": 158905,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/69cf1156092047d677426ee0bd69ed156e354344"
+    },
+    {
+      "path": "data/circuits/patched/K4/d24/partition3_instance1.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "3c947f29490d83da9536a9048debbecd409ac3fb",
+      "size": 312121,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/3c947f29490d83da9536a9048debbecd409ac3fb"
+    },
+    {
+      "path": "data/circuits/patched/K4/d24/partition3_instance2.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "39eaf81124f8bb2912ac07d08497df1e18b2c8b1",
+      "size": 158899,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/39eaf81124f8bb2912ac07d08497df1e18b2c8b1"
+    },
+    {
+      "path": "data/circuits/patched/K4/d24/partition3_instance2.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "0e16b793833ed328b39a81dddf5356776f28a3b4",
+      "size": 312121,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/0e16b793833ed328b39a81dddf5356776f28a3b4"
+    },
+    {
+      "path": "data/circuits/patched/K4/d24/partition4_instance0.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "a97c55c718b97bf0d200e4966817f4a61f19f93c",
+      "size": 158847,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/a97c55c718b97bf0d200e4966817f4a61f19f93c"
+    },
+    {
+      "path": "data/circuits/patched/K4/d24/partition4_instance0.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "86b989dba99b89cd4adde63ac003ef41f5303ddb",
+      "size": 312118,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/86b989dba99b89cd4adde63ac003ef41f5303ddb"
+    },
+    {
+      "path": "data/circuits/patched/K4/d24/partition4_instance1.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "e9adf3ae8720b2aab7a3666845596e365623e571",
+      "size": 158905,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/e9adf3ae8720b2aab7a3666845596e365623e571"
+    },
+    {
+      "path": "data/circuits/patched/K4/d24/partition4_instance1.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "549d5e417a0d85b128a99db8a4a710b3540fed75",
+      "size": 312121,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/549d5e417a0d85b128a99db8a4a710b3540fed75"
+    },
+    {
+      "path": "data/circuits/patched/K4/d24/partition4_instance2.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "2ec2070bca1cd3c85667eb71b52f0dbb5e3dc352",
+      "size": 158899,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/2ec2070bca1cd3c85667eb71b52f0dbb5e3dc352"
+    },
+    {
+      "path": "data/circuits/patched/K4/d24/partition4_instance2.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "ccba372c6f561e26c0038b56fe272ee62c81c936",
+      "size": 312121,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/ccba372c6f561e26c0038b56fe272ee62c81c936"
+    },
+    {
+      "path": "data/circuits/patched/K4/d28",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "dcd364e0cb1f4d0e5006452570dd6baa8daf800c",
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/trees/dcd364e0cb1f4d0e5006452570dd6baa8daf800c"
+    },
+    {
+      "path": "data/circuits/patched/K4/d28/partition0_instance0.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "df72ca4ab35648b0baf5887c12cbdf988297a720",
+      "size": 185617,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/df72ca4ab35648b0baf5887c12cbdf988297a720"
+    },
+    {
+      "path": "data/circuits/patched/K4/d28/partition0_instance0.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "4f38278bed0ac4a6a3418e8a07c9303fec0bad53",
+      "size": 364737,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/4f38278bed0ac4a6a3418e8a07c9303fec0bad53"
+    },
+    {
+      "path": "data/circuits/patched/K4/d28/partition0_instance1.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "92f4e93280af47b59ca49fae61b27bb3485a91fd",
+      "size": 185666,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/92f4e93280af47b59ca49fae61b27bb3485a91fd"
+    },
+    {
+      "path": "data/circuits/patched/K4/d28/partition0_instance1.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "1f5bcf7af322356627c4e8e753602d1b464c7b52",
+      "size": 364740,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/1f5bcf7af322356627c4e8e753602d1b464c7b52"
+    },
+    {
+      "path": "data/circuits/patched/K4/d28/partition0_instance2.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "baf1848e63a7907a6acf4c07e38b4476d2a7ea72",
+      "size": 185611,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/baf1848e63a7907a6acf4c07e38b4476d2a7ea72"
+    },
+    {
+      "path": "data/circuits/patched/K4/d28/partition0_instance2.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "4bf08516db8a518a63300f480fd6d3e9550200fb",
+      "size": 364740,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/4bf08516db8a518a63300f480fd6d3e9550200fb"
+    },
+    {
+      "path": "data/circuits/patched/K4/d28/partition1_instance0.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "e66630b18ddf7237e97e11188307ab6cfea38937",
+      "size": 185267,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/e66630b18ddf7237e97e11188307ab6cfea38937"
+    },
+    {
+      "path": "data/circuits/patched/K4/d28/partition1_instance0.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "5e5ca86f0a8383c7e1723eac1ef1b6996545386f",
+      "size": 363731,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/5e5ca86f0a8383c7e1723eac1ef1b6996545386f"
+    },
+    {
+      "path": "data/circuits/patched/K4/d28/partition1_instance1.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "6d492d0cddd91bfd924158bc0e71ae8877ddc49f",
+      "size": 185316,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/6d492d0cddd91bfd924158bc0e71ae8877ddc49f"
+    },
+    {
+      "path": "data/circuits/patched/K4/d28/partition1_instance1.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "ce274cd66a28c3a60ee1ca29342d8f5adeab4ced",
+      "size": 363734,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/ce274cd66a28c3a60ee1ca29342d8f5adeab4ced"
+    },
+    {
+      "path": "data/circuits/patched/K4/d28/partition1_instance2.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "805ac603e631efa801eaa83a86fb13deb54c80ea",
+      "size": 185261,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/805ac603e631efa801eaa83a86fb13deb54c80ea"
+    },
+    {
+      "path": "data/circuits/patched/K4/d28/partition1_instance2.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "f4499b8107c5c4a8b21d438cf7ed5f0586091ab0",
+      "size": 363734,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/f4499b8107c5c4a8b21d438cf7ed5f0586091ab0"
+    },
+    {
+      "path": "data/circuits/patched/K4/d28/partition2_instance0.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "a3fcf3077d90e6f9c30e3f68ccc4a9caa3498f70",
+      "size": 185232,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/a3fcf3077d90e6f9c30e3f68ccc4a9caa3498f70"
+    },
+    {
+      "path": "data/circuits/patched/K4/d28/partition2_instance0.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "59339a3f1b09d24d2ab26d82908f33d8b0f3f297",
+      "size": 363736,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/59339a3f1b09d24d2ab26d82908f33d8b0f3f297"
+    },
+    {
+      "path": "data/circuits/patched/K4/d28/partition2_instance1.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "9540e529bc4e8a09ef62c1bf6a7ae2c287aa9ea9",
+      "size": 185281,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/9540e529bc4e8a09ef62c1bf6a7ae2c287aa9ea9"
+    },
+    {
+      "path": "data/circuits/patched/K4/d28/partition2_instance1.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "c7bdbc4c5268fae153ae420a3bc0cb5f278601af",
+      "size": 363739,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/c7bdbc4c5268fae153ae420a3bc0cb5f278601af"
+    },
+    {
+      "path": "data/circuits/patched/K4/d28/partition2_instance2.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "10042f50c3b2451ed840d7a7fd9ab08eb2aa0a23",
+      "size": 185226,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/10042f50c3b2451ed840d7a7fd9ab08eb2aa0a23"
+    },
+    {
+      "path": "data/circuits/patched/K4/d28/partition2_instance2.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "935fe295aedaa94bfe73bc9688f8494edc667e26",
+      "size": 363739,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/935fe295aedaa94bfe73bc9688f8494edc667e26"
+    },
+    {
+      "path": "data/circuits/patched/K4/d28/partition3_instance0.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "b8525514673b502c49c14b267e516e5bec75a59b",
+      "size": 185113,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/b8525514673b502c49c14b267e516e5bec75a59b"
+    },
+    {
+      "path": "data/circuits/patched/K4/d28/partition3_instance0.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "5c21c73b6cf73d0fd6617a47520a42958c482b04",
+      "size": 363401,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/5c21c73b6cf73d0fd6617a47520a42958c482b04"
+    },
+    {
+      "path": "data/circuits/patched/K4/d28/partition3_instance1.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "48ad7fd110790d5dfb113b695c4e4421afb4b089",
+      "size": 185162,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/48ad7fd110790d5dfb113b695c4e4421afb4b089"
+    },
+    {
+      "path": "data/circuits/patched/K4/d28/partition3_instance1.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "535a4aa71af0fd4f62422d727a2fdf54b2cc2d0e",
+      "size": 363404,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/535a4aa71af0fd4f62422d727a2fdf54b2cc2d0e"
+    },
+    {
+      "path": "data/circuits/patched/K4/d28/partition3_instance2.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "29e4aaed05b2cd35336895b3e01cc5884f828644",
+      "size": 185107,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/29e4aaed05b2cd35336895b3e01cc5884f828644"
+    },
+    {
+      "path": "data/circuits/patched/K4/d28/partition3_instance2.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "7bf2cbb04a3536b3755c0b989dc0ef0469257ac4",
+      "size": 363404,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/7bf2cbb04a3536b3755c0b989dc0ef0469257ac4"
+    },
+    {
+      "path": "data/circuits/patched/K4/d28/partition4_instance0.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "b60fdc3ac85f41fa9e65167346627ce5d549bb34",
+      "size": 185113,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/b60fdc3ac85f41fa9e65167346627ce5d549bb34"
+    },
+    {
+      "path": "data/circuits/patched/K4/d28/partition4_instance0.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "db5ab656af767f1801488d79178181db8d6f0357",
+      "size": 363401,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/db5ab656af767f1801488d79178181db8d6f0357"
+    },
+    {
+      "path": "data/circuits/patched/K4/d28/partition4_instance1.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "569fda42d9d6029a77d1e39071ac7c20921093a8",
+      "size": 185162,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/569fda42d9d6029a77d1e39071ac7c20921093a8"
+    },
+    {
+      "path": "data/circuits/patched/K4/d28/partition4_instance1.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "c36d6e83238da663dd91e43a8438bf779c575171",
+      "size": 363404,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/c36d6e83238da663dd91e43a8438bf779c575171"
+    },
+    {
+      "path": "data/circuits/patched/K4/d28/partition4_instance2.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "c69bf2ab44cbce784c692295e4034dd5230bc1e7",
+      "size": 185107,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/c69bf2ab44cbce784c692295e4034dd5230bc1e7"
+    },
+    {
+      "path": "data/circuits/patched/K4/d28/partition4_instance2.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "f5265bce0bb0ebcaee5bf6e050743d09aebb6670",
+      "size": 363404,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/f5265bce0bb0ebcaee5bf6e050743d09aebb6670"
+    },
+    {
+      "path": "data/circuits/patched/K4/d32",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "d7b8e223f41f413c9f91050ad72948a3b1359a22",
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/trees/d7b8e223f41f413c9f91050ad72948a3b1359a22"
+    },
+    {
+      "path": "data/circuits/patched/K4/d32/partition0_instance0.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "24b973199864b9224598e7e3414acf73dde1da3d",
+      "size": 211993,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/24b973199864b9224598e7e3414acf73dde1da3d"
+    },
+    {
+      "path": "data/circuits/patched/K4/d32/partition0_instance0.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "6e06f430d194d91ae4e05498c299c043f193ba00",
+      "size": 416216,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/6e06f430d194d91ae4e05498c299c043f193ba00"
+    },
+    {
+      "path": "data/circuits/patched/K4/d32/partition0_instance1.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "5bd29c2c1730d55bc38d3e18bd695d849e1d5306",
+      "size": 211962,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/5bd29c2c1730d55bc38d3e18bd695d849e1d5306"
+    },
+    {
+      "path": "data/circuits/patched/K4/d32/partition0_instance1.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "94fc9b0fbc57bfc71c64e0303e6d500a3966c661",
+      "size": 416219,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/94fc9b0fbc57bfc71c64e0303e6d500a3966c661"
+    },
+    {
+      "path": "data/circuits/patched/K4/d32/partition0_instance2.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "6d34d8888380f660d3fc90600b7d9b19ec615880",
+      "size": 211888,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/6d34d8888380f660d3fc90600b7d9b19ec615880"
+    },
+    {
+      "path": "data/circuits/patched/K4/d32/partition0_instance2.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "0a4fb9e229862dfde01f7bb60a9b9905c1799654",
+      "size": 416219,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/0a4fb9e229862dfde01f7bb60a9b9905c1799654"
+    },
+    {
+      "path": "data/circuits/patched/K4/d32/partition1_instance0.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "0701b02eaadb90bb644ff631f169fbc7aa3d0195",
+      "size": 211593,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/0701b02eaadb90bb644ff631f169fbc7aa3d0195"
+    },
+    {
+      "path": "data/circuits/patched/K4/d32/partition1_instance0.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "0fc37e0e8216cd5651677530dd1668dec9e0541d",
+      "size": 415063,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/0fc37e0e8216cd5651677530dd1668dec9e0541d"
+    },
+    {
+      "path": "data/circuits/patched/K4/d32/partition1_instance1.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "6a67d17d7cae7695b6cbefc34b5107ed1ce65e85",
+      "size": 211562,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/6a67d17d7cae7695b6cbefc34b5107ed1ce65e85"
+    },
+    {
+      "path": "data/circuits/patched/K4/d32/partition1_instance1.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "e649c2d8c9343cc5a3e5531e0c1f7169642f3dde",
+      "size": 415066,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/e649c2d8c9343cc5a3e5531e0c1f7169642f3dde"
+    },
+    {
+      "path": "data/circuits/patched/K4/d32/partition1_instance2.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "1cd9df62186a4b0dfbd960740ef231ca2c134abe",
+      "size": 211488,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/1cd9df62186a4b0dfbd960740ef231ca2c134abe"
+    },
+    {
+      "path": "data/circuits/patched/K4/d32/partition1_instance2.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "2c8ac4fd247bfa1d1f972ffbf2bb5eb6974498ac",
+      "size": 415066,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/2c8ac4fd247bfa1d1f972ffbf2bb5eb6974498ac"
+    },
+    {
+      "path": "data/circuits/patched/K4/d32/partition2_instance0.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "e0b588b34ee232e697cbcbe41b5c069fd6ca8eca",
+      "size": 211553,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/e0b588b34ee232e697cbcbe41b5c069fd6ca8eca"
+    },
+    {
+      "path": "data/circuits/patched/K4/d32/partition2_instance0.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "8d03cef75914ae03c8ed75cef97e98747aa3c58d",
+      "size": 415068,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/8d03cef75914ae03c8ed75cef97e98747aa3c58d"
+    },
+    {
+      "path": "data/circuits/patched/K4/d32/partition2_instance1.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "a6afc3a01d4864b1d3f998ef6160901f392652e6",
+      "size": 211522,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/a6afc3a01d4864b1d3f998ef6160901f392652e6"
+    },
+    {
+      "path": "data/circuits/patched/K4/d32/partition2_instance1.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "0d70ac9ddf055161bd2ddf7a3fa3c48f25553795",
+      "size": 415071,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/0d70ac9ddf055161bd2ddf7a3fa3c48f25553795"
+    },
+    {
+      "path": "data/circuits/patched/K4/d32/partition2_instance2.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "6052f598fc26aba2960069b289340ff530f366ff",
+      "size": 211448,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/6052f598fc26aba2960069b289340ff530f366ff"
+    },
+    {
+      "path": "data/circuits/patched/K4/d32/partition2_instance2.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "7037c458357b1fe6bf253ad6e30d7e4c9d72d0ac",
+      "size": 415071,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/7037c458357b1fe6bf253ad6e30d7e4c9d72d0ac"
+    },
+    {
+      "path": "data/circuits/patched/K4/d32/partition3_instance0.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "577059be5d75651026b9f364d75b24ca1ebd4f70",
+      "size": 211417,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/577059be5d75651026b9f364d75b24ca1ebd4f70"
+    },
+    {
+      "path": "data/circuits/patched/K4/d32/partition3_instance0.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "52c44436f5163bcbf56437adc97699cb5e6b38c9",
+      "size": 414684,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/52c44436f5163bcbf56437adc97699cb5e6b38c9"
+    },
+    {
+      "path": "data/circuits/patched/K4/d32/partition3_instance1.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "2c8e6cdf7e768e2042cc3cecc7c1218cc02b3523",
+      "size": 211386,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/2c8e6cdf7e768e2042cc3cecc7c1218cc02b3523"
+    },
+    {
+      "path": "data/circuits/patched/K4/d32/partition3_instance1.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "7100ec064aff15e5e61371d9a1ea4d775c60723a",
+      "size": 414687,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/7100ec064aff15e5e61371d9a1ea4d775c60723a"
+    },
+    {
+      "path": "data/circuits/patched/K4/d32/partition3_instance2.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "e3e914cd44c24f3e1dbda09a64d42ffaa156b101",
+      "size": 211312,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/e3e914cd44c24f3e1dbda09a64d42ffaa156b101"
+    },
+    {
+      "path": "data/circuits/patched/K4/d32/partition3_instance2.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "87a5ed4b79796d8da75c8c52c0d38bfd868308b3",
+      "size": 414687,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/87a5ed4b79796d8da75c8c52c0d38bfd868308b3"
+    },
+    {
+      "path": "data/circuits/patched/K4/d32/partition4_instance0.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "2d37e033d449ba2e0184d0037aa0fac58f0e7404",
+      "size": 211417,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/2d37e033d449ba2e0184d0037aa0fac58f0e7404"
+    },
+    {
+      "path": "data/circuits/patched/K4/d32/partition4_instance0.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "4775edfb846bd29c8734a24925b10a09a4ed7559",
+      "size": 414684,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/4775edfb846bd29c8734a24925b10a09a4ed7559"
+    },
+    {
+      "path": "data/circuits/patched/K4/d32/partition4_instance1.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "2b12fcca0041467d30a51fa9e8bd68cf14c9321e",
+      "size": 211386,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/2b12fcca0041467d30a51fa9e8bd68cf14c9321e"
+    },
+    {
+      "path": "data/circuits/patched/K4/d32/partition4_instance1.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "8bfe10704b6967417e2758f71219911def9d059f",
+      "size": 414687,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/8bfe10704b6967417e2758f71219911def9d059f"
+    },
+    {
+      "path": "data/circuits/patched/K4/d32/partition4_instance2.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "b61ef6ba4dc80857feb326979eda67896361d828",
+      "size": 211312,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/b61ef6ba4dc80857feb326979eda67896361d828"
+    },
+    {
+      "path": "data/circuits/patched/K4/d32/partition4_instance2.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "7c51cf168ac1b1240528739f2639f1c1622e4e5c",
+      "size": 414687,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/7c51cf168ac1b1240528739f2639f1c1622e4e5c"
+    },
+    {
+      "path": "data/circuits/patched/K4/d36",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "2830c1e0637e1f70551d4d8ef867dafdbeafd8cc",
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/trees/2830c1e0637e1f70551d4d8ef867dafdbeafd8cc"
+    },
+    {
+      "path": "data/circuits/patched/K4/d36/partition0_instance0.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "e0f3c60f00afe951d219da0c43ddb00623d53b81",
+      "size": 238312,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/e0f3c60f00afe951d219da0c43ddb00623d53b81"
+    },
+    {
+      "path": "data/circuits/patched/K4/d36/partition0_instance0.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "8e490287710d7b41974297833604ac8192ffb250",
+      "size": 467695,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/8e490287710d7b41974297833604ac8192ffb250"
+    },
+    {
+      "path": "data/circuits/patched/K4/d36/partition0_instance1.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "ae8461e91089522b2ba3014b282bb1b5c3973ab2",
+      "size": 238277,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/ae8461e91089522b2ba3014b282bb1b5c3973ab2"
+    },
+    {
+      "path": "data/circuits/patched/K4/d36/partition0_instance1.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "ea368f40a66d06c7782faf928ad6b8fccedf217f",
+      "size": 467698,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/ea368f40a66d06c7782faf928ad6b8fccedf217f"
+    },
+    {
+      "path": "data/circuits/patched/K4/d36/partition0_instance2.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "26c16a7857ba92ad9ce48f2cdc6de4299cc6f6d1",
+      "size": 238175,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/26c16a7857ba92ad9ce48f2cdc6de4299cc6f6d1"
+    },
+    {
+      "path": "data/circuits/patched/K4/d36/partition0_instance2.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "86728e75489220cd1344d0573797556899ead30c",
+      "size": 467698,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/86728e75489220cd1344d0573797556899ead30c"
+    },
+    {
+      "path": "data/circuits/patched/K4/d36/partition1_instance0.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "23e836f84df75d769a34acd98ab76c9b5aebbb88",
+      "size": 237862,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/23e836f84df75d769a34acd98ab76c9b5aebbb88"
+    },
+    {
+      "path": "data/circuits/patched/K4/d36/partition1_instance0.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "d4a043c93d44ab34010df1ca7e90b7eeb01eb7d6",
+      "size": 466395,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/d4a043c93d44ab34010df1ca7e90b7eeb01eb7d6"
+    },
+    {
+      "path": "data/circuits/patched/K4/d36/partition1_instance1.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "d153d1de8bb11383377764328d941d8a6c7d2a99",
+      "size": 237827,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/d153d1de8bb11383377764328d941d8a6c7d2a99"
+    },
+    {
+      "path": "data/circuits/patched/K4/d36/partition1_instance1.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "06b667aecde7c183288b3b4e28eeabed0ec93e13",
+      "size": 466398,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/06b667aecde7c183288b3b4e28eeabed0ec93e13"
+    },
+    {
+      "path": "data/circuits/patched/K4/d36/partition1_instance2.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "5c14e35933ddece2b55b9124b73cc326195b0db5",
+      "size": 237725,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/5c14e35933ddece2b55b9124b73cc326195b0db5"
+    },
+    {
+      "path": "data/circuits/patched/K4/d36/partition1_instance2.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "01447610145ad3c69a7dd654f1d0db97dff21d08",
+      "size": 466398,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/01447610145ad3c69a7dd654f1d0db97dff21d08"
+    },
+    {
+      "path": "data/circuits/patched/K4/d36/partition2_instance0.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "5bb0d653de69f7477063d113094d4ccb95251bdd",
+      "size": 237817,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/5bb0d653de69f7477063d113094d4ccb95251bdd"
+    },
+    {
+      "path": "data/circuits/patched/K4/d36/partition2_instance0.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "f8c1f26f913ab3655204658706e120f4b2bec386",
+      "size": 466400,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/f8c1f26f913ab3655204658706e120f4b2bec386"
+    },
+    {
+      "path": "data/circuits/patched/K4/d36/partition2_instance1.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "28872e51b6ca483bac236b19ee65d4afff535026",
+      "size": 237782,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/28872e51b6ca483bac236b19ee65d4afff535026"
+    },
+    {
+      "path": "data/circuits/patched/K4/d36/partition2_instance1.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "8da292d04cafccc6196deefe3b1bbd5e346b107e",
+      "size": 466403,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/8da292d04cafccc6196deefe3b1bbd5e346b107e"
+    },
+    {
+      "path": "data/circuits/patched/K4/d36/partition2_instance2.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "c4803614cfaa71b40f85b5d176ea443e600118ab",
+      "size": 237680,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/c4803614cfaa71b40f85b5d176ea443e600118ab"
+    },
+    {
+      "path": "data/circuits/patched/K4/d36/partition2_instance2.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "285926fe7474c1fd71ed738260b8f63463d23623",
+      "size": 466403,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/285926fe7474c1fd71ed738260b8f63463d23623"
+    },
+    {
+      "path": "data/circuits/patched/K4/d36/partition3_instance0.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "c2fa2e233ef71e8054f1c79f6ac5ff2b1efd8733",
+      "size": 237664,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/c2fa2e233ef71e8054f1c79f6ac5ff2b1efd8733"
+    },
+    {
+      "path": "data/circuits/patched/K4/d36/partition3_instance0.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "33181330f91879f4e045e42920df77b3aad4440d",
+      "size": 465967,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/33181330f91879f4e045e42920df77b3aad4440d"
+    },
+    {
+      "path": "data/circuits/patched/K4/d36/partition3_instance1.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "a83baa3737aa0672c7b80fcdadb19527adc56aa4",
+      "size": 237629,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/a83baa3737aa0672c7b80fcdadb19527adc56aa4"
+    },
+    {
+      "path": "data/circuits/patched/K4/d36/partition3_instance1.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "f2492b978888acc2d37a3d8c961286d6a88b585c",
+      "size": 465970,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/f2492b978888acc2d37a3d8c961286d6a88b585c"
+    },
+    {
+      "path": "data/circuits/patched/K4/d36/partition3_instance2.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "f8cfc2816ce23b8c370dc0e423582b60aa8c924e",
+      "size": 237527,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/f8cfc2816ce23b8c370dc0e423582b60aa8c924e"
+    },
+    {
+      "path": "data/circuits/patched/K4/d36/partition3_instance2.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "41abd91874f7a9091ad9dcaf830cf0b7ec22eb3b",
+      "size": 465970,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/41abd91874f7a9091ad9dcaf830cf0b7ec22eb3b"
+    },
+    {
+      "path": "data/circuits/patched/K4/d36/partition4_instance0.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "fb242db7b96d74a5de08392ef42b928e3d14bd90",
+      "size": 237664,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/fb242db7b96d74a5de08392ef42b928e3d14bd90"
+    },
+    {
+      "path": "data/circuits/patched/K4/d36/partition4_instance0.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "e59b5917bac574f1d172057929b71a8a8a888dbb",
+      "size": 465967,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/e59b5917bac574f1d172057929b71a8a8a888dbb"
+    },
+    {
+      "path": "data/circuits/patched/K4/d36/partition4_instance1.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "51170a3dd142a8a8f7dbcf9a63c28df3f83dfda9",
+      "size": 237629,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/51170a3dd142a8a8f7dbcf9a63c28df3f83dfda9"
+    },
+    {
+      "path": "data/circuits/patched/K4/d36/partition4_instance1.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "22f08d4906f0982b805caad1cb551d67ff03e238",
+      "size": 465970,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/22f08d4906f0982b805caad1cb551d67ff03e238"
+    },
+    {
+      "path": "data/circuits/patched/K4/d36/partition4_instance2.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "c7946b8784cc5b3a77a2bf3f2a945a3b7d077d6e",
+      "size": 237527,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/c7946b8784cc5b3a77a2bf3f2a945a3b7d077d6e"
+    },
+    {
+      "path": "data/circuits/patched/K4/d36/partition4_instance2.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "70b6f72d726e32fd26525c535070a8c1b14fe855",
+      "size": 465970,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/70b6f72d726e32fd26525c535070a8c1b14fe855"
+    },
+    {
+      "path": "data/circuits/patched/K4/d40",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "d4eb629a67302a8be6d3b7f129f83e3c85f13877",
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/trees/d4eb629a67302a8be6d3b7f129f83e3c85f13877"
+    },
+    {
+      "path": "data/circuits/patched/K4/d40/partition0_instance0.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "83f6269b9af0721dfa7d7cad1d88c7bd1b398eec",
+      "size": 264636,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/83f6269b9af0721dfa7d7cad1d88c7bd1b398eec"
+    },
+    {
+      "path": "data/circuits/patched/K4/d40/partition0_instance0.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "10bec65503a5a83a4d2c1d7c5f979d9cfc192070",
+      "size": 519174,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/10bec65503a5a83a4d2c1d7c5f979d9cfc192070"
+    },
+    {
+      "path": "data/circuits/patched/K4/d40/partition0_instance1.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "c6feb64e45fff006844d7b0e87e80cc201925572",
+      "size": 264607,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/c6feb64e45fff006844d7b0e87e80cc201925572"
+    },
+    {
+      "path": "data/circuits/patched/K4/d40/partition0_instance1.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "da12cc42cbef1efab3dd0d31127d50fb3ff418a7",
+      "size": 519177,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/da12cc42cbef1efab3dd0d31127d50fb3ff418a7"
+    },
+    {
+      "path": "data/circuits/patched/K4/d40/partition0_instance2.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "2c06863b63e6325ea425747880a1b7cbab4d53dc",
+      "size": 264471,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/2c06863b63e6325ea425747880a1b7cbab4d53dc"
+    },
+    {
+      "path": "data/circuits/patched/K4/d40/partition0_instance2.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "2f4f8b8bd2904f2105ab5721a1e771c354705572",
+      "size": 519177,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/2f4f8b8bd2904f2105ab5721a1e771c354705572"
+    },
+    {
+      "path": "data/circuits/patched/K4/d40/partition1_instance0.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "f9f75d24e3a0b8f2108d92cfe2a3ad71d0121f00",
+      "size": 264136,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/f9f75d24e3a0b8f2108d92cfe2a3ad71d0121f00"
+    },
+    {
+      "path": "data/circuits/patched/K4/d40/partition1_instance0.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "1a26994ad576e59123954ba2cbd5234b2b00e00f",
+      "size": 517727,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/1a26994ad576e59123954ba2cbd5234b2b00e00f"
+    },
+    {
+      "path": "data/circuits/patched/K4/d40/partition1_instance1.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "edaf8828aaf21f2a21c2aeb737c0df2470df740b",
+      "size": 264107,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/edaf8828aaf21f2a21c2aeb737c0df2470df740b"
+    },
+    {
+      "path": "data/circuits/patched/K4/d40/partition1_instance1.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "91d7dcf8d9bfbde9a478401c9538194d388079cf",
+      "size": 517730,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/91d7dcf8d9bfbde9a478401c9538194d388079cf"
+    },
+    {
+      "path": "data/circuits/patched/K4/d40/partition1_instance2.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "0c8f39a8a5cf153aa2902e8c1d9e243841e6ddf7",
+      "size": 263971,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/0c8f39a8a5cf153aa2902e8c1d9e243841e6ddf7"
+    },
+    {
+      "path": "data/circuits/patched/K4/d40/partition1_instance2.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "538487bd3e4d0c458d93f079a1af4dff2fcc4065",
+      "size": 517730,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/538487bd3e4d0c458d93f079a1af4dff2fcc4065"
+    },
+    {
+      "path": "data/circuits/patched/K4/d40/partition2_instance0.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "6959338cdf4be30dbce3b5a953fe153637a8201f",
+      "size": 264086,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/6959338cdf4be30dbce3b5a953fe153637a8201f"
+    },
+    {
+      "path": "data/circuits/patched/K4/d40/partition2_instance0.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "769575d034120612b1df91427c0f8cb67d14c8c0",
+      "size": 517732,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/769575d034120612b1df91427c0f8cb67d14c8c0"
+    },
+    {
+      "path": "data/circuits/patched/K4/d40/partition2_instance1.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "e55ea8606de042a17db204da2ab9abf31c0c9c82",
+      "size": 264057,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/e55ea8606de042a17db204da2ab9abf31c0c9c82"
+    },
+    {
+      "path": "data/circuits/patched/K4/d40/partition2_instance1.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "3b1f55aef0e775bf06d79b02e4adaa5770fe512e",
+      "size": 517735,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/3b1f55aef0e775bf06d79b02e4adaa5770fe512e"
+    },
+    {
+      "path": "data/circuits/patched/K4/d40/partition2_instance2.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "d13e3a480f14fd46f38acde36ad75974b07884e8",
+      "size": 263921,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/d13e3a480f14fd46f38acde36ad75974b07884e8"
+    },
+    {
+      "path": "data/circuits/patched/K4/d40/partition2_instance2.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "efa906835c381a7fd2d2ae9d27072dc091c56a96",
+      "size": 517735,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/efa906835c381a7fd2d2ae9d27072dc091c56a96"
+    },
+    {
+      "path": "data/circuits/patched/K4/d40/partition3_instance0.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "390c92a7c09e3030e6d5442ceffe19904f913dfe",
+      "size": 263916,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/390c92a7c09e3030e6d5442ceffe19904f913dfe"
+    },
+    {
+      "path": "data/circuits/patched/K4/d40/partition3_instance0.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "5c97924f1557f768538213a5d070a9a93fb4d66d",
+      "size": 517250,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/5c97924f1557f768538213a5d070a9a93fb4d66d"
+    },
+    {
+      "path": "data/circuits/patched/K4/d40/partition3_instance1.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "ca5ce23f93b0ee35898fdefadf97294b90f9aa29",
+      "size": 263887,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/ca5ce23f93b0ee35898fdefadf97294b90f9aa29"
+    },
+    {
+      "path": "data/circuits/patched/K4/d40/partition3_instance1.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "1d00721b6cb33cc83225bf6006c400a1390b43f3",
+      "size": 517253,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/1d00721b6cb33cc83225bf6006c400a1390b43f3"
+    },
+    {
+      "path": "data/circuits/patched/K4/d40/partition3_instance2.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "18a4aad0f609ee26e655234d23e5bb1d08c63a35",
+      "size": 263751,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/18a4aad0f609ee26e655234d23e5bb1d08c63a35"
+    },
+    {
+      "path": "data/circuits/patched/K4/d40/partition3_instance2.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "6fa34226ebc963577594add7e56836a45a864be7",
+      "size": 517253,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/6fa34226ebc963577594add7e56836a45a864be7"
+    },
+    {
+      "path": "data/circuits/patched/K4/d40/partition4_instance0.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "858107b04829a3f997dca6334e335d3fd62bc8ff",
+      "size": 263916,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/858107b04829a3f997dca6334e335d3fd62bc8ff"
+    },
+    {
+      "path": "data/circuits/patched/K4/d40/partition4_instance0.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "c9e23c252eb831df7af8160ba7911eeb7a68cd8f",
+      "size": 517250,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/c9e23c252eb831df7af8160ba7911eeb7a68cd8f"
+    },
+    {
+      "path": "data/circuits/patched/K4/d40/partition4_instance1.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "8ed9302af288352e9ad47dc9bd8d63118cc55aad",
+      "size": 263887,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/8ed9302af288352e9ad47dc9bd8d63118cc55aad"
+    },
+    {
+      "path": "data/circuits/patched/K4/d40/partition4_instance1.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "7cbe28ed2bffc08b9aa5c065b504078c9a9a2eab",
+      "size": 517253,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/7cbe28ed2bffc08b9aa5c065b504078c9a9a2eab"
+    },
+    {
+      "path": "data/circuits/patched/K4/d40/partition4_instance2.qasm",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "a8c1e9052c3541b7471539e4d48447c4eb5d0932",
+      "size": 263751,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/a8c1e9052c3541b7471539e4d48447c4eb5d0932"
+    },
+    {
+      "path": "data/circuits/patched/K4/d40/partition4_instance2.qpy",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "5dbfe71641d82bc17804d669c8912d2882a17e1c",
+      "size": 517253,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/5dbfe71641d82bc17804d669c8912d2882a17e1c"
+    },
+    {
+      "path": "data/counts",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "fa0a7c7b5697b498bf4edb45f834fc60f49640dd",
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/trees/fa0a7c7b5697b498bf4edb45f834fc60f49640dd"
+    },
+    {
+      "path": "data/counts/mirror_survival.json",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "95bb63147a0747f54ee326f0f5c151cb736d4c29",
+      "size": 10733,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/95bb63147a0747f54ee326f0f5c151cb736d4c29"
+    },
+    {
+      "path": "data/counts/patched_K3_d20.npz",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "932fb9b1af8bae0c8643e1baef0434d92f7967fc",
+      "size": 289649,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/932fb9b1af8bae0c8643e1baef0434d92f7967fc"
+    },
+    {
+      "path": "data/counts/patched_K3_d24.npz",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "c1bb621a9198b0865aa5f0eefa323756a0522d5b",
+      "size": 572979,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/c1bb621a9198b0865aa5f0eefa323756a0522d5b"
+    },
+    {
+      "path": "data/counts/patched_K3_d28.npz",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "d40f3e9944220d41dcb71da6514c570856bfaf9f",
+      "size": 1411359,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/d40f3e9944220d41dcb71da6514c570856bfaf9f"
+    },
+    {
+      "path": "data/counts/patched_K3_d32.npz",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "94b8d6c6137405d4140a0c411f70c6b8a294409e",
+      "size": 2789918,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/94b8d6c6137405d4140a0c411f70c6b8a294409e"
+    },
+    {
+      "path": "data/counts/patched_K3_d36.npz",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "49645c0bacfc696321e4226c2ed7fee64e7b91af",
+      "size": 4154392,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/49645c0bacfc696321e4226c2ed7fee64e7b91af"
+    },
+    {
+      "path": "data/counts/patched_K3_d40.npz",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "26a0b0fe5cc0e970a54d816d7d58e3442262f8a3",
+      "size": 6196463,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/26a0b0fe5cc0e970a54d816d7d58e3442262f8a3"
+    },
+    {
+      "path": "data/counts/patched_K4_d20.npz",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "298af7c28a385360840f5871e855d8263e656963",
+      "size": 289741,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/298af7c28a385360840f5871e855d8263e656963"
+    },
+    {
+      "path": "data/counts/patched_K4_d24.npz",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "044786907a85a846ffce19f8c0edf0132d3b32d9",
+      "size": 572856,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/044786907a85a846ffce19f8c0edf0132d3b32d9"
+    },
+    {
+      "path": "data/counts/patched_K4_d28.npz",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "939cf45e705d4ebe21672d35c87ce9d084d052c0",
+      "size": 1411158,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/939cf45e705d4ebe21672d35c87ce9d084d052c0"
+    },
+    {
+      "path": "data/counts/patched_K4_d32.npz",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "06baa3331499a6728227412083e71a7a0bcfe575",
+      "size": 2789846,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/06baa3331499a6728227412083e71a7a0bcfe575"
+    },
+    {
+      "path": "data/counts/patched_K4_d36.npz",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "9cfb8519431bce29bbc8ac6d0b9a676b40116be2",
+      "size": 4154247,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/9cfb8519431bce29bbc8ac6d0b9a676b40116be2"
+    },
+    {
+      "path": "data/counts/patched_K4_d40.npz",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "bdf969cfd02bf5353d14f7e879e026bdacf8c68a",
+      "size": 6196482,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/bdf969cfd02bf5353d14f7e879e026bdacf8c68a"
+    },
+    {
+      "path": "data/layout.json",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "5c0a3641675c0eca0aea983f93611e1fcfd4a27a",
+      "size": 18298,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/5c0a3641675c0eca0aea983f93611e1fcfd4a27a"
+    },
+    {
+      "path": "data/qpu_usage.json",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "fe6b92a96fb1ee6fe704dd05ee6d864da1367b13",
+      "size": 678,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/fe6b92a96fb1ee6fe704dd05ee6d864da1367b13"
+    },
+    {
+      "path": "data/results",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "d9608dad2490419e31ea6bfe64c56128b12db1cc",
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/trees/d9608dad2490419e31ea6bfe64c56128b12db1cc"
+    },
+    {
+      "path": "data/results/fidelity_vs_depth.json",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "c231162146e2462e219e6d19d980a1905bce1388",
+      "size": 3098,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/c231162146e2462e219e6d19d980a1905bce1388"
+    },
+    {
+      "path": "data/results/patch_xeb.json",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "9cc84438813e2b0f9e176c97755fa2a048799fae",
+      "size": 84100,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/9cc84438813e2b0f9e176c97755fa2a048799fae"
+    },
+    {
+      "path": "data/results/sampling_cost_table.json",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "9116065b479cc362370b0f21b4c7427613e0d3b1",
+      "size": 2024,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/9116065b479cc362370b0f21b4c7427613e0d3b1"
+    },
+    {
+      "path": "data/samples",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "cb5e5f81560d3ec40e68f01c07f71faf7bf8b66c",
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/trees/cb5e5f81560d3ec40e68f01c07f71faf7bf8b66c"
+    },
+    {
+      "path": "data/samples/full_d36.npz",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "00fbb34142a7625623a6719479e360135a2f787b",
+      "size": 7162405,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/00fbb34142a7625623a6719479e360135a2f787b"
+    },
+    {
+      "path": "figures",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "86c88e6dee8cf6c1eab4d1640a797166ec6e39d6",
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/trees/86c88e6dee8cf6c1eab4d1640a797166ec6e39d6"
+    },
+    {
+      "path": "figures/fig1c_patch_partitions.pdf",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "37b8d7a09140a5f9330d55ce457b730b45c3ba98",
+      "size": 39970,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/37b8d7a09140a5f9330d55ce457b730b45c3ba98"
+    },
+    {
+      "path": "figures/fig1c_patch_partitions.png",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "08af1e2055be990a43fd731e9e9bc2bd09c2737c",
+      "size": 418911,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/08af1e2055be990a43fd731e9e9bc2bd09c2737c"
+    },
+    {
+      "path": "figures/fig2_fidelity_vs_depth.pdf",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "0f63c82dc768b6bf960cc2354c68d864e3ff7f05",
+      "size": 23371,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/0f63c82dc768b6bf960cc2354c68d864e3ff7f05"
+    },
+    {
+      "path": "figures/fig2_fidelity_vs_depth.png",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "906dc02db693c8f5783001592eaa81715200e94e",
+      "size": 102430,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/906dc02db693c8f5783001592eaa81715200e94e"
+    },
+    {
+      "path": "rcs",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "bed573feac193d3237931a805df64764f181994d",
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/trees/bed573feac193d3237931a805df64764f181994d"
+    },
+    {
+      "path": "rcs/__init__.py",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "96b74475b87922012f27cd419a6fea484854935a",
+      "size": 861,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/96b74475b87922012f27cd419a6fea484854935a"
+    },
+    {
+      "path": "rcs/circuits.py",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "1b05856a39b26942645389363d1b66bd5cf65d09",
+      "size": 13660,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/1b05856a39b26942645389363d1b66bd5cf65d09"
+    },
+    {
+      "path": "rcs/estimators.py",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "f8bbf58c21e34bd47ac60f02c5eb3b55947a40f4",
+      "size": 6084,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/f8bbf58c21e34bd47ac60f02c5eb3b55947a40f4"
+    },
+    {
+      "path": "rcs/io.py",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "196b9ebd4307a582f7eb815aacda181e0746ffed",
+      "size": 2565,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/196b9ebd4307a582f7eb815aacda181e0746ffed"
+    },
+    {
+      "path": "rcs/layout.py",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "4c459b49f7aaaf42eb377f0e84b8a91f2e3358b4",
+      "size": 5177,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/4c459b49f7aaaf42eb377f0e84b8a91f2e3358b4"
+    },
+    {
+      "path": "rcs/patching.py",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "098a9cecbfa4704f3f79057ac0466470b4c60732",
+      "size": 10305,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/098a9cecbfa4704f3f79057ac0466470b4c60732"
+    },
+    {
+      "path": "rcs/placement.py",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "64b66b6b40e27162cbeaf817f3f44494196e2716",
+      "size": 16546,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/64b66b6b40e27162cbeaf817f3f44494196e2716"
+    },
+    {
+      "path": "rcs/simulate.py",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "914e474f8e07b1ae5a44feda04760624a57de899",
+      "size": 967,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/914e474f8e07b1ae5a44feda04760624a57de899"
+    },
+    {
+      "path": "rcs/viz.py",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "b87ad86b7e9177d967dcf43bbad1802864b760ba",
+      "size": 19993,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/b87ad86b7e9177d967dcf43bbad1802864b760ba"
+    },
+    {
+      "path": "requirements.txt",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "b87a378aff41cf1f13455f83368a41f1f61c9a24",
+      "size": 469,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/b87a378aff41cf1f13455f83368a41f1f61c9a24"
+    },
+    {
+      "path": "scripts",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "901d81b397cd2cdf1ed33bfcf3e85d4c5725329b",
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/trees/901d81b397cd2cdf1ed33bfcf3e85d4c5725329b"
+    },
+    {
+      "path": "scripts/build_circuits.py",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "ffaee6bd46c946627830fd832565a654c177431a",
+      "size": 4610,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/ffaee6bd46c946627830fd832565a654c177431a"
+    },
+    {
+      "path": "scripts/check_release.py",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "b5ffe3fa72fb1e5cb1b411eeb7bb7c214d71402b",
+      "size": 4010,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/b5ffe3fa72fb1e5cb1b411eeb7bb7c214d71402b"
+    },
+    {
+      "path": "scripts/plot_partitions.py",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "a066c6cf543f9940b9e3274497f53fa6e300cae2",
+      "size": 1650,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/a066c6cf543f9940b9e3274497f53fa6e300cae2"
+    },
+    {
+      "path": "scripts/run_experiment.py",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "2d76edb7f670059fa3248225c371672af38c753e",
+      "size": 11976,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/2d76edb7f670059fa3248225c371672af38c753e"
+    },
+    {
+      "path": "spoofing",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "abb626396c65886482090ff8431cd44f96f58c91",
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/trees/abb626396c65886482090ff8431cd44f96f58c91"
+    },
+    {
+      "path": "spoofing/README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5ffc8971cfc9e180fd71bd49cd0f9a8fbc97b12f",
+      "size": 3282,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/5ffc8971cfc9e180fd71bd49cd0f9a8fbc97b12f"
+    },
+    {
+      "path": "spoofing/min_cut.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9e16732d17a2c7ac5b98c9a821e0629da21b93bb",
+      "size": 7111,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/9e16732d17a2c7ac5b98c9a821e0629da21b93bb"
+    },
+    {
+      "path": "spoofing/results",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "5909869bdbb350086e46b732833966a8c36a55d1",
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/trees/5909869bdbb350086e46b732833966a8c36a55d1"
+    },
+    {
+      "path": "spoofing/results/ensemble_arm3.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7ec659c0ce92a1af9115c2b474955c751993fe1f",
+      "size": 11405,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/7ec659c0ce92a1af9115c2b474955c751993fe1f"
+    },
+    {
+      "path": "spoofing/results/ensemble_c31.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a6feb372898f9655ebfcefdcbfaa8e95fc7fe1c8",
+      "size": 12435,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/a6feb372898f9655ebfcefdcbfaa8e95fc7fe1c8"
+    },
+    {
+      "path": "spoofing/results/ensemble_c45.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2d151c2206764e16d562fa55a0d807cdaeb19ce2",
+      "size": 15567,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/2d151c2206764e16d562fa55a0d807cdaeb19ce2"
+    },
+    {
+      "path": "spoofing/results/min_cuts.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1f144f62e16c1f898d74368e591e36f752215383",
+      "size": 10817,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/1f144f62e16c1f898d74368e591e36f752215383"
+    },
+    {
+      "path": "spoofing/spoof_attack.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0dd2bdebd482a6e8e8eff015718168a2f736982c",
+      "size": 9927,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/0dd2bdebd482a6e8e8eff015718168a2f736982c"
+    },
+    {
+      "path": "spoofing/spoof_ensemble.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6123fe1a1a3c4665aa6dd838dd51c6b604954e0b",
+      "size": 11713,
+      "url": "https://api.github.com/repos/BlueQubitDev/rcs-nighthawk/git/blobs/6123fe1a1a3c4665aa6dd838dd51c6b604954e0b"
+    }
+  ],
+  "truncated": false
+}

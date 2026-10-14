@@ -1,0 +1,50 @@
+[
+ {
+  "cycles": 13,
+  "obs": "mag",
+  "job_id": "Pk6q6FMkFTkkH5wI",
+  "status": "COMPLETED",
+  "value": 0.4951485873562095,
+  "cost": 0.0
+ },
+ {
+  "cycles": 13,
+  "obs": "zzd2",
+  "job_id": "yz8HYBH0TgLdjosB",
+  "status": "COMPLETED",
+  "value": 0.38294067137753074,
+  "cost": 0.0
+ },
+ {
+  "cycles": 13,
+  "obs": "zzd3",
+  "job_id": "Yd2bBinaYHJeXGZt",
+  "status": "COMPLETED",
+  "value": 0.32489627657825615,
+  "cost": 0.0
+ },
+ {
+  "cycles": 16,
+  "obs": "mag",
+  "job_id": "Yog9g8SPFH453m8J",
+  "status": "COMPLETED",
+  "value": 0.5454145224085749,
+  "cost": 0.0
+ },
+ {
+  "cycles": 16,
+  "obs": "zzd2",
+  "job_id": "kShB77iXFDhDqNUi",
+  "status": "COMPLETED",
+  "value": 0.3986961069753556,
+  "cost": 0.0
+ },
+ {
+  "cycles": 16,
+  "obs": "zzd3",
+  "job_id": "YY93oRue0VgDmrte",
+  "status": "COMPLETED",
+  "value": 0.35631437294528084,
+  "cost": 0.0
+ }
+]

@@ -1,0 +1,2097 @@
+{
+ "A": [
+  {
+   "run": "A_run1",
+   "rows": 23,
+   "declared": 23,
+   "count_mismatch": false,
+   "auto_hits_overruled": [],
+   "hits": [
+    "P02",
+    "P06",
+    "P07",
+    "P11",
+    "P12",
+    "P15",
+    "P19",
+    "P32",
+    "P36"
+   ],
+   "misses": [
+    "P08",
+    "P17",
+    "P21"
+   ],
+   "pending_plants": [],
+   "duplicates": [
+    "A_run1#21"
+   ],
+   "non_plant": [
+    [
+     "A_run1#1",
+     "PREEXISTING",
+     "a1:report/report.html:23:every-number-recomputed-overstated"
+    ],
+    [
+     "A_run1#2",
+     "PREEXISTING",
+     "a1:report/report.html:23:local-statevector-19-vs-20q"
+    ],
+    [
+     "A_run1#3",
+     "PREEXISTING",
+     "a1:report/report.html:28:local-statevector-19-vs-20q"
+    ],
+    [
+     "A_run1#6",
+     "FP",
+     null
+    ],
+    [
+     "A_run1#11",
+     "FP",
+     null
+    ],
+    [
+     "A_run1#14",
+     "FP",
+     null
+    ],
+    [
+     "A_run1#16",
+     "UNRESOLVED",
+     null
+    ],
+    [
+     "A_run1#17",
+     "FP",
+     null
+    ],
+    [
+     "A_run1#18",
+     "FP",
+     null
+    ],
+    [
+     "A_run1#19",
+     "PREEXISTING",
+     "a1:FORM_ANSWERS.md:185:every-number-machine-checked-overstated"
+    ],
+    [
+     "A_run1#20",
+     "FP",
+     null
+    ],
+    [
+     "A_run1#22",
+     "UNRESOLVED",
+     null
+    ],
+    [
+     "A_run1#23",
+     "UNRESOLVED",
+     null
+    ]
+   ],
+   "findings": [
+    [
+     "A_run1#1",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "A_run1#2",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "A_run1#3",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "A_run1#4",
+     "AUTO_HIT",
+     "P32"
+    ],
+    [
+     "A_run1#5",
+     "AUTO_HIT",
+     "P02"
+    ],
+    [
+     "A_run1#6",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "A_run1#7",
+     "AUTO_HIT",
+     "P07"
+    ],
+    [
+     "A_run1#8",
+     "AUTO_HIT",
+     "P36"
+    ],
+    [
+     "A_run1#9",
+     "ADJ_HIT",
+     "P06"
+    ],
+    [
+     "A_run1#10",
+     "AUTO_HIT",
+     "P11"
+    ],
+    [
+     "A_run1#11",
+     "ADJ_MISS",
+     [
+      "P11"
+     ]
+    ],
+    [
+     "A_run1#12",
+     "AUTO_HIT",
+     "P19"
+    ],
+    [
+     "A_run1#13",
+     "AUTO_HIT",
+     "P15"
+    ],
+    [
+     "A_run1#14",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "A_run1#15",
+     "AUTO_HIT",
+     "P12"
+    ],
+    [
+     "A_run1#16",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "A_run1#17",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "A_run1#18",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "A_run1#19",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "A_run1#20",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "A_run1#21",
+     "DUPLICATE",
+     "P12"
+    ],
+    [
+     "A_run1#22",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "A_run1#23",
+     "NON_PLANT",
+     null
+    ]
+   ],
+   "label": "A",
+   "kind": "planted"
+  },
+  {
+   "run": "A_run2",
+   "rows": 26,
+   "declared": 26,
+   "count_mismatch": false,
+   "auto_hits_overruled": [],
+   "hits": [
+    "P02",
+    "P06",
+    "P07",
+    "P11",
+    "P12",
+    "P15",
+    "P19",
+    "P32",
+    "P36"
+   ],
+   "misses": [
+    "P08",
+    "P17",
+    "P21"
+   ],
+   "pending_plants": [],
+   "duplicates": [
+    "A_run2#26"
+   ],
+   "non_plant": [
+    [
+     "A_run2#4",
+     "FP",
+     null
+    ],
+    [
+     "A_run2#9",
+     "PREEXISTING",
+     "a1:report/report.html:136:three-pending-should-be-five"
+    ],
+    [
+     "A_run2#10",
+     "PREEXISTING",
+     "a1:FORM_ANSWERS.md:40:three-pending-should-be-five"
+    ],
+    [
+     "A_run2#11",
+     "PREEXISTING",
+     "a1:SUBMISSION_KIT.md:18:three-pending-should-be-five"
+    ],
+    [
+     "A_run2#13",
+     "PREEXISTING",
+     "a1:report/report.html:150:prototype-cost-nonzero"
+    ],
+    [
+     "A_run2#14",
+     "PREEXISTING",
+     "a1:FORM_ANSWERS.md:196:prototype-cost-nonzero"
+    ],
+    [
+     "A_run2#15",
+     "PREEXISTING",
+     "a1:SUBMISSION_KIT.md:74:prototype-cost-nonzero"
+    ],
+    [
+     "A_run2#16",
+     "UNRESOLVED",
+     null
+    ],
+    [
+     "A_run2#17",
+     "UNRESOLVED",
+     null
+    ],
+    [
+     "A_run2#18",
+     "UNRESOLVED",
+     null
+    ],
+    [
+     "A_run2#19",
+     "PREEXISTING",
+     "a1:report/report.html:23:all-numbers-from-bluequbit-overstated"
+    ],
+    [
+     "A_run2#20",
+     "FP",
+     null
+    ],
+    [
+     "A_run2#21",
+     "PREEXISTING",
+     "a1:report/report.html:144:four-independent-estimates-overstated"
+    ],
+    [
+     "A_run2#22",
+     "PREEXISTING",
+     "a1:FORM_ANSWERS.md:182:pepsbp-bd700-cost-mismatch"
+    ],
+    [
+     "A_run2#23",
+     "PREEXISTING",
+     "a1:FORM_ANSWERS.md:182:complex128-buffer-32-vs-64gib"
+    ],
+    [
+     "A_run2#24",
+     "UNRESOLVED",
+     null
+    ]
+   ],
+   "findings": [
+    [
+     "A_run2#1",
+     "AUTO_HIT",
+     "P32"
+    ],
+    [
+     "A_run2#2",
+     "AUTO_HIT",
+     "P02"
+    ],
+    [
+     "A_run2#3",
+     "AUTO_HIT",
+     "P07"
+    ],
+    [
+     "A_run2#4",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "A_run2#5",
+     "AUTO_HIT",
+     "P36"
+    ],
+    [
+     "A_run2#6",
+     "ADJ_HIT",
+     "P06"
+    ],
+    [
+     "A_run2#7",
+     "AUTO_HIT",
+     "P11"
+    ],
+    [
+     "A_run2#8",
+     "AUTO_HIT",
+     "P19"
+    ],
+    [
+     "A_run2#9",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "A_run2#10",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "A_run2#11",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "A_run2#12",
+     "AUTO_HIT",
+     "P15"
+    ],
+    [
+     "A_run2#13",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "A_run2#14",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "A_run2#15",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "A_run2#16",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "A_run2#17",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "A_run2#18",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "A_run2#19",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "A_run2#20",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "A_run2#21",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "A_run2#22",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "A_run2#23",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "A_run2#24",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "A_run2#25",
+     "AUTO_HIT",
+     "P12"
+    ],
+    [
+     "A_run2#26",
+     "DUPLICATE",
+     "P12"
+    ]
+   ],
+   "label": "A",
+   "kind": "planted"
+  },
+  {
+   "run": "B_run1",
+   "rows": 23,
+   "declared": 23,
+   "count_mismatch": false,
+   "auto_hits_overruled": [],
+   "hits": [
+    "P01",
+    "P06",
+    "P07",
+    "P10",
+    "P14",
+    "P15",
+    "P29",
+    "P31"
+   ],
+   "misses": [
+    "P12",
+    "P17",
+    "P21",
+    "P24"
+   ],
+   "pending_plants": [],
+   "duplicates": [],
+   "non_plant": [
+    [
+     "B_run1#7",
+     "FP",
+     null
+    ],
+    [
+     "B_run1#9",
+     "PREEXISTING",
+     "a1:report/report.html:150:prototype-cost-nonzero"
+    ],
+    [
+     "B_run1#10",
+     "PREEXISTING",
+     "a1:report/report.html:23:every-number-recomputed-overstated"
+    ],
+    [
+     "B_run1#12",
+     "FP",
+     null
+    ],
+    [
+     "B_run1#13",
+     "FP",
+     null
+    ],
+    [
+     "B_run1#14",
+     "FP",
+     null
+    ],
+    [
+     "B_run1#15",
+     "FP",
+     null
+    ],
+    [
+     "B_run1#16",
+     "FP",
+     null
+    ],
+    [
+     "B_run1#17",
+     "FP",
+     null
+    ],
+    [
+     "B_run1#18",
+     "FP",
+     null
+    ],
+    [
+     "B_run1#19",
+     "PREEXISTING",
+     "a1:FORM_ANSWERS.md:196:prototype-cost-nonzero"
+    ],
+    [
+     "B_run1#20",
+     "PREEXISTING",
+     "a1:SUBMISSION_KIT.md:74:prototype-cost-nonzero"
+    ],
+    [
+     "B_run1#21",
+     "PREEXISTING",
+     "a1:FORM_ANSWERS.md:185:every-number-machine-checked-overstated"
+    ],
+    [
+     "B_run1#22",
+     "FP",
+     null
+    ],
+    [
+     "B_run1#23",
+     "PREEXISTING",
+     "a1:FORM_ANSWERS.md:182:pepsbp-bd700-cost-mismatch"
+    ]
+   ],
+   "findings": [
+    [
+     "B_run1#1",
+     "AUTO_HIT",
+     "P01"
+    ],
+    [
+     "B_run1#2",
+     "AUTO_HIT",
+     "P10"
+    ],
+    [
+     "B_run1#3",
+     "AUTO_HIT",
+     "P07"
+    ],
+    [
+     "B_run1#4",
+     "ADJ_HIT",
+     "P06"
+    ],
+    [
+     "B_run1#5",
+     "AUTO_HIT",
+     "P14"
+    ],
+    [
+     "B_run1#6",
+     "AUTO_HIT",
+     "P29"
+    ],
+    [
+     "B_run1#7",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "B_run1#8",
+     "AUTO_HIT",
+     "P31"
+    ],
+    [
+     "B_run1#9",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "B_run1#10",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "B_run1#11",
+     "AUTO_HIT",
+     "P15"
+    ],
+    [
+     "B_run1#12",
+     "ADJ_MISS",
+     [
+      "P12"
+     ]
+    ],
+    [
+     "B_run1#13",
+     "ADJ_MISS",
+     [
+      "P12"
+     ]
+    ],
+    [
+     "B_run1#14",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "B_run1#15",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "B_run1#16",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "B_run1#17",
+     "ADJ_MISS",
+     [
+      "P24"
+     ]
+    ],
+    [
+     "B_run1#18",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "B_run1#19",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "B_run1#20",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "B_run1#21",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "B_run1#22",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "B_run1#23",
+     "NON_PLANT",
+     null
+    ]
+   ],
+   "label": "B",
+   "kind": "planted"
+  },
+  {
+   "run": "B_run2",
+   "rows": 26,
+   "declared": 26,
+   "count_mismatch": false,
+   "auto_hits_overruled": [],
+   "hits": [
+    "P01",
+    "P06",
+    "P07",
+    "P10",
+    "P14",
+    "P15",
+    "P29",
+    "P31"
+   ],
+   "misses": [
+    "P12",
+    "P17",
+    "P21",
+    "P24"
+   ],
+   "pending_plants": [],
+   "duplicates": [],
+   "non_plant": [
+    [
+     "B_run2#8",
+     "FP",
+     null
+    ],
+    [
+     "B_run2#9",
+     "FP",
+     null
+    ],
+    [
+     "B_run2#10",
+     "PREEXISTING",
+     "a1:report/report.html:23:every-number-recomputed-overstated"
+    ],
+    [
+     "B_run2#11",
+     "PREEXISTING",
+     "a1:report/report.html:23:all-numbers-from-bluequbit-overstated"
+    ],
+    [
+     "B_run2#12",
+     "UNRESOLVED",
+     null
+    ],
+    [
+     "B_run2#13",
+     "FP",
+     null
+    ],
+    [
+     "B_run2#14",
+     "FP",
+     null
+    ],
+    [
+     "B_run2#16",
+     "FP",
+     null
+    ],
+    [
+     "B_run2#17",
+     "PREEXISTING",
+     "a1:FORM_ANSWERS.md:182:complex128-buffer-32-vs-64gib"
+    ],
+    [
+     "B_run2#18",
+     "PREEXISTING",
+     "a1:FORM_ANSWERS.md:185:every-number-machine-checked-overstated"
+    ],
+    [
+     "B_run2#19",
+     "FP",
+     null
+    ],
+    [
+     "B_run2#20",
+     "FP",
+     null
+    ],
+    [
+     "B_run2#21",
+     "FP",
+     null
+    ],
+    [
+     "B_run2#22",
+     "FP",
+     null
+    ],
+    [
+     "B_run2#23",
+     "UNRESOLVED",
+     null
+    ],
+    [
+     "B_run2#24",
+     "UNRESOLVED",
+     null
+    ],
+    [
+     "B_run2#25",
+     "FP",
+     null
+    ],
+    [
+     "B_run2#26",
+     "FP",
+     null
+    ]
+   ],
+   "findings": [
+    [
+     "B_run2#1",
+     "ADJ_HIT",
+     "P01"
+    ],
+    [
+     "B_run2#2",
+     "AUTO_HIT",
+     "P10"
+    ],
+    [
+     "B_run2#3",
+     "AUTO_HIT",
+     "P06"
+    ],
+    [
+     "B_run2#4",
+     "AUTO_HIT",
+     "P14"
+    ],
+    [
+     "B_run2#5",
+     "AUTO_HIT",
+     "P29"
+    ],
+    [
+     "B_run2#6",
+     "AUTO_HIT",
+     "P31"
+    ],
+    [
+     "B_run2#7",
+     "AUTO_HIT",
+     "P07"
+    ],
+    [
+     "B_run2#8",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "B_run2#9",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "B_run2#10",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "B_run2#11",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "B_run2#12",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "B_run2#13",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "B_run2#14",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "B_run2#15",
+     "AUTO_HIT",
+     "P15"
+    ],
+    [
+     "B_run2#16",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "B_run2#17",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "B_run2#18",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "B_run2#19",
+     "ADJ_MISS",
+     [
+      "P24"
+     ]
+    ],
+    [
+     "B_run2#20",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "B_run2#21",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "B_run2#22",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "B_run2#23",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "B_run2#24",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "B_run2#25",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "B_run2#26",
+     "NON_PLANT",
+     null
+    ]
+   ],
+   "label": "B",
+   "kind": "planted"
+  },
+  {
+   "run": "C_run1",
+   "rows": 24,
+   "declared": 24,
+   "count_mismatch": false,
+   "auto_hits_overruled": [],
+   "hits": [],
+   "misses": [],
+   "pending_plants": [],
+   "duplicates": [],
+   "non_plant": [
+    [
+     "C_run1#1",
+     "PREEXISTING",
+     "a1:report/report.html:150:prototype-cost-nonzero"
+    ],
+    [
+     "C_run1#2",
+     "PREEXISTING",
+     "a1:FORM_ANSWERS.md:196:prototype-cost-nonzero"
+    ],
+    [
+     "C_run1#3",
+     "PREEXISTING",
+     "a1:SUBMISSION_KIT.md:74:prototype-cost-nonzero"
+    ],
+    [
+     "C_run1#4",
+     "PREEXISTING",
+     "a1:report/report.html:136:three-pending-should-be-five"
+    ],
+    [
+     "C_run1#5",
+     "PREEXISTING",
+     "a1:FORM_ANSWERS.md:40:three-pending-should-be-five"
+    ],
+    [
+     "C_run1#6",
+     "PREEXISTING",
+     "a1:SUBMISSION_KIT.md:18:three-pending-should-be-five"
+    ],
+    [
+     "C_run1#7",
+     "FP",
+     null
+    ],
+    [
+     "C_run1#8",
+     "FP",
+     null
+    ],
+    [
+     "C_run1#9",
+     "FP",
+     null
+    ],
+    [
+     "C_run1#10",
+     "FP",
+     null
+    ],
+    [
+     "C_run1#11",
+     "FP",
+     null
+    ],
+    [
+     "C_run1#12",
+     "UNRESOLVED",
+     null
+    ],
+    [
+     "C_run1#13",
+     "UNRESOLVED",
+     null
+    ],
+    [
+     "C_run1#14",
+     "FP",
+     null
+    ],
+    [
+     "C_run1#15",
+     "FP",
+     null
+    ],
+    [
+     "C_run1#16",
+     "FP",
+     null
+    ],
+    [
+     "C_run1#17",
+     "FP",
+     null
+    ],
+    [
+     "C_run1#18",
+     "PREEXISTING",
+     "a1:report/report.html:23:all-numbers-from-bluequbit-overstated"
+    ],
+    [
+     "C_run1#19",
+     "UNRESOLVED",
+     null
+    ],
+    [
+     "C_run1#20",
+     "FP",
+     null
+    ],
+    [
+     "C_run1#21",
+     "PREEXISTING",
+     "a1:FORM_ANSWERS.md:182:issue151-criterion-xeb-0092"
+    ],
+    [
+     "C_run1#22",
+     "PREEXISTING",
+     "a1:FORM_ANSWERS.md:182:complex128-buffer-32-vs-64gib"
+    ],
+    [
+     "C_run1#23",
+     "UNRESOLVED",
+     null
+    ],
+    [
+     "C_run1#24",
+     "PREEXISTING",
+     "a1:FORM_ANSWERS.md:186:pdf-contents-omit-sections-5-6"
+    ]
+   ],
+   "findings": [
+    [
+     "C_run1#1",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "C_run1#2",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "C_run1#3",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "C_run1#4",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "C_run1#5",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "C_run1#6",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "C_run1#7",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "C_run1#8",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "C_run1#9",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "C_run1#10",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "C_run1#11",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "C_run1#12",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "C_run1#13",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "C_run1#14",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "C_run1#15",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "C_run1#16",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "C_run1#17",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "C_run1#18",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "C_run1#19",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "C_run1#20",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "C_run1#21",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "C_run1#22",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "C_run1#23",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "C_run1#24",
+     "NON_PLANT",
+     null
+    ]
+   ],
+   "label": "C",
+   "kind": "placebo"
+  },
+  {
+   "run": "C_run2",
+   "rows": 22,
+   "declared": 22,
+   "count_mismatch": false,
+   "auto_hits_overruled": [],
+   "hits": [],
+   "misses": [],
+   "pending_plants": [],
+   "duplicates": [],
+   "non_plant": [
+    [
+     "C_run2#1",
+     "PREEXISTING",
+     "a1:report/report.html:23:all-numbers-from-bluequbit-overstated"
+    ],
+    [
+     "C_run2#2",
+     "FP",
+     null
+    ],
+    [
+     "C_run2#3",
+     "FP",
+     null
+    ],
+    [
+     "C_run2#4",
+     "FP",
+     null
+    ],
+    [
+     "C_run2#5",
+     "FP",
+     null
+    ],
+    [
+     "C_run2#6",
+     "FP",
+     null
+    ],
+    [
+     "C_run2#7",
+     "FP",
+     null
+    ],
+    [
+     "C_run2#8",
+     "PREEXISTING",
+     "a1:report/report.html:136:three-pending-should-be-five"
+    ],
+    [
+     "C_run2#9",
+     "PREEXISTING",
+     "a1:report/report.html:144:four-independent-estimates-overstated"
+    ],
+    [
+     "C_run2#10",
+     "PREEXISTING",
+     "a1:report/report.html:150:prototype-cost-nonzero"
+    ],
+    [
+     "C_run2#11",
+     "FP",
+     null
+    ],
+    [
+     "C_run2#12",
+     "PREEXISTING",
+     "a1:FORM_ANSWERS.md:40:three-pending-should-be-five"
+    ],
+    [
+     "C_run2#13",
+     "PREEXISTING",
+     "a1:SUBMISSION_KIT.md:18:three-pending-should-be-five"
+    ],
+    [
+     "C_run2#14",
+     "FP",
+     null
+    ],
+    [
+     "C_run2#15",
+     "FP",
+     null
+    ],
+    [
+     "C_run2#16",
+     "FP",
+     null
+    ],
+    [
+     "C_run2#17",
+     "UNRESOLVED",
+     null
+    ],
+    [
+     "C_run2#18",
+     "UNRESOLVED",
+     null
+    ],
+    [
+     "C_run2#19",
+     "FP",
+     null
+    ],
+    [
+     "C_run2#20",
+     "PREEXISTING",
+     "a1:FORM_ANSWERS.md:196:prototype-cost-nonzero"
+    ],
+    [
+     "C_run2#21",
+     "PREEXISTING",
+     "a1:SUBMISSION_KIT.md:74:prototype-cost-nonzero"
+    ],
+    [
+     "C_run2#22",
+     "FP",
+     null
+    ]
+   ],
+   "findings": [
+    [
+     "C_run2#1",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "C_run2#2",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "C_run2#3",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "C_run2#4",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "C_run2#5",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "C_run2#6",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "C_run2#7",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "C_run2#8",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "C_run2#9",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "C_run2#10",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "C_run2#11",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "C_run2#12",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "C_run2#13",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "C_run2#14",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "C_run2#15",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "C_run2#16",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "C_run2#17",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "C_run2#18",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "C_run2#19",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "C_run2#20",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "C_run2#21",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "C_run2#22",
+     "NON_PLANT",
+     null
+    ]
+   ],
+   "label": "C",
+   "kind": "placebo"
+  },
+  {
+   "run": "D_run1",
+   "rows": 22,
+   "declared": 22,
+   "count_mismatch": false,
+   "auto_hits_overruled": [
+    "D_run1#7"
+   ],
+   "hits": [
+    "P06",
+    "P09",
+    "P10",
+    "P11",
+    "P13",
+    "P14",
+    "P16",
+    "P21",
+    "P30"
+   ],
+   "misses": [
+    "P08",
+    "P12",
+    "P17"
+   ],
+   "pending_plants": [],
+   "duplicates": [],
+   "non_plant": [
+    [
+     "D_run1#7",
+     "PREEXISTING",
+     "a1:report/report.html:136:three-pending-should-be-five"
+    ],
+    [
+     "D_run1#8",
+     "PREEXISTING",
+     "a1:FORM_ANSWERS.md:40:three-pending-should-be-five"
+    ],
+    [
+     "D_run1#9",
+     "PREEXISTING",
+     "a1:SUBMISSION_KIT.md:18:three-pending-should-be-five"
+    ],
+    [
+     "D_run1#11",
+     "PREEXISTING",
+     "a1:report/report.html:23:every-number-recomputed-overstated"
+    ],
+    [
+     "D_run1#12",
+     "PREEXISTING",
+     "a1:report/report.html:23:all-numbers-from-bluequbit-overstated"
+    ],
+    [
+     "D_run1#13",
+     "FP",
+     null
+    ],
+    [
+     "D_run1#15",
+     "FP",
+     null
+    ],
+    [
+     "D_run1#16",
+     "UNRESOLVED",
+     null
+    ],
+    [
+     "D_run1#17",
+     "UNRESOLVED",
+     null
+    ],
+    [
+     "D_run1#19",
+     "FP",
+     null
+    ],
+    [
+     "D_run1#20",
+     "PREEXISTING",
+     "a1:FORM_ANSWERS.md:185:every-number-machine-checked-overstated"
+    ],
+    [
+     "D_run1#21",
+     "PREEXISTING",
+     "a1:SUBMISSION_KIT.md:3:all-claims-verified-overstated"
+    ],
+    [
+     "D_run1#22",
+     "UNRESOLVED",
+     null
+    ]
+   ],
+   "findings": [
+    [
+     "D_run1#1",
+     "AUTO_HIT",
+     "P10"
+    ],
+    [
+     "D_run1#2",
+     "AUTO_HIT",
+     "P09"
+    ],
+    [
+     "D_run1#3",
+     "AUTO_HIT",
+     "P06"
+    ],
+    [
+     "D_run1#4",
+     "AUTO_HIT",
+     "P14"
+    ],
+    [
+     "D_run1#5",
+     "AUTO_HIT",
+     "P13"
+    ],
+    [
+     "D_run1#6",
+     "AUTO_HIT",
+     "P16"
+    ],
+    [
+     "D_run1#7",
+     "ADJ_MISS",
+     [
+      "P16"
+     ]
+    ],
+    [
+     "D_run1#8",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "D_run1#9",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "D_run1#10",
+     "AUTO_HIT",
+     "P11"
+    ],
+    [
+     "D_run1#11",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "D_run1#12",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "D_run1#13",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "D_run1#14",
+     "ADJ_HIT",
+     "P30"
+    ],
+    [
+     "D_run1#15",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "D_run1#16",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "D_run1#17",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "D_run1#18",
+     "AUTO_HIT",
+     "P21"
+    ],
+    [
+     "D_run1#19",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "D_run1#20",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "D_run1#21",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "D_run1#22",
+     "NON_PLANT",
+     null
+    ]
+   ],
+   "label": "D",
+   "kind": "planted"
+  },
+  {
+   "run": "D_run2",
+   "rows": 27,
+   "declared": 27,
+   "count_mismatch": false,
+   "auto_hits_overruled": [],
+   "hits": [
+    "P06",
+    "P09",
+    "P10",
+    "P11",
+    "P12",
+    "P13",
+    "P16",
+    "P30"
+   ],
+   "misses": [
+    "P08",
+    "P14",
+    "P17",
+    "P21"
+   ],
+   "pending_plants": [],
+   "duplicates": [],
+   "non_plant": [
+    [
+     "D_run2#8",
+     "UNRESOLVED",
+     null
+    ],
+    [
+     "D_run2#9",
+     "PREEXISTING",
+     "a1:report/report.html:150:prototype-cost-nonzero"
+    ],
+    [
+     "D_run2#10",
+     "PREEXISTING",
+     "a1:FORM_ANSWERS.md:196:prototype-cost-nonzero"
+    ],
+    [
+     "D_run2#11",
+     "PREEXISTING",
+     "a1:SUBMISSION_KIT.md:74:prototype-cost-nonzero"
+    ],
+    [
+     "D_run2#12",
+     "PREEXISTING",
+     "a1:report/report.html:23:every-number-recomputed-overstated"
+    ],
+    [
+     "D_run2#13",
+     "PREEXISTING",
+     "a1:FORM_ANSWERS.md:185:every-number-machine-checked-overstated"
+    ],
+    [
+     "D_run2#14",
+     "PREEXISTING",
+     "a1:SUBMISSION_KIT.md:3:all-claims-verified-overstated"
+    ],
+    [
+     "D_run2#15",
+     "UNRESOLVED",
+     null
+    ],
+    [
+     "D_run2#16",
+     "UNRESOLVED",
+     null
+    ],
+    [
+     "D_run2#17",
+     "FP",
+     null
+    ],
+    [
+     "D_run2#18",
+     "FP",
+     null
+    ],
+    [
+     "D_run2#19",
+     "FP",
+     null
+    ],
+    [
+     "D_run2#21",
+     "FP",
+     null
+    ],
+    [
+     "D_run2#22",
+     "FP",
+     null
+    ],
+    [
+     "D_run2#23",
+     "FP",
+     null
+    ],
+    [
+     "D_run2#24",
+     "PREEXISTING",
+     "a1:FORM_ANSWERS.md:182:complex128-buffer-32-vs-64gib"
+    ],
+    [
+     "D_run2#25",
+     "PREEXISTING",
+     "a1:FORM_ANSWERS.md:182:pepsbp-bd700-cost-mismatch"
+    ],
+    [
+     "D_run2#26",
+     "FP",
+     null
+    ],
+    [
+     "D_run2#27",
+     "PREEXISTING",
+     "a1:report/report.html:144:four-independent-estimates-overstated"
+    ]
+   ],
+   "findings": [
+    [
+     "D_run2#1",
+     "AUTO_HIT",
+     "P10"
+    ],
+    [
+     "D_run2#2",
+     "AUTO_HIT",
+     "P09"
+    ],
+    [
+     "D_run2#3",
+     "AUTO_HIT",
+     "P06"
+    ],
+    [
+     "D_run2#4",
+     "AUTO_HIT",
+     "P13"
+    ],
+    [
+     "D_run2#5",
+     "AUTO_HIT",
+     "P16"
+    ],
+    [
+     "D_run2#6",
+     "AUTO_HIT",
+     "P30"
+    ],
+    [
+     "D_run2#7",
+     "AUTO_HIT",
+     "P11"
+    ],
+    [
+     "D_run2#8",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "D_run2#9",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "D_run2#10",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "D_run2#11",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "D_run2#12",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "D_run2#13",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "D_run2#14",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "D_run2#15",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "D_run2#16",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "D_run2#17",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "D_run2#18",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "D_run2#19",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "D_run2#20",
+     "AUTO_HIT",
+     "P12"
+    ],
+    [
+     "D_run2#21",
+     "ADJ_MISS",
+     [
+      "P12"
+     ]
+    ],
+    [
+     "D_run2#22",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "D_run2#23",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "D_run2#24",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "D_run2#25",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "D_run2#26",
+     "ADJ_MISS",
+     [
+      "P16"
+     ]
+    ],
+    [
+     "D_run2#27",
+     "NON_PLANT",
+     null
+    ]
+   ],
+   "label": "D",
+   "kind": "planted"
+  }
+ ],
+ "B": {
+  "A": {
+   "valid": true,
+   "flips": [
+    "report + form disclose BlueQubit co-authorship of the Floquet candidate"
+   ],
+   "hits": [
+    "P17"
+   ],
+   "incidental": [],
+   "unexpected": [],
+   "baseline_fails": [],
+   "kind": "planted"
+  },
+  "B": {
+   "valid": true,
+   "flips": [
+    "report + form disclose BlueQubit co-authorship of the Floquet candidate"
+   ],
+   "hits": [
+    "P17"
+   ],
+   "incidental": [],
+   "unexpected": [],
+   "baseline_fails": [],
+   "kind": "planted"
+  },
+  "C": {
+   "valid": true,
+   "flips": [],
+   "hits": [],
+   "incidental": [],
+   "unexpected": [],
+   "baseline_fails": [],
+   "kind": "placebo"
+  },
+  "D": {
+   "valid": true,
+   "flips": [
+    "report + form disclose BlueQubit co-authorship of the Floquet candidate"
+   ],
+   "hits": [
+    "P17"
+   ],
+   "incidental": [],
+   "unexpected": [],
+   "baseline_fails": [],
+   "kind": "planted"
+  }
+ },
+ "summary": {
+  "A_plant_runs": 72,
+  "A_hits": 51,
+  "A_recall": 0.708,
+  "A_recall_wilson95": [
+   0.595,
+   0.801
+  ],
+  "A_pending_plant_runs": 0,
+  "A_recall_upper_if_pending_hit": 0.708,
+  "A_by_stratum": {
+   "S01_armB_control": "0/6",
+   "S02_number_checker_constant": "6/6",
+   "S03_number_no_constant": "5/6",
+   "S04_qualifier_deleted": "0/6",
+   "S05_overgeneralization": "7/12",
+   "S06_scope_overreach": "6/6",
+   "S07_favorable_reading": "6/6",
+   "S08_reference_swap": "6/6",
+   "S09_direction_flip": "6/6",
+   "S10_cross_document": "6/6",
+   "S11_hidden_denominator": "3/6"
+  },
+  "A_by_checker_constant": {
+   "False": "33/54",
+   "True": "18/18"
+  },
+  "A_by_cross_doc_tell": {
+   "False": "41/52",
+   "True": "10/20"
+  },
+  "A_by_cls": {
+   "citation_overreach": "6/6",
+   "cross_document_inconsistency": "6/6",
+   "dropped_qualifier": "0/12",
+   "favorable_reading": "6/6",
+   "hidden_denominator": "3/6",
+   "overgeneralization": "7/12",
+   "scope_overreach": "6/6",
+   "stale_count": "2/2",
+   "wrong_number": "15/16"
+  },
+  "A_unique_plants_caught_any_run": "19/22",
+  "A_auto_hits_overruled": 1,
+  "A_recall_cluster_bootstrap95": [
+   0.524,
+   0.912
+  ],
+  "nonplant_planted_copies": {
+   "PREEXISTING": 40,
+   "FP": 38,
+   "UNRESOLVED": 16,
+   "PENDING": 0
+  },
+  "runs_planted_copies": 6,
+  "nonplant_placebo": {
+   "PREEXISTING": 18,
+   "FP": 22,
+   "UNRESOLVED": 6,
+   "PENDING": 0
+  },
+  "runs_placebo": 2,
+  "placebo_FP_per_run_lower": 11.0,
+  "placebo_FP_per_run_upper": 14.0,
+  "count_mismatch_runs": [],
+  "capture_recapture": {
+   "placebo": {
+    "n1": 10,
+    "n2": 8,
+    "m": 7,
+    "observed_distinct": 11,
+    "N_hat": 11.38,
+    "ci95": [
+     11,
+     12.78
+    ],
+    "unfound_hat": 0.38,
+    "m_zero_unstable": false
+   },
+   "calibration_on_planted": {
+    "A": {
+     "n1": 9,
+     "n2": 9,
+     "m": 9,
+     "observed_distinct": 9,
+     "N_hat": 9.0,
+     "ci95": [
+      9,
+      9.0
+     ],
+     "unfound_hat": 0.0,
+     "m_zero_unstable": false,
+     "true_N": 12
+    },
+    "B": {
+     "n1": 8,
+     "n2": 8,
+     "m": 8,
+     "observed_distinct": 8,
+     "N_hat": 8.0,
+     "ci95": [
+      8,
+      8.0
+     ],
+     "unfound_hat": 0.0,
+     "m_zero_unstable": false,
+     "true_N": 12
+    },
+    "D": {
+     "n1": 9,
+     "n2": 8,
+     "m": 7,
+     "observed_distinct": 10,
+     "N_hat": 10.25,
+     "ci95": [
+      10,
+      11.35
+     ],
+     "unfound_hat": 0.25,
+     "m_zero_unstable": false,
+     "true_N": 12
+    }
+   }
+  },
+  "A_recall_poststratified": 0.769,
+  "B_hits": 3,
+  "B_plants": 36,
+  "B_recall": 0.083,
+  "B_recall_wilson95": [
+   0.029,
+   0.218
+  ],
+  "B_all_valid": true,
+  "B_placebo_flips": 0,
+  "B_unexpected_flips": 0
+ }
+}

@@ -1,0 +1,99 @@
+[BQ-PYTHON-SDK][WARNING] - Beta version 0.18.12b1 of BlueQubit Python SDK is being used.
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: bX2WQF8flRjiQOFM, name: rcs-w6-V3_61q_d2_chi64, device: mps.cpu, run status: PENDING, created on: 2026-09-26 16:15:19 UTC, estimated runtime: 70900 ms, estimated cost: $0.00, num qubits: 61, shots: 10000
+12:15:19 SUBMIT V3_61q_d2_chi64 bX2WQF8flRjiQOFM chi 64 shots 10000
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: U3C8FsJ651f5Diz4, name: rcs-w6-V1_16q_d36_chi256, device: mps.cpu, run status: PENDING, created on: 2026-09-26 16:15:19 UTC, estimated runtime: 1705000 ms, estimated cost: $0.00, num qubits: 16, shots: 100000
+12:15:19 SUBMIT V1_16q_d36_chi256 U3C8FsJ651f5Diz4 chi 256 shots 100000
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: 34ekkmJFiYIKDJp8, name: rcs-w6-V2_16q_d36_chi4, device: mps.cpu, run status: PENDING, created on: 2026-09-26 16:15:20 UTC, estimated runtime: 11500 ms, estimated cost: $0.00, num qubits: 16, shots: 100000
+12:15:20 SUBMIT V2_16q_d36_chi4 34ekkmJFiYIKDJp8 chi 4 shots 100000
+MemAvailable 18.6 GiB < 20
+12:18:59 supervisor: launching controller.py (MemAvailable 26402460 kB)
+[BQ-PYTHON-SDK][WARNING] - Beta version 0.18.12b1 of BlueQubit Python SDK is being used.
+12:21:03 DONE V3_61q_d2_chi64 hits 0 / 10000 rt_s 198.322 cost 0.0
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: lcei7A9PAmtvlH6R, name: rcs-w6-V2_16q_d36_chi8, device: mps.cpu, run status: RUNNING, created on: 2026-09-26 16:21:04 UTC, estimated runtime: 15900 ms, estimated cost: $0.00, num qubits: 16, shots: 100000
+12:21:04 SUBMIT V2_16q_d36_chi8 lcei7A9PAmtvlH6R chi 8 shots 100000
+12:23:08 supervisor: launching controller.py (MemAvailable 37022344 kB)
+[BQ-PYTHON-SDK][WARNING] - Beta version 0.18.12b1 of BlueQubit Python SDK is being used.
+12:24:11 DONE V2_16q_d36_chi4 hits 19931 / 100000 rt_s 398.345 cost 0.0
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: QDXPefKlgFDQJ19r, name: rcs-w6-V2_16q_d36_chi16, device: mps.cpu, run status: RUNNING, created on: 2026-09-26 16:24:11 UTC, estimated runtime: 19100 ms, estimated cost: $0.00, num qubits: 16, shots: 100000
+12:24:12 SUBMIT V2_16q_d36_chi16 QDXPefKlgFDQJ19r chi 16 shots 100000
+12:25:12 DONE V1_16q_d36_chi256 hits 100000 / 100000 rt_s 437.084 cost 0.0
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: K9Jesm1R0UgsbTkZ, name: rcs-w6-P1_i0_d36_chi128, device: mps.cpu, run status: RUNNING, created on: 2026-09-26 16:25:13 UTC, estimated runtime: 5071200 ms, estimated cost: $0.00, num qubits: 61, shots: 1000000
+12:25:13 SUBMIT P1_i0_d36_chi128 K9Jesm1R0UgsbTkZ chi 128 shots 1000000
+12:28:15 DONE V2_16q_d36_chi8 hits 2820 / 100000 rt_s 394.363 cost 0.0
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: kUToY3H5K2Ya5eeX, name: rcs-w6-P2_i0_d36_chi256, device: mps.cpu, run status: RUNNING, created on: 2026-09-26 16:28:16 UTC, estimated runtime: 18587300 ms, estimated cost: $0.00, num qubits: 61, shots: 1000000
+12:28:17 SUBMIT P2_i0_d36_chi256 kUToY3H5K2Ya5eeX chi 256 shots 1000000
+12:31:18 DONE V2_16q_d36_chi16 hits 61836 / 100000 rt_s 391.297 cost 0.0
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: G1bju9sxfaZ2Dhxh, name: rcs-w6-M_i1_d36_chi256, device: mps.cpu, run status: RUNNING, created on: 2026-09-26 16:31:19 UTC, estimated runtime: 18587300 ms, estimated cost: $0.00, num qubits: 61, shots: 1000000
+12:31:20 SUBMIT M_i1_d36_chi256 G1bju9sxfaZ2Dhxh chi 256 shots 1000000
+13:21:47 supervisor: launching controller.py (MemAvailable 23936972 kB)
+[BQ-PYTHON-SDK][WARNING] - Beta version 0.18.12b1 of BlueQubit Python SDK is being used.
+15:40:00 BAD P1_i0_d36_chi128 TERMINATED Terminated since the run was taking much longer than the estimated runtime of 5071 s. -> pending
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: 65spVJwN1kABGWSa, name: rcs-w6-P1_i0_d36_chi128, device: mps.cpu, run status: RUNNING, created on: 2026-09-26 19:40:01 UTC, estimated runtime: 5071200 ms, estimated cost: $0.00, num qubits: 61, shots: 1000000
+15:40:01 SUBMIT P1_i0_d36_chi128 65spVJwN1kABGWSa chi 128 shots 1000000
+15:44:49 supervisor: launching controller.py (MemAvailable 33670412 kB)
+[BQ-PYTHON-SDK][WARNING] - Beta version 0.18.12b1 of BlueQubit Python SDK is being used.
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: MoR7ocniChE76r2B, name: rcs-w6-P1_i0_d36_chi128, device: mps.cpu, run status: RUNNING, created on: 2026-09-26 19:44:51 UTC, estimated runtime: 3367200 ms, estimated cost: $0.00, num qubits: 61, shots: 200000
+15:44:51 SUBMIT P1_i0_d36_chi128 MoR7ocniChE76r2B chi 128 shots 200000
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: XtkW9KV80vuDviXD, name: rcs-w6-P2_i0_d36_chi256, device: mps.cpu, run status: RUNNING, created on: 2026-09-26 19:44:53 UTC, estimated runtime: 11771500 ms, estimated cost: $0.00, num qubits: 61, shots: 200000
+15:44:53 SUBMIT P2_i0_d36_chi256 XtkW9KV80vuDviXD chi 256 shots 200000
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: b1fgyZTXjqDMV7CD, name: rcs-w6-M_i1_d36_chi256, device: mps.cpu, run status: RUNNING, created on: 2026-09-26 19:44:54 UTC, estimated runtime: 11771500 ms, estimated cost: $0.00, num qubits: 61, shots: 200000
+15:44:54 SUBMIT M_i1_d36_chi256 b1fgyZTXjqDMV7CD chi 256 shots 200000
+16:48:26 DONE P1_i0_d36_chi128 hits 200000 / 200000 rt_s 3772.318 cost 0.0
+16:48:26 DONE M_i1_d36_chi256 hits 200000 / 200000 rt_s 3800.187 cost 0.0
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: qtLl3lJPF9DxdG64, name: rcs-w6-M_i2_d36_chi256, device: mps.cpu, run status: RUNNING, created on: 2026-09-26 20:48:27 UTC, estimated runtime: 11771500 ms, estimated cost: $0.00, num qubits: 61, shots: 200000
+16:48:27 SUBMIT M_i2_d36_chi256 qtLl3lJPF9DxdG64 chi 256 shots 200000
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: 6i58BaXnYErprfx1, name: rcs-w6-M_i1_d36_chi128, device: mps.cpu, run status: RUNNING, created on: 2026-09-26 20:48:28 UTC, estimated runtime: 3367200 ms, estimated cost: $0.00, num qubits: 61, shots: 200000
+16:48:28 SUBMIT M_i1_d36_chi128 6i58BaXnYErprfx1 chi 128 shots 200000
+17:02:14 supervisor: launching controller.py (MemAvailable 25579840 kB)
+[BQ-PYTHON-SDK][WARNING] - Beta version 0.18.12b1 of BlueQubit Python SDK is being used.
+17:36:21 DONE P2_i0_d36_chi256 hits 1 / 200000 rt_s 6679.85 cost 0.0
+17:36:21 chi_top resolved 256
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: cl5CkkAovhM5dybr, name: rcs-w6-F_full_d36_logical, device: mps.cpu, run status: RUNNING, created on: 2026-09-26 21:36:23 UTC, estimated runtime: 11403700 ms, estimated cost: $0.00, num qubits: 61, shots: 1000
+17:36:23 SUBMIT F_full_d36_logical cl5CkkAovhM5dybr chi 256 shots 1000
+17:44:48 supervisor: launching controller.py (MemAvailable 23435080 kB)
+[BQ-PYTHON-SDK][WARNING] - Beta version 0.18.12b1 of BlueQubit Python SDK is being used.
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: cfJBd7Y3YpoUfyk2, name: rcs-w6-P1_i0_d36_chi128, device: mps.cpu, run status: RUNNING, created on: 2026-09-26 21:44:51 UTC, estimated runtime: 3367200 ms, estimated cost: $0.00, num qubits: 61, shots: 200000
+17:44:51 SUBMIT P1_i0_d36_chi128 cfJBd7Y3YpoUfyk2 chi 128 shots 200000
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: VG8WGnTSEaxwprBl, name: rcs-w6-M_i1_d36_chi256, device: mps.cpu, run status: RUNNING, created on: 2026-09-26 21:44:53 UTC, estimated runtime: 11771500 ms, estimated cost: $0.00, num qubits: 61, shots: 200000
+17:44:53 SUBMIT M_i1_d36_chi256 VG8WGnTSEaxwprBl chi 256 shots 200000
+17:56:59 DONE F_full_d36_logical hits 0 / 1000 rt_s 1187.893 cost 0.0
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: w4QESBS2DOgLQSth, name: rcs-w6-M_i2_d36_chi256, device: mps.cpu, run status: RUNNING, created on: 2026-09-26 21:57:00 UTC, estimated runtime: 11771500 ms, estimated cost: $0.00, num qubits: 61, shots: 200000
+17:57:01 SUBMIT M_i2_d36_chi256 w4QESBS2DOgLQSth chi 256 shots 200000
+18:49:27 COLLAPSED M_i1_d36_chi256 build 6.52664589881897 -> notrun
+18:49:27 DONE M_i1_d36_chi256 hits 200000 / 200000 rt_s 3853.207 cost 0.0
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: vWYMn4fRbaDXiztY, name: rcs-w6-M_i1_d36_chi128, device: mps.cpu, run status: RUNNING, created on: 2026-09-26 22:49:28 UTC, estimated runtime: 3367200 ms, estimated cost: $0.00, num qubits: 61, shots: 200000
+18:49:28 SUBMIT M_i1_d36_chi128 vWYMn4fRbaDXiztY chi 128 shots 200000
+19:14:41 DONE P1_i0_d36_chi128 hits 1 / 200000 rt_s 5339.518 cost 0.0
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: BxZzQQyMygDKpgZO, name: rcs-w6-M_i2_d36_chi128, device: mps.cpu, run status: RUNNING, created on: 2026-09-26 23:14:43 UTC, estimated runtime: 3367200 ms, estimated cost: $0.00, num qubits: 61, shots: 200000
+19:14:43 SUBMIT M_i2_d36_chi128 BxZzQQyMygDKpgZO chi 128 shots 200000
+19:48:01 DONE M_i2_d36_chi256 hits 3 / 200000 rt_s 6645.56 cost 0.0
+19:48:01 NOTRUN M_i0_d36_chi512 predicted 26719s (alpha 2.00) > min(cap 14400, remaining 7039)
+19:48:02 NOTRUN M_i1_d36_chi512 predicted 26719s (alpha 2.00) > min(cap 14400, remaining 7039)
+19:48:02 NOTRUN M_i2_d36_chi512 predicted 26719s (alpha 2.00) > min(cap 14400, remaining 7039)
+19:48:02 NOTRUN M_i0_d36_chi1024 predicted 106878s (alpha 2.00) > min(cap 14400, remaining 7039)
+19:48:02 NOTRUN M_i1_d36_chi1024 predicted 106878s (alpha 2.00) > min(cap 14400, remaining 7039)
+19:48:02 NOTRUN M_i2_d36_chi1024 predicted 106878s (alpha 2.00) > min(cap 14400, remaining 7039)
+19:48:02 NOTRUN M_i0_d36_chi2048 predicted 427510s (alpha 2.00) > min(cap 14400, remaining 7039)
+19:48:02 NOTRUN M_i1_d36_chi2048 predicted 427510s (alpha 2.00) > min(cap 14400, remaining 7039)
+19:48:02 NOTRUN M_i2_d36_chi2048 predicted 427510s (alpha 2.00) > min(cap 14400, remaining 7039)
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: Dfc12Alr7xxsNtwt, name: rcs-w6-S256_i0_d28, device: mps.cpu, run status: RUNNING, created on: 2026-09-26 23:48:03 UTC, estimated runtime: 9623200 ms, estimated cost: $0.00, num qubits: 61, shots: 200000
+19:48:04 SUBMIT S256_i0_d28 Dfc12Alr7xxsNtwt chi 256 shots 200000
+19:54:06 COLLAPSED M_i1_d36_chi128 build 1.8832077980041504 -> pending
+19:54:06 DONE M_i1_d36_chi128 hits 200000 / 200000 rt_s 3856.656 cost 0.0
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: kFhOu8yzF378s7qn, name: rcs-w6-M_i1_d36_chi128, device: mps.cpu, run status: RUNNING, created on: 2026-09-26 23:54:07 UTC, estimated runtime: 3367200 ms, estimated cost: $0.00, num qubits: 61, shots: 200000
+19:54:08 SUBMIT M_i1_d36_chi128 kFhOu8yzF378s7qn chi 128 shots 200000
+20:45:42 DONE M_i2_d36_chi128 hits 1 / 200000 rt_s 5396.315 cost 0.0
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: VJ5I6Xsv3Bs8NUXV, name: rcs-w6-S256_i1_d28, device: mps.cpu, run status: RUNNING, created on: 2026-09-27 00:45:43 UTC, estimated runtime: 9623200 ms, estimated cost: $0.00, num qubits: 61, shots: 200000
+20:45:44 SUBMIT S256_i1_d28 VJ5I6Xsv3Bs8NUXV chi 256 shots 200000
+20:58:50 COLLAPSED M_i1_d36_chi128 build 1.9701967239379883 -> notrun
+20:58:50 DONE M_i1_d36_chi128 hits 200000 / 200000 rt_s 3841.081 cost 0.0
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: 26jbQ4nw9LqvqaJU, name: rcs-w6-S256_i2_d28, device: mps.cpu, run status: RUNNING, created on: 2026-09-27 00:58:52 UTC, estimated runtime: 9623200 ms, estimated cost: $0.00, num qubits: 61, shots: 200000
+20:58:52 SUBMIT S256_i2_d28 26jbQ4nw9LqvqaJU chi 256 shots 200000
+21:34:10 DONE S256_i0_d28 hits 247 / 200000 rt_s 6364.166 cost 0.0
+[BQ-PYTHON-SDK][INFO] - Canceling jobs: VJ5I6Xsv3Bs8NUXV
+21:46:16 CANCEL deadline S256_i1_d28
+[BQ-PYTHON-SDK][INFO] - Canceling jobs: 26jbQ4nw9LqvqaJU
+21:46:18 CANCEL deadline S256_i2_d28
+21:47:19 BAD S256_i1_d28 CANCELED Canceled by user -> notrun
+21:47:19 BAD S256_i2_d28 CANCELED Canceled by user -> notrun
+21:47:19 deadline: remaining cells NOT RUN

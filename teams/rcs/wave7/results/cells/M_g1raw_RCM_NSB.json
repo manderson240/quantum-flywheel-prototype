@@ -1,0 +1,11 @@
+{
+ "max_abs_amp_err": 0.005006901993079689,
+ "max_bond": 64,
+ "n_cz": 83,
+ "kind": "fwd16",
+ "variant": "RCM_NSB",
+ "mutate": "g1raw",
+ "wall_s": 0.32363462448120117,
+ "peak_rss_mb": 55.3515625,
+ "threads": "8"
+}

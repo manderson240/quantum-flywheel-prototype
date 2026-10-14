@@ -1,0 +1,83 @@
+grid 25 / 561
+grid 50 / 561
+grid 75 / 561
+grid 100 / 561
+grid 125 / 561
+grid 150 / 561
+grid 175 / 561
+grid 200 / 561
+grid 225 / 561
+grid 250 / 561
+grid 275 / 561
+grid 300 / 561
+grid 325 / 561
+grid 350 / 561
+grid 375 / 561
+grid 400 / 561
+grid 425 / 561
+grid 450 / 561
+grid 475 / 561
+grid 500 / 561
+grid 525 / 561
+grid 550 / 561
+PHASE_DONE grid
+random 25 / 40
+random 25 / 40
+random 25 / 40
+random 25 / 40
+L8 0 draws 160 qualifying 72 Q_k 69
+random 25 / 40
+random 25 / 40
+random 25 / 40
+random 25 / 40
+random 25 / 40
+L8 1 draws 200 qualifying 80 Q_k 69
+random 25 / 40
+random 25 / 40
+random 25 / 40
+random 25 / 40
+random 25 / 40
+L8 2 draws 200 qualifying 85 Q_k 69
+random 25 / 40
+random 25 / 40
+random 25 / 40
+random 25 / 40
+L16 0 draws 160 qualifying 122 Q_k 115
+random 25 / 40
+random 25 / 40
+random 25 / 40
+random 25 / 40
+L16 1 draws 160 qualifying 126 Q_k 115
+random 25 / 40
+random 25 / 40
+random 25 / 40
+random 25 / 40
+L16 2 draws 160 qualifying 128 Q_k 115
+random 25 / 40
+random 25 / 40
+random 25 / 40
+random 25 / 40
+random 25 / 40
+L32 0 draws 200 qualifying 176 Q_k 155
+random 25 / 40
+random 25 / 40
+random 25 / 40
+random 25 / 40
+random 25 / 40
+L32 1 draws 200 qualifying 165 Q_k 155
+random 25 / 40
+random 25 / 40
+random 25 / 40
+random 25 / 40
+random 25 / 40
+L32 2 draws 200 qualifying 176 Q_k 155
+PHASE_DONE random
+{"level": "L8", "n_eval": 44, "final_step": 0.03125, "best": -0.7750678214322906, "x": [4.0, 3.584962500721156, 4.0, 3.584962500721156, -2.5228787452803374]}
+{"level": "L32", "n_eval": 44, "final_step": 0.03125, "best": -1.247368052203192, "x": [5.807354922057604, 5.807354922057604, 5.807354922057604, 5.807354922057604, -3.0]}
+{"level": "L16", "n_eval": 57, "final_step": 0.03125, "best": -0.9547036383891542, "x": [4.0625, 4.0, 4.0, 4.0, -5.25]}
+PHASE_DONE hillclimb
+PHASE_DONE heldout
+{"scored_levels": 3, "dev_passes": 0, "both_passes": 0, "instrument_fail": true, "verdict": "INCONCLUSIVE"}
+L8 scored True B* {'kind': 'const', 'chi': 12, 'eps': 0.003} -0.768 S* -0.807 delta_dev 0.039 ho {'ho_4.7_0.3': -0.067, 'ho_2.4_0.9': 0.002}
+L16 scored True B* {'kind': 'const', 'chi': 16, 'eps': 1e-05} -0.955 S* -1.015 delta_dev 0.061 ho {'ho_4.7_0.3': -0.051, 'ho_2.4_0.9': -0.051}
+L32 scored True B* {'kind': 'const', 'chi': 56, 'eps': 0.001} -1.247 S* -1.283 delta_dev 0.036 ho {'ho_4.7_0.3': 0.027, 'ho_2.4_0.9': -0.322}

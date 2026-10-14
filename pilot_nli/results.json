@@ -1,0 +1,95 @@
+{
+ "prereg_sha16": "6d6f55e2f01e3389",
+ "control": {
+  "supported": 0.9927882552146912,
+  "unsupported": 0.0014973285142332315
+ },
+ "items": [
+  {
+   "premise": "p1",
+   "supported": "Wherever |exact| > 0.02, Pauli-path is never above the exact value by more than 0.005.",
+   "p_supported": 0.7879950404167175,
+   "unsupported": "Pauli-path is never above the exact value.",
+   "p_unsupported": 0.5373508930206299
+  },
+  {
+   "premise": "p2",
+   "supported": "At 27 and 33 qubits the exact values come from BlueQubit's own statevector.",
+   "p_supported": 0.7201164364814758,
+   "unsupported": "All exact values come from an independent local oracle, not from BlueQubit.",
+   "p_unsupported": 0.009058692492544651
+  },
+  {
+   "premise": "p3",
+   "supported": "The pre-registration does not say how missing points are counted.",
+   "p_supported": 0.719443678855896,
+   "unsupported": "The pre-registration specifies that missing points are excluded from the count.",
+   "p_unsupported": 0.9368550777435303
+  },
+  {
+   "premise": "p4",
+   "supported": "Bracket widths at 20 and 27 cycles range from about 0.24 to 0.42.",
+   "p_supported": 0.9685156941413879,
+   "unsupported": "Bracket widths at 20 and 27 cycles range from about 0.19 to 0.39.",
+   "p_unsupported": 0.9293821454048157
+  },
+  {
+   "premise": "p5",
+   "supported": "Only the 74qx27c bracket may be reported as consistent or inconsistent with QESEM.",
+   "p_supported": 0.9835841059684753,
+   "unsupported": "The 51qx30c bracket may be reported as consistent or inconsistent with QESEM.",
+   "p_unsupported": 0.2549743056297302
+  },
+  {
+   "premise": "p6",
+   "supported": "The MPS value is above the exact value at 45 of 45 points.",
+   "p_supported": 0.9967272281646729,
+   "unsupported": "The MPS value is above the exact value at 72 of 72 points.",
+   "p_unsupported": 0.005276069976389408
+  },
+  {
+   "premise": "p7",
+   "supported": "The claims file passes 126 checks.",
+   "p_supported": 0.8038906455039978,
+   "unsupported": "The claims file passes 83 checks.",
+   "p_unsupported": 0.13188260793685913
+  },
+  {
+   "premise": "p8",
+   "supported": "All 12 points are in the bracket.",
+   "p_supported": 0.6078141927719116,
+   "unsupported": "All 12 points are two-sided.",
+   "p_unsupported": 0.29881739616394043
+  },
+  {
+   "premise": "p9",
+   "supported": "The 74-qubit bracket contains the QESEM value 0.365.",
+   "p_supported": 0.9860883355140686,
+   "unsupported": "The 74-qubit bracket excludes the thermal reference value 0.410.",
+   "p_unsupported": 0.803727924823761
+  },
+  {
+   "premise": "p10",
+   "supported": "The PEPS-BP estimate 0.541 lies below the MPS chi=512 value.",
+   "p_supported": 0.21935124695301056,
+   "unsupported": "The MPS chi=512 value has fallen below the PEPS-BP estimate 0.541.",
+   "p_unsupported": 0.8809131383895874
+  }
+ ],
+ "pairwise": "8/10",
+ "auroc": 0.74,
+ "auroc_length_control": 0.525,
+ "verdict": "DROP",
+ "premises": {
+  "p1": "Stress test at theta_x=4.7, theta_z=0.3, 19 qubits. Rows with |exact| > 0.02:\ncycle 1 mag: exact=-0.0290, Pauli-path=-0.0280, MPS=-0.0382\ncycle 2 mag: exact=-0.2459, Pauli-path=-0.2448, MPS=-0.4119\ncycle 2 zzd2: exact=0.0602, Pauli-path=0.0599, MPS=0.1541\ncycle 2 zzd3: exact=0.0502, Pauli-path=0.0508, MPS=0.1389\ncycle 3 zzd2: exact=0.0396, Pauli-path=0.0431, MPS=0.1070\ncycle 4 mag: exact=0.0562, Pauli-path=0.0545, MPS=0.4703\ncycle 4 zzd2: exact=0.1022, Pauli-path=0.0982, MPS=0.2998\ncycle 4 zzd3: exact=0.0332, Pauli-path=0.0212, MPS=0.2423\ncycle 6 mag: exact=-0.0323, Pauli-path=-0.0217, MPS=-0.5448\ncycle 6 zzd2: exact=0.0534, Pauli-path=0.0432, MPS=0.3207\ncycle 6 zzd3: exact=0.0274, Pauli-path=0.0040, MPS=0.2924\ncycle 8 zzd2: exact=0.0582, Pauli-path=0.0306, MPS=0.3827\ncycle 8 zzd3: exact=0.0247, Pauli-path=0.0001, MPS=0.3407\ncycle 10 mag: exact=-0.0228, Pauli-path=-0.0069, MPS=-0.6323\ncycle 10 zzd2: exact=0.0503, Pauli-path=0.0130, MPS=0.4045\ncycle 10 zzd3: exact=0.0252, Pauli-path=0.0001, MPS=0.3868\ncycle 13 zzd2: exact=0.0399, Pauli-path=0.0029, MPS=0.1515\ncycle 16 zzd2: exact=0.0325, Pauli-path=0.0003, MPS=0.3922",
+  "p2": "Source of exact values: 19-qubit points are computed by a local Qiskit statevector. 27-qubit and 33-qubit points are computed by BlueQubit's statevector service (device=cpu). All approximate values are BlueQubit runs.",
+  "p3": "# Pre-registration \u2014 intermediate-size bracket check (frozen before any patch data, 2026-09-24)\nHypothesis (from the 19-qubit oracle, report \u00a75): at the tracker's Floquet parameters, truncated Pauli-path (delta=1e-4)\nis at or below the exact value and truncated MPS (chi=64) at or above it, for mag / zzd2 / zzd3.\nTest: patches of the tracker's own 51-qubit lattice, n in {27, 33} (BFS ball about the minimum-eccentricity qubit, the\ntracker's own edge layers), cycles {1, 2, 4, 8, 13, 16}; truth = BlueQubit statevector (device=cpu).\nCounting rule (as at 19q): a point is \"in bracket\" if pp_1e-4 - 0.005 <= exact <= mps_64 + 0.005; \"two-sided\" if\npp_1e-4 > 0.005. Report counts in / total, and two-sided in / two-sided total, per n, whichever way they fall.\nSupported if >= 95% of points are in bracket at each n; falsified otherwise. Also reported (descriptive, not tested):\nMPS excess over exact at chi 64 vs 256 (the tightening rate).\nNo re-running with other parameters to rescue the hypothesis.\n\nResult at 33 qubits: 15 points have an exact value and all of them are in the bracket; 3 points are missing because BlueQubit terminated the jobs.",
+  "p4": "Bracket width (MPS chi=64 minus Pauli-path) at 20 and 27 cycles:\nn=27 cycles=20 mag: width=0.291\nn=27 cycles=20 zzd2: width=0.299\nn=27 cycles=20 zzd3: width=0.243\nn=27 cycles=27 mag: width=0.376\nn=27 cycles=27 zzd2: width=0.367\nn=27 cycles=27 zzd3: width=0.322\nn=33 cycles=20 mag: width=0.416\nn=33 cycles=20 zzd2: width=0.412\nn=33 cycles=20 zzd3: width=0.371\nn=33 cycles=27 mag: width=0.388\nn=33 cycles=27 zzd2: width=0.360\nn=33 cycles=27 zzd3: width=0.319",
+  "p5": "# Pre-registration addendum \u2014 bracket at 27 cycles (frozen before any data, 2026-09-24)\nPurpose: the 74qx27c tracker candidate runs 27 cycles; our bracket was validated only to 16 cycles (PATCH_PREREG.md,\nhash ad33761e\u2026). Same hypothesis, counting rule and success threshold as PATCH_PREREG.md, applied to:\npatches n in {27, 33} (same BFS patches of the tracker's own 51q lattice and its edge layers), cycles {20, 27},\nobservables {mag, zzd2, zzd3}; truth = BlueQubit statevector (device=cpu); Pauli-path delta 1e-3, 1e-4; MPS chi 64, 256.\nSupported if >= 95% of points are in bracket at each n; falsified otherwise. Server-terminated jobs: at most 2 retries,\nthen reported as missing. No other parameters will be tried to rescue the hypothesis.\nOnly if supported at both n will the 74qx27c bracket (run 2) be reported as \"consistent with / inconsistent with\"\nQESEM; otherwise it is reported as raw values with no bracket interpretation.\n",
+  "p6": "Across all 45 patch points that have an exact value, the MPS chi=64 value is strictly above the exact value at 45 of them.",
+  "p7": "check_claims.py output: 126 lines begin with PASS and 0 begin with FAIL.",
+  "p8": "27-cycle addendum results (in bracket if Pauli-path - 0.005 <= exact <= MPS + 0.005; two-sided if Pauli-path > 0.005):\nn=27 cycles=20 mag: pau_0.0001=0.1253; exact=0.2898; mps_64=0.4163\nn=27 cycles=20 zzd2: pau_0.0001=0.0176; exact=0.2145; mps_64=0.3170\nn=27 cycles=20 zzd3: pau_0.0001=0.0000; exact=0.1406; mps_64=0.2428\nn=27 cycles=27 mag: pau_0.0001=0.1195; exact=0.3099; mps_64=0.4958\nn=27 cycles=27 zzd2: pau_0.0001=0.0164; exact=0.2289; mps_64=0.3834\nn=27 cycles=27 zzd3: pau_0.0001=0.0000; exact=0.1602; mps_64=0.3222\nn=33 cycles=20 mag: pau_0.0001=0.1227; exact=0.3434; mps_64=0.5390\nn=33 cycles=20 zzd2: pau_0.0001=0.0001; exact=0.2411; mps_64=0.4126\nn=33 cycles=20 zzd3: pau_0.0001=0.0000; exact=0.1844; mps_64=0.3709\nn=33 cycles=27 mag: pau_0.0001=0.1170; exact=0.3180; mps_64=0.5055\nn=33 cycles=27 zzd2: pau_0.0001=0.0000; exact=0.2145; mps_64=0.3601\nn=33 cycles=27 zzd3: pau_0.0001=0.0000; exact=0.1576; mps_64=0.3195",
+  "p9": "74-qubit 27-cycle instance: pau_0.0001=0.0858; mps_64=0.6098; mps_256=0.5633; mps_512=0.5436. The bracket runs from the Pauli-path value to the MPS chi=64 value. QESEM hardware value: 0.365. Thermal reference value: 0.410.",
+  "p10": "51-qubit 30-cycle instance: pau_0.0001=0.1040; mps_64=0.6355; mps_256=0.5796; mps_512=0.5583. PEPS-BP classical estimate: 0.541."
+ }
+}

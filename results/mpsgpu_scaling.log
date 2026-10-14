@@ -1,0 +1,8 @@
+[BQ-PYTHON-SDK][WARNING] - Beta version 0.18.12b1 of BlueQubit Python SDK is being used.
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: 9MmjGkhUPfwM0ZFE, device: mps.gpu, run status: RUNNING, created on: 2026-09-28 14:45:22 UTC, estimated runtime: 25665800 ms, estimated cost: $28.52, num qubits: 74, shots: 1024
+A_74qx27c_chi512 submitted 9MmjGkhUPfwM0ZFE
+A_74qx27c_chi512 COMPLETED 0.5435972771720102 cost 2.82 h 0.751 | spent 5.43
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: Temr3BqLJuJyqQKn, device: mps.gpu, run status: RUNNING, created on: 2026-09-28 15:30:27 UTC, estimated runtime: 49777200 ms, estimated cost: $55.31, num qubits: 51, shots: 1024
+B_51qx30c_chi1024 submitted Temr3BqLJuJyqQKn
+B_51qx30c_chi1024 COMPLETED 0.538366643469482 cost 6.95 h 1.752 | spent 12.38
+SCALING_DONE {"A_74qx27c_chi512": {"status": "COMPLETED", "cost": 2.82, "wall_h": 0.751, "abs_diff_vs_cpu": 1.407651772922236e-12}, "B_51qx30c_chi1024": {"status": "COMPLETED", "cost": 6.95, "wall_h": 1.752, "abs_diff_vs_cpu": 3.8054215334426544e-10}}

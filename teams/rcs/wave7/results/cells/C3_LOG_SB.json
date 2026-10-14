@@ -1,0 +1,10 @@
+{
+ "max_abs_amp_err": 3.5154248549844264e-16,
+ "max_bond": 256,
+ "n_cz": 83,
+ "kind": "fwd16",
+ "variant": "LOG_SB",
+ "wall_s": 7.442721128463745,
+ "peak_rss_mb": 47.2578125,
+ "threads": "8"
+}

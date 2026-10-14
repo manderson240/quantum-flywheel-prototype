@@ -1,0 +1,24 @@
+{
+ "cpu": {
+  "job_id": "PiPrZ3LknnL5r6ua",
+  "status": "COMPLETED",
+  "cost": 0.0,
+  "err": "None",
+  "counts": {
+   "0000": 48,
+   "1111": 52
+  },
+  "run_time_ms": 2
+ },
+ "mps.cpu": {
+  "job_id": "12ywjcV2cscgoz4m",
+  "status": "COMPLETED",
+  "cost": 0.0,
+  "err": "None",
+  "counts": {
+   "0000": 53,
+   "1111": 47
+  },
+  "run_time_ms": 185
+ }
+}

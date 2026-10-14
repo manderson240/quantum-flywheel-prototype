@@ -1,0 +1,15 @@
+27 20 mag lo=0.1253 exact=0.2898 hi=0.4163 mps256=0.3540 IN two-sided
+27 20 zzd2 lo=0.0176 exact=0.2145 hi=0.3170 mps256=0.2655 IN two-sided
+27 20 zzd3 lo=0.0000 exact=0.1406 hi=0.2428 mps256=0.1869 IN 
+27 27 mag lo=0.1195 exact=0.3099 hi=0.4958 mps256=0.4024 IN two-sided
+27 27 zzd2 lo=0.0164 exact=0.2289 hi=0.3834 mps256=0.3033 IN two-sided
+27 27 zzd3 lo=0.0000 exact=0.1602 hi=0.3222 mps256=0.2313 IN 
+n=27: in bracket 6/6; two-sided 4/4; supported=True
+33 20 mag lo=0.1227 exact=0.3434 hi=0.5390 mps256=0.4728 IN two-sided
+33 20 zzd2 lo=0.0001 exact=0.2411 hi=0.4126 mps256=0.3489 IN 
+33 20 zzd3 lo=0.0000 exact=0.1844 hi=0.3709 mps256=0.2959 IN 
+33 27 mag lo=0.1170 exact=0.3180 hi=0.5055 mps256=0.4513 IN two-sided
+33 27 zzd2 lo=0.0000 exact=0.2145 hi=0.3601 mps256=0.3172 IN 
+33 27 zzd3 lo=0.0000 exact=0.1576 hi=0.3195 mps256=0.2653 IN 
+n=33: in bracket 6/6; two-sided 2/2; supported=True
+cost total 0.0

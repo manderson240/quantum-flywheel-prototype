@@ -1,0 +1,5 @@
+{
+ "script": "posthoc_c_by_depth.py",
+ "status": "NOT RUN \u2014 memory floor (MemAvailable ~6 GiB), optional, no verdict weight",
+ "guard_exit": "MemAvailable 13.6 GiB < 20 at 16:23; wait loop saw 6-14 GiB; stopped 16:33 on orchestrator instruction; not to be run without new instruction"
+}

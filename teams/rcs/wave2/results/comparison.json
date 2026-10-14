@@ -1,0 +1,1988 @@
+{
+ "summary": {
+  "prereg_sha16": "9102a014cee43c2c",
+  "verdict": "REPRODUCED",
+  "tally": {
+   "EXACT": 32,
+   "NUMERICAL": 0,
+   "DISCREPANT": 0,
+   "MISSING": 0
+  },
+  "n_units": 32,
+  "max_rho": {
+   "fidelity": 3.304308113772818e-14,
+   "se": 1.3439295927909017e-14
+  },
+  "max_rho_patch_fidelity": 4.430580263731907e-14,
+  "max_rho_patch_ideal_xeb": 2.352329302038169e-14,
+  "max_abs_dF_over_released_se": 4.2718890968258653e-13
+ },
+ "units": [
+  {
+   "unit": "K3/p0/i0",
+   "tier": "EXACT",
+   "fields": {
+    "fidelity": {
+     "mine": 0.0016348946571526522,
+     "released": 0.001634894657152664,
+     "rho": 7.162163881088544e-15,
+     "tier": "EXACT"
+    },
+    "se": {
+     "mine": 0.00014996723400143106,
+     "released": 0.0001499672340014312,
+     "rho": 9.036992144523696e-16,
+     "tier": "EXACT"
+    },
+    "patch_fidelity[1]": {
+     "mine": 0.15890518609955573,
+     "released": 0.15890518609955584,
+     "rho": 6.986701012574817e-16,
+     "tier": "EXACT"
+    },
+    "patch_ideal_xeb[1]": {
+     "mine": 0.9968907415373278,
+     "released": 0.9968907415373294,
+     "rho": 1.5591600661054155e-15,
+     "tier": "EXACT"
+    },
+    "patch_fidelity[0]": {
+     "mine": 0.12240955267950344,
+     "released": 0.12240955267950294,
+     "rho": 4.081383765770241e-15,
+     "tier": "EXACT"
+    },
+    "patch_ideal_xeb[0]": {
+     "mine": 1.0023962395319406,
+     "released": 1.002396239531937,
+     "rho": 3.544220876626013e-15,
+     "tier": "EXACT"
+    },
+    "patch_fidelity[2]": {
+     "mine": 0.08404974349592004,
+     "released": 0.08404974349592093,
+     "rho": 1.0567294827535435e-14,
+     "tier": "EXACT"
+    },
+    "patch_ideal_xeb[2]": {
+     "mine": 1.0004231200032838,
+     "released": 1.0004231200032887,
+     "rho": 4.882915249234374e-15,
+     "tier": "EXACT"
+    }
+   },
+   "abs_dF_over_released_se": 7.807961212868472e-14,
+   "patch_sizes_match": true,
+   "shots_match": true
+  },
+  {
+   "unit": "K3/p0/i1",
+   "tier": "EXACT",
+   "fields": {
+    "fidelity": {
+     "mine": 0.0018601619908201012,
+     "released": 0.0018601619908200544,
+     "rho": 2.5179276903042953e-14,
+     "tier": "EXACT"
+    },
+    "se": {
+     "mine": 0.00015529750912772323,
+     "released": 0.00015529750912772114,
+     "rho": 1.3439295927909017e-14,
+     "tier": "EXACT"
+    },
+    "patch_fidelity[1]": {
+     "mine": 0.1521082975079016,
+     "released": 0.15210829750790072,
+     "rho": 5.839118800563736e-15,
+     "tier": "EXACT"
+    },
+    "patch_ideal_xeb[1]": {
+     "mine": 1.0004838966232539,
+     "released": 1.000483896623248,
+     "rho": 5.770367466718768e-15,
+     "tier": "EXACT"
+    },
+    "patch_fidelity[0]": {
+     "mine": 0.12161507385919246,
+     "released": 0.12161507385919014,
+     "rho": 1.9056770598917658e-14,
+     "tier": "EXACT"
+    },
+    "patch_ideal_xeb[0]": {
+     "mine": 1.0018271841400566,
+     "released": 1.0018271841400423,
+     "rho": 1.4184936224704712e-14,
+     "tier": "EXACT"
+    },
+    "patch_fidelity[2]": {
+     "mine": 0.10055657037841009,
+     "released": 0.10055657037841007,
+     "rho": 2.76019513306593e-16,
+     "tier": "EXACT"
+    },
+    "patch_ideal_xeb[2]": {
+     "mine": 1.0009926090271062,
+     "released": 1.0009926090271066,
+     "rho": 4.436488400066067e-16,
+     "tier": "EXACT"
+    }
+   },
+   "abs_dF_over_released_se": 3.0159874497956857e-13,
+   "patch_sizes_match": true,
+   "shots_match": true
+  },
+  {
+   "unit": "K3/p0/i2",
+   "tier": "EXACT",
+   "fields": {
+    "fidelity": {
+     "mine": 0.002113078366301064,
+     "released": 0.002113078366301134,
+     "rho": 3.304308113772818e-14,
+     "tier": "EXACT"
+    },
+    "se": {
+     "mine": 0.00017555602378212752,
+     "released": 0.00017555602378212847,
+     "rho": 5.403841352103985e-15,
+     "tier": "EXACT"
+    },
+    "patch_fidelity[1]": {
+     "mine": 0.16598530505226755,
+     "released": 0.1659853050522669,
+     "rho": 3.845992504929559e-15,
+     "tier": "EXACT"
+    },
+    "patch_ideal_xeb[1]": {
+     "mine": 0.9981794589800628,
+     "released": 0.9981794589800583,
+     "rho": 4.448991670333848e-15,
+     "tier": "EXACT"
+    },
+    "patch_fidelity[0]": {
+     "mine": 0.13238779630621608,
+     "released": 0.13238779630621508,
+     "rho": 7.547528926695582e-15,
+     "tier": "EXACT"
+    },
+    "patch_ideal_xeb[0]": {
+     "mine": 1.001383787036163,
+     "released": 1.001383787036155,
+     "rho": 7.982559614790845e-15,
+     "tier": "EXACT"
+    },
+    "patch_fidelity[2]": {
+     "mine": 0.09616078715184403,
+     "released": 0.0961607871518483,
+     "rho": 4.430580263731907e-14,
+     "tier": "EXACT"
+    },
+    "patch_ideal_xeb[2]": {
+     "mine": 1.0005711403441446,
+     "released": 1.0005711403441682,
+     "rho": 2.352329302038169e-14,
+     "tier": "EXACT"
+    }
+   },
+   "abs_dF_over_released_se": 3.9772272351485325e-13,
+   "patch_sizes_match": true,
+   "shots_match": true
+  },
+  {
+   "unit": "K3/p1/i0",
+   "tier": "EXACT",
+   "fields": {
+    "fidelity": {
+     "mine": 0.001580733786415955,
+     "released": 0.0015807337864159406,
+     "rho": 9.19086391152957e-15,
+     "tier": "EXACT"
+    },
+    "se": {
+     "mine": 0.000147364381980355,
+     "released": 0.0001473643819803549,
+     "rho": 5.517965864183716e-16,
+     "tier": "EXACT"
+    },
+    "patch_fidelity[2]": {
+     "mine": 0.07896959631697331,
+     "released": 0.07896959631697222,
+     "rho": 1.3883130824384302e-14,
+     "tier": "EXACT"
+    },
+    "patch_ideal_xeb[2]": {
+     "mine": 1.0017673449440734,
+     "released": 1.0017673449440676,
+     "rho": 5.7629745640921755e-15,
+     "tier": "EXACT"
+    },
+    "patch_fidelity[1]": {
+     "mine": 0.15580562404433784,
+     "released": 0.155805624044338,
+     "rho": 1.0688539307565857e-15,
+     "tier": "EXACT"
+    },
+    "patch_ideal_xeb[1]": {
+     "mine": 1.0005233420710358,
+     "released": 1.000523342071037,
+     "rho": 1.3315707625495828e-15,
+     "tier": "EXACT"
+    },
+    "patch_fidelity[0]": {
+     "mine": 0.12847413071828798,
+     "released": 0.12847413071828845,
+     "rho": 3.672683230683451e-15,
+     "tier": "EXACT"
+    },
+    "patch_ideal_xeb[0]": {
+     "mine": 0.9980661658203891,
+     "released": 0.9980661658203922,
+     "rho": 3.1146476810935733e-15,
+     "tier": "EXACT"
+    }
+   },
+   "abs_dF_over_released_se": 9.858765677341573e-14,
+   "patch_sizes_match": true,
+   "shots_match": true
+  },
+  {
+   "unit": "K3/p1/i1",
+   "tier": "EXACT",
+   "fields": {
+    "fidelity": {
+     "mine": 0.0014446718905140677,
+     "released": 0.0014446718905140499,
+     "rho": 1.2307926627156416e-14,
+     "tier": "EXACT"
+    },
+    "se": {
+     "mine": 0.00014014630988730124,
+     "released": 0.00014014630988730208,
+     "rho": 5.995567663193943e-15,
+     "tier": "EXACT"
+    },
+    "patch_fidelity[2]": {
+     "mine": 0.07403489078144385,
+     "released": 0.07403489078144161,
+     "rho": 3.0179335897908926e-14,
+     "tier": "EXACT"
+    },
+    "patch_ideal_xeb[2]": {
+     "mine": 0.9999682355573758,
+     "released": 0.9999682355573647,
+     "rho": 1.1102582913609629e-14,
+     "tier": "EXACT"
+    },
+    "patch_fidelity[1]": {
+     "mine": 0.15465435247221143,
+     "released": 0.1546543524722138,
+     "rho": 1.5254817530934548e-14,
+     "tier": "EXACT"
+    },
+    "patch_ideal_xeb[1]": {
+     "mine": 0.9997996461845311,
+     "released": 0.9997996461845482,
+     "rho": 1.7100860801936588e-14,
+     "tier": "EXACT"
+    },
+    "patch_fidelity[0]": {
+     "mine": 0.12617422203864917,
+     "released": 0.1261742220386495,
+     "rho": 2.6397381494099673e-15,
+     "tier": "EXACT"
+    },
+    "patch_ideal_xeb[0]": {
+     "mine": 1.00032707941312,
+     "released": 1.0003270794131223,
+     "rho": 2.219720024527395e-15,
+     "tier": "EXACT"
+    }
+   },
+   "abs_dF_over_released_se": 1.2687394796952345e-13,
+   "patch_sizes_match": true,
+   "shots_match": true
+  },
+  {
+   "unit": "K3/p1/i2",
+   "tier": "EXACT",
+   "fields": {
+    "fidelity": {
+     "mine": 0.0015791554734413398,
+     "released": 0.0015791554734413478,
+     "rho": 5.080624556180359e-15,
+     "tier": "EXACT"
+    },
+    "se": {
+     "mine": 0.00014585281778170013,
+     "released": 0.0001458528177817007,
+     "rho": 3.902606402893265e-15,
+     "tier": "EXACT"
+    },
+    "patch_fidelity[2]": {
+     "mine": 0.08180645782766896,
+     "released": 0.08180645782766864,
+     "rho": 3.901759446083438e-15,
+     "tier": "EXACT"
+    },
+    "patch_ideal_xeb[2]": {
+     "mine": 1.003002400206546,
+     "released": 1.0030024002065447,
+     "rho": 1.3282796025970015e-15,
+     "tier": "EXACT"
+    },
+    "patch_fidelity[1]": {
+     "mine": 0.15255438312978728,
+     "released": 0.15255438312978675,
+     "rho": 3.456838970325077e-15,
+     "tier": "EXACT"
+    },
+    "patch_ideal_xeb[1]": {
+     "mine": 1.0006458685264557,
+     "released": 1.000645868526452,
+     "rho": 3.5504205738961534e-15,
+     "tier": "EXACT"
+    },
+    "patch_fidelity[0]": {
+     "mine": 0.12653556582471767,
+     "released": 0.12653556582471925,
+     "rho": 1.250294966304078e-14,
+     "tier": "EXACT"
+    },
+    "patch_ideal_xeb[0]": {
+     "mine": 0.9981299709809233,
+     "released": 0.9981299709809328,
+     "rho": 9.565806347236456e-15,
+     "tier": "EXACT"
+    }
+   },
+   "abs_dF_over_released_se": 5.500816644078126e-14,
+   "patch_sizes_match": true,
+   "shots_match": true
+  },
+  {
+   "unit": "K3/p2/i0",
+   "tier": "EXACT",
+   "fields": {
+    "fidelity": {
+     "mine": 0.001863200489535025,
+     "released": 0.0018632004895350412,
+     "rho": 8.72854675523458e-15,
+     "tier": "EXACT"
+    },
+    "se": {
+     "mine": 0.0001555694850596643,
+     "released": 0.00015556948505966495,
+     "rho": 4.1815482209882666e-15,
+     "tier": "EXACT"
+    },
+    "patch_fidelity[1]": {
+     "mine": 0.13952473522485045,
+     "released": 0.13952473522484923,
+     "rho": 8.75289478327689e-15,
+     "tier": "EXACT"
+    },
+    "patch_ideal_xeb[1]": {
+     "mine": 1.0256814761844821,
+     "released": 1.0256814761844724,
+     "rho": 9.525337878817474e-15,
+     "tier": "EXACT"
+    },
+    "patch_fidelity[2]": {
+     "mine": 0.10217764372076515,
+     "released": 0.10217764372076518,
+     "rho": 2.7164039612696855e-16,
+     "tier": "EXACT"
+    },
+    "patch_ideal_xeb[2]": {
+     "mine": 0.9978609919180217,
+     "released": 0.9978609919180228,
+     "rho": 1.1126028912014677e-15,
+     "tier": "EXACT"
+    },
+    "patch_fidelity[0]": {
+     "mine": 0.1306930517967564,
+     "released": 0.13069305179675864,
+     "rho": 1.7202151101055707e-14,
+     "tier": "EXACT"
+    },
+    "patch_ideal_xeb[0]": {
+     "mine": 0.9979264683467666,
+     "released": 0.997926468346781,
+     "rho": 1.446288857738923e-14,
+     "tier": "EXACT"
+    }
+   },
+   "abs_dF_over_released_se": 1.0453870552470667e-13,
+   "patch_sizes_match": true,
+   "shots_match": true
+  },
+  {
+   "unit": "K3/p2/i1",
+   "tier": "EXACT",
+   "fields": {
+    "fidelity": {
+     "mine": 0.0019827019218220925,
+     "released": 0.0019827019218220383,
+     "rho": 2.7341532293698442e-14,
+     "tier": "EXACT"
+    },
+    "se": {
+     "mine": 0.00016516265173375562,
+     "released": 0.00016516265173375407,
+     "rho": 9.354343004145996e-15,
+     "tier": "EXACT"
+    },
+    "patch_fidelity[1]": {
+     "mine": 0.1467523177587537,
+     "released": 0.14675231775875403,
+     "rho": 2.269585329037701e-15,
+     "tier": "EXACT"
+    },
+    "patch_ideal_xeb[1]": {
+     "mine": 1.0217767298696856,
+     "released": 1.0217767298696887,
+     "rho": 3.042371565211603e-15,
+     "tier": "EXACT"
+    },
+    "patch_fidelity[2]": {
+     "mine": 0.09610226047580443,
+     "released": 0.09610226047580248,
+     "rho": 2.0361311702907673e-14,
+     "tier": "EXACT"
+    },
+    "patch_ideal_xeb[2]": {
+     "mine": 1.0037763097823338,
+     "released": 1.0037763097823222,
+     "rho": 1.1502881014003558e-14,
+     "tier": "EXACT"
+    },
+    "patch_fidelity[0]": {
+     "mine": 0.14058495797054255,
+     "released": 0.14058495797054127,
+     "rho": 9.081743144856697e-15,
+     "tier": "EXACT"
+    },
+    "patch_ideal_xeb[0]": {
+     "mine": 0.9977307768827368,
+     "released": 0.9977307768827284,
+     "rho": 8.456885547335323e-15,
+     "tier": "EXACT"
+    }
+   },
+   "abs_dF_over_released_se": 3.2822256154898226e-13,
+   "patch_sizes_match": true,
+   "shots_match": true
+  },
+  {
+   "unit": "K3/p2/i2",
+   "tier": "EXACT",
+   "fields": {
+    "fidelity": {
+     "mine": 0.0021040304806149795,
+     "released": 0.002104030480615011,
+     "rho": 1.5046694298517407e-14,
+     "tier": "EXACT"
+    },
+    "se": {
+     "mine": 0.00016702947121339297,
+     "released": 0.00016702947121339422,
+     "rho": 7.464745528442681e-15,
+     "tier": "EXACT"
+    },
+    "patch_fidelity[1]": {
+     "mine": 0.14188230505425983,
+     "released": 0.14188230505426197,
+     "rho": 1.5063043425930217e-14,
+     "tier": "EXACT"
+    },
+    "patch_ideal_xeb[1]": {
+     "mine": 1.011584887743628,
+     "released": 1.011584887743643,
+     "rho": 1.4926115759381077e-14,
+     "tier": "EXACT"
+    },
+    "patch_fidelity[2]": {
+     "mine": 0.1138817878617379,
+     "released": 0.11388178786173822,
+     "rho": 2.8028109285327882e-15,
+     "tier": "EXACT"
+    },
+    "patch_ideal_xeb[2]": {
+     "mine": 1.0003755918444521,
+     "released": 1.000375591844454,
+     "rho": 1.775689904753746e-15,
+     "tier": "EXACT"
+    },
+    "patch_fidelity[0]": {
+     "mine": 0.13021754847803524,
+     "released": 0.13021754847803488,
+     "rho": 2.7709205650115544e-15,
+     "tier": "EXACT"
+    },
+    "patch_ideal_xeb[0]": {
+     "mine": 1.0036550640600241,
+     "released": 1.0036550640600224,
+     "rho": 1.7698877861627743e-15,
+     "tier": "EXACT"
+    }
+   },
+   "abs_dF_over_released_se": 1.89539625591762e-13,
+   "patch_sizes_match": true,
+   "shots_match": true
+  },
+  {
+   "unit": "K3/p3/i0",
+   "tier": "EXACT",
+   "fields": {
+    "fidelity": {
+     "mine": 0.0020824853960973635,
+     "released": 0.002082485396097333,
+     "rho": 1.4577610429578848e-14,
+     "tier": "EXACT"
+    },
+    "se": {
+     "mine": 0.00017301829504908002,
+     "released": 0.00017301829504907978,
+     "rho": 1.4099404270515956e-15,
+     "tier": "EXACT"
+    },
+    "patch_fidelity[1]": {
+     "mine": 0.1481685751481918,
+     "released": 0.14816857514819146,
+     "rho": 2.2478916805026208e-15,
+     "tier": "EXACT"
+    },
+    "patch_ideal_xeb[1]": {
+     "mine": 1.0010665025731345,
+     "released": 1.0010665025731322,
+     "rho": 2.2180804607315287e-15,
+     "tier": "EXACT"
+    },
+    "patch_fidelity[2]": {
+     "mine": 0.09546430842146142,
+     "released": 0.09546430842145937,
+     "rho": 2.151497904838791e-14,
+     "tier": "EXACT"
+    },
+    "patch_ideal_xeb[2]": {
+     "mine": 0.9984601502613908,
+     "released": 0.9984601502613797,
+     "rho": 1.1119352378104617e-14,
+     "tier": "EXACT"
+    },
+    "patch_fidelity[0]": {
+     "mine": 0.1472261072572345,
+     "released": 0.14722610725723587,
+     "rho": 9.237649697479008e-15,
+     "tier": "EXACT"
+    },
+    "patch_ideal_xeb[0]": {
+     "mine": 1.048333868767033,
+     "released": 1.0483338687670427,
+     "rho": 9.31951442930289e-15,
+     "tier": "EXACT"
+    }
+   },
+   "abs_dF_over_released_se": 1.7545925314419857e-13,
+   "patch_sizes_match": true,
+   "shots_match": true
+  },
+  {
+   "unit": "K3/p3/i1",
+   "tier": "EXACT",
+   "fields": {
+    "fidelity": {
+     "mine": 0.0019394722748754152,
+     "released": 0.0019394722748753636,
+     "rho": 2.660931227471478e-14,
+     "tier": "EXACT"
+    },
+    "se": {
+     "mine": 0.00015755220688529135,
+     "released": 0.00015755220688528986,
+     "rho": 9.462120630610842e-15,
+     "tier": "EXACT"
+    },
+    "patch_fidelity[1]": {
+     "mine": 0.13041619639451166,
+     "released": 0.13041619639451177,
+     "rho": 8.512922898523342e-16,
+     "tier": "EXACT"
+    },
+    "patch_ideal_xeb[1]": {
+     "mine": 1.0020701179491347,
+     "released": 1.0020701179491365,
+     "rho": 1.7726871678758269e-15,
+     "tier": "EXACT"
+    },
+    "patch_fidelity[2]": {
+     "mine": 0.10539986436762533,
+     "released": 0.1053998643676227,
+     "rho": 2.488524924973859e-14,
+     "tier": "EXACT"
+    },
+    "patch_ideal_xeb[2]": {
+     "mine": 0.9998072726449971,
+     "released": 0.9998072726449803,
+     "rho": 1.6878642950514555e-14,
+     "tier": "EXACT"
+    },
+    "patch_fidelity[0]": {
+     "mine": 0.14109512019517534,
+     "released": 0.14109512019517498,
+     "rho": 2.5572995189632e-15,
+     "tier": "EXACT"
+    },
+    "patch_ideal_xeb[0]": {
+     "mine": 1.0402665844035033,
+     "released": 1.0402665844035006,
+     "rho": 2.5613965680040056e-15,
+     "tier": "EXACT"
+    }
+   },
+   "abs_dF_over_released_se": 3.275614123760553e-13,
+   "patch_sizes_match": true,
+   "shots_match": true
+  },
+  {
+   "unit": "K3/p3/i2",
+   "tier": "EXACT",
+   "fields": {
+    "fidelity": {
+     "mine": 0.002081212835334243,
+     "released": 0.0020812128353342404,
+     "rho": 1.250273479861236e-15,
+     "tier": "EXACT"
+    },
+    "se": {
+     "mine": 0.00017094320855485511,
+     "released": 0.0001709432085548556,
+     "rho": 2.854111501375692e-15,
+     "tier": "EXACT"
+    },
+    "patch_fidelity[1]": {
+     "mine": 0.14569756832594213,
+     "released": 0.14569756832594324,
+     "rho": 7.620051846997556e-15,
+     "tier": "EXACT"
+    },
+    "patch_ideal_xeb[1]": {
+     "mine": 0.998049145994921,
+     "released": 0.9980491459949274,
+     "rho": 6.4518802191917664e-15,
+     "tier": "EXACT"
+    },
+    "patch_fidelity[2]": {
+     "mine": 0.10109063842393662,
+     "released": 0.1010906384239354,
+     "rho": 1.208069655239724e-14,
+     "tier": "EXACT"
+    },
+    "patch_ideal_xeb[2]": {
+     "mine": 0.9979042392784041,
+     "released": 0.9979042392783968,
+     "rho": 7.342860841862607e-15,
+     "tier": "EXACT"
+    },
+    "patch_fidelity[0]": {
+     "mine": 0.1413036085584927,
+     "released": 0.14130360855849314,
+     "rho": 3.1428016197210582e-15,
+     "tier": "EXACT"
+    },
+    "patch_ideal_xeb[0]": {
+     "mine": 1.0334965134574912,
+     "released": 1.0334965134574947,
+     "rho": 3.4375671640295434e-15,
+     "tier": "EXACT"
+    }
+   },
+   "abs_dF_over_released_se": 1.5221928007337025e-14,
+   "patch_sizes_match": true,
+   "shots_match": true
+  },
+  {
+   "unit": "K3/p4/i0",
+   "tier": "EXACT",
+   "fields": {
+    "fidelity": {
+     "mine": 0.001927647804479839,
+     "released": 0.0019276478044798376,
+     "rho": 7.874275777723288e-16,
+     "tier": "EXACT"
+    },
+    "se": {
+     "mine": 0.0001618632436047418,
+     "released": 0.00016186324360474206,
+     "rho": 1.5071086145100067e-15,
+     "tier": "EXACT"
+    },
+    "patch_fidelity[2]": {
+     "mine": 0.13906212280662475,
+     "released": 0.13906212280662358,
+     "rho": 8.382830294324329e-15,
+     "tier": "EXACT"
+    },
+    "patch_ideal_xeb[2]": {
+     "mine": 1.0045813399782793,
+     "released": 1.0045813399782713,
+     "rho": 7.957151361654822e-15,
+     "tier": "EXACT"
+    },
+    "patch_fidelity[1]": {
+     "mine": 0.09849026996740448,
+     "released": 0.09849026996740352,
+     "rho": 9.722456432052785e-15,
+     "tier": "EXACT"
+    },
+    "patch_ideal_xeb[1]": {
+     "mine": 0.9962800216821956,
+     "released": 0.9962800216821912,
+     "rho": 4.457473804405214e-15,
+     "tier": "EXACT"
+    },
+    "patch_fidelity[0]": {
+     "mine": 0.14074257918339161,
+     "released": 0.14074257918339406,
+     "rho": 1.735431216584902e-14,
+     "tier": "EXACT"
+    },
+    "patch_ideal_xeb[0]": {
+     "mine": 1.0183111284342217,
+     "released": 1.018311128434239,
+     "rho": 1.7008042729320824e-14,
+     "tier": "EXACT"
+    }
+   },
+   "abs_dF_over_released_se": 9.377564712506708e-15,
+   "patch_sizes_match": true,
+   "shots_match": true
+  },
+  {
+   "unit": "K3/p4/i1",
+   "tier": "EXACT",
+   "fields": {
+    "fidelity": {
+     "mine": 0.001846562836453158,
+     "released": 0.0018465628364531183,
+     "rho": 2.148954735230692e-14,
+     "tier": "EXACT"
+    },
+    "se": {
+     "mine": 0.00015616019927455893,
+     "released": 0.00015616019927455809,
+     "rho": 5.3807352166536465e-15,
+     "tier": "EXACT"
+    },
+    "patch_fidelity[2]": {
+     "mine": 0.14459136798155173,
+     "released": 0.1445913679815526,
+     "rho": 5.950720683369367e-15,
+     "tier": "EXACT"
+    },
+    "patch_ideal_xeb[2]": {
+     "mine": 1.020837401894422,
+     "released": 1.0208374018944282,
+     "rho": 6.090342033278915e-15,
+     "tier": "EXACT"
+    },
+    "patch_fidelity[1]": {
+     "mine": 0.09984704558527747,
+     "released": 0.09984704558527491,
+     "rho": 2.5713236975579617e-14,
+     "tier": "EXACT"
+    },
+    "patch_ideal_xeb[1]": {
+     "mine": 1.0048160562459265,
+     "released": 1.0048160562459114,
+     "rho": 1.5026663876484575e-14,
+     "tier": "EXACT"
+    },
+    "patch_fidelity[0]": {
+     "mine": 0.12790470055788253,
+     "released": 0.1279047005578823,
+     "rho": 1.7360159865629544e-15,
+     "tier": "EXACT"
+    },
+    "patch_ideal_xeb[0]": {
+     "mine": 1.003484824027868,
+     "released": 1.003484824027864,
+     "rho": 3.982923102521761e-15,
+     "tier": "EXACT"
+    }
+   },
+   "abs_dF_over_released_se": 2.5410955990906253e-13,
+   "patch_sizes_match": true,
+   "shots_match": true
+  },
+  {
+   "unit": "K3/p4/i2",
+   "tier": "EXACT",
+   "fields": {
+    "fidelity": {
+     "mine": 0.0019387260662790827,
+     "released": 0.0019387260662791213,
+     "rho": 1.9908742143526224e-14,
+     "tier": "EXACT"
+    },
+    "se": {
+     "mine": 0.00016668685674955683,
+     "released": 0.0001666868567495585,
+     "rho": 9.919248255575337e-15,
+     "tier": "EXACT"
+    },
+    "patch_fidelity[2]": {
+     "mine": 0.1617729328461324,
+     "released": 0.16177293284613203,
+     "rho": 2.230425551760052e-15,
+     "tier": "EXACT"
+    },
+    "patch_ideal_xeb[2]": {
+     "mine": 1.0308550114285957,
+     "released": 1.0308550114285921,
+     "rho": 3.446375716675263e-15,
+     "tier": "EXACT"
+    },
+    "patch_fidelity[1]": {
+     "mine": 0.08934381883084347,
+     "released": 0.08934381883084376,
+     "rho": 3.261932921357211e-15,
+     "tier": "EXACT"
+    },
+    "patch_ideal_xeb[1]": {
+     "mine": 1.0011291046322763,
+     "released": 1.001129104632278,
+     "rho": 1.7743534087471356e-15,
+     "tier": "EXACT"
+    },
+    "patch_fidelity[0]": {
+     "mine": 0.13413622467865732,
+     "released": 0.13413622467865988,
+     "rho": 1.9036714077462072e-14,
+     "tier": "EXACT"
+    },
+    "patch_ideal_xeb[0]": {
+     "mine": 0.9990554289175724,
+     "released": 0.9990554289175886,
+     "rho": 1.6224581429970266e-14,
+     "tier": "EXACT"
+    }
+   },
+   "abs_dF_over_released_se": 2.3155753304818495e-13,
+   "patch_sizes_match": true,
+   "shots_match": true
+  },
+  {
+   "unit": "K4/p0/i0",
+   "tier": "EXACT",
+   "fields": {
+    "fidelity": {
+     "mine": 0.001985053615462231,
+     "released": 0.0019850536154622242,
+     "rho": 3.4955700187934172e-15,
+     "tier": "EXACT"
+    },
+    "se": {
+     "mine": 0.00011961462160004982,
+     "released": 0.00011961462160004959,
+     "rho": 1.9261270785399882e-15,
+     "tier": "EXACT"
+    },
+    "patch_fidelity[1]": {
+     "mine": 0.23812493040608296,
+     "released": 0.23812493040608318,
+     "rho": 9.324710543594512e-16,
+     "tier": "EXACT"
+    },
+    "patch_ideal_xeb[1]": {
+     "mine": 1.1592720107984786,
+     "released": 1.15927201079848,
+     "rho": 1.1492278060198766e-15,
+     "tier": "EXACT"
+    },
+    "patch_fidelity[0]": {
+     "mine": 0.28674556655688926,
+     "released": 0.28674556655688915,
+     "rho": 3.871805370720153e-16,
+     "tier": "EXACT"
+    },
+    "patch_ideal_xeb[0]": {
+     "mine": 1.1108305309579816,
+     "released": 1.1108305309579865,
+     "rho": 4.397593667269708e-15,
+     "tier": "EXACT"
+    },
+    "patch_fidelity[3]": {
+     "mine": 0.17489903431051826,
+     "released": 0.17489903431051743,
+     "rho": 4.7608454314878714e-15,
+     "tier": "EXACT"
+    },
+    "patch_ideal_xeb[3]": {
+     "mine": 1.0328842013382102,
+     "released": 1.0328842013382031,
+     "rho": 6.879210029929029e-15,
+     "tier": "EXACT"
+    },
+    "patch_fidelity[2]": {
+     "mine": 0.16621998998815368,
+     "released": 0.16621998998815382,
+     "rho": 8.349048636571029e-16,
+     "tier": "EXACT"
+    },
+    "patch_ideal_xeb[2]": {
+     "mine": 1.0061271405194363,
+     "released": 1.0061271405194385,
+     "rho": 2.206923916299437e-15,
+     "tier": "EXACT"
+    }
+   },
+   "abs_dF_over_released_se": 5.801041554191024e-14,
+   "patch_sizes_match": true,
+   "shots_match": true
+  },
+  {
+   "unit": "K4/p0/i1",
+   "tier": "EXACT",
+   "fields": {
+    "fidelity": {
+     "mine": 0.0020671805681121676,
+     "released": 0.0020671805681121464,
+     "rho": 1.0279877292056199e-14,
+     "tier": "EXACT"
+    },
+    "se": {
+     "mine": 0.00012405410977364716,
+     "released": 0.00012405410977364687,
+     "rho": 2.4034318409727662e-15,
+     "tier": "EXACT"
+    },
+    "patch_fidelity[1]": {
+     "mine": 0.22389545983358372,
+     "released": 0.22389545983358392,
+     "rho": 8.677667222632059e-16,
+     "tier": "EXACT"
+    },
+    "patch_ideal_xeb[1]": {
+     "mine": 1.027731264755816,
+     "released": 1.0277312647558166,
+     "rho": 4.321063541407158e-16,
+     "tier": "EXACT"
+    },
+    "patch_fidelity[0]": {
+     "mine": 0.28673193488741694,
+     "released": 0.28673193488741683,
+     "rho": 3.871989442198259e-16,
+     "tier": "EXACT"
+    },
+    "patch_ideal_xeb[0]": {
+     "mine": 1.0862023064768511,
+     "released": 1.0862023064768445,
+     "rho": 6.13268643238049e-15,
+     "tier": "EXACT"
+    },
+    "patch_fidelity[3]": {
+     "mine": 0.18181109036856757,
+     "released": 0.1818110903685656,
+     "rho": 1.0838975030152338e-14,
+     "tier": "EXACT"
+    },
+    "patch_ideal_xeb[3]": {
+     "mine": 0.9997581081260531,
+     "released": 0.9997581081260363,
+     "rho": 1.687947298165343e-14,
+     "tier": "EXACT"
+    },
+    "patch_fidelity[2]": {
+     "mine": 0.17710739290303568,
+     "released": 0.17710739290303565,
+     "rho": 1.5671607582651723e-16,
+     "tier": "EXACT"
+    },
+    "patch_ideal_xeb[2]": {
+     "mine": 0.9929519098335067,
+     "released": 0.9929519098335065,
+     "rho": 2.236207038085688e-16,
+     "tier": "EXACT"
+    }
+   },
+   "abs_dF_over_released_se": 1.7129914212024078e-13,
+   "patch_sizes_match": true,
+   "shots_match": true
+  },
+  {
+   "unit": "K4/p0/i2",
+   "tier": "EXACT",
+   "fields": {
+    "fidelity": {
+     "mine": 0.0019488950546367565,
+     "released": 0.001948895054636765,
+     "rho": 4.339267486603125e-15,
+     "tier": "EXACT"
+    },
+    "se": {
+     "mine": 0.00011888177882938067,
+     "released": 0.00011888177882938082,
+     "rho": 1.2540004043068147e-15,
+     "tier": "EXACT"
+    },
+    "patch_fidelity[1]": {
+     "mine": 0.22435687006784052,
+     "released": 0.22435687006784177,
+     "rho": 5.567027665903986e-15,
+     "tier": "EXACT"
+    },
+    "patch_ideal_xeb[1]": {
+     "mine": 1.0392865410322858,
+     "released": 1.0392865410323018,
+     "rho": 1.5382871733066503e-14,
+     "tier": "EXACT"
+    },
+    "patch_fidelity[0]": {
+     "mine": 0.2784158308367167,
+     "released": 0.2784158308367162,
+     "rho": 1.794439488515735e-15,
+     "tier": "EXACT"
+    },
+    "patch_ideal_xeb[0]": {
+     "mine": 1.0483063048751267,
+     "released": 1.0483063048751178,
+     "rho": 8.47250861288993e-15,
+     "tier": "EXACT"
+    },
+    "patch_fidelity[3]": {
+     "mine": 0.18862605428681198,
+     "released": 0.18862605428681084,
+     "rho": 6.032987354495892e-15,
+     "tier": "EXACT"
+    },
+    "patch_ideal_xeb[3]": {
+     "mine": 0.989296875044658,
+     "released": 0.9892968750446496,
+     "rho": 8.528981744504525e-15,
+     "tier": "EXACT"
+    },
+    "patch_fidelity[2]": {
+     "mine": 0.1654068438563395,
+     "released": 0.16540684385634058,
+     "rho": 6.544272436209919e-15,
+     "tier": "EXACT"
+    },
+    "patch_ideal_xeb[2]": {
+     "mine": 1.000192775458241,
+     "released": 1.0001927754582485,
+     "rho": 7.548061486439128e-15,
+     "tier": "EXACT"
+    }
+   },
+   "abs_dF_over_released_se": 7.113602293522294e-14,
+   "patch_sizes_match": true,
+   "shots_match": true
+  },
+  {
+   "unit": "K4/p1/i0",
+   "tier": "EXACT",
+   "fields": {
+    "fidelity": {
+     "mine": 0.0019115511360313687,
+     "released": 0.0019115511360313685,
+     "rho": 1.1343689970402263e-16,
+     "tier": "EXACT"
+    },
+    "se": {
+     "mine": 0.00012567327892212766,
+     "released": 0.00012567327892212785,
+     "rho": 1.5097511723437313e-15,
+     "tier": "EXACT"
+    },
+    "patch_fidelity[1]": {
+     "mine": 0.11904118632966589,
+     "released": 0.11904118632966515,
+     "rho": 6.1787249983989234e-15,
+     "tier": "EXACT"
+    },
+    "patch_ideal_xeb[1]": {
+     "mine": 1.0269574527148158,
+     "released": 1.0269574527148113,
+     "rho": 4.324319461104172e-15,
+     "tier": "EXACT"
+    },
+    "patch_fidelity[3]": {
+     "mine": 0.236292454310113,
+     "released": 0.23629245431011275,
+     "rho": 1.0571652881171557e-15,
+     "tier": "EXACT"
+    },
+    "patch_ideal_xeb[3]": {
+     "mine": 1.0603629497781024,
+     "released": 1.060362949778101,
+     "rho": 1.2564260471652535e-15,
+     "tier": "EXACT"
+    },
+    "patch_fidelity[2]": {
+     "mine": 0.3129925866324734,
+     "released": 0.31299258663247365,
+     "rho": 7.094244861005718e-16,
+     "tier": "EXACT"
+    },
+    "patch_ideal_xeb[2]": {
+     "mine": 1.0011578265199939,
+     "released": 1.0011578265199974,
+     "rho": 3.548605009811146e-15,
+     "tier": "EXACT"
+    },
+    "patch_fidelity[0]": {
+     "mine": 0.21712246936403792,
+     "released": 0.2171224693640393,
+     "rho": 6.391686612842545e-15,
+     "tier": "EXACT"
+    },
+    "patch_ideal_xeb[0]": {
+     "mine": 0.9773959983338625,
+     "released": 0.9773959983338782,
+     "rho": 1.612976416575408e-14,
+     "tier": "EXACT"
+    }
+   },
+   "abs_dF_over_released_se": 1.7254299112499788e-15,
+   "patch_sizes_match": true,
+   "shots_match": true
+  },
+  {
+   "unit": "K4/p1/i1",
+   "tier": "EXACT",
+   "fields": {
+    "fidelity": {
+     "mine": 0.0021595805468404648,
+     "released": 0.0021595805468404314,
+     "rho": 1.546292263162386e-14,
+     "tier": "EXACT"
+    },
+    "se": {
+     "mine": 0.0001329122946263228,
+     "released": 0.00013291229462632242,
+     "rho": 2.8550463404216544e-15,
+     "tier": "EXACT"
+    },
+    "patch_fidelity[1]": {
+     "mine": 0.1417709996203973,
+     "released": 0.14177099962039522,
+     "rho": 1.4683314477192267e-14,
+     "tier": "EXACT"
+    },
+    "patch_ideal_xeb[1]": {
+     "mine": 1.0141005571249897,
+     "released": 1.0141005571249755,
+     "rho": 1.4013259942870428e-14,
+     "tier": "EXACT"
+    },
+    "patch_fidelity[3]": {
+     "mine": 0.23874645688942078,
+     "released": 0.2387464568894207,
+     "rho": 3.487663353490229e-16,
+     "tier": "EXACT"
+    },
+    "patch_ideal_xeb[3]": {
+     "mine": 1.0713727621407938,
+     "released": 1.0713727621407934,
+     "rho": 4.145048535326709e-16,
+     "tier": "EXACT"
+    },
+    "patch_fidelity[2]": {
+     "mine": 0.3072543391597708,
+     "released": 0.3072543391597706,
+     "rho": 7.226736179942745e-16,
+     "tier": "EXACT"
+    },
+    "patch_ideal_xeb[2]": {
+     "mine": 0.9987541643523687,
+     "released": 0.998754164352353,
+     "rho": 1.5784832256394367e-14,
+     "tier": "EXACT"
+    },
+    "patch_fidelity[0]": {
+     "mine": 0.20765722456220162,
+     "released": 0.20765722456220168,
+     "rho": 2.673210688830622e-16,
+     "tier": "EXACT"
+    },
+    "patch_ideal_xeb[0]": {
+     "mine": 0.992093470867361,
+     "released": 0.9920934708673637,
+     "rho": 2.6857703808602187e-15,
+     "tier": "EXACT"
+    }
+   },
+   "abs_dF_over_released_se": 2.512440779571056e-13,
+   "patch_sizes_match": true,
+   "shots_match": true
+  },
+  {
+   "unit": "K4/p1/i2",
+   "tier": "EXACT",
+   "fields": {
+    "fidelity": {
+     "mine": 0.0021919194969475544,
+     "released": 0.002191919496947582,
+     "rho": 1.2662680200746745e-14,
+     "tier": "EXACT"
+    },
+    "se": {
+     "mine": 0.00013505358981076275,
+     "released": 0.00013505358981076335,
+     "rho": 4.4153672309086844e-15,
+     "tier": "EXACT"
+    },
+    "patch_fidelity[1]": {
+     "mine": 0.13216733743851106,
+     "released": 0.13216733743851145,
+     "rho": 2.940046051843815e-15,
+     "tier": "EXACT"
+    },
+    "patch_ideal_xeb[1]": {
+     "mine": 1.0426746342320987,
+     "released": 1.0426746342321,
+     "rho": 1.2777405202068281e-15,
+     "tier": "EXACT"
+    },
+    "patch_fidelity[3]": {
+     "mine": 0.23499995815920022,
+     "released": 0.23499995815920116,
+     "rho": 4.015701016814985e-15,
+     "tier": "EXACT"
+    },
+    "patch_ideal_xeb[3]": {
+     "mine": 1.0480275287574825,
+     "released": 1.048027528757498,
+     "rho": 1.483083403656346e-14,
+     "tier": "EXACT"
+    },
+    "patch_fidelity[2]": {
+     "mine": 0.31217687439198494,
+     "released": 0.3121768743919849,
+     "rho": 1.7781954970038957e-16,
+     "tier": "EXACT"
+    },
+    "patch_ideal_xeb[2]": {
+     "mine": 1.0169120474919588,
+     "released": 1.016912047491961,
+     "rho": 2.1835182843262228e-15,
+     "tier": "EXACT"
+    },
+    "patch_fidelity[0]": {
+     "mine": 0.22606427998457723,
+     "released": 0.22606427998457856,
+     "rho": 5.893313307352542e-15,
+     "tier": "EXACT"
+    },
+    "patch_ideal_xeb[0]": {
+     "mine": 0.9967152899753091,
+     "released": 0.9967152899753247,
+     "rho": 1.5594345246912974e-14,
+     "tier": "EXACT"
+    }
+   },
+   "abs_dF_over_released_se": 2.0551527474774966e-13,
+   "patch_sizes_match": true,
+   "shots_match": true
+  },
+  {
+   "unit": "K4/p2/i0",
+   "tier": "EXACT",
+   "fields": {
+    "fidelity": {
+     "mine": 0.0018528829090835993,
+     "released": 0.0018528829090835818,
+     "rho": 9.479322793771246e-15,
+     "tier": "EXACT"
+    },
+    "se": {
+     "mine": 0.00011418761965670634,
+     "released": 0.00011418761965670602,
+     "rho": 2.848475629175176e-15,
+     "tier": "EXACT"
+    },
+    "patch_fidelity[0]": {
+     "mine": 0.18014496619436243,
+     "released": 0.1801449661943618,
+     "rho": 3.54369179803063e-15,
+     "tier": "EXACT"
+    },
+    "patch_ideal_xeb[0]": {
+     "mine": 1.0088639689837318,
+     "released": 1.0088639689837264,
+     "rho": 5.2822488284213e-15,
+     "tier": "EXACT"
+    },
+    "patch_fidelity[1]": {
+     "mine": 0.16380381319264134,
+     "released": 0.16380381319264017,
+     "rho": 7.116648587938927e-15,
+     "tier": "EXACT"
+    },
+    "patch_ideal_xeb[1]": {
+     "mine": 1.0055183360025266,
+     "released": 1.0055183360025164,
+     "rho": 1.0157996588264978e-14,
+     "tier": "EXACT"
+    },
+    "patch_fidelity[2]": {
+     "mine": 0.2680411422819,
+     "released": 0.26804114228190007,
+     "rho": 2.0709936824876123e-16,
+     "tier": "EXACT"
+    },
+    "patch_ideal_xeb[2]": {
+     "mine": 1.1151898362503836,
+     "released": 1.1151898362503898,
+     "rho": 5.575058824787333e-15,
+     "tier": "EXACT"
+    },
+    "patch_fidelity[3]": {
+     "mine": 0.2342612070919619,
+     "released": 0.23426120709196216,
+     "rho": 1.066331825237279e-15,
+     "tier": "EXACT"
+    },
+    "patch_ideal_xeb[3]": {
+     "mine": 0.9961519339780409,
+     "released": 0.9961519339780429,
+     "rho": 2.0061211308849703e-15,
+     "tier": "EXACT"
+    }
+   },
+   "abs_dF_over_released_se": 1.538176839754595e-13,
+   "patch_sizes_match": true,
+   "shots_match": true
+  },
+  {
+   "unit": "K4/p2/i1",
+   "tier": "EXACT",
+   "fields": {
+    "fidelity": {
+     "mine": 0.0020162971121145574,
+     "released": 0.002016297112114554,
+     "rho": 1.7207022373379766e-15,
+     "tier": "EXACT"
+    },
+    "se": {
+     "mine": 0.0001207279760399358,
+     "released": 0.00012072797603993582,
+     "rho": 1.1225672458540796e-16,
+     "tier": "EXACT"
+    },
+    "patch_fidelity[0]": {
+     "mine": 0.17927092636848385,
+     "released": 0.17927092636848305,
+     "rho": 4.4899176300276376e-15,
+     "tier": "EXACT"
+    },
+    "patch_ideal_xeb[0]": {
+     "mine": 1.0173077448022072,
+     "released": 1.0173077448022005,
+     "rho": 6.5480069151013215e-15,
+     "tier": "EXACT"
+    },
+    "patch_fidelity[1]": {
+     "mine": 0.17828556710827187,
+     "released": 0.17828556710827173,
+     "rho": 7.784022023154887e-16,
+     "tier": "EXACT"
+    },
+    "patch_ideal_xeb[1]": {
+     "mine": 1.0098228428039309,
+     "released": 1.009822842803929,
+     "rho": 1.7590776957153408e-15,
+     "tier": "EXACT"
+    },
+    "patch_fidelity[2]": {
+     "mine": 0.26865788619617564,
+     "released": 0.2686578861961758,
+     "rho": 6.198718230521981e-16,
+     "tier": "EXACT"
+    },
+    "patch_ideal_xeb[2]": {
+     "mine": 1.099410726273451,
+     "released": 1.099410726273451,
+     "rho": 0.0,
+     "tier": "EXACT"
+    },
+    "patch_fidelity[3]": {
+     "mine": 0.23481664853713088,
+     "released": 0.23481664853713158,
+     "rho": 2.955026377872002e-15,
+     "tier": "EXACT"
+    },
+    "patch_ideal_xeb[3]": {
+     "mine": 0.9843920710596157,
+     "released": 0.9843920710596241,
+     "rho": 8.571478006795245e-15,
+     "tier": "EXACT"
+    }
+   },
+   "abs_dF_over_released_se": 2.873772149386444e-14,
+   "patch_sizes_match": true,
+   "shots_match": true
+  },
+  {
+   "unit": "K4/p2/i2",
+   "tier": "EXACT",
+   "fields": {
+    "fidelity": {
+     "mine": 0.0017226601502463826,
+     "released": 0.0017226601502463947,
+     "rho": 7.049019117381225e-15,
+     "tier": "EXACT"
+    },
+    "se": {
+     "mine": 0.0001059985488950466,
+     "released": 0.00010599854889504686,
+     "rho": 2.429259821474214e-15,
+     "tier": "EXACT"
+    },
+    "patch_fidelity[0]": {
+     "mine": 0.17189603504739306,
+     "released": 0.17189603504739356,
+     "rho": 2.9064100340858666e-15,
+     "tier": "EXACT"
+    },
+    "patch_ideal_xeb[0]": {
+     "mine": 1.0053155732142143,
+     "released": 1.0053155732142174,
+     "rho": 3.0921877187393753e-15,
+     "tier": "EXACT"
+    },
+    "patch_fidelity[1]": {
+     "mine": 0.17155531561657353,
+     "released": 0.1715553156165734,
+     "rho": 8.089395398759518e-16,
+     "tier": "EXACT"
+    },
+    "patch_ideal_xeb[1]": {
+     "mine": 1.0010940873017846,
+     "released": 1.0010940873017842,
+     "rho": 4.436038684905248e-16,
+     "tier": "EXACT"
+    },
+    "patch_fidelity[2]": {
+     "mine": 0.2566419058676992,
+     "released": 0.25664190586769997,
+     "rho": 3.028173106064124e-15,
+     "tier": "EXACT"
+    },
+    "patch_ideal_xeb[2]": {
+     "mine": 1.065795575921109,
+     "released": 1.0657955759211246,
+     "rho": 1.4583586849024863e-14,
+     "tier": "EXACT"
+    },
+    "patch_fidelity[3]": {
+     "mine": 0.2276155860273868,
+     "released": 0.22761558602738727,
+     "rho": 2.072989788181368e-15,
+     "tier": "EXACT"
+    },
+    "patch_ideal_xeb[3]": {
+     "mine": 0.9961593969146585,
+     "released": 0.9961593969146649,
+     "rho": 6.464119660738917e-15,
+     "tier": "EXACT"
+    }
+   },
+   "abs_dF_over_released_se": 1.1455877894952085e-13,
+   "patch_sizes_match": true,
+   "shots_match": true
+  },
+  {
+   "unit": "K4/p3/i0",
+   "tier": "EXACT",
+   "fields": {
+    "fidelity": {
+     "mine": 0.0021601507333910046,
+     "released": 0.0021601507333910645,
+     "rho": 2.7705455455531504e-14,
+     "tier": "EXACT"
+    },
+    "se": {
+     "mine": 0.00014009717613144057,
+     "released": 0.00014009717613144165,
+     "rho": 7.738929523235263e-15,
+     "tier": "EXACT"
+    },
+    "patch_fidelity[2]": {
+     "mine": 0.2851051079401201,
+     "released": 0.2851051079401201,
+     "rho": 0.0,
+     "tier": "EXACT"
+    },
+    "patch_ideal_xeb[2]": {
+     "mine": 1.038411564668921,
+     "released": 1.0384115646689218,
+     "rho": 8.553240833592838e-16,
+     "tier": "EXACT"
+    },
+    "patch_fidelity[1]": {
+     "mine": 0.17457164330159003,
+     "released": 0.17457164330159158,
+     "rho": 8.903577952749033e-15,
+     "tier": "EXACT"
+    },
+    "patch_ideal_xeb[1]": {
+     "mine": 1.007858218278903,
+     "released": 1.0078582182789169,
+     "rho": 1.3659426748398153e-14,
+     "tier": "EXACT"
+    },
+    "patch_fidelity[0]": {
+     "mine": 0.3387448496422381,
+     "released": 0.3387448496422383,
+     "rho": 4.916191460022374e-16,
+     "tier": "EXACT"
+    },
+    "patch_ideal_xeb[0]": {
+     "mine": 1.0455618621964726,
+     "released": 1.0455618621964589,
+     "rho": 1.3166858894825675e-14,
+     "tier": "EXACT"
+    },
+    "patch_fidelity[3]": {
+     "mine": 0.12812463989702352,
+     "released": 0.12812463989702585,
+     "rho": 1.8196877303121685e-14,
+     "tier": "EXACT"
+    },
+    "patch_ideal_xeb[3]": {
+     "mine": 1.0068868085751808,
+     "released": 1.0068868085751963,
+     "rho": 1.543681197566449e-14,
+     "tier": "EXACT"
+    }
+   },
+   "abs_dF_over_released_se": 4.2718890968258653e-13,
+   "patch_sizes_match": true,
+   "shots_match": true
+  },
+  {
+   "unit": "K4/p3/i1",
+   "tier": "EXACT",
+   "fields": {
+    "fidelity": {
+     "mine": 0.0020776590269616924,
+     "released": 0.0020776590269616854,
+     "rho": 3.339765483104553e-15,
+     "tier": "EXACT"
+    },
+    "se": {
+     "mine": 0.00013490821365893106,
+     "released": 0.00013490821365893073,
+     "rho": 2.4109773817624005e-15,
+     "tier": "EXACT"
+    },
+    "patch_fidelity[2]": {
+     "mine": 0.26459251363171926,
+     "released": 0.26459251363171876,
+     "rho": 1.8881878184078353e-15,
+     "tier": "EXACT"
+    },
+    "patch_ideal_xeb[2]": {
+     "mine": 1.007102919088084,
+     "released": 1.0071029190880751,
+     "rho": 8.819142541105578e-15,
+     "tier": "EXACT"
+    },
+    "patch_fidelity[1]": {
+     "mine": 0.17753378839709663,
+     "released": 0.17753378839709566,
+     "rho": 5.4718887898350295e-15,
+     "tier": "EXACT"
+    },
+    "patch_ideal_xeb[1]": {
+     "mine": 1.0227381517554885,
+     "released": 1.02273815175548,
+     "rho": 8.250102895514652e-15,
+     "tier": "EXACT"
+    },
+    "patch_fidelity[0]": {
+     "mine": 0.3457913161286888,
+     "released": 0.34579131612868874,
+     "rho": 1.6053367635929571e-16,
+     "tier": "EXACT"
+    },
+    "patch_ideal_xeb[0]": {
+     "mine": 1.0410792701226597,
+     "released": 1.0410792701226548,
+     "rho": 4.692228006590857e-15,
+     "tier": "EXACT"
+    },
+    "patch_fidelity[3]": {
+     "mine": 0.12790915206295228,
+     "released": 0.1279091520629528,
+     "rho": 4.122894477772799e-15,
+     "tier": "EXACT"
+    },
+    "patch_ideal_xeb[3]": {
+     "mine": 0.9923788785603291,
+     "released": 0.9923788785603336,
+     "rho": 4.474996590962444e-15,
+     "tier": "EXACT"
+    }
+   },
+   "abs_dF_over_released_se": 5.143418414426454e-14,
+   "patch_sizes_match": true,
+   "shots_match": true
+  },
+  {
+   "unit": "K4/p3/i2",
+   "tier": "EXACT",
+   "fields": {
+    "fidelity": {
+     "mine": 0.0020928943690915838,
+     "released": 0.002092894369091618,
+     "rho": 1.6370051521239554e-14,
+     "tier": "EXACT"
+    },
+    "se": {
+     "mine": 0.00013680160868576098,
+     "released": 0.00013680160868576106,
+     "rho": 5.944020959811746e-16,
+     "tier": "EXACT"
+    },
+    "patch_fidelity[2]": {
+     "mine": 0.26619616335457524,
+     "released": 0.2661961633545752,
+     "rho": 2.085347532124893e-16,
+     "tier": "EXACT"
+    },
+    "patch_ideal_xeb[2]": {
+     "mine": 1.0466797634090654,
+     "released": 1.0466797634090668,
+     "rho": 1.2728512350434224e-15,
+     "tier": "EXACT"
+    },
+    "patch_fidelity[1]": {
+     "mine": 0.1807428715858413,
+     "released": 0.18074287158584018,
+     "rho": 6.142554972619645e-15,
+     "tier": "EXACT"
+    },
+    "patch_ideal_xeb[1]": {
+     "mine": 1.0150135895620584,
+     "released": 1.0150135895620478,
+     "rho": 1.050049097470726e-14,
+     "tier": "EXACT"
+    },
+    "patch_fidelity[0]": {
+     "mine": 0.3475147088612169,
+     "released": 0.34751470886121677,
+     "rho": 3.1947511754632937e-16,
+     "tier": "EXACT"
+    },
+    "patch_ideal_xeb[0]": {
+     "mine": 1.0590871346778234,
+     "released": 1.059087134677834,
+     "rho": 1.0063516671499956e-14,
+     "tier": "EXACT"
+    },
+    "patch_fidelity[3]": {
+     "mine": 0.1251731405381996,
+     "released": 0.12517314053820247,
+     "rho": 2.2838959509346763e-14,
+     "tier": "EXACT"
+    },
+    "patch_ideal_xeb[3]": {
+     "mine": 0.990125268083621,
+     "released": 0.9901252680836388,
+     "rho": 1.7940728276113407e-14,
+     "tier": "EXACT"
+    }
+   },
+   "abs_dF_over_released_se": 2.504414164400682e-13,
+   "patch_sizes_match": true,
+   "shots_match": true
+  },
+  {
+   "unit": "K4/p4/i0",
+   "tier": "EXACT",
+   "fields": {
+    "fidelity": {
+     "mine": 0.0017565449237083753,
+     "released": 0.0017565449237083642,
+     "rho": 6.295803773697408e-15,
+     "tier": "EXACT"
+    },
+    "se": {
+     "mine": 0.00011252840222413954,
+     "released": 0.00011252840222413948,
+     "rho": 4.817460085880978e-16,
+     "tier": "EXACT"
+    },
+    "patch_fidelity[1]": {
+     "mine": 0.13143609406046936,
+     "released": 0.13143609406046802,
+     "rho": 1.0136238748370517e-14,
+     "tier": "EXACT"
+    },
+    "patch_ideal_xeb[1]": {
+     "mine": 1.0105054023496067,
+     "released": 1.0105054023495983,
+     "rho": 8.3499751387099e-15,
+     "tier": "EXACT"
+    },
+    "patch_fidelity[2]": {
+     "mine": 0.1928757910997192,
+     "released": 0.1928757910997192,
+     "rho": 0.0,
+     "tier": "EXACT"
+    },
+    "patch_ideal_xeb[2]": {
+     "mine": 1.1206981153889193,
+     "released": 1.120698115388921,
+     "rho": 1.5850449063919351e-15,
+     "tier": "EXACT"
+    },
+    "patch_fidelity[0]": {
+     "mine": 0.2575476014367081,
+     "released": 0.2575476014367088,
+     "rho": 2.8019867472292994e-15,
+     "tier": "EXACT"
+    },
+    "patch_ideal_xeb[0]": {
+     "mine": 1.031607711339603,
+     "released": 1.0316077113396132,
+     "rho": 9.901100693874997e-15,
+     "tier": "EXACT"
+    },
+    "patch_fidelity[3]": {
+     "mine": 0.269035374052585,
+     "released": 0.26903537405258526,
+     "rho": 1.0316701182277929e-15,
+     "tier": "EXACT"
+    },
+    "patch_ideal_xeb[3]": {
+     "mine": 0.9983996240307682,
+     "released": 0.9983996240307718,
+     "rho": 3.558408470204915e-15,
+     "tier": "EXACT"
+    }
+   },
+   "abs_dF_over_released_se": 9.827618575197195e-14,
+   "patch_sizes_match": true,
+   "shots_match": true
+  },
+  {
+   "unit": "K4/p4/i1",
+   "tier": "EXACT",
+   "fields": {
+    "fidelity": {
+     "mine": 0.0024412555180733887,
+     "released": 0.0024412555180733696,
+     "rho": 7.816452679563954e-15,
+     "tier": "EXACT"
+    },
+    "se": {
+     "mine": 0.00014309382157239782,
+     "released": 0.00014309382157239758,
+     "rho": 1.7047940024846952e-15,
+     "tier": "EXACT"
+    },
+    "patch_fidelity[1]": {
+     "mine": 0.14806567569893841,
+     "released": 0.14806567569893725,
+     "rho": 7.873088549075398e-15,
+     "tier": "EXACT"
+    },
+    "patch_ideal_xeb[1]": {
+     "mine": 1.0199043831942212,
+     "released": 1.0199043831942132,
+     "rho": 7.83760312144767e-15,
+     "tier": "EXACT"
+    },
+    "patch_fidelity[2]": {
+     "mine": 0.21558183624205846,
+     "released": 0.21558183624205837,
+     "rho": 3.862418480998263e-16,
+     "tier": "EXACT"
+    },
+    "patch_ideal_xeb[2]": {
+     "mine": 1.107010167528685,
+     "released": 1.1070101675286854,
+     "rho": 4.0116091331072185e-16,
+     "tier": "EXACT"
+    },
+    "patch_fidelity[0]": {
+     "mine": 0.26694653386808725,
+     "released": 0.26694653386808737,
+     "rho": 4.1589714934218904e-16,
+     "tier": "EXACT"
+    },
+    "patch_ideal_xeb[0]": {
+     "mine": 1.0487800087213381,
+     "released": 1.0487800087213408,
+     "rho": 2.5406045471337148e-15,
+     "tier": "EXACT"
+    },
+    "patch_fidelity[3]": {
+     "mine": 0.28649852614056137,
+     "released": 0.2864985261405614,
+     "rho": 1.937571965170356e-16,
+     "tier": "EXACT"
+    },
+    "patch_ideal_xeb[3]": {
+     "mine": 0.9868332787798191,
+     "released": 0.9868332787798206,
+     "rho": 1.575050485120509e-15,
+     "tier": "EXACT"
+    }
+   },
+   "abs_dF_over_released_se": 1.333527753054695e-13,
+   "patch_sizes_match": true,
+   "shots_match": true
+  },
+  {
+   "unit": "K4/p4/i2",
+   "tier": "EXACT",
+   "fields": {
+    "fidelity": {
+     "mine": 0.002013550616591065,
+     "released": 0.0020135506165910753,
+     "rho": 5.169147857570165e-15,
+     "tier": "EXACT"
+    },
+    "se": {
+     "mine": 0.00012402998521512322,
+     "released": 0.0001240299852151233,
+     "rho": 6.556089061477843e-16,
+     "tier": "EXACT"
+    },
+    "patch_fidelity[1]": {
+     "mine": 0.14345089901997718,
+     "released": 0.14345089901997754,
+     "rho": 2.515303044234852e-15,
+     "tier": "EXACT"
+    },
+    "patch_ideal_xeb[1]": {
+     "mine": 1.0273179024946288,
+     "released": 1.0273179024946333,
+     "rho": 4.322802209244889e-15,
+     "tier": "EXACT"
+    },
+    "patch_fidelity[2]": {
+     "mine": 0.19729593521971786,
+     "released": 0.1972959352197182,
+     "rho": 1.6881589933245594e-15,
+     "tier": "EXACT"
+    },
+    "patch_ideal_xeb[2]": {
+     "mine": 1.0642167307223032,
+     "released": 1.0642167307223063,
+     "rho": 2.9210445384001335e-15,
+     "tier": "EXACT"
+    },
+    "patch_fidelity[0]": {
+     "mine": 0.2571098015079059,
+     "released": 0.2571098015079054,
+     "rho": 1.9431400831522135e-15,
+     "tier": "EXACT"
+    },
+    "patch_ideal_xeb[0]": {
+     "mine": 1.0429933789306784,
+     "released": 1.0429933789306705,
+     "rho": 7.664100212694136e-15,
+     "tier": "EXACT"
+    },
+    "patch_fidelity[3]": {
+     "mine": 0.27670850382893786,
+     "released": 0.27670850382893863,
+     "rho": 2.808573305423414e-15,
+     "tier": "EXACT"
+    },
+    "patch_ideal_xeb[3]": {
+     "mine": 0.9915403807737666,
+     "released": 0.9915403807737806,
+     "rho": 1.4108159769913105e-14,
+     "tier": "EXACT"
+    }
+   },
+   "abs_dF_over_released_se": 8.391793998691638e-14,
+   "patch_sizes_match": true,
+   "shots_match": true
+  },
+  {
+   "unit": "pooled 3-patch d36",
+   "tier": "EXACT",
+   "fields": {
+    "fidelity": {
+     "mine": 0.001839052397648685,
+     "released": 0.0018390523976486782,
+     "rho": 3.6551723474571e-15,
+     "tier": "EXACT"
+    },
+    "se": {
+     "mine": 4.085052970054307e-05,
+     "released": 4.0850529700543075e-05,
+     "rho": 1.6587945438426758e-16,
+     "tier": "EXACT"
+    }
+   },
+   "abs_dF_over_released_se": 1.6455241874919344e-13
+  },
+  {
+   "unit": "pooled 4-patch d36",
+   "tier": "EXACT",
+   "fields": {
+    "fidelity": {
+     "mine": 0.001999385896123155,
+     "released": 0.001999385896123157,
+     "rho": 8.676281448921218e-16,
+     "tier": "EXACT"
+    },
+    "se": {
+     "mine": 3.216069760032845e-05,
+     "released": 3.216069760032846e-05,
+     "rho": 2.1070014283412795e-16,
+     "tier": "EXACT"
+    }
+   },
+   "abs_dF_over_released_se": 5.3939236565536756e-14
+  }
+ ],
+ "log": [
+  "12:13:06 PREREG hash verified 9102a014cee43c2c; MemAvailable 18.4 GiB",
+  "12:13:06 P1: MemAvailable 18.4 GiB < 20.0; waiting 60 s",
+  "12:14:06 P1: MemAvailable 19.2 GiB < 20.0; waiting 120 s",
+  "12:16:06 P1: MemAvailable 13.7 GiB < 20.0; waiting 240 s",
+  "12:20:41 P1 {'n_gates': 1188, 'max_abs_dp_vs_dense': 2.5587171270657905e-17, 'max_abs_dp_vs_qiskit_calls': 2.5587171270657905e-17, 'pass': True}",
+  "12:21:03 K3/p0/i0 ok F=0.0016348946571526522 rss=173 MB",
+  "12:21:16 K3/p0/i1 ok F=0.0018601619908201012 rss=216 MB",
+  "12:21:28 K3/p0/i2 ok F=0.002113078366301064 rss=237 MB",
+  "12:21:41 K3/p1/i0 ok F=0.001580733786415955 rss=269 MB",
+  "12:22:03 K3/p1/i1 ok F=0.0014446718905140677 rss=300 MB",
+  "12:22:19 K3/p1/i2 ok F=0.0015791554734413398 rss=308 MB",
+  "12:22:31 K3/p2/i0 ok F=0.001863200489535025 rss=308 MB",
+  "12:22:42 K3/p2/i1 ok F=0.0019827019218220925 rss=308 MB",
+  "12:23:03 K3/p2/i2 ok F=0.0021040304806149795 rss=308 MB",
+  "12:23:15 K3/p3/i0 ok F=0.0020824853960973635 rss=317 MB",
+  "12:23:28 K3/p3/i1 ok F=0.0019394722748754152 rss=317 MB",
+  "12:23:51 K3/p3/i2 ok F=0.002081212835334243 rss=317 MB",
+  "12:24:03 K3/p4/i0 ok F=0.001927647804479839 rss=317 MB",
+  "12:24:14 K3/p4/i1 ok F=0.001846562836453158 rss=317 MB",
+  "12:24:35 K3/p4/i2 ok F=0.0019387260662790827 rss=317 MB",
+  "12:24:35 K4/p0/i0 ok F=0.001985053615462231 rss=317 MB",
+  "12:24:35 K4/p0/i1 ok F=0.0020671805681121676 rss=317 MB",
+  "12:24:35 K4/p0/i2 ok F=0.0019488950546367565 rss=317 MB",
+  "12:24:36 K4/p1/i0 ok F=0.0019115511360313687 rss=317 MB",
+  "12:24:36 K4/p1/i1 ok F=0.0021595805468404648 rss=317 MB",
+  "12:24:36 K4/p1/i2 ok F=0.0021919194969475544 rss=317 MB",
+  "12:24:37 K4/p2/i0 ok F=0.0018528829090835993 rss=317 MB",
+  "12:24:37 K4/p2/i1 ok F=0.0020162971121145574 rss=317 MB",
+  "12:24:37 K4/p2/i2 ok F=0.0017226601502463826 rss=317 MB",
+  "12:24:37 K4/p3/i0 ok F=0.0021601507333910046 rss=317 MB",
+  "12:24:38 K4/p3/i1 ok F=0.0020776590269616924 rss=317 MB",
+  "12:24:38 K4/p3/i2 ok F=0.0020928943690915838 rss=317 MB",
+  "12:24:38 K4/p4/i0 ok F=0.0017565449237083753 rss=317 MB",
+  "12:24:38 K4/p4/i1 ok F=0.0024412555180733887 rss=317 MB",
+  "12:24:39 K4/p4/i2 ok F=0.002013550616591065 rss=317 MB",
+  "12:24:39 N1 [{'counts_instance': 0, 'circuit_instance': 1, 'fidelity': -1.0162268851979411e-08, 'se': 1.628608630296593e-07, 'abs_F_over_se': 0.06239847108097859, 'pass': True}, {'counts_instance': 1, 'circuit_instance': 2, 'fidelity': -4.1989439994317614e-08, 'se': 2.7657249124908944e-07, 'abs_F_over_se': 0.15182073894869275, 'pass': True}, {'counts_instance': 2, 'circuit_instance': 0, 'fidelity': -3.0521203861645834e-09, 'se': 1.6787084803711594e-07, 'abs_F_over_se': 0.01818136038420301, 'pass': True}]  N2 {'fidelity': -4.981739920332895e-09, 'se': 1.8199245319543303e-07, 'abs_F_over_se': 0.027373332425950882, 'pass': True}"
+ ]
+}

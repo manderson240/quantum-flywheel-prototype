@@ -1,0 +1,2687 @@
+{
+ "A": [
+  {
+   "run": "A_G_run1",
+   "rows": 15,
+   "declared": 15,
+   "count_mismatch": false,
+   "auto_hits_overruled": [],
+   "hits": [
+    "C01",
+    "C02",
+    "N03",
+    "Q05",
+    "Q09",
+    "Q16"
+   ],
+   "misses": [
+    "Q15"
+   ],
+   "pending_plants": [],
+   "duplicates": [
+    "A_G_run1#14"
+   ],
+   "non_plant": [
+    [
+     "A_G_run1#3",
+     "PREEXISTING",
+     "a1:report/report.html:95:stage1-plan-conflicts-decision-path"
+    ],
+    [
+     "A_G_run1#4",
+     "PREEXISTING",
+     "a2:FORM_ANSWERS.md:102:stage1-gonogo-plan-conflict"
+    ],
+    [
+     "A_G_run1#7",
+     "FP",
+     null
+    ],
+    [
+     "A_G_run1#9",
+     "PREEXISTING",
+     "a1:FORM_ANSWERS.md:80:consistent-with-not-licensed"
+    ],
+    [
+     "A_G_run1#10",
+     "PREEXISTING",
+     "a1:report/report.html:123:flash-beat-blind-twin"
+    ],
+    [
+     "A_G_run1#11",
+     "FP",
+     null
+    ],
+    [
+     "A_G_run1#12",
+     "FP",
+     null
+    ],
+    [
+     "A_G_run1#15",
+     "PREEXISTING",
+     "a1:report/report.html:107:stage2-chi-tightening-inconsistent"
+    ]
+   ],
+   "findings": [
+    [
+     "A_G_run1#1",
+     "AUTO_HIT",
+     "N03"
+    ],
+    [
+     "A_G_run1#2",
+     "AUTO_HIT",
+     "C02"
+    ],
+    [
+     "A_G_run1#3",
+     "ADJ_MISS",
+     [
+      "C02"
+     ]
+    ],
+    [
+     "A_G_run1#4",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "A_G_run1#5",
+     "AUTO_HIT",
+     "C01"
+    ],
+    [
+     "A_G_run1#6",
+     "AUTO_HIT",
+     "Q16"
+    ],
+    [
+     "A_G_run1#7",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "A_G_run1#8",
+     "AUTO_HIT",
+     "Q05"
+    ],
+    [
+     "A_G_run1#9",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "A_G_run1#10",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "A_G_run1#11",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "A_G_run1#12",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "A_G_run1#13",
+     "AUTO_HIT",
+     "Q09"
+    ],
+    [
+     "A_G_run1#14",
+     "DUPLICATE",
+     "Q09"
+    ],
+    [
+     "A_G_run1#15",
+     "NON_PLANT",
+     null
+    ]
+   ],
+   "label": "A",
+   "arm": "G",
+   "kind": "planted"
+  },
+  {
+   "run": "A_G_run2",
+   "rows": 25,
+   "declared": 25,
+   "count_mismatch": false,
+   "auto_hits_overruled": [],
+   "hits": [
+    "C01",
+    "C02",
+    "N03",
+    "Q05",
+    "Q16"
+   ],
+   "misses": [
+    "Q09",
+    "Q15"
+   ],
+   "pending_plants": [],
+   "duplicates": [],
+   "non_plant": [
+    [
+     "A_G_run2#2",
+     "PREEXISTING",
+     "a2:report/report.html:54:bandwidth-specificity-unsupported"
+    ],
+    [
+     "A_G_run2#3",
+     "PREEXISTING",
+     "a2:report/report.html:82:counts-use-unstated-tolerance"
+    ],
+    [
+     "A_G_run2#4",
+     "PREEXISTING",
+     "a2:report/report.html:82:counts-use-unstated-tolerance"
+    ],
+    [
+     "A_G_run2#5",
+     "PREEXISTING",
+     "a1:report/report.html:85:sign-flip-delta-unstated"
+    ],
+    [
+     "A_G_run2#6",
+     "PREEXISTING",
+     "a2:report/report.html:89:signal-size-explanation-contradicted"
+    ],
+    [
+     "A_G_run2#8",
+     "PREEXISTING",
+     "a1:report/report.html:95:stage1-plan-conflicts-decision-path"
+    ],
+    [
+     "A_G_run2#10",
+     "FP",
+     null
+    ],
+    [
+     "A_G_run2#12",
+     "FP",
+     null
+    ],
+    [
+     "A_G_run2#13",
+     "PREEXISTING",
+     "a2:report/report.html:153:runtime-range-selective"
+    ],
+    [
+     "A_G_run2#14",
+     "PREEXISTING",
+     "a2:FORM_ANSWERS.md:173:runtime-range-selective"
+    ],
+    [
+     "A_G_run2#15",
+     "PREEXISTING",
+     "a1:FORM_ANSWERS.md:11:reordering-cannot-overstated"
+    ],
+    [
+     "A_G_run2#16",
+     "PREEXISTING",
+     "a1:FORM_ANSWERS.md:50:one-live-claim-inconsistent"
+    ],
+    [
+     "A_G_run2#17",
+     "PREEXISTING",
+     "a1:SUBMISSION_KIT.md:28:one-live-claim-inconsistent"
+    ],
+    [
+     "A_G_run2#18",
+     "FP",
+     null
+    ],
+    [
+     "A_G_run2#19",
+     "FP",
+     null
+    ],
+    [
+     "A_G_run2#20",
+     "PREEXISTING",
+     "a1:FORM_ANSWERS.md:80:consistent-with-not-licensed"
+    ],
+    [
+     "A_G_run2#22",
+     "FP",
+     null
+    ],
+    [
+     "A_G_run2#23",
+     "FP",
+     null
+    ],
+    [
+     "A_G_run2#24",
+     "PREEXISTING",
+     "a1:FORM_ANSWERS.md:141:stage1-plan-inconsistent"
+    ],
+    [
+     "A_G_run2#25",
+     "FP",
+     null
+    ]
+   ],
+   "findings": [
+    [
+     "A_G_run2#1",
+     "AUTO_HIT",
+     "Q16"
+    ],
+    [
+     "A_G_run2#2",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "A_G_run2#3",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "A_G_run2#4",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "A_G_run2#5",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "A_G_run2#6",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "A_G_run2#7",
+     "AUTO_HIT",
+     "C02"
+    ],
+    [
+     "A_G_run2#8",
+     "ADJ_MISS",
+     [
+      "C02"
+     ]
+    ],
+    [
+     "A_G_run2#9",
+     "AUTO_HIT",
+     "Q05"
+    ],
+    [
+     "A_G_run2#10",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "A_G_run2#11",
+     "AUTO_HIT",
+     "N03"
+    ],
+    [
+     "A_G_run2#12",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "A_G_run2#13",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "A_G_run2#14",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "A_G_run2#15",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "A_G_run2#16",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "A_G_run2#17",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "A_G_run2#18",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "A_G_run2#19",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "A_G_run2#20",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "A_G_run2#21",
+     "AUTO_HIT",
+     "C01"
+    ],
+    [
+     "A_G_run2#22",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "A_G_run2#23",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "A_G_run2#24",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "A_G_run2#25",
+     "NON_PLANT",
+     null
+    ]
+   ],
+   "label": "A",
+   "arm": "G",
+   "kind": "planted"
+  },
+  {
+   "run": "A_Q_run1",
+   "rows": 18,
+   "declared": 18,
+   "count_mismatch": false,
+   "auto_hits_overruled": [],
+   "hits": [
+    "C01",
+    "C02",
+    "N03",
+    "Q05",
+    "Q09"
+   ],
+   "misses": [
+    "Q15",
+    "Q16"
+   ],
+   "pending_plants": [],
+   "duplicates": [
+    "A_Q_run1#14"
+   ],
+   "non_plant": [
+    [
+     "A_Q_run1#3",
+     "FP",
+     null
+    ],
+    [
+     "A_Q_run1#5",
+     "PREEXISTING",
+     "a1:report/report.html:85:sign-flip-delta-unstated"
+    ],
+    [
+     "A_Q_run1#6",
+     "PREEXISTING",
+     "a2:report/report.html:56:ordering-calibration-limits-omitted"
+    ],
+    [
+     "A_Q_run1#7",
+     "PREEXISTING",
+     "a2:report/report.html:54:bandwidth-specificity-unsupported"
+    ],
+    [
+     "A_Q_run1#8",
+     "FP",
+     null
+    ],
+    [
+     "A_Q_run1#9",
+     "FP",
+     null
+    ],
+    [
+     "A_Q_run1#11",
+     "FP",
+     null
+    ],
+    [
+     "A_Q_run1#12",
+     "FP",
+     null
+    ],
+    [
+     "A_Q_run1#15",
+     "FP",
+     null
+    ],
+    [
+     "A_Q_run1#16",
+     "PREEXISTING",
+     "a1:FORM_ANSWERS.md:56:false-findings-condition-dropped"
+    ],
+    [
+     "A_Q_run1#17",
+     "PREEXISTING",
+     "a1:SUBMISSION_KIT.md:34:false-findings-condition-dropped"
+    ],
+    [
+     "A_Q_run1#18",
+     "PREEXISTING",
+     "a1:FORM_ANSWERS.md:160:minus-one-example-misleading"
+    ]
+   ],
+   "findings": [
+    [
+     "A_Q_run1#1",
+     "AUTO_HIT",
+     "C02"
+    ],
+    [
+     "A_Q_run1#2",
+     "AUTO_HIT",
+     "N03"
+    ],
+    [
+     "A_Q_run1#3",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "A_Q_run1#4",
+     "AUTO_HIT",
+     "Q05"
+    ],
+    [
+     "A_Q_run1#5",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "A_Q_run1#6",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "A_Q_run1#7",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "A_Q_run1#8",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "A_Q_run1#9",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "A_Q_run1#10",
+     "AUTO_HIT",
+     "C01"
+    ],
+    [
+     "A_Q_run1#11",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "A_Q_run1#12",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "A_Q_run1#13",
+     "AUTO_HIT",
+     "Q09"
+    ],
+    [
+     "A_Q_run1#14",
+     "DUPLICATE",
+     "Q09"
+    ],
+    [
+     "A_Q_run1#15",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "A_Q_run1#16",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "A_Q_run1#17",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "A_Q_run1#18",
+     "NON_PLANT",
+     null
+    ]
+   ],
+   "label": "A",
+   "arm": "Q",
+   "kind": "planted"
+  },
+  {
+   "run": "A_Q_run2",
+   "rows": 24,
+   "declared": 24,
+   "count_mismatch": false,
+   "auto_hits_overruled": [],
+   "hits": [
+    "C01",
+    "C02",
+    "N03",
+    "Q05",
+    "Q09",
+    "Q16"
+   ],
+   "misses": [
+    "Q15"
+   ],
+   "pending_plants": [],
+   "duplicates": [
+    "A_Q_run2#22"
+   ],
+   "non_plant": [
+    [
+     "A_Q_run2#2",
+     "PREEXISTING",
+     "a2:report/report.html:82:counts-use-unstated-tolerance"
+    ],
+    [
+     "A_Q_run2#3",
+     "FP",
+     null
+    ],
+    [
+     "A_Q_run2#4",
+     "PREEXISTING",
+     "a2:report/report.html:98:every-cycle-only-nine-sampled"
+    ],
+    [
+     "A_Q_run2#5",
+     "PREEXISTING",
+     "a1:report/report.html:85:sign-flip-delta-unstated"
+    ],
+    [
+     "A_Q_run2#7",
+     "FP",
+     null
+    ],
+    [
+     "A_Q_run2#8",
+     "FP",
+     null
+    ],
+    [
+     "A_Q_run2#9",
+     "PREEXISTING",
+     "a1:report/report.html:123:flash-beat-blind-twin"
+    ],
+    [
+     "A_Q_run2#12",
+     "FP",
+     null
+    ],
+    [
+     "A_Q_run2#13",
+     "FP",
+     null
+    ],
+    [
+     "A_Q_run2#15",
+     "FP",
+     null
+    ],
+    [
+     "A_Q_run2#16",
+     "FP",
+     null
+    ],
+    [
+     "A_Q_run2#18",
+     "PREEXISTING",
+     "a1:FORM_ANSWERS.md:80:consistent-with-not-licensed"
+    ],
+    [
+     "A_Q_run2#19",
+     "FP",
+     null
+    ],
+    [
+     "A_Q_run2#20",
+     "FP",
+     null
+    ],
+    [
+     "A_Q_run2#21",
+     "FP",
+     null
+    ],
+    [
+     "A_Q_run2#23",
+     "FP",
+     null
+    ],
+    [
+     "A_Q_run2#24",
+     "FP",
+     null
+    ]
+   ],
+   "findings": [
+    [
+     "A_Q_run2#1",
+     "AUTO_HIT",
+     "Q16"
+    ],
+    [
+     "A_Q_run2#2",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "A_Q_run2#3",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "A_Q_run2#4",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "A_Q_run2#5",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "A_Q_run2#6",
+     "AUTO_HIT",
+     "Q05"
+    ],
+    [
+     "A_Q_run2#7",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "A_Q_run2#8",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "A_Q_run2#9",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "A_Q_run2#10",
+     "AUTO_HIT",
+     "C02"
+    ],
+    [
+     "A_Q_run2#11",
+     "AUTO_HIT",
+     "N03"
+    ],
+    [
+     "A_Q_run2#12",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "A_Q_run2#13",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "A_Q_run2#14",
+     "AUTO_HIT",
+     "Q09"
+    ],
+    [
+     "A_Q_run2#15",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "A_Q_run2#16",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "A_Q_run2#17",
+     "AUTO_HIT",
+     "C01"
+    ],
+    [
+     "A_Q_run2#18",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "A_Q_run2#19",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "A_Q_run2#20",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "A_Q_run2#21",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "A_Q_run2#22",
+     "DUPLICATE",
+     "Q09"
+    ],
+    [
+     "A_Q_run2#23",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "A_Q_run2#24",
+     "NON_PLANT",
+     null
+    ]
+   ],
+   "label": "A",
+   "arm": "Q",
+   "kind": "planted"
+  },
+  {
+   "run": "B_G_run1",
+   "rows": 7,
+   "declared": 7,
+   "count_mismatch": false,
+   "auto_hits_overruled": [],
+   "hits": [
+    "C03",
+    "N01",
+    "N02",
+    "Q07",
+    "Q11"
+   ],
+   "misses": [
+    "Q02",
+    "Q08",
+    "Q10"
+   ],
+   "pending_plants": [],
+   "duplicates": [],
+   "non_plant": [
+    [
+     "B_G_run1#5",
+     "PREEXISTING",
+     "a1:report/report.html:85:sign-flip-delta-unstated"
+    ],
+    [
+     "B_G_run1#7",
+     "PREEXISTING",
+     "a1:FORM_ANSWERS.md:80:consistent-with-not-licensed"
+    ]
+   ],
+   "findings": [
+    [
+     "B_G_run1#1",
+     "AUTO_HIT",
+     "N01"
+    ],
+    [
+     "B_G_run1#2",
+     "AUTO_HIT",
+     "C03"
+    ],
+    [
+     "B_G_run1#3",
+     "ADJ_HIT",
+     "N02"
+    ],
+    [
+     "B_G_run1#4",
+     "AUTO_HIT",
+     "Q11"
+    ],
+    [
+     "B_G_run1#5",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "B_G_run1#6",
+     "AUTO_HIT",
+     "Q07"
+    ],
+    [
+     "B_G_run1#7",
+     "NON_PLANT",
+     null
+    ]
+   ],
+   "label": "B",
+   "arm": "G",
+   "kind": "planted"
+  },
+  {
+   "run": "B_G_run2",
+   "rows": 18,
+   "declared": 18,
+   "count_mismatch": false,
+   "auto_hits_overruled": [],
+   "hits": [
+    "C03",
+    "N01",
+    "N02",
+    "Q11"
+   ],
+   "misses": [
+    "Q02",
+    "Q07",
+    "Q08",
+    "Q10"
+   ],
+   "pending_plants": [],
+   "duplicates": [],
+   "non_plant": [
+    [
+     "B_G_run2#2",
+     "FP",
+     null
+    ],
+    [
+     "B_G_run2#3",
+     "PREEXISTING",
+     "a1:report/report.html:123:flash-beat-blind-twin"
+    ],
+    [
+     "B_G_run2#4",
+     "PREEXISTING",
+     "a2:report/report.html:54:bandwidth-specificity-unsupported"
+    ],
+    [
+     "B_G_run2#5",
+     "PREEXISTING",
+     "a2:report/report.html:56:ordering-calibration-limits-omitted"
+    ],
+    [
+     "B_G_run2#7",
+     "PREEXISTING",
+     "a1:report/report.html:85:sign-flip-delta-unstated"
+    ],
+    [
+     "B_G_run2#8",
+     "PREEXISTING",
+     "a1:report/report.html:95:stage1-plan-conflicts-decision-path"
+    ],
+    [
+     "B_G_run2#9",
+     "PREEXISTING",
+     "a1:report/report.html:95:stage1-plan-conflicts-decision-path"
+    ],
+    [
+     "B_G_run2#10",
+     "PREEXISTING",
+     "a2:report/report.html:82:counts-use-unstated-tolerance"
+    ],
+    [
+     "B_G_run2#11",
+     "PREEXISTING",
+     "a1:FORM_ANSWERS.md:141:stage1-plan-inconsistent"
+    ],
+    [
+     "B_G_run2#13",
+     "PREEXISTING",
+     "a1:FORM_ANSWERS.md:160:minus-one-example-misleading"
+    ],
+    [
+     "B_G_run2#15",
+     "FP",
+     null
+    ],
+    [
+     "B_G_run2#16",
+     "FP",
+     null
+    ],
+    [
+     "B_G_run2#17",
+     "FP",
+     null
+    ],
+    [
+     "B_G_run2#18",
+     "FP",
+     null
+    ]
+   ],
+   "findings": [
+    [
+     "B_G_run2#1",
+     "AUTO_HIT",
+     "N01"
+    ],
+    [
+     "B_G_run2#2",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "B_G_run2#3",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "B_G_run2#4",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "B_G_run2#5",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "B_G_run2#6",
+     "AUTO_HIT",
+     "C03"
+    ],
+    [
+     "B_G_run2#7",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "B_G_run2#8",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "B_G_run2#9",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "B_G_run2#10",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "B_G_run2#11",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "B_G_run2#12",
+     "AUTO_HIT",
+     "N02"
+    ],
+    [
+     "B_G_run2#13",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "B_G_run2#14",
+     "AUTO_HIT",
+     "Q11"
+    ],
+    [
+     "B_G_run2#15",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "B_G_run2#16",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "B_G_run2#17",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "B_G_run2#18",
+     "NON_PLANT",
+     null
+    ]
+   ],
+   "label": "B",
+   "arm": "G",
+   "kind": "planted"
+  },
+  {
+   "run": "B_Q_run1",
+   "rows": 23,
+   "declared": 23,
+   "count_mismatch": false,
+   "auto_hits_overruled": [],
+   "hits": [
+    "C03",
+    "N01",
+    "N02",
+    "Q07",
+    "Q11"
+   ],
+   "misses": [
+    "Q02",
+    "Q08",
+    "Q10"
+   ],
+   "pending_plants": [],
+   "duplicates": [],
+   "non_plant": [
+    [
+     "B_Q_run1#1",
+     "PREEXISTING",
+     "a2:report/report.html:54:bandwidth-specificity-unsupported"
+    ],
+    [
+     "B_Q_run1#2",
+     "PREEXISTING",
+     "a2:report/report.html:56:ordering-calibration-limits-omitted"
+    ],
+    [
+     "B_Q_run1#3",
+     "FP",
+     null
+    ],
+    [
+     "B_Q_run1#4",
+     "PREEXISTING",
+     "a2:report/report.html:82:counts-use-unstated-tolerance"
+    ],
+    [
+     "B_Q_run1#5",
+     "PREEXISTING",
+     "a1:report/report.html:85:sign-flip-delta-unstated"
+    ],
+    [
+     "B_Q_run1#6",
+     "FP",
+     null
+    ],
+    [
+     "B_Q_run1#7",
+     "FP",
+     null
+    ],
+    [
+     "B_Q_run1#8",
+     "PREEXISTING",
+     "a1:report/report.html:123:flash-beat-blind-twin"
+    ],
+    [
+     "B_Q_run1#11",
+     "FP",
+     null
+    ],
+    [
+     "B_Q_run1#13",
+     "FP",
+     null
+    ],
+    [
+     "B_Q_run1#14",
+     "FP",
+     null
+    ],
+    [
+     "B_Q_run1#15",
+     "FP",
+     null
+    ],
+    [
+     "B_Q_run1#16",
+     "FP",
+     null
+    ],
+    [
+     "B_Q_run1#19",
+     "PREEXISTING",
+     "a1:FORM_ANSWERS.md:80:consistent-with-not-licensed"
+    ],
+    [
+     "B_Q_run1#20",
+     "PREEXISTING",
+     "a2:report/report.html:98:every-cycle-only-nine-sampled"
+    ],
+    [
+     "B_Q_run1#21",
+     "FP",
+     null
+    ],
+    [
+     "B_Q_run1#22",
+     "PREEXISTING",
+     "a2:report/report.html:153:runtime-range-selective"
+    ],
+    [
+     "B_Q_run1#23",
+     "FP",
+     null
+    ]
+   ],
+   "findings": [
+    [
+     "B_Q_run1#1",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "B_Q_run1#2",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "B_Q_run1#3",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "B_Q_run1#4",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "B_Q_run1#5",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "B_Q_run1#6",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "B_Q_run1#7",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "B_Q_run1#8",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "B_Q_run1#9",
+     "AUTO_HIT",
+     "N01"
+    ],
+    [
+     "B_Q_run1#10",
+     "AUTO_HIT",
+     "Q07"
+    ],
+    [
+     "B_Q_run1#11",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "B_Q_run1#12",
+     "AUTO_HIT",
+     "C03"
+    ],
+    [
+     "B_Q_run1#13",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "B_Q_run1#14",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "B_Q_run1#15",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "B_Q_run1#16",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "B_Q_run1#17",
+     "ADJ_HIT",
+     "N02"
+    ],
+    [
+     "B_Q_run1#18",
+     "AUTO_HIT",
+     "Q11"
+    ],
+    [
+     "B_Q_run1#19",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "B_Q_run1#20",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "B_Q_run1#21",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "B_Q_run1#22",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "B_Q_run1#23",
+     "NON_PLANT",
+     null
+    ]
+   ],
+   "label": "B",
+   "arm": "Q",
+   "kind": "planted"
+  },
+  {
+   "run": "B_Q_run2",
+   "rows": 25,
+   "declared": 25,
+   "count_mismatch": false,
+   "auto_hits_overruled": [],
+   "hits": [
+    "C03",
+    "N01",
+    "N02",
+    "Q07",
+    "Q11"
+   ],
+   "misses": [
+    "Q02",
+    "Q08",
+    "Q10"
+   ],
+   "pending_plants": [],
+   "duplicates": [],
+   "non_plant": [
+    [
+     "B_Q_run2#1",
+     "PREEXISTING",
+     "a2:report/report.html:82:counts-use-unstated-tolerance"
+    ],
+    [
+     "B_Q_run2#2",
+     "PREEXISTING",
+     "a2:report/report.html:82:counts-use-unstated-tolerance"
+    ],
+    [
+     "B_Q_run2#3",
+     "PREEXISTING",
+     "a2:report/report.html:98:every-cycle-only-nine-sampled"
+    ],
+    [
+     "B_Q_run2#4",
+     "FP",
+     null
+    ],
+    [
+     "B_Q_run2#5",
+     "PREEXISTING",
+     "a2:report/report.html:89:signal-size-explanation-contradicted"
+    ],
+    [
+     "B_Q_run2#6",
+     "PREEXISTING",
+     "a1:report/report.html:85:sign-flip-delta-unstated"
+    ],
+    [
+     "B_Q_run2#7",
+     "FP",
+     null
+    ],
+    [
+     "B_Q_run2#8",
+     "PREEXISTING",
+     "a2:report/report.html:56:ordering-calibration-limits-omitted"
+    ],
+    [
+     "B_Q_run2#10",
+     "FP",
+     null
+    ],
+    [
+     "B_Q_run2#11",
+     "FP",
+     null
+    ],
+    [
+     "B_Q_run2#14",
+     "FP",
+     null
+    ],
+    [
+     "B_Q_run2#15",
+     "FP",
+     null
+    ],
+    [
+     "B_Q_run2#16",
+     "FP",
+     null
+    ],
+    [
+     "B_Q_run2#17",
+     "FP",
+     null
+    ],
+    [
+     "B_Q_run2#18",
+     "FP",
+     null
+    ],
+    [
+     "B_Q_run2#19",
+     "FP",
+     null
+    ],
+    [
+     "B_Q_run2#20",
+     "PREEXISTING",
+     "a1:FORM_ANSWERS.md:80:consistent-with-not-licensed"
+    ],
+    [
+     "B_Q_run2#21",
+     "FP",
+     null
+    ],
+    [
+     "B_Q_run2#22",
+     "FP",
+     null
+    ],
+    [
+     "B_Q_run2#24",
+     "FP",
+     null
+    ]
+   ],
+   "findings": [
+    [
+     "B_Q_run2#1",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "B_Q_run2#2",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "B_Q_run2#3",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "B_Q_run2#4",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "B_Q_run2#5",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "B_Q_run2#6",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "B_Q_run2#7",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "B_Q_run2#8",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "B_Q_run2#9",
+     "AUTO_HIT",
+     "C03"
+    ],
+    [
+     "B_Q_run2#10",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "B_Q_run2#11",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "B_Q_run2#12",
+     "AUTO_HIT",
+     "N01"
+    ],
+    [
+     "B_Q_run2#13",
+     "AUTO_HIT",
+     "Q07"
+    ],
+    [
+     "B_Q_run2#14",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "B_Q_run2#15",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "B_Q_run2#16",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "B_Q_run2#17",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "B_Q_run2#18",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "B_Q_run2#19",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "B_Q_run2#20",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "B_Q_run2#21",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "B_Q_run2#22",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "B_Q_run2#23",
+     "ADJ_HIT",
+     "N02"
+    ],
+    [
+     "B_Q_run2#24",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "B_Q_run2#25",
+     "AUTO_HIT",
+     "Q11"
+    ]
+   ],
+   "label": "B",
+   "arm": "Q",
+   "kind": "planted"
+  },
+  {
+   "run": "C_G_run1",
+   "rows": 15,
+   "declared": 15,
+   "count_mismatch": false,
+   "auto_hits_overruled": [],
+   "hits": [],
+   "misses": [],
+   "pending_plants": [],
+   "duplicates": [],
+   "non_plant": [
+    [
+     "C_G_run1#1",
+     "PREEXISTING",
+     "a2:report/report.html:82:counts-use-unstated-tolerance"
+    ],
+    [
+     "C_G_run1#2",
+     "PREEXISTING",
+     "a1:report/report.html:85:sign-flip-delta-unstated"
+    ],
+    [
+     "C_G_run1#3",
+     "PREEXISTING",
+     "a1:report/report.html:123:flash-beat-blind-twin"
+    ],
+    [
+     "C_G_run1#4",
+     "FP",
+     null
+    ],
+    [
+     "C_G_run1#5",
+     "PREEXISTING",
+     "a2:report/report.html:56:ordering-calibration-limits-omitted"
+    ],
+    [
+     "C_G_run1#6",
+     "PREEXISTING",
+     "a1:report/report.html:54:random-order-worse-at-chi8"
+    ],
+    [
+     "C_G_run1#7",
+     "FP",
+     null
+    ],
+    [
+     "C_G_run1#8",
+     "FP",
+     null
+    ],
+    [
+     "C_G_run1#9",
+     "FP",
+     null
+    ],
+    [
+     "C_G_run1#10",
+     "PREEXISTING",
+     "a1:FORM_ANSWERS.md:50:one-live-claim-inconsistent"
+    ],
+    [
+     "C_G_run1#11",
+     "PREEXISTING",
+     "a1:SUBMISSION_KIT.md:28:one-live-claim-inconsistent"
+    ],
+    [
+     "C_G_run1#12",
+     "FP",
+     null
+    ],
+    [
+     "C_G_run1#13",
+     "FP",
+     null
+    ],
+    [
+     "C_G_run1#14",
+     "UNRESOLVED",
+     null
+    ],
+    [
+     "C_G_run1#15",
+     "PREEXISTING",
+     "a1:FORM_ANSWERS.md:160:minus-one-example-misleading"
+    ]
+   ],
+   "findings": [
+    [
+     "C_G_run1#1",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "C_G_run1#2",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "C_G_run1#3",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "C_G_run1#4",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "C_G_run1#5",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "C_G_run1#6",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "C_G_run1#7",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "C_G_run1#8",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "C_G_run1#9",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "C_G_run1#10",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "C_G_run1#11",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "C_G_run1#12",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "C_G_run1#13",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "C_G_run1#14",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "C_G_run1#15",
+     "NON_PLANT",
+     null
+    ]
+   ],
+   "label": "C",
+   "arm": "G",
+   "kind": "placebo"
+  },
+  {
+   "run": "C_G_run2",
+   "rows": 21,
+   "declared": 21,
+   "count_mismatch": false,
+   "auto_hits_overruled": [],
+   "hits": [],
+   "misses": [],
+   "pending_plants": [],
+   "duplicates": [],
+   "non_plant": [
+    [
+     "C_G_run2#1",
+     "FP",
+     null
+    ],
+    [
+     "C_G_run2#2",
+     "FP",
+     null
+    ],
+    [
+     "C_G_run2#3",
+     "PREEXISTING",
+     "a2:report/report.html:54:bandwidth-specificity-unsupported"
+    ],
+    [
+     "C_G_run2#4",
+     "PREEXISTING",
+     "a2:report/report.html:56:ordering-calibration-limits-omitted"
+    ],
+    [
+     "C_G_run2#5",
+     "PREEXISTING",
+     "a1:report/report.html:85:sign-flip-delta-unstated"
+    ],
+    [
+     "C_G_run2#6",
+     "FP",
+     null
+    ],
+    [
+     "C_G_run2#7",
+     "FP",
+     null
+    ],
+    [
+     "C_G_run2#8",
+     "FP",
+     null
+    ],
+    [
+     "C_G_run2#9",
+     "PREEXISTING",
+     "a1:FORM_ANSWERS.md:80:consistent-with-not-licensed"
+    ],
+    [
+     "C_G_run2#10",
+     "PREEXISTING",
+     "a2:FORM_ANSWERS.md:102:stage1-gonogo-plan-conflict"
+    ],
+    [
+     "C_G_run2#11",
+     "PREEXISTING",
+     "a1:report/report.html:95:stage1-plan-conflicts-decision-path"
+    ],
+    [
+     "C_G_run2#12",
+     "PREEXISTING",
+     "a2:report/report.html:89:signal-size-explanation-contradicted"
+    ],
+    [
+     "C_G_run2#13",
+     "FP",
+     null
+    ],
+    [
+     "C_G_run2#14",
+     "FP",
+     null
+    ],
+    [
+     "C_G_run2#15",
+     "FP",
+     null
+    ],
+    [
+     "C_G_run2#16",
+     "FP",
+     null
+    ],
+    [
+     "C_G_run2#17",
+     "UNRESOLVED",
+     null
+    ],
+    [
+     "C_G_run2#18",
+     "PREEXISTING",
+     "a2:report/report.html:153:runtime-range-selective"
+    ],
+    [
+     "C_G_run2#19",
+     "PREEXISTING",
+     "a2:FORM_ANSWERS.md:173:runtime-range-selective"
+    ],
+    [
+     "C_G_run2#20",
+     "PREEXISTING",
+     "a2:FORM_ANSWERS.md:179:qpu-cost-from-selective-range"
+    ],
+    [
+     "C_G_run2#21",
+     "UNRESOLVED",
+     null
+    ]
+   ],
+   "findings": [
+    [
+     "C_G_run2#1",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "C_G_run2#2",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "C_G_run2#3",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "C_G_run2#4",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "C_G_run2#5",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "C_G_run2#6",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "C_G_run2#7",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "C_G_run2#8",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "C_G_run2#9",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "C_G_run2#10",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "C_G_run2#11",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "C_G_run2#12",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "C_G_run2#13",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "C_G_run2#14",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "C_G_run2#15",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "C_G_run2#16",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "C_G_run2#17",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "C_G_run2#18",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "C_G_run2#19",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "C_G_run2#20",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "C_G_run2#21",
+     "NON_PLANT",
+     null
+    ]
+   ],
+   "label": "C",
+   "arm": "G",
+   "kind": "placebo"
+  },
+  {
+   "run": "C_Q_run1",
+   "rows": 21,
+   "declared": 21,
+   "count_mismatch": false,
+   "auto_hits_overruled": [],
+   "hits": [],
+   "misses": [],
+   "pending_plants": [],
+   "duplicates": [],
+   "non_plant": [
+    [
+     "C_Q_run1#1",
+     "PREEXISTING",
+     "a2:report/report.html:54:bandwidth-specificity-unsupported"
+    ],
+    [
+     "C_Q_run1#2",
+     "PREEXISTING",
+     "a2:report/report.html:82:counts-use-unstated-tolerance"
+    ],
+    [
+     "C_Q_run1#3",
+     "PREEXISTING",
+     "a1:report/report.html:85:sign-flip-delta-unstated"
+    ],
+    [
+     "C_Q_run1#4",
+     "PREEXISTING",
+     "a2:report/report.html:89:signal-size-explanation-contradicted"
+    ],
+    [
+     "C_Q_run1#5",
+     "PREEXISTING",
+     "a2:report/report.html:98:every-cycle-only-nine-sampled"
+    ],
+    [
+     "C_Q_run1#6",
+     "FP",
+     null
+    ],
+    [
+     "C_Q_run1#7",
+     "PREEXISTING",
+     "a1:report/report.html:123:flash-beat-blind-twin"
+    ],
+    [
+     "C_Q_run1#8",
+     "PREEXISTING",
+     "a1:report/report.html:95:stage1-plan-conflicts-decision-path"
+    ],
+    [
+     "C_Q_run1#9",
+     "PREEXISTING",
+     "a1:FORM_ANSWERS.md:141:stage1-plan-inconsistent"
+    ],
+    [
+     "C_Q_run1#10",
+     "FP",
+     null
+    ],
+    [
+     "C_Q_run1#11",
+     "FP",
+     null
+    ],
+    [
+     "C_Q_run1#12",
+     "PREEXISTING",
+     "a2:report/report.html:153:runtime-range-selective"
+    ],
+    [
+     "C_Q_run1#13",
+     "PREEXISTING",
+     "a2:FORM_ANSWERS.md:173:runtime-range-selective"
+    ],
+    [
+     "C_Q_run1#14",
+     "FP",
+     null
+    ],
+    [
+     "C_Q_run1#15",
+     "FP",
+     null
+    ],
+    [
+     "C_Q_run1#16",
+     "FP",
+     null
+    ],
+    [
+     "C_Q_run1#17",
+     "FP",
+     null
+    ],
+    [
+     "C_Q_run1#18",
+     "FP",
+     null
+    ],
+    [
+     "C_Q_run1#19",
+     "PREEXISTING",
+     "a1:FORM_ANSWERS.md:80:consistent-with-not-licensed"
+    ],
+    [
+     "C_Q_run1#20",
+     "PREEXISTING",
+     "a1:FORM_ANSWERS.md:160:minus-one-example-misleading"
+    ],
+    [
+     "C_Q_run1#21",
+     "FP",
+     null
+    ]
+   ],
+   "findings": [
+    [
+     "C_Q_run1#1",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "C_Q_run1#2",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "C_Q_run1#3",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "C_Q_run1#4",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "C_Q_run1#5",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "C_Q_run1#6",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "C_Q_run1#7",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "C_Q_run1#8",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "C_Q_run1#9",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "C_Q_run1#10",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "C_Q_run1#11",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "C_Q_run1#12",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "C_Q_run1#13",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "C_Q_run1#14",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "C_Q_run1#15",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "C_Q_run1#16",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "C_Q_run1#17",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "C_Q_run1#18",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "C_Q_run1#19",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "C_Q_run1#20",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "C_Q_run1#21",
+     "NON_PLANT",
+     null
+    ]
+   ],
+   "label": "C",
+   "arm": "Q",
+   "kind": "placebo"
+  },
+  {
+   "run": "C_Q_run2",
+   "rows": 20,
+   "declared": 20,
+   "count_mismatch": false,
+   "auto_hits_overruled": [],
+   "hits": [],
+   "misses": [],
+   "pending_plants": [],
+   "duplicates": [],
+   "non_plant": [
+    [
+     "C_Q_run2#1",
+     "FP",
+     null
+    ],
+    [
+     "C_Q_run2#2",
+     "PREEXISTING",
+     "a2:report/report.html:54:bandwidth-specificity-unsupported"
+    ],
+    [
+     "C_Q_run2#3",
+     "PREEXISTING",
+     "a2:report/report.html:56:ordering-calibration-limits-omitted"
+    ],
+    [
+     "C_Q_run2#4",
+     "PREEXISTING",
+     "a2:report/report.html:82:counts-use-unstated-tolerance"
+    ],
+    [
+     "C_Q_run2#5",
+     "PREEXISTING",
+     "a1:report/report.html:85:sign-flip-delta-unstated"
+    ],
+    [
+     "C_Q_run2#6",
+     "FP",
+     null
+    ],
+    [
+     "C_Q_run2#7",
+     "FP",
+     null
+    ],
+    [
+     "C_Q_run2#8",
+     "FP",
+     null
+    ],
+    [
+     "C_Q_run2#9",
+     "FP",
+     null
+    ],
+    [
+     "C_Q_run2#10",
+     "PREEXISTING",
+     "a2:report/report.html:153:runtime-range-selective"
+    ],
+    [
+     "C_Q_run2#11",
+     "FP",
+     null
+    ],
+    [
+     "C_Q_run2#12",
+     "FP",
+     null
+    ],
+    [
+     "C_Q_run2#13",
+     "FP",
+     null
+    ],
+    [
+     "C_Q_run2#14",
+     "FP",
+     null
+    ],
+    [
+     "C_Q_run2#15",
+     "PREEXISTING",
+     "a1:FORM_ANSWERS.md:80:consistent-with-not-licensed"
+    ],
+    [
+     "C_Q_run2#16",
+     "FP",
+     null
+    ],
+    [
+     "C_Q_run2#17",
+     "PREEXISTING",
+     "a1:FORM_ANSWERS.md:160:minus-one-example-misleading"
+    ],
+    [
+     "C_Q_run2#18",
+     "PREEXISTING",
+     "a2:FORM_ANSWERS.md:173:runtime-range-selective"
+    ],
+    [
+     "C_Q_run2#19",
+     "UNRESOLVED",
+     null
+    ],
+    [
+     "C_Q_run2#20",
+     "PREEXISTING",
+     "a1:RESULT_CHI1024.md:34:stale-form-line-reference"
+    ]
+   ],
+   "findings": [
+    [
+     "C_Q_run2#1",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "C_Q_run2#2",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "C_Q_run2#3",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "C_Q_run2#4",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "C_Q_run2#5",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "C_Q_run2#6",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "C_Q_run2#7",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "C_Q_run2#8",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "C_Q_run2#9",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "C_Q_run2#10",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "C_Q_run2#11",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "C_Q_run2#12",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "C_Q_run2#13",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "C_Q_run2#14",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "C_Q_run2#15",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "C_Q_run2#16",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "C_Q_run2#17",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "C_Q_run2#18",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "C_Q_run2#19",
+     "NON_PLANT",
+     null
+    ],
+    [
+     "C_Q_run2#20",
+     "NON_PLANT",
+     null
+    ]
+   ],
+   "label": "C",
+   "arm": "Q",
+   "kind": "placebo"
+  }
+ ],
+ "missing": [],
+ "summary": {
+  "runs_valid_G": {
+   "planted": 4,
+   "placebo": 2
+  },
+  "runs_missing_G": [],
+  "runs_valid_Q": {
+   "planted": 4,
+   "placebo": 2
+  },
+  "runs_missing_Q": [],
+  "instrument_failure": [],
+  "qual_recall": {
+   "G": 0.444,
+   "Q": 0.5
+  },
+  "qual_counts": {
+   "G": "8/18",
+   "Q": "9/18"
+  },
+  "qual_ci": {
+   "G": [
+    0.167,
+    0.722
+   ],
+   "Q": [
+    0.222,
+    0.833
+   ],
+   "diff": [
+    -0.111,
+    0.222
+   ]
+  },
+  "qual_diff": 0.056,
+  "qual_diff_ci": [
+   -0.111,
+   0.222
+  ],
+  "other_recall": {
+   "G": 1.0,
+   "Q": 1.0
+  },
+  "other_counts": {
+   "G": "12/12",
+   "Q": "12/12"
+  },
+  "qual_recall_pending_hit": {
+   "G": 0.444,
+   "Q": 0.5
+  },
+  "qual_counts_pending_hit": {
+   "G": "8/18",
+   "Q": "9/18"
+  },
+  "qual_ci_pending_hit": {
+   "G": [
+    0.167,
+    0.722
+   ],
+   "Q": [
+    0.222,
+    0.833
+   ],
+   "diff": [
+    -0.111,
+    0.222
+   ]
+  },
+  "qual_diff_pending_hit": 0.056,
+  "qual_diff_ci_pending_hit": [
+   -0.111,
+   0.222
+  ],
+  "other_recall_pending_hit": {
+   "G": 1.0,
+   "Q": 1.0
+  },
+  "other_counts_pending_hit": {
+   "G": "12/12",
+   "Q": "12/12"
+  },
+  "qual_distinct_plants": 9,
+  "other_distinct_plants": 6,
+  "by_cross_doc_tell": {
+   "False": {
+    "G": "11/14",
+    "Q": "12/14"
+   },
+   "True": {
+    "G": "9/16",
+    "Q": "9/16"
+   }
+  },
+  "by_restriction": {
+   "-": {
+    "G": "12/12",
+    "Q": "12/12"
+   },
+   "conditions": {
+    "G": "3/6",
+    "Q": "4/6"
+   },
+   "depth": {
+    "G": "2/2",
+    "Q": "2/2"
+   },
+   "parameter regime": {
+    "G": "0/2",
+    "Q": "0/2"
+   },
+   "post-hoc status": {
+    "G": "1/2",
+    "Q": "2/2"
+   },
+   "scope": {
+    "G": "2/6",
+    "Q": "1/6"
+   }
+  },
+  "by_cls": {
+   "citation_overreach": {
+    "G": "6/6",
+    "Q": "6/6"
+   },
+   "dropped_qualifier": {
+    "G": "8/18",
+    "Q": "9/18"
+   },
+   "wrong_number": {
+    "G": "6/6",
+    "Q": "6/6"
+   }
+  },
+  "by_id": {
+   "C01": {
+    "G": "2/2",
+    "Q": "2/2"
+   },
+   "C02": {
+    "G": "2/2",
+    "Q": "2/2"
+   },
+   "C03": {
+    "G": "2/2",
+    "Q": "2/2"
+   },
+   "N01": {
+    "G": "2/2",
+    "Q": "2/2"
+   },
+   "N02": {
+    "G": "2/2",
+    "Q": "2/2"
+   },
+   "N03": {
+    "G": "2/2",
+    "Q": "2/2"
+   },
+   "Q02": {
+    "G": "0/2",
+    "Q": "0/2"
+   },
+   "Q05": {
+    "G": "2/2",
+    "Q": "2/2"
+   },
+   "Q07": {
+    "G": "1/2",
+    "Q": "2/2"
+   },
+   "Q08": {
+    "G": "0/2",
+    "Q": "0/2"
+   },
+   "Q09": {
+    "G": "1/2",
+    "Q": "2/2"
+   },
+   "Q10": {
+    "G": "0/2",
+    "Q": "0/2"
+   },
+   "Q11": {
+    "G": "2/2",
+    "Q": "2/2"
+   },
+   "Q15": {
+    "G": "0/2",
+    "Q": "0/2"
+   },
+   "Q16": {
+    "G": "2/2",
+    "Q": "1/2"
+   }
+  },
+  "unique_qual_caught_any_run": {
+   "G": 5,
+   "Q": 5
+  },
+  "pending_plant_runs": {
+   "G": 0,
+   "Q": 0
+  },
+  "auto_hits_overruled": {
+   "G": 0,
+   "Q": 0
+  },
+  "fp_upper": {
+   "G": 9.0,
+   "Q": 10.0
+  },
+  "fp_lower": {
+   "G": 7.5,
+   "Q": 9.5
+  },
+  "nonplant_placebo_G": {
+   "PREEXISTING": 18,
+   "FP": 15,
+   "UNRESOLVED": 3,
+   "MISLOCATED": 0,
+   "PENDING": 0
+  },
+  "nonplant_planted_G": {
+   "PREEXISTING": 29,
+   "FP": 15,
+   "UNRESOLVED": 0,
+   "MISLOCATED": 0,
+   "PENDING": 0
+  },
+  "fp_planted_per_run_G": 3.75,
+  "rows_per_run_G": {
+   "placebo": [
+    15,
+    21
+   ],
+   "planted": [
+    15,
+    25,
+    7,
+    18
+   ]
+  },
+  "placebo_pending_G": 0,
+  "nonplant_placebo_Q": {
+   "PREEXISTING": 21,
+   "FP": 19,
+   "UNRESOLVED": 1,
+   "MISLOCATED": 0,
+   "PENDING": 0
+  },
+  "nonplant_planted_Q": {
+   "PREEXISTING": 26,
+   "FP": 41,
+   "UNRESOLVED": 0,
+   "MISLOCATED": 0,
+   "PENDING": 0
+  },
+  "fp_planted_per_run_Q": 10.25,
+  "rows_per_run_Q": {
+   "placebo": [
+    21,
+    20
+   ],
+   "planted": [
+    18,
+    24,
+    23,
+    25
+   ]
+  },
+  "placebo_pending_Q": 0,
+  "count_mismatch_runs": [],
+  "verdict": "NO_IMPROVEMENT",
+  "verdict_text": [
+   "No improvement: the qualifier procedure did not raise deleted-qualifier recall by the pre-registered 0.3 over the generic brief. This does not support adding it to our verification protocol as a fix for dropped qualifiers.",
+   "On the unmodified placebo copy, verifiers reported 10.0 (Q) vs 9.0 (G) false findings per run counting unresolved (FP only: 9.5 vs 7.5).",
+   "This tests one procedure on one document set, with 9 distinct deleted-qualifier plants and 2 runs per copy per arm; it is not a general claim about AI verification."
+  ]
+ }
+}

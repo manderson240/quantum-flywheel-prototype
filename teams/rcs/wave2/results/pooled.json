@@ -1,0 +1,44 @@
+{
+ "3-patch": {
+  "mine": {
+   "fidelity": {
+    "mine": 0.001839052397648685,
+    "released": 0.0018390523976486782,
+    "rho": 3.6551723474571e-15,
+    "tier": "EXACT"
+   },
+   "se": {
+    "mine": 4.085052970054307e-05,
+    "released": 4.0850529700543075e-05,
+    "rho": 1.6587945438426758e-16,
+    "tier": "EXACT"
+   }
+  },
+  "pooling_rule_on_released_records": {
+   "fidelity": 0.0018390523976486782,
+   "se": 4.0850529700543075e-05,
+   "rho_vs_fidelity_vs_depth_json": 0.0
+  }
+ },
+ "4-patch": {
+  "mine": {
+   "fidelity": {
+    "mine": 0.001999385896123155,
+    "released": 0.001999385896123157,
+    "rho": 8.676281448921218e-16,
+    "tier": "EXACT"
+   },
+   "se": {
+    "mine": 3.216069760032845e-05,
+    "released": 3.216069760032846e-05,
+    "rho": 2.1070014283412795e-16,
+    "tier": "EXACT"
+   }
+  },
+  "pooling_rule_on_released_records": {
+   "fidelity": 0.001999385896123157,
+   "se": 3.216069760032846e-05,
+   "rho_vs_fidelity_vs_depth_json": 0.0
+  }
+ }
+}

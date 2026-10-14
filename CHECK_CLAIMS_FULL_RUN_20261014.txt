@@ -1,0 +1,155 @@
+PASS Pauli-path max err 5.8e-2 at δ=1e-3  -> 0.057929964849169124
+PASS Pauli-path max err 4.7e-3 at δ=1e-4  -> 0.004672532721227196
+PASS Pauli-path bias one-directional
+PASS θ=0 gives <M>=1 on every backend
+PASS bandwidth native 13 / rcm 3  -> {'native': 13, 'rcm': 3, 'random': 16}
+PASS index-order χ=128 error 0.085 (π/4)
+PASS index-order χ=128 error 0.285 (3π/8)
+PASS RCM χ=128 error 3.6e-4 (π/4)
+PASS RCM χ=128 error 0.017 (3π/8)
+PASS improvement 235x and 17x  -> [235.22762954860454, 16.729708654254566]
+PASS ~4x faster (4-5x)  -> [5.102564102564102, 4.16]
+PASS wall 5 s vs 21 s (3π/8)
+PASS RCM χ=16 beats index order χ=128
+PASS random order no worse than index order at χ=128
+PASS OTOC1 exactly 1 up to 6 cycles
+PASS OTOC1 ~0 at 8 cycles
+PASS OTOC1 c10 exact 0.302
+PASS OTOC1 c10 Pauli-path 0.000/0.195/0.304
+PASS OTOC1 c10 MPS 0.038/0.714/0.302
+PASS 12 OTOC2 instances
+PASS table row pp_0.01  -> (1, 0.345, 1.0)
+PASS table row pp_0.001  -> (2, 0.212, 1.0)
+PASS table row pp_0.0003  -> (5, 0.122, 1.0)
+PASS table row mps_4  -> (2, 0.158, 0.847)
+PASS table row mps_16  -> (3, 0.101, 0.399)
+PASS table row mps_64  -> (11, 0.004, 0.029)
+PASS Pauli-path δ=3e-4 returns exactly 0 on 4/12; truths -1.000,-0.141,-0.130,-0.002  -> [-1.0, -0.141, -0.13, -0.002]
+PASS stopping rule: Pauli-path converged 7/12, 4 wrong  -> (7, 4)
+PASS one wrong case is 0.001 reported vs 0.045 true
+PASS stopping rule: MPS converged 3/12, 0 wrong  -> (3, 0)
+PASS seed 11 c9 MPS 0.001/0.566/0.438, exact 0.438
+PASS every recorded job cost 0.0  -> {0.0}
+PASS OLE 49x1296 estimates span 0.62-0.94  -> (0.619, 0.94257142)
+PASS Floquet ZZd3: SPP 0.183 on 65,536 Fugaku cores
+PASS Floquet ZZd3: QESEM 0.211 +/- 0.013, SPP outside
+PASS six active candidates with no submission  -> ['operator_loschmidt_echo_56x1488', 'su2_hadron_dynamics_lsh_x_100_SCV', 'floquet_mixed_field_ising_mag_51qx16c', 'floquet_mixed_field_ising_zzd2_51qx16c', 'floquet_mixed_field_ising_mag_51qx30c', 'floquet_mixed_field_ising_mag_74qx27c']
+PASS tracker QPU runtimes 68.7-103.8 min per point  -> (68.66666666666667, 103.8)
+PASS => $6.6K-10K at $96/min
+PASS 19q pau_0.001: magnitude too low 27x, never too high  -> (27, 0)
+PASS 19q pau_0.0001: magnitude too low 25x, never too high  -> (25, 0)
+PASS 19q mps_16: magnitude never too low (26 too high)  -> (26, 0)
+PASS 19q mps_64: magnitude never too low (26 too high)  -> (26, 0)
+PASS 19q setting-pair containments 80/80 (not quoted; distinct-point check below)  -> (80, 80)
+PASS 19q exact inside bracket at 27/27 distinct points
+PASS 19q 21/21 two-sided points contained
+PASS 19q one MPS job terminated by server
+PASS 19q MPS too high 52 of 53  -> (52, 53)
+PASS 19q Pauli-path non-trivial cases = 54  -> 54
+PASS 51q sweep: 96 jobs, 0 failures, all $0
+PASS 51q cycle 1 mag: 0.4054 vs 0.4059
+PASS published values transcribed from tracker README
+PASS 51q bracket consistent with all 20 published values  -> (20, 20)
+PASS 51q: 12 of 20 one-sided (zero lower edge), 8 two-sided  -> 12
+PASS 51q cycle 1 zzd2 0.1623-0.1685, zzd3 0.1549-0.1713
+PASS 51q Pauli-path negative value -0.0455 at cycle 2 (mag, δ=1e-3)
+PASS 51q bracket width 0.35-0.45  -> (0.35251105102360797, 0.44902546886058675)
+PASS chi 64->256 lowers upper edge 0.07-0.09 at cycle 16  -> [0.07386922968672494, 0.07102826452757272, 0.08547892390280426]
+PASS (4.7,0.3): 26/27 in bracket (magnitude rule), one miss by 0.004, MPS never below truth (0/18)  -> (26, 0.004, 0, 18, 0.029)
+PASS (2.4,0.9): 20/27 in bracket, misses up to 0.058, MPS below truth at 4/15, median |exact| 0.055  -> (20, 0.058, 4, 15, 0.055)
+PASS tracker params: 27/27 in bracket under the magnitude rule, MPS never below truth  -> (27, -0.005, 0, 27, 0.289)
+PASS tracker params median |exact| 0.289
+PASS stress-test colouring differs from default
+PASS stress tests: 216 jobs, 0 job errors
+PASS pilot table 81 x 9, no failed runs
+PASS prereg + prompt hashes as frozen
+PASS pilot: 60 non-trivial, 48% solvable in budget  -> (60, 29)
+PASS pilot grid -0.500 12/42/6  -> (-0.5, 12, 42, 6)
+PASS pilot rule +0.117 8/1/51  -> (0.117, 8, 1, 51)
+PASS pilot local agent -0.039 0/5/173
+PASS pilot flash agent -0.167 42/61/66
+PASS pilot pro agent +0.039 15/3/157
+PASS pilot hindsight best single -0.233 23/37/0
+PASS pilot random median seed -0.367  -> -0.36666666666666664
+PASS pilot CI local-rule [-0.281,-0.056]  -> (-0.28148148148148144, -0.05555555555555555)
+PASS pilot CI pro-rule [-0.200,-0.005]  -> (-0.2, -0.004830917874396143)
+PASS flash: both families before 92/103 reports; 89 despite disagreement (38 right, 51 wrong)  -> (92, 103, 89, 38)
+PASS post-hoc gated agents +0.050..+0.083, 9/9 positive, all below rule  -> [0.083, 0.067, 0.083, 0.05, 0.05, 0.083, 0.083, 0.083, 0.083]
+PASS pilot2: best textbook orderings within 0.01-0.05 log10 at every chi, both lattices  -> [0.021, 0.023, 0.05, 0.02, 0.02, 0.013]
+PASS 19q upper-edge excess 0.283/0.207/0.139/0.065 (chi 16..128)  -> {16: 0.28325401696956154, 32: 0.20682995242404562, 64: 0.138989806730198, 128: 0.06540854994494821}
+PASS x0.62 per doubling of chi  -> 0.6191195030008577
+PASS naive extrapolation chi ~4,000-8,000 at cycle 16  -> [7937, 5676, 4415]
+PASS converged 51q mag at cycle 2 = +0.179 (chi 64 = chi 256)
+PASS about 1,600 BlueQubit jobs (account history, Sep 22-27)  -> (1640, 'constructed', 1497)
+PASS 2607.24937 App K.4: MPS bond ladder up to chi=4096 at Nq=51 and 74
+PASS 2607.24937 App K.4: device-index snake ordering
+PASS report + form disclose BlueQubit co-authorship of the Floquet candidate
+PASS tracker 51q labels already have RCM's cutwidth (4)
+PASS Floquet 19q: RCM beats cutwidth-18 native by only 1.6-2.2x  -> [1.64, 1.84, 2.19]
+PASS angle convention: tracker theta_x per cycle /3 = QASM rx = ~pi/6 (paper, per layer)  -> 0.5218893140942666
+PASS abstract ~350 words
+PASS RGS plain: all 140 non-Clifford ops after each qubit's last CZ (Clifford state, non-Clifford product basis)
+PASS RGS doped: 468 T-type rotations, 406 in the bulk
+PASS CV tracker: 4 active (P11, P12, RGS, doped RGS)  -> ['doped_random_graph_sampling_nq70_depth70_checks27', 'peaked_circuit_P11_Hqap_98x1999', 'peaked_circuit_P12_Hqap_98x2457', 'random_graph_sampling_nq70_depth70_checks27_basis_fstate']
+PASS 2608.13110: 70q/468 T, width ceil(d/2), cost independent of one-qubit gates and T placement
+PASS 2608.13110: ~160 H100-hours = 37.3 min x 32 nodes x 8 GPUs  -> 159.1
+PASS issue #151: 1,726 published samples of the undoped instance; XEB criterion 0.092
+PASS undoped RGS has the identical ordered 2,415-CZ sequence as the doped circuit Manabe et al. contracted
+PASS undoped cost estimate ~134 H100-h = 1,726 samples x measured ~280 GPU-s per amplitude batch  -> 133.9
+PASS reproduced Manabe et al. log-XEB 0.3503 from their released amplitudes  -> 0.35033801198005676
+PASS our spatial-sweep reimplementation matches exact statevector on an 8-qubit slice of IBM's undoped circuit
+PASS chi=512: all six jobs completed
+PASS chi 256->512 lowered the edge by only 71-76% of the per-doubling prediction  -> [0.75, 0.73, 0.71, 0.76, 0.73, 0.71]
+PASS chi 256->512 drops are 0.025-0.030
+PASS re-extrapolation from the last doubling: chi ~14,000-24,000 at cycle 16  -> [23849, 18296, 14077]
+PASS undoped RGS: max stabilizer entanglement across chain cuts = 32 bits (message 2^32 in chain order)  -> 32
+PASS graph-state method matches exact statevector on a 9-qubit slice
+PASS OLE 56x1488 pending values 0.236 / 0.459 / 0.1867 (#199/#203/#204)
+PASS ring #245 quantum runtime 870 s vs #249 classical 66,325 s makespan
+PASS OLE 56q alpha=0 echo: Pauli-path returns exactly 0 at delta 1e-3 and 1e-4, refuses 1e-5
+PASS ring T-injected cut rank (fixed attacker): 5/75/314 T -> 2/29/38  -> {5: 2, 75: 29, 314: 38}
+PASS ring Clifford skeleton max cut rank = 31 (matches tracker #249)
+PASS patch pre-registration hash-frozen
+PASS 27q patch: 18/18 in bracket, two-sided 15/15  -> (18, 18, 15, 15, 0)
+PASS 33q patch: 15/15 in bracket, two-sided 10/10, 3 missing (server terminations)  -> (15, 15, 10, 10, 3)
+PASS 19+27+33q: all 60 tested points in the bracket
+PASS 27-cycle addendum hash-frozen
+PASS 27q x {20,27} cycles: 6/6 in bracket, two-sided 4/4  -> (6, 6, 4, 4, 0)
+PASS 33q x {20,27} cycles: 6/6 in bracket, two-sided 2/2  -> (6, 6, 2, 2, 0)
+PASS 27-cycle addendum supported (>=95% at each n)
+PASS patch MPS chi=64 strictly above exact in every point with an exact value (heuristic upper edge, 45/45)
+PASS 74qx27c bracket values (pp 0.0858, mps64 0.6098, mps512 0.5436)
+PASS 74qx27c bracket contains QESEM 0.365 -> 'consistent with'
+PASS 51qx30c bracket values (pp 0.1040, mps64 0.6355, mps512 0.5583)
+PASS 51qx30c interval contains QESEM 0.366, SPP 0.350/0.385, M_th 0.410, PEPS-BP 0.541 (descriptive; 30c beyond pre-registered depth)
+PASS MPS upper edge decreases monotonically with chi (64>256>512) on both large instances
+PASS independent local simulator reproduces BlueQubit exact at all 24 27q points to 2e-5  -> 1.7715487257263796e-05
+PASS pilot table rows incl. invalid actions: Qwen 0/5/173/2, Flash 42/61/66/11, Pro 15/3/157/5  -> {'Qwen3.6-35B-A3B-MTP-GGUF': (0, 5, 173, 2), 'deepseek-v4-flash:cloud': (42, 61, 66, 11), 'deepseek-v4-pro:cloud': (15, 3, 157, 5)}
+PASS chi 64->256 removes 83% of median MPS excess at 27q<=16c, 39% at 33q 20-27c; chi256 above truth 45/45  -> [(0.83, 18, 18), (0.39, 6, 6)]
+PASS 51qx30c chi=1024 upper edge 0.5384; step 0.0212 -> 0.0200; 0.0026 below PEPS-BP 0.541 (gap not interpreted)  -> 0.5383666430889399
+PASS 33q <=16c conservative (missing = failures): 15/18, two-sided 10/13 -> below 95%, hypothesis not supported
+PASS AI verification: 45 defects (34 application + 11 team), 41 caught by AI verifiers (35 verifier agents + 6 only review panel), author checker caught 0 (missed 4), 7 fix-introduced, 3 refuted FPs
+PASS wave 1: 11 verified defects over 3 deliverables = 3.7 per deliverable
+PASS RCS: BlueQubit d36 patch-XEB reproduced 32/32 exact, max relative error <= 5e-14 (prereg 9102a014cee43c2c)
+PASS RCS mirror reproduced; d36 mirror 2.24e-3 vs 3-patch 1.84e-3 differ by 4.3 sigma with both errors inflated
+PASS large-instance mps.cpu/Pauli-path legacy result files: spend $0.00 (mps.gpu spend is checked separately)
+PASS chi=512 MPS matches 19q statevector within 5e-8 at 3 angles, repeats bit-identical  -> 4.538576037216302e-08
+PASS benchmark: verifiers 51/72 (CI 52-91%), 19/22 distinct, checker 3/36, qualifiers 0/12, placebo FP 11-14/run
+PASS wave-3 qualifier follow-up: G 8/18, Q 9/18, verdict NO_IMPROVEMENT
+PASS mps.gpu: 3 jobs COMPLETED, each within 4e-10 of mps.cpu; chi=1024 51q 1.75 h / $6.95; credit spend $11.66; CPU chi=1024 13.4 h, chi=2048 terminated 7.7 h
+PASS D120 wording: form compares with tracker QESEM filings of total magnetization; tracker mag = (1/N) sum Z_i
+PASS QPU: 15 'quantum' jobs billed (1 on 2026-09-26, 14 on 2026-10-05), $0.72 each, $10.80 total
+PASS total prototype spend $22.46 = ledger = $10.80 QPU + $11.66 mps.gpu; form, kit, report state it; no stale $12.38
+PASS wave 7: EXCEED, chi_max 256, factor 2418, BlueQubit 224.08 leads; addendum: chi<=256 ladders identical, all 5 variants at 512, factor 312.6; form states it
+PASS kit (paste-ready) carries wave 7: BlueQubit 224.08 first, 2418 at chi<=256, 312.6 at chi<=512, all scope sentences; release line
+PASS D142 guard: paste-ready kit abstract == FORM_ANSWERS abstract (no silent drift between the two copies)
+PASS kit resources paragraph matches the report §7 budget table and the form bands (batch h)
+PASS batch m (full audit #2): scoped bracket, deleted-qualifier limit, co-author attribution
+PASS batch o: PhysVEC cited as prior art in kit field 4
+PASS batch p: V2 post-hoc diagnostic and verifier-first 'What is new here' (Fable consult, Mike 2026-10-09)
+PASS 72 exact points: every Pauli-path value strictly below |exact|, no MPS value below |exact| (raw files)  -> (72, 15)
+PASS batch q: per-point QPU cost, δ qualifier, 16-cycle, same-family, thinking off, neutral #251-#258 sentence with fallback
+PASS batch r (deliverability, 2026-10-13): conditional verdicts, exploratory pre-registered Heron points, countable deliverables; tracker 'requires' claim gone
+PASS wave 8: M_hw 0.321+-0.008 vs exact 0.463 (c=1), 0.085 vs 0.411 (c=4); 0/4 agree; ρ 0.892; wave 8b H SUPPORTED, r 0.297/0.019/-0.028/-0.013, 0/4
+
+ALL CLAIMS VERIFIED

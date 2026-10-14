@@ -1,0 +1,52 @@
+{
+ "V_51qx30c_chi512": {
+  "tag": "51qx30c",
+  "chi": 512,
+  "job_id": "PR9HTY4fBzWLUKKt",
+  "submitted": 1790604625.7550802,
+  "status": "COMPLETED",
+  "wall_h": 0.551,
+  "cost": 1.89,
+  "value": 0.5583479436235084,
+  "err": ""
+ },
+ "V_GPU_pass": true,
+ "74qx27c_chi2048": {
+  "status": "NOT RUN",
+  "reason": "predicted $175.51 / 51.17 h vs remaining $22.39 / 7 h"
+ },
+ "51qx30c_chi2048": {
+  "status": "NOT RUN",
+  "reason": "predicted $120.96 / 35.26 h vs remaining $22.39 / 7 h"
+ },
+ "A_74qx27c_chi512": {
+  "tag": "74qx27c",
+  "chi": 512,
+  "job_id": "9MmjGkhUPfwM0ZFE",
+  "submitted": 1790606722.6270332,
+  "status": "COMPLETED",
+  "wall_h": 0.751,
+  "cost": 2.82,
+  "value": 0.5435972771720102,
+  "err": "",
+  "abs_diff_vs_cpu": 1.407651772922236e-12,
+  "validated": true,
+  "predicted_cost": 2.7423529411764704,
+  "predicted_h": 0.7994901960784314
+ },
+ "B_51qx30c_chi1024": {
+  "tag": "51qx30c",
+  "chi": 1024,
+  "job_id": "Temr3BqLJuJyqQKn",
+  "submitted": 1790609427.5491202,
+  "status": "COMPLETED",
+  "wall_h": 1.752,
+  "cost": 6.95,
+  "value": 0.538366643469482,
+  "err": "",
+  "abs_diff_vs_cpu": 3.8054215334426544e-10,
+  "validated": true,
+  "predicted_cost": 15.12,
+  "predicted_h": 4.408
+ }
+}

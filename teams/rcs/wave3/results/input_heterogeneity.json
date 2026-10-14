@@ -1,0 +1,35 @@
+{
+ "chi2": 362.14616889465174,
+ "dof": 378,
+ "B_in": 0.9788047036408484,
+ "p_upper_wilson_hilferty": 0.7124669820923814,
+ "call": "not established",
+ "worst_cells": [
+  {
+   "chi2": 19.694369328949843,
+   "depth": 28,
+   "instance": 1
+  },
+  {
+   "chi2": 18.639572738493577,
+   "depth": 18,
+   "instance": 1
+  },
+  {
+   "chi2": 17.492802101483772,
+   "depth": 14,
+   "instance": 2
+  },
+  {
+   "chi2": 17.132937821457663,
+   "depth": 36,
+   "instance": 0
+  },
+  {
+   "chi2": 15.351257642017506,
+   "depth": 4,
+   "instance": 2
+  }
+ ],
+ "mirror_instance_B_pooled": 1.3260228091349258
+}

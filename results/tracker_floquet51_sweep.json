@@ -1,0 +1,962 @@
+[
+ {
+  "cycles": 1,
+  "obs": "zzd3",
+  "method": "pauli-path",
+  "setting": 0.001,
+  "value": 0.10823481574555961,
+  "wall_s": 1.8,
+  "cost": 0.0,
+  "error": null
+ },
+ {
+  "cycles": 1,
+  "obs": "zzd3",
+  "method": "pauli-path",
+  "setting": 0.0001,
+  "value": 0.15488170471730112,
+  "wall_s": 1.8,
+  "cost": 0.0,
+  "error": null
+ },
+ {
+  "cycles": 1,
+  "obs": "zzd3",
+  "method": "mps.cpu",
+  "setting": 64,
+  "value": 0.17133396256435451,
+  "wall_s": 3.0,
+  "cost": 0.0,
+  "error": null
+ },
+ {
+  "cycles": 1,
+  "obs": "zzd3",
+  "method": "mps.cpu",
+  "setting": 256,
+  "value": 0.17133396256435451,
+  "wall_s": 3.0,
+  "cost": 0.0,
+  "error": null
+ },
+ {
+  "cycles": 1,
+  "obs": "mag",
+  "method": "pauli-path",
+  "setting": 0.001,
+  "value": 0.351651695513161,
+  "wall_s": 1.8,
+  "cost": 0.0,
+  "error": null
+ },
+ {
+  "cycles": 1,
+  "obs": "mag",
+  "method": "pauli-path",
+  "setting": 0.0001,
+  "value": 0.405391630084063,
+  "wall_s": 1.8,
+  "cost": 0.0,
+  "error": null
+ },
+ {
+  "cycles": 1,
+  "obs": "mag",
+  "method": "mps.cpu",
+  "setting": 64,
+  "value": 0.40587423865367933,
+  "wall_s": 2.9,
+  "cost": 0.0,
+  "error": null
+ },
+ {
+  "cycles": 1,
+  "obs": "mag",
+  "method": "mps.cpu",
+  "setting": 256,
+  "value": 0.40587423865367933,
+  "wall_s": 2.1,
+  "cost": 0.0,
+  "error": null
+ },
+ {
+  "cycles": 1,
+  "obs": "zzd2",
+  "method": "pauli-path",
+  "setting": 0.001,
+  "value": 0.11407585262857448,
+  "wall_s": 1.8,
+  "cost": 0.0,
+  "error": null
+ },
+ {
+  "cycles": 1,
+  "obs": "zzd2",
+  "method": "pauli-path",
+  "setting": 0.0001,
+  "value": 0.1623472750658475,
+  "wall_s": 1.9,
+  "cost": 0.0,
+  "error": null
+ },
+ {
+  "cycles": 1,
+  "obs": "zzd2",
+  "method": "mps.cpu",
+  "setting": 64,
+  "value": 0.16845937639626324,
+  "wall_s": 2.9,
+  "cost": 0.0,
+  "error": null
+ },
+ {
+  "cycles": 1,
+  "obs": "zzd2",
+  "method": "mps.cpu",
+  "setting": 256,
+  "value": 0.16845937639626324,
+  "wall_s": 2.9,
+  "cost": 0.0,
+  "error": null
+ },
+ {
+  "cycles": 2,
+  "obs": "zzd3",
+  "method": "pauli-path",
+  "setting": 0.001,
+  "value": -0.0010724468287732671,
+  "wall_s": 1.9,
+  "cost": 0.0,
+  "error": null
+ },
+ {
+  "cycles": 2,
+  "obs": "zzd3",
+  "method": "pauli-path",
+  "setting": 0.0001,
+  "value": 0.015296629292422561,
+  "wall_s": 5.2,
+  "cost": 0.0,
+  "error": null
+ },
+ {
+  "cycles": 2,
+  "obs": "zzd3",
+  "method": "mps.cpu",
+  "setting": 64,
+  "value": 0.11200104849758069,
+  "wall_s": 5.8,
+  "cost": 0.0,
+  "error": null
+ },
+ {
+  "cycles": 2,
+  "obs": "zzd3",
+  "method": "mps.cpu",
+  "setting": 256,
+  "value": 0.11198359947798084,
+  "wall_s": 8.6,
+  "cost": 0.0,
+  "error": null
+ },
+ {
+  "cycles": 2,
+  "obs": "mag",
+  "method": "pauli-path",
+  "setting": 0.001,
+  "value": -0.04545817698460344,
+  "wall_s": 1.9,
+  "cost": 0.0,
+  "error": null
+ },
+ {
+  "cycles": 2,
+  "obs": "mag",
+  "method": "pauli-path",
+  "setting": 0.0001,
+  "value": 0.1536959069577486,
+  "wall_s": 1.8,
+  "cost": 0.0,
+  "error": null
+ },
+ {
+  "cycles": 2,
+  "obs": "mag",
+  "method": "mps.cpu",
+  "setting": 64,
+  "value": 0.17910278822918113,
+  "wall_s": 5.3,
+  "cost": 0.0,
+  "error": null
+ },
+ {
+  "cycles": 2,
+  "obs": "mag",
+  "method": "mps.cpu",
+  "setting": 256,
+  "value": 0.17907477522786383,
+  "wall_s": 6.4,
+  "cost": 0.0,
+  "error": null
+ },
+ {
+  "cycles": 2,
+  "obs": "zzd2",
+  "method": "pauli-path",
+  "setting": 0.001,
+  "value": 0.01319217247708319,
+  "wall_s": 2.0,
+  "cost": 0.0,
+  "error": null
+ },
+ {
+  "cycles": 2,
+  "obs": "zzd2",
+  "method": "pauli-path",
+  "setting": 0.0001,
+  "value": 0.19971340451912006,
+  "wall_s": 2.9,
+  "cost": 0.0,
+  "error": null
+ },
+ {
+  "cycles": 2,
+  "obs": "zzd2",
+  "method": "mps.cpu",
+  "setting": 64,
+  "value": 0.2579953372580444,
+  "wall_s": 5.3,
+  "cost": 0.0,
+  "error": null
+ },
+ {
+  "cycles": 2,
+  "obs": "zzd2",
+  "method": "mps.cpu",
+  "setting": 256,
+  "value": 0.25794631730498857,
+  "wall_s": 7.4,
+  "cost": 0.0,
+  "error": null
+ },
+ {
+  "cycles": 3,
+  "obs": "zzd3",
+  "method": "pauli-path",
+  "setting": 0.001,
+  "value": 0.0,
+  "wall_s": 1.6,
+  "cost": 0.0,
+  "error": null
+ },
+ {
+  "cycles": 3,
+  "obs": "zzd3",
+  "method": "pauli-path",
+  "setting": 0.0001,
+  "value": 0.004422110014913526,
+  "wall_s": 7.1,
+  "cost": 0.0,
+  "error": null
+ },
+ {
+  "cycles": 3,
+  "obs": "zzd3",
+  "method": "mps.cpu",
+  "setting": 64,
+  "value": 0.18105569106150549,
+  "wall_s": 7.3,
+  "cost": 0.0,
+  "error": null
+ },
+ {
+  "cycles": 3,
+  "obs": "zzd3",
+  "method": "mps.cpu",
+  "setting": 256,
+  "value": 0.17175662390572383,
+  "wall_s": 79.0,
+  "cost": 0.0,
+  "error": null
+ },
+ {
+  "cycles": 3,
+  "obs": "mag",
+  "method": "pauli-path",
+  "setting": 0.001,
+  "value": -0.03542553703650608,
+  "wall_s": 1.6,
+  "cost": 0.0,
+  "error": null
+ },
+ {
+  "cycles": 3,
+  "obs": "mag",
+  "method": "pauli-path",
+  "setting": 0.0001,
+  "value": 0.13980480596274425,
+  "wall_s": 2.8,
+  "cost": 0.0,
+  "error": null
+ },
+ {
+  "cycles": 3,
+  "obs": "mag",
+  "method": "mps.cpu",
+  "setting": 64,
+  "value": 0.23669079237863438,
+  "wall_s": 7.4,
+  "cost": 0.0,
+  "error": null
+ },
+ {
+  "cycles": 3,
+  "obs": "mag",
+  "method": "mps.cpu",
+  "setting": 256,
+  "value": 0.22774261613349203,
+  "wall_s": 56.9,
+  "cost": 0.0,
+  "error": null
+ },
+ {
+  "cycles": 3,
+  "obs": "zzd2",
+  "method": "pauli-path",
+  "setting": 0.001,
+  "value": 0.0,
+  "wall_s": 1.7,
+  "cost": 0.0,
+  "error": null
+ },
+ {
+  "cycles": 3,
+  "obs": "zzd2",
+  "method": "pauli-path",
+  "setting": 0.0001,
+  "value": 0.10813464143253038,
+  "wall_s": 5.0,
+  "cost": 0.0,
+  "error": null
+ },
+ {
+  "cycles": 3,
+  "obs": "zzd2",
+  "method": "mps.cpu",
+  "setting": 64,
+  "value": 0.24535938563700724,
+  "wall_s": 7.3,
+  "cost": 0.0,
+  "error": null
+ },
+ {
+  "cycles": 3,
+  "obs": "zzd2",
+  "method": "mps.cpu",
+  "setting": 256,
+  "value": 0.2369425271925719,
+  "wall_s": 68.4,
+  "cost": 0.0,
+  "error": null
+ },
+ {
+  "cycles": 4,
+  "obs": "zzd3",
+  "method": "pauli-path",
+  "setting": 0.001,
+  "value": 0.0,
+  "wall_s": 1.7,
+  "cost": 0.0,
+  "error": null
+ },
+ {
+  "cycles": 4,
+  "obs": "zzd3",
+  "method": "pauli-path",
+  "setting": 0.0001,
+  "value": 0.00033695714048690404,
+  "wall_s": 3.9,
+  "cost": 0.0,
+  "error": null
+ },
+ {
+  "cycles": 4,
+  "obs": "zzd3",
+  "method": "mps.cpu",
+  "setting": 64,
+  "value": 0.2952582816555445,
+  "wall_s": 10.6,
+  "cost": 0.0,
+  "error": null
+ },
+ {
+  "cycles": 4,
+  "obs": "zzd3",
+  "method": "mps.cpu",
+  "setting": 256,
+  "value": 0.24009433655371998,
+  "wall_s": 123.5,
+  "cost": 0.0,
+  "error": null
+ },
+ {
+  "cycles": 4,
+  "obs": "mag",
+  "method": "pauli-path",
+  "setting": 0.001,
+  "value": -0.0021377783828935093,
+  "wall_s": 1.7,
+  "cost": 0.0,
+  "error": null
+ },
+ {
+  "cycles": 4,
+  "obs": "mag",
+  "method": "pauli-path",
+  "setting": 0.0001,
+  "value": 0.17778619327732004,
+  "wall_s": 6.0,
+  "cost": 0.0,
+  "error": null
+ },
+ {
+  "cycles": 4,
+  "obs": "mag",
+  "method": "mps.cpu",
+  "setting": 64,
+  "value": 0.43680262262187736,
+  "wall_s": 8.4,
+  "cost": 0.0,
+  "error": null
+ },
+ {
+  "cycles": 4,
+  "obs": "mag",
+  "method": "mps.cpu",
+  "setting": 256,
+  "value": 0.37591925102290136,
+  "wall_s": 104.4,
+  "cost": 0.0,
+  "error": null
+ },
+ {
+  "cycles": 4,
+  "obs": "zzd2",
+  "method": "pauli-path",
+  "setting": 0.001,
+  "value": 0.0,
+  "wall_s": 1.7,
+  "cost": 0.0,
+  "error": null
+ },
+ {
+  "cycles": 4,
+  "obs": "zzd2",
+  "method": "pauli-path",
+  "setting": 0.0001,
+  "value": 0.06629473724828475,
+  "wall_s": 5.1,
+  "cost": 0.0,
+  "error": null
+ },
+ {
+  "cycles": 4,
+  "obs": "zzd2",
+  "method": "mps.cpu",
+  "setting": 64,
+  "value": 0.34644977774129054,
+  "wall_s": 9.6,
+  "cost": 0.0,
+  "error": null
+ },
+ {
+  "cycles": 4,
+  "obs": "zzd2",
+  "method": "mps.cpu",
+  "setting": 256,
+  "value": 0.2952539755574056,
+  "wall_s": 115.9,
+  "cost": 0.0,
+  "error": null
+ },
+ {
+  "cycles": 6,
+  "obs": "zzd3",
+  "method": "pauli-path",
+  "setting": 0.001,
+  "value": 0.0,
+  "wall_s": 1.7,
+  "cost": 0.0,
+  "error": null
+ },
+ {
+  "cycles": 6,
+  "obs": "zzd3",
+  "method": "pauli-path",
+  "setting": 0.0001,
+  "value": 0.0,
+  "wall_s": 4.0,
+  "cost": 0.0,
+  "error": null
+ },
+ {
+  "cycles": 6,
+  "obs": "zzd3",
+  "method": "mps.cpu",
+  "setting": 64,
+  "value": 0.3114599847435035,
+  "wall_s": 13.9,
+  "cost": 0.0,
+  "error": null
+ },
+ {
+  "cycles": 6,
+  "obs": "zzd3",
+  "method": "mps.cpu",
+  "setting": 256,
+  "value": 0.25318370733842127,
+  "wall_s": 219.1,
+  "cost": 0.0,
+  "error": null
+ },
+ {
+  "cycles": 6,
+  "obs": "mag",
+  "method": "pauli-path",
+  "setting": 0.001,
+  "value": 0.0,
+  "wall_s": 1.7,
+  "cost": 0.0,
+  "error": null
+ },
+ {
+  "cycles": 6,
+  "obs": "mag",
+  "method": "pauli-path",
+  "setting": 0.0001,
+  "value": 0.1650801140508669,
+  "wall_s": 6.2,
+  "cost": 0.0,
+  "error": null
+ },
+ {
+  "cycles": 6,
+  "obs": "mag",
+  "method": "mps.cpu",
+  "setting": 64,
+  "value": 0.5218234752573355,
+  "wall_s": 14.0,
+  "cost": 0.0,
+  "error": null
+ },
+ {
+  "cycles": 6,
+  "obs": "mag",
+  "method": "mps.cpu",
+  "setting": 256,
+  "value": 0.46139484665904335,
+  "wall_s": 197.2,
+  "cost": 0.0,
+  "error": null
+ },
+ {
+  "cycles": 6,
+  "obs": "zzd2",
+  "method": "pauli-path",
+  "setting": 0.001,
+  "value": 0.0,
+  "wall_s": 1.8,
+  "cost": 0.0,
+  "error": null
+ },
+ {
+  "cycles": 6,
+  "obs": "zzd2",
+  "method": "pauli-path",
+  "setting": 0.0001,
+  "value": 0.00958462618068733,
+  "wall_s": 5.0,
+  "cost": 0.0,
+  "error": null
+ },
+ {
+  "cycles": 6,
+  "obs": "zzd2",
+  "method": "mps.cpu",
+  "setting": 64,
+  "value": 0.344839094213453,
+  "wall_s": 14.0,
+  "cost": 0.0,
+  "error": null
+ },
+ {
+  "cycles": 6,
+  "obs": "zzd2",
+  "method": "mps.cpu",
+  "setting": 256,
+  "value": 0.2975907043935902,
+  "wall_s": 215.4,
+  "cost": 0.0,
+  "error": null
+ },
+ {
+  "cycles": 8,
+  "obs": "zzd3",
+  "method": "pauli-path",
+  "setting": 0.001,
+  "value": 0.0,
+  "wall_s": 2.4,
+  "cost": 0.0,
+  "error": null
+ },
+ {
+  "cycles": 8,
+  "obs": "zzd3",
+  "method": "pauli-path",
+  "setting": 0.0001,
+  "value": 0.0,
+  "wall_s": 4.0,
+  "cost": 0.0,
+  "error": null
+ },
+ {
+  "cycles": 8,
+  "obs": "zzd3",
+  "method": "mps.cpu",
+  "setting": 64,
+  "value": 0.35594759156181854,
+  "wall_s": 21.9,
+  "cost": 0.0,
+  "error": null
+ },
+ {
+  "cycles": 8,
+  "obs": "zzd3",
+  "method": "mps.cpu",
+  "setting": 256,
+  "value": 0.28286609143937647,
+  "wall_s": 320.1,
+  "cost": 0.0,
+  "error": null
+ },
+ {
+  "cycles": 8,
+  "obs": "mag",
+  "method": "pauli-path",
+  "setting": 0.001,
+  "value": 0.0,
+  "wall_s": 1.8,
+  "cost": 0.0,
+  "error": null
+ },
+ {
+  "cycles": 8,
+  "obs": "mag",
+  "method": "pauli-path",
+  "setting": 0.0001,
+  "value": 0.13116647791480648,
+  "wall_s": 7.3,
+  "cost": 0.0,
+  "error": null
+ },
+ {
+  "cycles": 8,
+  "obs": "mag",
+  "method": "mps.cpu",
+  "setting": 64,
+  "value": 0.5102388841219629,
+  "wall_s": 19.6,
+  "cost": 0.0,
+  "error": null
+ },
+ {
+  "cycles": 8,
+  "obs": "mag",
+  "method": "mps.cpu",
+  "setting": 256,
+  "value": 0.44437250839452397,
+  "wall_s": 293.4,
+  "cost": 0.0,
+  "error": null
+ },
+ {
+  "cycles": 8,
+  "obs": "zzd2",
+  "method": "pauli-path",
+  "setting": 0.001,
+  "value": 0.0,
+  "wall_s": 1.9,
+  "cost": 0.0,
+  "error": null
+ },
+ {
+  "cycles": 8,
+  "obs": "zzd2",
+  "method": "pauli-path",
+  "setting": 0.0001,
+  "value": 0.0,
+  "wall_s": 5.2,
+  "cost": 0.0,
+  "error": null
+ },
+ {
+  "cycles": 8,
+  "obs": "zzd2",
+  "method": "mps.cpu",
+  "setting": 64,
+  "value": 0.41339045972481614,
+  "wall_s": 19.6,
+  "cost": 0.0,
+  "error": null
+ },
+ {
+  "cycles": 8,
+  "obs": "zzd2",
+  "method": "mps.cpu",
+  "setting": 256,
+  "value": 0.34753239561279176,
+  "wall_s": 303.9,
+  "cost": 0.0,
+  "error": null
+ },
+ {
+  "cycles": 13,
+  "obs": "zzd3",
+  "method": "pauli-path",
+  "setting": 0.001,
+  "value": 0.0,
+  "wall_s": 2.0,
+  "cost": 0.0,
+  "error": null
+ },
+ {
+  "cycles": 13,
+  "obs": "zzd3",
+  "method": "pauli-path",
+  "setting": 0.0001,
+  "value": 0.0,
+  "wall_s": 5.3,
+  "cost": 0.0,
+  "error": null
+ },
+ {
+  "cycles": 13,
+  "obs": "zzd3",
+  "method": "mps.cpu",
+  "setting": 64,
+  "value": 0.4300690387213355,
+  "wall_s": 29.8,
+  "cost": 0.0,
+  "error": null
+ },
+ {
+  "cycles": 13,
+  "obs": "zzd3",
+  "method": "mps.cpu",
+  "setting": 256,
+  "value": 0.35251105102360797,
+  "wall_s": 560.5,
+  "cost": 0.0,
+  "error": null
+ },
+ {
+  "cycles": 13,
+  "obs": "mag",
+  "method": "pauli-path",
+  "setting": 0.001,
+  "value": 0.0,
+  "wall_s": 3.1,
+  "cost": 0.0,
+  "error": null
+ },
+ {
+  "cycles": 13,
+  "obs": "mag",
+  "method": "pauli-path",
+  "setting": 0.0001,
+  "value": 0.12917713807471645,
+  "wall_s": 7.4,
+  "cost": 0.0,
+  "error": null
+ },
+ {
+  "cycles": 13,
+  "obs": "mag",
+  "method": "mps.cpu",
+  "setting": 64,
+  "value": 0.5848982304517807,
+  "wall_s": 31.0,
+  "cost": 0.0,
+  "error": null
+ },
+ {
+  "cycles": 13,
+  "obs": "mag",
+  "method": "mps.cpu",
+  "setting": 256,
+  "value": 0.519686263864582,
+  "wall_s": 530.6,
+  "cost": 0.0,
+  "error": null
+ },
+ {
+  "cycles": 13,
+  "obs": "zzd2",
+  "method": "pauli-path",
+  "setting": 0.001,
+  "value": 0.0,
+  "wall_s": 3.0,
+  "cost": 0.0,
+  "error": null
+ },
+ {
+  "cycles": 13,
+  "obs": "zzd2",
+  "method": "pauli-path",
+  "setting": 0.0001,
+  "value": 0.0,
+  "wall_s": 6.4,
+  "cost": 0.0,
+  "error": null
+ },
+ {
+  "cycles": 13,
+  "obs": "zzd2",
+  "method": "mps.cpu",
+  "setting": 64,
+  "value": 0.4765641967162724,
+  "wall_s": 28.8,
+  "cost": 0.0,
+  "error": null
+ },
+ {
+  "cycles": 13,
+  "obs": "zzd2",
+  "method": "mps.cpu",
+  "setting": 256,
+  "value": 0.4080255579771466,
+  "wall_s": 534.1,
+  "cost": 0.0,
+  "error": null
+ },
+ {
+  "cycles": 16,
+  "obs": "zzd3",
+  "method": "pauli-path",
+  "setting": 0.001,
+  "value": 0.0,
+  "wall_s": 3.1,
+  "cost": 0.0,
+  "error": null
+ },
+ {
+  "cycles": 16,
+  "obs": "zzd3",
+  "method": "pauli-path",
+  "setting": 0.0001,
+  "value": 0.0,
+  "wall_s": 5.5,
+  "cost": 0.0,
+  "error": null
+ },
+ {
+  "cycles": 16,
+  "obs": "zzd3",
+  "method": "mps.cpu",
+  "setting": 64,
+  "value": 0.47216586275113515,
+  "wall_s": 40.1,
+  "cost": 0.0,
+  "error": null
+ },
+ {
+  "cycles": 16,
+  "obs": "zzd3",
+  "method": "mps.cpu",
+  "setting": 256,
+  "value": 0.3866869388483309,
+  "wall_s": 684.1,
+  "cost": 0.0,
+  "error": null
+ },
+ {
+  "cycles": 16,
+  "obs": "mag",
+  "method": "pauli-path",
+  "setting": 0.001,
+  "value": 0.0,
+  "wall_s": 3.2,
+  "cost": 0.0,
+  "error": null
+ },
+ {
+  "cycles": 16,
+  "obs": "mag",
+  "method": "pauli-path",
+  "setting": 0.0001,
+  "value": 0.12436173297710947,
+  "wall_s": 7.6,
+  "cost": 0.0,
+  "error": null
+ },
+ {
+  "cycles": 16,
+  "obs": "mag",
+  "method": "mps.cpu",
+  "setting": 64,
+  "value": 0.6472564315244211,
+  "wall_s": 35.4,
+  "cost": 0.0,
+  "error": null
+ },
+ {
+  "cycles": 16,
+  "obs": "mag",
+  "method": "mps.cpu",
+  "setting": 256,
+  "value": 0.5733872018376962,
+  "wall_s": 658.4,
+  "cost": 0.0,
+  "error": null
+ },
+ {
+  "cycles": 16,
+  "obs": "zzd2",
+  "method": "pauli-path",
+  "setting": 0.001,
+  "value": 0.0,
+  "wall_s": 3.2,
+  "cost": 0.0,
+  "error": null
+ },
+ {
+  "cycles": 16,
+  "obs": "zzd2",
+  "method": "pauli-path",
+  "setting": 0.0001,
+  "value": 0.0,
+  "wall_s": 6.5,
+  "cost": 0.0,
+  "error": null
+ },
+ {
+  "cycles": 16,
+  "obs": "zzd2",
+  "method": "mps.cpu",
+  "setting": 64,
+  "value": 0.4955025271866058,
+  "wall_s": 36.6,
+  "cost": 0.0,
+  "error": null
+ },
+ {
+  "cycles": 16,
+  "obs": "zzd2",
+  "method": "mps.cpu",
+  "setting": 256,
+  "value": 0.4244742626590331,
+  "wall_s": 684.3,
+  "cost": 0.0,
+  "error": null
+ }
+]

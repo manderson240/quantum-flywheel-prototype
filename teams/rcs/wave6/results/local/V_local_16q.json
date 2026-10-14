@@ -1,0 +1,24 @@
+{
+ "statevector_survival": 1.0000000000000053,
+ "n_cz": 166,
+ "chi4": {
+  "survival": 0.0046446101153679855,
+  "max_bond": 4,
+  "sum_discarded": 11.148440281754327
+ },
+ "chi8": {
+  "survival": 0.006234762247084328,
+  "max_bond": 8,
+  "sum_discarded": 8.63097894586208
+ },
+ "chi16": {
+  "survival": 0.024420970924545087,
+  "max_bond": 16,
+  "sum_discarded": 6.780993742448702
+ },
+ "chi256": {
+  "survival": 1.0000000000000013,
+  "max_bond": 256,
+  "sum_discarded": 6.218223429836348e-27
+ }
+}

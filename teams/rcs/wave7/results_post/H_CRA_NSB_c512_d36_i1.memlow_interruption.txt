@@ -1,0 +1,1 @@
+MEMLOW MemAvailable < 12 GiB mid-cell

@@ -1,0 +1,23 @@
+{
+ "job_id": "Z83WrUyTxMvrOqaQ",
+ "device": "quantum",
+ "depth": 4,
+ "status": "COMPLETED",
+ "cost": 0.72,
+ "error": null,
+ "device_options": "{}",
+ "run_results": "None",
+ "cz": 94,
+ "input_bits_q0_first": "1111110111000010110101011110001010111011011111011011100011000",
+ "created_on": "2026-09-26 16:11:34.675000+00:00",
+ "run_start": "2026-09-26 16:11:47.940000+00:00",
+ "run_end": "2026-09-26 16:11:47.941000+00:00",
+ "hits": 28,
+ "shots": 1000,
+ "survival": 0.028,
+ "wilson95": [
+  0.019442147463132154,
+  0.040170444802420505
+ ],
+ "distinct_outcomes": 898
+}

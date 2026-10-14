@@ -1,0 +1,70 @@
+{
+ "order": [
+  6,
+  7,
+  18,
+  17,
+  8,
+  12,
+  11,
+  5,
+  15,
+  4,
+  16,
+  3,
+  10,
+  9,
+  0,
+  14,
+  13,
+  1,
+  2
+ ],
+ "n": 19,
+ "n_edges": 20,
+ "exact_dev_tracker": {
+  "max_abs_diff": 1.8596235662471372e-14,
+  "n": 27,
+  "wall_s": 42.163,
+  "cost": 12931701695
+ },
+ "exact_ho_4.7_0.3": {
+  "max_abs_diff": 4.9057979900624105e-15,
+  "n": 27,
+  "wall_s": 34.306,
+  "cost": 12677889374
+ },
+ "exact_ho_2.4_0.9": {
+  "max_abs_diff": 6.328271240363392e-15,
+  "n": 27,
+  "wall_s": 34.729,
+  "cost": 12677889374
+ },
+ "timing_dev_const_chi": {
+  "8": {
+   "cost": 331215,
+   "wall_s": 0.744,
+   "violations": 0,
+   "maxbond_end": 8
+  },
+  "16": {
+   "cost": 2227151,
+   "wall_s": 0.794,
+   "violations": 0,
+   "maxbond_end": 16
+  },
+  "32": {
+   "cost": 14240719,
+   "wall_s": 1.222,
+   "violations": 0,
+   "maxbond_end": 32
+  },
+  "64": {
+   "cost": 89476047,
+   "wall_s": 2.237,
+   "violations": 0,
+   "maxbond_end": 64
+  }
+ },
+ "pass": true
+}

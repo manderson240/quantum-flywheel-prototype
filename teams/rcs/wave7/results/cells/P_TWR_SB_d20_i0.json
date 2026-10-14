@@ -1,0 +1,17 @@
+{
+ "survival": 0.0020232008180679543,
+ "max_bond": 64,
+ "sum_discarded": 8.200968864956423,
+ "svd_fallbacks": 0,
+ "n_updates": 2742,
+ "peak_rss_mb_sampled": 48.68359375,
+ "n_cz": 442,
+ "kind": "mirror",
+ "variant": "TWR_SB",
+ "inst": 0,
+ "d": 20,
+ "chi": 64,
+ "wall_s": 132.78624057769775,
+ "peak_rss_mb": 44.77734375,
+ "threads": "8"
+}

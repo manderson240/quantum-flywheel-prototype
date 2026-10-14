@@ -1,0 +1,26 @@
+{
+ "2": {
+  "device": "quantum",
+  "estimated_runtime": "1",
+  "estimated_cost": "0.72",
+  "num_qubits": "2",
+  "warning_message": "This is just an estimate; the actual runtime may be less or more.",
+  "error_message": "None"
+ },
+ "20": {
+  "device": "quantum",
+  "estimated_runtime": "1",
+  "estimated_cost": "0.72",
+  "num_qubits": "20",
+  "warning_message": "This is just an estimate; the actual runtime may be less or more.",
+  "error_message": "None"
+ },
+ "61": {
+  "device": "quantum",
+  "estimated_runtime": "1",
+  "estimated_cost": "0.72",
+  "num_qubits": "61",
+  "warning_message": "This is just an estimate; the actual runtime may be less or more.",
+  "error_message": "None"
+ }
+}

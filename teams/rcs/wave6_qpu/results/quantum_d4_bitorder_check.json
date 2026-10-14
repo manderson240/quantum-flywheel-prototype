@@ -1,0 +1,9 @@
+{
+ "shots": 1000,
+ "q0first_hits": 28,
+ "reversed_hits": 0,
+ "q0first_mean_hamming": 3.62,
+ "q0first_frac_le3": 0.508,
+ "reversed_mean_hamming": 28.61,
+ "reversed_frac_le3": 0.0
+}

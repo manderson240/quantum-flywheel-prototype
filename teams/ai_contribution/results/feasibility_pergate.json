@@ -1,0 +1,144 @@
+{
+ "quimb": "1.13.0",
+ "python": "3.14.3",
+ "N": 12,
+ "edges": [
+  [
+   0,
+   1
+  ],
+  [
+   1,
+   2
+  ],
+  [
+   2,
+   3
+  ],
+  [
+   3,
+   4
+  ],
+  [
+   4,
+   5
+  ],
+  [
+   5,
+   6
+  ],
+  [
+   6,
+   7
+  ],
+  [
+   7,
+   8
+  ],
+  [
+   8,
+   9
+  ],
+  [
+   9,
+   10
+  ],
+  [
+   10,
+   11
+  ],
+  [
+   0,
+   3
+  ],
+  [
+   2,
+   5
+  ],
+  [
+   4,
+   7
+  ],
+  [
+   6,
+   9
+  ],
+  [
+   8,
+   11
+  ]
+ ],
+ "exact_engine_vs_dense_fidelity": 1.0000000000000027,
+ "exact_maxbond_per_layer": [
+  16,
+  64,
+  64,
+  64,
+  64,
+  64
+ ],
+ "A_ctor32_maxbond": [
+  4,
+  16,
+  32,
+  32,
+  32,
+  32
+ ],
+ "A_ctor32_fid": 0.946348764266958,
+ "A_override4_maxbond": [
+  4,
+  4,
+  4,
+  4,
+  4,
+  4
+ ],
+ "A_override4_fid": 0.3801642633538362,
+ "B_default_maxbond": [
+  4,
+  16,
+  64,
+  64,
+  64,
+  64
+ ],
+ "B_cut1e-2_maxbond": [
+  4,
+  7,
+  8,
+  7,
+  6,
+  5
+ ],
+ "B_cut1e-2_fid": 0.45602846826679383,
+ "C_schedule": [
+  2,
+  4,
+  8,
+  16,
+  32,
+  64
+ ],
+ "C_maxbond": [
+  2,
+  4,
+  8,
+  16,
+  32,
+  64
+ ],
+ "C_fid": 0.31336167187303476,
+ "D_misspelled_key": {
+  "raised": true,
+  "error": "svd_truncated_numpy() got an unexpected keyword argument 'maxbond'. Did you mean 'max_bond'?"
+ },
+ "checks": {
+  "exact_engine_matches_dense": true,
+  "override_max_bond_honoured": true,
+  "override_changes_result": true,
+  "override_cutoff_honoured": true,
+  "per_layer_schedule_honoured": true
+ },
+ "all_pass": true
+}

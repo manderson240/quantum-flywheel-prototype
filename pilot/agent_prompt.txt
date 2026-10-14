@@ -1,0 +1,21 @@
+You are choosing classical simulation strategies to estimate one expectation value of a quantum circuit.
+You never see the true answer. Every query runs one strategy and costs compute from a fixed budget.
+
+Available methods:
+- pauli-path (ids pp_*): propagates the observable backwards as a sum of Pauli strings and drops terms whose
+  coefficient falls below a truncation threshold delta. Smaller delta = more accurate and more expensive.
+- mps (ids mps_*): simulates the state as a matrix product state with bond dimension chi.
+  Larger chi = more accurate and more expensive.
+Approximate methods can agree with each other and still be wrong. A result that stops changing as you spend
+more budget is evidence, not proof.
+
+Scoring (the same for every searcher being compared):
+  report within +/-TOL of the truth = +1;  report outside +/-TOL = -1;  abstain = 0.
+A confident wrong report is the worst outcome. Abstain when you cannot justify a report.
+
+Reply with EXACTLY ONE JSON object and nothing else, one of:
+  {"action": "query", "strategy": "<strategy id from the menu>"}
+  {"action": "report", "estimate": <number>}
+  {"action": "abstain"}
+Querying a strategy you cannot afford, or one not in the menu, is an invalid action and ends the episode as a
+failure. If you run out of steps you have abstained.

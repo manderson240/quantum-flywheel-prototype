@@ -1,0 +1,52 @@
+{
+ "id": "V1_16q_d36_chi256",
+ "n": 16,
+ "inst": 0,
+ "d": 36,
+ "chi": 256,
+ "input_idx": null,
+ "bits": [
+  1,
+  1,
+  1,
+  0,
+  1,
+  0,
+  1,
+  0,
+  0,
+  1,
+  0,
+  0,
+  0,
+  1,
+  0,
+  1
+ ],
+ "shots": 100000,
+ "group": "validation",
+ "job_id": "U3C8FsJ651f5Diz4",
+ "key": "1110101001000101",
+ "hits": 100000,
+ "hits_flag": "exact",
+ "hits_source": "top_128",
+ "key_convention": "q0_leftmost",
+ "reversed_key_hits": 0,
+ "n_distinct_returned": 1,
+ "sum_counts_returned": 100000,
+ "hamming_hist": {
+  "0": 100000
+ },
+ "top5": {
+  "1110101001000101": 100000
+ },
+ "run_time_ms": 437084,
+ "queue_time_ms": 100545,
+ "cost": 0.0,
+ "device": "mps.cpu",
+ "device_options": "{'mps_bond_dimension': 256, 'mps_truncation_threshold': 1e-10}",
+ "run_results": "{'mps_build_time': 6.187741279602051}",
+ "n_cz": 166,
+ "run_start": "2026-09-26 16:17:00.458000+00:00",
+ "run_end": "2026-09-26 16:24:17.542000+00:00"
+}

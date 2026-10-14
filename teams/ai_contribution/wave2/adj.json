@@ -1,0 +1,700 @@
+{
+ "C_run2#7": {
+  "verdict": "FP"
+ },
+ "A_run2#12": {
+  "verdict": "HIT",
+  "plant": "P15"
+ },
+ "C_run1#13": {
+  "verdict": "UNRESOLVED"
+ },
+ "A_run1#7": {
+  "verdict": "HIT",
+  "plant": "P07"
+ },
+ "A_run1#1": {
+  "verdict": "PREEXISTING",
+  "defect_id": "a1:report/report.html:23:every-number-recomputed-overstated"
+ },
+ "B_run2#11": {
+  "verdict": "PREEXISTING",
+  "defect_id": "a1:report/report.html:23:all-numbers-from-bluequbit-overstated"
+ },
+ "D_run1#11": {
+  "verdict": "PREEXISTING",
+  "defect_id": "a1:report/report.html:23:every-number-recomputed-overstated"
+ },
+ "C_run2#16": {
+  "verdict": "FP"
+ },
+ "B_run1#17": {
+  "verdict": "MISS",
+  "np_verdict": "FP"
+ },
+ "C_run2#8": {
+  "verdict": "PREEXISTING",
+  "defect_id": "a1:report/report.html:136:three-pending-should-be-five"
+ },
+ "A_run2#26": {
+  "verdict": "HIT",
+  "plant": "P12"
+ },
+ "A_run1#17": {
+  "verdict": "FP"
+ },
+ "A_run1#4": {
+  "verdict": "HIT",
+  "plant": "P32"
+ },
+ "A_run2#7": {
+  "verdict": "HIT",
+  "plant": "P11"
+ },
+ "C_run1#9": {
+  "verdict": "FP"
+ },
+ "B_run1#2": {
+  "verdict": "HIT",
+  "plant": "P10"
+ },
+ "D_run1#15": {
+  "verdict": "FP"
+ },
+ "B_run2#16": {
+  "verdict": "FP"
+ },
+ "A_run1#6": {
+  "verdict": "FP"
+ },
+ "A_run1#8": {
+  "verdict": "HIT",
+  "plant": "P36"
+ },
+ "C_run1#20": {
+  "verdict": "FP"
+ },
+ "D_run2#6": {
+  "verdict": "HIT",
+  "plant": "P30"
+ },
+ "D_run2#1": {
+  "verdict": "HIT",
+  "plant": "P10"
+ },
+ "C_run1#11": {
+  "verdict": "FP"
+ },
+ "A_run1#18": {
+  "verdict": "FP"
+ },
+ "B_run1#18": {
+  "verdict": "FP"
+ },
+ "A_run1#15": {
+  "verdict": "HIT",
+  "plant": "P12"
+ },
+ "B_run1#15": {
+  "verdict": "FP"
+ },
+ "D_run2#19": {
+  "verdict": "FP"
+ },
+ "D_run2#5": {
+  "verdict": "HIT",
+  "plant": "P16"
+ },
+ "D_run2#17": {
+  "verdict": "FP"
+ },
+ "B_run1#1": {
+  "verdict": "HIT",
+  "plant": "P01"
+ },
+ "A_run2#3": {
+  "verdict": "HIT",
+  "plant": "P07"
+ },
+ "D_run1#5": {
+  "verdict": "HIT",
+  "plant": "P13"
+ },
+ "A_run2#14": {
+  "verdict": "PREEXISTING",
+  "defect_id": "a1:FORM_ANSWERS.md:196:prototype-cost-nonzero"
+ },
+ "A_run2#15": {
+  "verdict": "PREEXISTING",
+  "defect_id": "a1:SUBMISSION_KIT.md:74:prototype-cost-nonzero"
+ },
+ "A_run2#22": {
+  "verdict": "PREEXISTING",
+  "defect_id": "a1:FORM_ANSWERS.md:182:pepsbp-bd700-cost-mismatch"
+ },
+ "B_run1#12": {
+  "verdict": "MISS",
+  "np_verdict": "FP"
+ },
+ "A_run1#14": {
+  "verdict": "FP"
+ },
+ "C_run2#1": {
+  "verdict": "PREEXISTING",
+  "defect_id": "a1:report/report.html:23:all-numbers-from-bluequbit-overstated"
+ },
+ "D_run1#2": {
+  "verdict": "HIT",
+  "plant": "P09"
+ },
+ "D_run1#19": {
+  "verdict": "FP"
+ },
+ "C_run2#13": {
+  "verdict": "PREEXISTING",
+  "defect_id": "a1:SUBMISSION_KIT.md:18:three-pending-should-be-five"
+ },
+ "B_run2#21": {
+  "verdict": "FP"
+ },
+ "D_run1#21": {
+  "verdict": "PREEXISTING",
+  "defect_id": "a1:SUBMISSION_KIT.md:3:all-claims-verified-overstated"
+ },
+ "B_run1#23": {
+  "verdict": "PREEXISTING",
+  "defect_id": "a1:FORM_ANSWERS.md:182:pepsbp-bd700-cost-mismatch"
+ },
+ "A_run2#6": {
+  "verdict": "HIT",
+  "plant": "P06"
+ },
+ "B_run2#2": {
+  "verdict": "HIT",
+  "plant": "P10"
+ },
+ "D_run1#10": {
+  "verdict": "HIT",
+  "plant": "P11"
+ },
+ "C_run2#19": {
+  "verdict": "FP"
+ },
+ "D_run2#9": {
+  "verdict": "PREEXISTING",
+  "defect_id": "a1:report/report.html:150:prototype-cost-nonzero"
+ },
+ "C_run1#5": {
+  "verdict": "PREEXISTING",
+  "defect_id": "a1:FORM_ANSWERS.md:40:three-pending-should-be-five"
+ },
+ "B_run2#18": {
+  "verdict": "PREEXISTING",
+  "defect_id": "a1:FORM_ANSWERS.md:185:every-number-machine-checked-overstated"
+ },
+ "C_run1#14": {
+  "verdict": "FP"
+ },
+ "C_run1#17": {
+  "verdict": "FP"
+ },
+ "C_run1#15": {
+  "verdict": "FP"
+ },
+ "D_run2#13": {
+  "verdict": "PREEXISTING",
+  "defect_id": "a1:FORM_ANSWERS.md:185:every-number-machine-checked-overstated"
+ },
+ "D_run1#8": {
+  "verdict": "PREEXISTING",
+  "defect_id": "a1:FORM_ANSWERS.md:40:three-pending-should-be-five"
+ },
+ "B_run2#24": {
+  "verdict": "UNRESOLVED"
+ },
+ "C_run1#19": {
+  "verdict": "UNRESOLVED"
+ },
+ "A_run1#22": {
+  "verdict": "UNRESOLVED"
+ },
+ "C_run2#4": {
+  "verdict": "FP"
+ },
+ "D_run2#27": {
+  "verdict": "PREEXISTING",
+  "defect_id": "a1:report/report.html:144:four-independent-estimates-overstated"
+ },
+ "A_run1#11": {
+  "verdict": "MISS",
+  "np_verdict": "FP"
+ },
+ "B_run2#19": {
+  "verdict": "MISS",
+  "np_verdict": "FP"
+ },
+ "D_run2#24": {
+  "verdict": "PREEXISTING",
+  "defect_id": "a1:FORM_ANSWERS.md:182:complex128-buffer-32-vs-64gib"
+ },
+ "A_run2#5": {
+  "verdict": "HIT",
+  "plant": "P36"
+ },
+ "B_run2#23": {
+  "verdict": "UNRESOLVED"
+ },
+ "A_run2#23": {
+  "verdict": "PREEXISTING",
+  "defect_id": "a1:FORM_ANSWERS.md:182:complex128-buffer-32-vs-64gib"
+ },
+ "C_run1#18": {
+  "verdict": "PREEXISTING",
+  "defect_id": "a1:report/report.html:23:all-numbers-from-bluequbit-overstated"
+ },
+ "D_run2#14": {
+  "verdict": "PREEXISTING",
+  "defect_id": "a1:SUBMISSION_KIT.md:3:all-claims-verified-overstated"
+ },
+ "B_run2#5": {
+  "verdict": "HIT",
+  "plant": "P29"
+ },
+ "D_run2#16": {
+  "verdict": "UNRESOLVED"
+ },
+ "B_run1#10": {
+  "verdict": "PREEXISTING",
+  "defect_id": "a1:report/report.html:23:every-number-recomputed-overstated"
+ },
+ "D_run1#13": {
+  "verdict": "FP"
+ },
+ "B_run2#20": {
+  "verdict": "FP"
+ },
+ "C_run1#22": {
+  "verdict": "PREEXISTING",
+  "defect_id": "a1:FORM_ANSWERS.md:182:complex128-buffer-32-vs-64gib"
+ },
+ "C_run2#10": {
+  "verdict": "PREEXISTING",
+  "defect_id": "a1:report/report.html:150:prototype-cost-nonzero"
+ },
+ "D_run2#4": {
+  "verdict": "HIT",
+  "plant": "P13"
+ },
+ "D_run2#25": {
+  "verdict": "PREEXISTING",
+  "defect_id": "a1:FORM_ANSWERS.md:182:pepsbp-bd700-cost-mismatch"
+ },
+ "B_run2#8": {
+  "verdict": "FP"
+ },
+ "A_run2#17": {
+  "verdict": "UNRESOLVED"
+ },
+ "D_run2#11": {
+  "verdict": "PREEXISTING",
+  "defect_id": "a1:SUBMISSION_KIT.md:74:prototype-cost-nonzero"
+ },
+ "C_run1#4": {
+  "verdict": "PREEXISTING",
+  "defect_id": "a1:report/report.html:136:three-pending-should-be-five"
+ },
+ "A_run2#4": {
+  "verdict": "FP"
+ },
+ "D_run2#3": {
+  "verdict": "HIT",
+  "plant": "P06"
+ },
+ "C_run1#7": {
+  "verdict": "FP"
+ },
+ "C_run2#14": {
+  "verdict": "FP"
+ },
+ "D_run1#7": {
+  "verdict": "MISS",
+  "np_verdict": "PREEXISTING",
+  "defect_id": "a1:report/report.html:136:three-pending-should-be-five"
+ },
+ "B_run1#9": {
+  "verdict": "PREEXISTING",
+  "defect_id": "a1:report/report.html:150:prototype-cost-nonzero"
+ },
+ "C_run1#2": {
+  "verdict": "PREEXISTING",
+  "defect_id": "a1:FORM_ANSWERS.md:196:prototype-cost-nonzero"
+ },
+ "C_run2#3": {
+  "verdict": "FP"
+ },
+ "C_run1#21": {
+  "verdict": "PREEXISTING",
+  "defect_id": "a1:FORM_ANSWERS.md:182:issue151-criterion-xeb-0092"
+ },
+ "A_run2#24": {
+  "verdict": "UNRESOLVED"
+ },
+ "D_run1#1": {
+  "verdict": "HIT",
+  "plant": "P10"
+ },
+ "C_run2#15": {
+  "verdict": "FP"
+ },
+ "C_run2#11": {
+  "verdict": "FP"
+ },
+ "A_run2#8": {
+  "verdict": "HIT",
+  "plant": "P19"
+ },
+ "B_run1#8": {
+  "verdict": "HIT",
+  "plant": "P31"
+ },
+ "D_run1#3": {
+  "verdict": "HIT",
+  "plant": "P06"
+ },
+ "C_run2#21": {
+  "verdict": "PREEXISTING",
+  "defect_id": "a1:SUBMISSION_KIT.md:74:prototype-cost-nonzero"
+ },
+ "A_run2#25": {
+  "verdict": "HIT",
+  "plant": "P12"
+ },
+ "B_run1#6": {
+  "verdict": "HIT",
+  "plant": "P29"
+ },
+ "D_run2#10": {
+  "verdict": "PREEXISTING",
+  "defect_id": "a1:FORM_ANSWERS.md:196:prototype-cost-nonzero"
+ },
+ "D_run1#20": {
+  "verdict": "PREEXISTING",
+  "defect_id": "a1:FORM_ANSWERS.md:185:every-number-machine-checked-overstated"
+ },
+ "B_run2#15": {
+  "verdict": "HIT",
+  "plant": "P15"
+ },
+ "A_run2#13": {
+  "verdict": "PREEXISTING",
+  "defect_id": "a1:report/report.html:150:prototype-cost-nonzero"
+ },
+ "B_run2#7": {
+  "verdict": "HIT",
+  "plant": "P07"
+ },
+ "A_run1#9": {
+  "verdict": "HIT",
+  "plant": "P06"
+ },
+ "C_run1#8": {
+  "verdict": "FP"
+ },
+ "D_run1#17": {
+  "verdict": "UNRESOLVED"
+ },
+ "A_run2#20": {
+  "verdict": "FP"
+ },
+ "B_run2#17": {
+  "verdict": "PREEXISTING",
+  "defect_id": "a1:FORM_ANSWERS.md:182:complex128-buffer-32-vs-64gib"
+ },
+ "D_run2#8": {
+  "verdict": "UNRESOLVED"
+ },
+ "B_run2#9": {
+  "verdict": "FP"
+ },
+ "B_run2#26": {
+  "verdict": "FP"
+ },
+ "A_run2#2": {
+  "verdict": "HIT",
+  "plant": "P02"
+ },
+ "A_run1#16": {
+  "verdict": "UNRESOLVED"
+ },
+ "C_run1#6": {
+  "verdict": "PREEXISTING",
+  "defect_id": "a1:SUBMISSION_KIT.md:18:three-pending-should-be-five"
+ },
+ "B_run2#13": {
+  "verdict": "FP"
+ },
+ "A_run1#3": {
+  "verdict": "PREEXISTING",
+  "defect_id": "a1:report/report.html:28:local-statevector-19-vs-20q"
+ },
+ "A_run2#10": {
+  "verdict": "PREEXISTING",
+  "defect_id": "a1:FORM_ANSWERS.md:40:three-pending-should-be-five"
+ },
+ "B_run1#7": {
+  "verdict": "FP"
+ },
+ "A_run1#10": {
+  "verdict": "HIT",
+  "plant": "P11"
+ },
+ "D_run2#12": {
+  "verdict": "PREEXISTING",
+  "defect_id": "a1:report/report.html:23:every-number-recomputed-overstated"
+ },
+ "B_run2#25": {
+  "verdict": "FP"
+ },
+ "A_run2#11": {
+  "verdict": "PREEXISTING",
+  "defect_id": "a1:SUBMISSION_KIT.md:18:three-pending-should-be-five"
+ },
+ "D_run1#12": {
+  "verdict": "PREEXISTING",
+  "defect_id": "a1:report/report.html:23:all-numbers-from-bluequbit-overstated"
+ },
+ "C_run2#2": {
+  "verdict": "FP"
+ },
+ "A_run2#16": {
+  "verdict": "UNRESOLVED"
+ },
+ "B_run2#22": {
+  "verdict": "FP"
+ },
+ "D_run2#7": {
+  "verdict": "HIT",
+  "plant": "P11"
+ },
+ "B_run2#3": {
+  "verdict": "HIT",
+  "plant": "P06"
+ },
+ "A_run1#20": {
+  "verdict": "FP"
+ },
+ "D_run1#6": {
+  "verdict": "HIT",
+  "plant": "P16"
+ },
+ "A_run2#18": {
+  "verdict": "UNRESOLVED"
+ },
+ "C_run2#22": {
+  "verdict": "FP"
+ },
+ "A_run1#2": {
+  "verdict": "PREEXISTING",
+  "defect_id": "a1:report/report.html:23:local-statevector-19-vs-20q"
+ },
+ "A_run2#9": {
+  "verdict": "PREEXISTING",
+  "defect_id": "a1:report/report.html:136:three-pending-should-be-five"
+ },
+ "B_run2#12": {
+  "verdict": "UNRESOLVED"
+ },
+ "B_run2#14": {
+  "verdict": "FP"
+ },
+ "C_run1#23": {
+  "verdict": "UNRESOLVED"
+ },
+ "C_run2#6": {
+  "verdict": "FP"
+ },
+ "B_run1#20": {
+  "verdict": "PREEXISTING",
+  "defect_id": "a1:SUBMISSION_KIT.md:74:prototype-cost-nonzero"
+ },
+ "D_run2#23": {
+  "verdict": "FP"
+ },
+ "C_run1#1": {
+  "verdict": "PREEXISTING",
+  "defect_id": "a1:report/report.html:150:prototype-cost-nonzero"
+ },
+ "A_run2#19": {
+  "verdict": "PREEXISTING",
+  "defect_id": "a1:report/report.html:23:all-numbers-from-bluequbit-overstated"
+ },
+ "A_run2#1": {
+  "verdict": "HIT",
+  "plant": "P32"
+ },
+ "C_run2#18": {
+  "verdict": "UNRESOLVED"
+ },
+ "D_run1#14": {
+  "verdict": "HIT",
+  "plant": "P30"
+ },
+ "B_run2#6": {
+  "verdict": "HIT",
+  "plant": "P31"
+ },
+ "B_run1#22": {
+  "verdict": "FP"
+ },
+ "B_run2#10": {
+  "verdict": "PREEXISTING",
+  "defect_id": "a1:report/report.html:23:every-number-recomputed-overstated"
+ },
+ "B_run1#11": {
+  "verdict": "HIT",
+  "plant": "P15"
+ },
+ "C_run2#20": {
+  "verdict": "PREEXISTING",
+  "defect_id": "a1:FORM_ANSWERS.md:196:prototype-cost-nonzero"
+ },
+ "D_run2#20": {
+  "verdict": "HIT",
+  "plant": "P12"
+ },
+ "B_run1#16": {
+  "verdict": "FP"
+ },
+ "D_run2#21": {
+  "verdict": "MISS",
+  "np_verdict": "FP"
+ },
+ "C_run1#24": {
+  "verdict": "PREEXISTING",
+  "defect_id": "a1:FORM_ANSWERS.md:186:pdf-contents-omit-sections-5-6"
+ },
+ "B_run1#19": {
+  "verdict": "PREEXISTING",
+  "defect_id": "a1:FORM_ANSWERS.md:196:prototype-cost-nonzero"
+ },
+ "D_run1#18": {
+  "verdict": "HIT",
+  "plant": "P21"
+ },
+ "C_run2#9": {
+  "verdict": "PREEXISTING",
+  "defect_id": "a1:report/report.html:144:four-independent-estimates-overstated"
+ },
+ "C_run1#12": {
+  "verdict": "UNRESOLVED"
+ },
+ "A_run1#21": {
+  "verdict": "HIT",
+  "plant": "P12"
+ },
+ "A_run2#21": {
+  "verdict": "PREEXISTING",
+  "defect_id": "a1:report/report.html:144:four-independent-estimates-overstated"
+ },
+ "B_run2#4": {
+  "verdict": "HIT",
+  "plant": "P14"
+ },
+ "B_run1#5": {
+  "verdict": "HIT",
+  "plant": "P14"
+ },
+ "D_run2#18": {
+  "verdict": "FP"
+ },
+ "D_run1#4": {
+  "verdict": "HIT",
+  "plant": "P14"
+ },
+ "A_run1#13": {
+  "verdict": "HIT",
+  "plant": "P15"
+ },
+ "D_run1#9": {
+  "verdict": "PREEXISTING",
+  "defect_id": "a1:SUBMISSION_KIT.md:18:three-pending-should-be-five"
+ },
+ "D_run1#16": {
+  "verdict": "UNRESOLVED"
+ },
+ "C_run2#17": {
+  "verdict": "UNRESOLVED"
+ },
+ "C_run2#12": {
+  "verdict": "PREEXISTING",
+  "defect_id": "a1:FORM_ANSWERS.md:40:three-pending-should-be-five"
+ },
+ "C_run1#3": {
+  "verdict": "PREEXISTING",
+  "defect_id": "a1:SUBMISSION_KIT.md:74:prototype-cost-nonzero"
+ },
+ "A_run1#12": {
+  "verdict": "HIT",
+  "plant": "P19"
+ },
+ "D_run2#26": {
+  "verdict": "MISS",
+  "np_verdict": "FP"
+ },
+ "A_run1#23": {
+  "verdict": "UNRESOLVED"
+ },
+ "B_run1#14": {
+  "verdict": "FP"
+ },
+ "B_run1#4": {
+  "verdict": "HIT",
+  "plant": "P06"
+ },
+ "A_run1#5": {
+  "verdict": "HIT",
+  "plant": "P02"
+ },
+ "B_run1#13": {
+  "verdict": "MISS",
+  "np_verdict": "FP"
+ },
+ "B_run1#21": {
+  "verdict": "PREEXISTING",
+  "defect_id": "a1:FORM_ANSWERS.md:185:every-number-machine-checked-overstated"
+ },
+ "C_run1#16": {
+  "verdict": "FP"
+ },
+ "D_run2#22": {
+  "verdict": "FP"
+ },
+ "D_run1#22": {
+  "verdict": "UNRESOLVED"
+ },
+ "D_run2#15": {
+  "verdict": "UNRESOLVED"
+ },
+ "C_run1#10": {
+  "verdict": "FP"
+ },
+ "A_run1#19": {
+  "verdict": "PREEXISTING",
+  "defect_id": "a1:FORM_ANSWERS.md:185:every-number-machine-checked-overstated"
+ },
+ "C_run2#5": {
+  "verdict": "FP"
+ },
+ "D_run2#2": {
+  "verdict": "HIT",
+  "plant": "P09"
+ },
+ "B_run1#3": {
+  "verdict": "HIT",
+  "plant": "P07"
+ },
+ "B_run2#1": {
+  "verdict": "HIT",
+  "plant": "P01"
+ }
+}

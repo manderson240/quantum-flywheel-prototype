@@ -1,0 +1,178 @@
+{
+ "inputs": {
+  "g_ln_gap": 0.19756206228969023,
+  "sigma_ln": 0.045086755593654236,
+  "thr": 0.10738855110238175,
+  "thr_alt_sigma0.0506": 0.09636206228969023,
+  "c": 0.0010799695579732514,
+  "se_c": 0.000498114442097575,
+  "c_max": 0.006186434417287002,
+  "D": 6.2985048412978415
+ },
+ "categories": {
+  "cz": {
+   "mirror_mean": 802.0,
+   "mirror_each": [
+    802,
+    802,
+    802
+   ],
+   "K3_mean": 799.2,
+   "K3_min": 792,
+   "K3_max": 810,
+   "K4_mean": 721.8
+  },
+  "rx": {
+   "mirror_mean": 2196.0,
+   "mirror_each": [
+    2196,
+    2196,
+    2196
+   ],
+   "K3_mean": 2196.0,
+   "K3_min": 2196,
+   "K3_max": 2196,
+   "K4_mean": 2196.0
+  },
+  "cz_layers": {
+   "mirror_mean": 36.0,
+   "mirror_each": [
+    36,
+    36,
+    36
+   ],
+   "K3_mean": 36.0,
+   "K3_min": 36,
+   "K3_max": 36,
+   "K4_mean": 36.0
+  },
+  "prep_rx": {
+   "mirror_mean": 61.0,
+   "mirror_each": [
+    61,
+    61,
+    61
+   ],
+   "K3_mean": 0.0,
+   "K3_min": 0,
+   "K3_max": 0,
+   "K4_mean": 0.0
+  },
+  "idle_qubit_layers": {
+   "mirror_mean": 592.0,
+   "mirror_each": [
+    592,
+    592,
+    592
+   ],
+   "K3_mean": 597.6,
+   "K3_min": 576,
+   "K3_max": 612,
+   "K4_mean": 752.4
+  }
+ },
+ "dN_K3_minus_mirror": {
+  "cz": -2.7999999999999545,
+  "rx": 0.0,
+  "cz_layers": 0.0
+ },
+ "relative_cz_diff_vs_K3": 0.0035035035035034462,
+ "mirror_inside_K3_range": true,
+ "G_c": -0.003023914762325055,
+ "G_c_minus2se": -0.00023447388657867998,
+ "G_c_plus2se": -0.005813355638071429,
+ "G_cmax": -0.017322016368403324,
+ "G_all": 0.0,
+ "G_c_over_g": -0.015306151025549697,
+ "count_corrected_ln_gap_c": 0.20058597705201528,
+ "count_corrected_ln_gap_cmax": 0.21488407865809356,
+ "verdict_thr": "CANNOT EXPLAIN (count difference goes the wrong way)",
+ "verdict_thr_alt": "CANNOT EXPLAIN (count difference goes the wrong way)",
+ "VERDICT": "CANNOT EXPLAIN (count difference goes the wrong way)",
+ "variant_junction_cancelled": {
+  "N_m": 782.0,
+  "G_c": 0.018575476397139974,
+  "G_cmax": 0.10640667197733672
+ },
+ "variant_prep_in_1q": {
+  "dN_rx_prep61": -61.0,
+  "dN_rx_prep_half": -30.5
+ },
+ "secondary_K4": {
+  "dN_cz": -80.20000000000005,
+  "G_c": -0.08661355854945481
+ },
+ "secondary_full": {
+  "N_full": 918,
+  "G_full_c": 0.12527646872489717,
+  "G_full_cmax": 0.7176263924052922
+ },
+ "descriptive_exposure": {
+  "mirror_minus_K3_per_qubit_min": -1.3999999999999986,
+  "max": 3.1999999999999993,
+  "mean": 0.0918032786885244
+ },
+ "descriptive_coupler": {
+  "n_couplers": 102,
+  "mirror_only": 0,
+  "K3_only": 0,
+  "max_abs_usage_diff": 1.4000000000000004
+ },
+ "structural": {
+  "0": {
+   "S1": {
+    "ops": 7390,
+    "even": true,
+    "mismatched_pairs": 0,
+    "pass": true
+   },
+   "S2": {
+    "forward_layers": 18,
+    "mismatched_layers": [],
+    "pass": true
+   },
+   "S3": {
+    "junction_duplicate": true,
+    "junction_layer_size": 20
+   }
+  },
+  "1": {
+   "S1": {
+    "ops": 7390,
+    "even": true,
+    "mismatched_pairs": 0,
+    "pass": true
+   },
+   "S2": {
+    "forward_layers": 18,
+    "mismatched_layers": [],
+    "pass": true
+   },
+   "S3": {
+    "junction_duplicate": true,
+    "junction_layer_size": 20
+   }
+  },
+  "2": {
+   "S1": {
+    "ops": 7390,
+    "even": true,
+    "mismatched_pairs": 0,
+    "pass": true
+   },
+   "S2": {
+    "forward_layers": 18,
+    "mismatched_layers": [],
+    "pass": true
+   },
+   "S3": {
+    "junction_duplicate": true,
+    "junction_layer_size": 20
+   }
+  }
+ },
+ "missing": [],
+ "s4_all_agree": true,
+ "s4_n": 35,
+ "rss_mb": 17.125
+}

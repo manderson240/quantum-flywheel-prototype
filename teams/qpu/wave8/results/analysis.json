@@ -1,0 +1,171 @@
+{
+ "prereg_sha16": "c29f1ce2d3ca4d2c",
+ "cost_total": 7.199999999999999,
+ "jobs": {
+  "J2": {
+   "job_id": "7l1928ZCvcD0Sdyw",
+   "status": "COMPLETED",
+   "cost": 0.72,
+   "queue_time_ms": 1385160,
+   "run_time_ms": 1
+  },
+  "J6": {
+   "job_id": "PVJNF7126ELDDvzO",
+   "status": "COMPLETED",
+   "cost": 0.72,
+   "queue_time_ms": 1362164,
+   "run_time_ms": 1
+  },
+  "J3": {
+   "job_id": "WQVkTErwBfr5nARt",
+   "status": "COMPLETED",
+   "cost": 0.72,
+   "queue_time_ms": 1376338,
+   "run_time_ms": 1
+  },
+  "J7": {
+   "job_id": "dk6UoncC23tkDv00",
+   "status": "COMPLETED",
+   "cost": 0.72,
+   "queue_time_ms": 1361309,
+   "run_time_ms": 1
+  },
+  "J9": {
+   "job_id": "gdI1N4Nq2eiMUujM",
+   "status": "COMPLETED",
+   "cost": 0.72,
+   "queue_time_ms": 1480074,
+   "run_time_ms": 1
+  },
+  "J1": {
+   "job_id": "VRjviWOIscWwx80i",
+   "status": "COMPLETED",
+   "cost": 0.72,
+   "queue_time_ms": 1397893,
+   "run_time_ms": 1
+  },
+  "J5": {
+   "job_id": "6HfvpZsEg7firDYC",
+   "status": "COMPLETED",
+   "cost": 0.72,
+   "queue_time_ms": 1364033,
+   "run_time_ms": 1
+  },
+  "J0": {
+   "job_id": "057l763XcQOGI4c7",
+   "status": "COMPLETED",
+   "cost": 0.72,
+   "queue_time_ms": 3292922,
+   "run_time_ms": 1
+  },
+  "J4": {
+   "job_id": "NZQjTP7A0g07qvsu",
+   "status": "COMPLETED",
+   "cost": 0.72,
+   "queue_time_ms": 1367147,
+   "run_time_ms": 1
+  },
+  "J8": {
+   "job_id": "dKvLfJYGlWqwOvHR",
+   "status": "COMPLETED",
+   "cost": 0.72,
+   "queue_time_ms": 1352952,
+   "run_time_ms": 1
+  }
+ },
+ "readout": {
+  "rho": 0.8923157894736843,
+  "rho_se": 0.011561443441615672,
+  "all_ones_fraction": 0.358
+ },
+ "mirror": {
+  "1": {
+   "r": 0.9418947368421053,
+   "r_se": 0.011131824337499575,
+   "survival": 0.58
+  },
+  "2": {
+   "r": 0.9446315789473685,
+   "r_se": 0.011903169396188615,
+   "survival": 0.593
+  },
+  "3": {
+   "r": 0.934421052631579,
+   "r_se": 0.014311961992640749,
+   "survival": 0.522
+  },
+  "4": {
+   "r": 0.9403157894736842,
+   "r_se": 0.010796645740645544,
+   "survival": 0.564
+  }
+ },
+ "floquet": [
+  {
+   "job": "J1",
+   "cycles": 1,
+   "shots": 1000,
+   "M": 0.32147368421052636,
+   "M_se": 0.007526276184066713,
+   "ZZd2": 0.11568,
+   "ZZd2_se": 0.00759372123548147,
+   "M_exact": 0.4634133244517099,
+   "ZZd2_exact": 0.2222211471840195,
+   "delta": -0.14193964024118355,
+   "z": -18.85921228105777,
+   "M_pred": 0.4248435125170239,
+   "M_pred_se": 0.003725282576212533,
+   "agree_3sigma": false
+  },
+  {
+   "job": "J2",
+   "cycles": 2,
+   "shots": 1000,
+   "M": 0.15136842105263157,
+   "M_se": 0.00814286570812825,
+   "ZZd2": 0.03776,
+   "ZZd2_se": 0.0065433475987294,
+   "M_exact": 0.20100485920167957,
+   "ZZd2_exact": 0.2736650971467248,
+   "delta": -0.049636438149048,
+   "z": -6.095696518671634,
+   "M_pred": 0.1845427870793426,
+   "M_pred_se": 0.0016676813489384516,
+   "agree_3sigma": false
+  },
+  {
+   "job": "J3",
+   "cycles": 3,
+   "shots": 1000,
+   "M": 0.1306315789473684,
+   "M_se": 0.008377686531196693,
+   "ZZd2": 0.05816,
+   "ZZd2_se": 0.0070195932281784746,
+   "M_exact": 0.2731548202043424,
+   "ZZd2_exact": 0.2890513447419026,
+   "delta": -0.142523241256974,
+   "z": -17.012243263847157,
+   "M_pred": 0.24942470364993827,
+   "M_pred_se": 0.0025019278410196295,
+   "agree_3sigma": false
+  },
+  {
+   "job": "J4",
+   "cycles": 4,
+   "shots": 1000,
+   "M": 0.08484210526315789,
+   "M_se": 0.00811708659871778,
+   "ZZd2": 0.02544,
+   "ZZd2_se": 0.0067399579697082265,
+   "M_exact": 0.4114399882461814,
+   "ZZd2_exact": 0.362336694773097,
+   "delta": -0.3265978829830235,
+   "z": -40.23585051249974,
+   "M_pred": 0.3768796190023449,
+   "M_pred_se": 0.00326229650283228,
+   "agree_3sigma": false
+  }
+ ],
+ "repeat_identical_counts": false,
+ "attribution_hints": []
+}

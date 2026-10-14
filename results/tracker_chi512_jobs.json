@@ -1,0 +1,32 @@
+[
+ {
+  "cycles": 13,
+  "obs": "mag",
+  "job_id": "Pk6q6FMkFTkkH5wI"
+ },
+ {
+  "cycles": 13,
+  "obs": "zzd2",
+  "job_id": "yz8HYBH0TgLdjosB"
+ },
+ {
+  "cycles": 13,
+  "obs": "zzd3",
+  "job_id": "Yd2bBinaYHJeXGZt"
+ },
+ {
+  "cycles": 16,
+  "obs": "mag",
+  "job_id": "Yog9g8SPFH453m8J"
+ },
+ {
+  "cycles": 16,
+  "obs": "zzd2",
+  "job_id": "kShB77iXFDhDqNUi"
+ },
+ {
+  "cycles": 16,
+  "obs": "zzd3",
+  "job_id": "YY93oRue0VgDmrte"
+ }
+]

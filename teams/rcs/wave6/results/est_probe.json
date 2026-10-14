@@ -1,0 +1,22 @@
+{
+ "8": {
+  "runtime_ms": 2814900,
+  "cost": 0.2,
+  "err": null
+ },
+ "16": {
+  "runtime_ms": 4753600,
+  "cost": 0.2,
+  "err": null
+ },
+ "24": {
+  "runtime_ms": 6935700,
+  "cost": 0.2,
+  "err": null
+ },
+ "36": {
+  "runtime_ms": 10064800,
+  "cost": 0.28,
+  "err": null
+ }
+}

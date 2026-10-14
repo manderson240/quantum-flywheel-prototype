@@ -1,0 +1,151 @@
+{
+ "cells": {
+  "F_chi4": {
+   "chi": 4,
+   "job_id": "PQQxITmooQzjAnu6",
+   "status": "COMPLETED",
+   "cost": 0.0,
+   "own_xeb": 0.04330901960150419,
+   "own_xeb_raw": 0.07411004231318219,
+   "own_fidelity": 0.00015569134901241596,
+   "own_noswapback_xeb_descriptive": 0.27588314238676276,
+   "bq_xeb": 0.07901335344833989,
+   "bq_ci95": [
+    0.07408115302156212,
+    0.08392477461510338
+   ],
+   "shots": 100000,
+   "trunc_win": false,
+   "trunc_refuted": false
+  },
+  "F_chi8": {
+   "chi": 8,
+   "job_id": "d2onkEWtP4UseXYs",
+   "status": "COMPLETED",
+   "cost": 0.0,
+   "own_xeb": 0.03834769806513918,
+   "own_xeb_raw": 0.06562026922728803,
+   "own_fidelity": 0.0006379301590349902,
+   "own_noswapback_xeb_descriptive": 0.5675021105725169,
+   "bq_xeb": 0.10747145611786316,
+   "bq_ci95": [
+    0.10232907830389458,
+    0.11282917026527679
+   ],
+   "shots": 100000,
+   "trunc_win": true,
+   "trunc_refuted": false
+  },
+  "F_chi16": {
+   "chi": 16,
+   "job_id": "1t5vbMrhTbIC7K9M",
+   "status": "COMPLETED",
+   "cost": 0.0,
+   "own_xeb": 0.0900551845283045,
+   "own_xeb_raw": 0.15410169976884625,
+   "own_fidelity": 0.010429574255128301,
+   "own_noswapback_xeb_descriptive": 0.8220818585433886,
+   "bq_xeb": 0.3054410357940658,
+   "bq_ci95": [
+    0.2978755367626019,
+    0.31289690968482703
+   ],
+   "shots": 100000,
+   "trunc_win": true,
+   "trunc_refuted": false
+  },
+  "B_chi4": {
+   "chi": 4,
+   "job_id": "ghOmDzncXwrszumb",
+   "status": "COMPLETED",
+   "cost": 0.0,
+   "own_xeb": 0.02587702933283042,
+   "own_xeb_raw": 2.247839836895976,
+   "own_fidelity": 8.475687978908202e-06,
+   "own_noswapback_xeb_descriptive": 0.2869181729445689,
+   "bq_xeb": 0.058081523932230386,
+   "bq_ci95": [
+    0.056980390818165555,
+    0.05925550528040935
+   ],
+   "shots": 100000,
+   "trunc_win": true,
+   "trunc_refuted": false
+  },
+  "B_chi8": {
+   "chi": 8,
+   "job_id": "fUlObj7mzy3LkXXO",
+   "status": "COMPLETED",
+   "cost": 0.0,
+   "own_xeb": 0.028433909286607686,
+   "own_xeb_raw": 2.469946344731071,
+   "own_fidelity": 2.717912083105622e-06,
+   "own_noswapback_xeb_descriptive": 0.8416437284025088,
+   "bq_xeb": 0.13653682890366034,
+   "bq_ci95": [
+    0.1339482093136898,
+    0.1390786715345962
+   ],
+   "shots": 100000,
+   "trunc_win": true,
+   "trunc_refuted": false
+  },
+  "B_chi16": {
+   "chi": 16,
+   "job_id": "e5JOfwa14HIRc5jG",
+   "status": "COMPLETED",
+   "cost": 0.0,
+   "own_xeb": 0.18378608069881816,
+   "own_xeb_raw": 15.964802928041316,
+   "own_fidelity": 0.008895428919865922,
+   "own_noswapback_xeb_descriptive": 0.8526042398680548,
+   "bq_xeb": 0.20141301264305295,
+   "bq_ci95": [
+    0.19746573761801128,
+    0.20528757195992534
+   ],
+   "shots": 100000,
+   "trunc_win": false,
+   "trunc_refuted": false
+  },
+  "R_chi4": {
+   "chi": 4,
+   "job_id": "IvstwILM5x7gdVwr",
+   "status": "COMPLETED",
+   "cost": 0.0,
+   "hits": 1625,
+   "shots": 100000,
+   "survival": 0.01625,
+   "orig_survival": 0.19931,
+   "own_survival": 0.0046446101153679855,
+   "within_99pct_of_original": false,
+   "interval": [
+    0.19605581225273794,
+    0.20256418774726204
+   ]
+  },
+  "R_chi8": {
+   "chi": 8,
+   "job_id": "5G18Gpp2B3WjYLcO",
+   "status": "COMPLETED",
+   "cost": 0.0,
+   "hits": 37820,
+   "shots": 100000,
+   "survival": 0.3782,
+   "orig_survival": 0.0282,
+   "own_survival": 0.006234762247084328,
+   "within_99pct_of_original": false,
+   "interval": [
+    0.026851475440736208,
+    0.02954852455926379
+   ]
+  }
+ },
+ "C0_raw": 1.7146203555995667,
+ "C0_xeb_exact_samples": 1.002003564860887,
+ "C0_pass": true,
+ "H_trunc_on_F": "SUPPORTED",
+ "H_trunc_on_B": "SUPPORTED",
+ "H_trunc": "SUPPORTED",
+ "H_cancel": "REFUTED"
+}

@@ -1,0 +1,2 @@
+[BQ-PYTHON-SDK][WARNING] - Beta version 0.18.12b1 of BlueQubit Python SDK is being used.
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: Z83WrUyTxMvrOqaQ, device: quantum, run status: PENDING, created on: 2026-09-26 16:11:34 UTC, estimated runtime: 1 ms, estimated cost: $0.72, num qubits: 61, shots: 1000

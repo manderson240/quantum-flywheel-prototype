@@ -1,0 +1,40 @@
+{
+ "P1": {
+  "n_gates": 1188,
+  "max_abs_dp_vs_dense": 2.5587171270657905e-17,
+  "max_abs_dp_vs_qiskit_calls": 2.5587171270657905e-17,
+  "pass": true
+ },
+ "N1": [
+  {
+   "counts_instance": 0,
+   "circuit_instance": 1,
+   "fidelity": -1.0162268851979411e-08,
+   "se": 1.628608630296593e-07,
+   "abs_F_over_se": 0.06239847108097859,
+   "pass": true
+  },
+  {
+   "counts_instance": 1,
+   "circuit_instance": 2,
+   "fidelity": -4.1989439994317614e-08,
+   "se": 2.7657249124908944e-07,
+   "abs_F_over_se": 0.15182073894869275,
+   "pass": true
+  },
+  {
+   "counts_instance": 2,
+   "circuit_instance": 0,
+   "fidelity": -3.0521203861645834e-09,
+   "se": 1.6787084803711594e-07,
+   "abs_F_over_se": 0.01818136038420301,
+   "pass": true
+  }
+ ],
+ "N2": {
+  "fidelity": -4.981739920332895e-09,
+  "se": 1.8199245319543303e-07,
+  "abs_F_over_se": 0.027373332425950882,
+  "pass": true
+ }
+}

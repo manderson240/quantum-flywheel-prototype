@@ -1,0 +1,26 @@
+agent_lemonade_Qwen3.6-35B-A3B-MTP-GGUF                 reps= 3 net=-0.039 succ=   0 WRONG=   5 abst= 173 inval=  2 spent=  32.3 | per-config net c24=-0.02 c47=-0.04 tracker=-0.05
+agent_ollama_deepseek-v4-flash:cloud                    reps= 3 net=-0.167 succ=  42 WRONG=  61 abst=  66 inval= 11 spent=  31.4 | per-config net c24=-0.16 c47=+0.13 tracker=-0.37
+blind_agent_lemonade_Qwen3.6-35B-A3B-MTP-GGUF           reps= 1 net=-0.017 succ=   0 WRONG=   1 abst=  59 inval=  0 spent=  34.2 | per-config net c24=+0.00 c47=-0.06 tracker=+0.00
+blind_agent_ollama_deepseek-v4-flash:cloud              reps= 1 net=-0.183 succ=   2 WRONG=  11 abst=  45 inval=  2 spent=  33.6 | per-config net c24=-0.27 c47=-0.11 tracker=-0.19
+grid                                                    reps= 1 net=-0.500 succ=  12 WRONG=  42 abst=   6 inval=  0 spent=  13.0 | per-config net c24=-0.73 c47=-0.44 tracker=-0.41
+random                                                  reps=50 net=-0.340 succ= 565 WRONG=1586 abst= 849 inval=  0 spent=  25.8 | per-config net c24=-0.30 c47=-0.27 tracker=-0.41
+ref_best_single                                         reps= 1 net=-0.233 succ=  23 WRONG=  37 abst=   0 inval=  0 spent=   8.3 | per-config net c24=+0.07 c47=+0.22 tracker=-0.70
+ref_most_expensive                                      reps= 1 net=-0.567 succ=  13 WRONG=  47 abst=   0 inval=  0 spent=  30.2 | per-config net c24=-0.20 c47=-0.89 tracker=-0.56
+rule                                                    reps= 1 net=+0.117 succ=   8 WRONG=   1 abst=  51 inval=  0 spent=  38.5 | per-config net c24=+0.20 c47=+0.06 tracker=+0.11
+
+random: median-seed net -0.367, range [-0.583, +0.067]
+best baseline: rule +0.117
+
+agent_lemonade_Qwen3.6-35B-A3B-MTP-GGUF
+  net by repeat [-0.017, -0.05, -0.05], mean -0.039, noise floor 0.033
+  (1) margin over best baseline -0.156 > floor? False
+  (2) bootstrap 95% CI agent-rule [-0.281, -0.056] excludes 0 above? False
+  (3) margin over blind -0.022 > floor? False   (CI agent-blind [-0.062, +0.033])
+  VERDICT: NOT SUPPORTED
+
+agent_ollama_deepseek-v4-flash:cloud
+  net by repeat [-0.2, -0.05, -0.25], mean -0.167, noise floor 0.200
+  (1) margin over best baseline -0.283 > floor? False
+  (2) bootstrap 95% CI agent-rule [-0.519, +0.065] excludes 0 above? False
+  (3) margin over blind +0.017 > floor? False   (CI agent-blind [-0.227, +0.346])
+  VERDICT: NOT SUPPORTED

@@ -1,0 +1,396 @@
+[BQ-PYTHON-SDK][WARNING] - Beta version 0.18.12b1 of BlueQubit Python SDK is being used.
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: TkYDIBP0ih3Nw7Je, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:29:05 UTC, estimated runtime: 10400 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: rnx9xb0FF2IgdQAp, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:29:14 UTC, estimated runtime: 10400 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: yQ3FL9nRzSq7GbIT, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:29:22 UTC, estimated runtime: 14900 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: KgjQqi5oTRf1HCPB, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:29:35 UTC, estimated runtime: 14900 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+dev_heavyhex19 4 native 18 -0.52
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: aFOl77OGCXSaxjdB, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:29:49 UTC, estimated runtime: 10400 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: hAnN50Op4nTmoPuE, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:29:51 UTC, estimated runtime: 10400 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: kDFL8m2lzv6S0ryD, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:29:53 UTC, estimated runtime: 14900 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: QIJ91eGt7Iv5YRMw, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:29:55 UTC, estimated runtime: 14900 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+dev_heavyhex19 4 rcm 4 -0.734
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: LXrI3WmAVNkU7RbG, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:29:57 UTC, estimated runtime: 10400 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: K8zD8B25DPJlQp1d, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:29:59 UTC, estimated runtime: 10400 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: yXlv09YttePz1gtM, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:30:01 UTC, estimated runtime: 14900 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: GYuPAV5SM7wYj3RT, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:30:03 UTC, estimated runtime: 14900 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+dev_heavyhex19 4 spectral 3 -0.771
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: rBhTqRSD6XQnTC8e, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:30:04 UTC, estimated runtime: 10400 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: 9JihaMr0JU5ExCZI, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:30:06 UTC, estimated runtime: 10400 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: 2Swtr43KxODWifP9, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:30:08 UTC, estimated runtime: 14900 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: 9vqU4aKWTNJT9Har, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:30:10 UTC, estimated runtime: 14900 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+dev_heavyhex19 4 cutwidthSA0 3 -0.768
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: RBL54qNvjFUQB4zl, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:30:12 UTC, estimated runtime: 10400 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: Cj83DcoPGo3R3S40, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:30:14 UTC, estimated runtime: 10400 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: XVqdHbwozd7cT8ot, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:30:16 UTC, estimated runtime: 14900 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: wdbsdAb3TaURGiP0, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:30:17 UTC, estimated runtime: 14900 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+dev_heavyhex19 4 cutwidthSA1 3 -0.785
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: 0hIjqS5xYvPr3Pbj, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:30:19 UTC, estimated runtime: 10400 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: pHOcERrOhoSzJa5P, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:30:21 UTC, estimated runtime: 10400 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: R1jtMcGFOHyjvbiz, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:30:23 UTC, estimated runtime: 14900 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: 5hV1ovpmeYdP99Zv, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:30:24 UTC, estimated runtime: 14900 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+dev_heavyhex19 4 cutwidthSA2 3 -0.789
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: SB4MOxw0lnfx8Lyb, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:30:26 UTC, estimated runtime: 10400 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: ilx0sue6KDPePCAF, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:30:28 UTC, estimated runtime: 10400 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: Aq1tkt1YU1h397Lt, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:30:30 UTC, estimated runtime: 14900 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: Puji5PMD2LAuzAie, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:30:32 UTC, estimated runtime: 14900 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+dev_heavyhex19 4 cutwidthSA3 3 -0.782
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: 2e6QZZMLkiJVjEVs, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:30:33 UTC, estimated runtime: 10400 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: mpf8i7SIEMcm7NKv, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:30:35 UTC, estimated runtime: 10400 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: NEhA2ndc1BHg6Jmr, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:30:37 UTC, estimated runtime: 14900 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: xj3vWndhFamMmTp5, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:30:40 UTC, estimated runtime: 14900 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+dev_heavyhex19 4 random0 12 -0.501
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: GVs930PKB27RMwdq, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:30:43 UTC, estimated runtime: 10400 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: 3yxoZ0n1rtTofHzz, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:30:45 UTC, estimated runtime: 10400 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: fazrH3BgHJ4lzN2Q, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:30:47 UTC, estimated runtime: 14900 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: gWszDOuJyQG89ur8, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:30:50 UTC, estimated runtime: 14900 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+dev_heavyhex19 4 random1 13 -0.493
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: lbDLE8bIkXv6xGEQ, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:30:53 UTC, estimated runtime: 10400 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: RzYE0Azr8qfFcBS1, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:30:55 UTC, estimated runtime: 10400 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: RPd4rAE9Tc6gise7, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:30:56 UTC, estimated runtime: 14900 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: Cd2Dw2ujGr3MrSsF, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:30:59 UTC, estimated runtime: 14900 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+dev_heavyhex19 4 random2 10 -0.524
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: pEfbFq4gdmxlj5es, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:31:02 UTC, estimated runtime: 10400 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: ijEBlzV88hcRATS6, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:31:04 UTC, estimated runtime: 10400 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: FneEfPrc5iSuD0qd, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:31:06 UTC, estimated runtime: 14900 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: YuasOzJGsyM03Bms, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:31:08 UTC, estimated runtime: 14900 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+dev_heavyhex19 4 random3 12 -0.533
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: eL9BarCN1A5jG4rn, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:31:11 UTC, estimated runtime: 10400 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: lFagwg3TD9zSkmaq, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:31:13 UTC, estimated runtime: 10400 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: zMtjPZUMotl9uA6l, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:31:15 UTC, estimated runtime: 14900 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: mULirDRCoSHA0GrR, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:31:18 UTC, estimated runtime: 14900 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+dev_heavyhex19 4 random4 11 -0.537
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: p5Bn46IUO41SnkDs, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:31:21 UTC, estimated runtime: 10400 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: y0ld6b63R2dDTpHA, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:31:22 UTC, estimated runtime: 10400 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: xngPQTvKUOHDfltj, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:31:24 UTC, estimated runtime: 14900 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: 6TM43k40kfVYeVww, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:31:27 UTC, estimated runtime: 14900 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+dev_heavyhex19 4 random5 13 -0.539
+[BQ-PYTHON-SDK][WARNING] - Beta version 0.18.12b1 of BlueQubit Python SDK is being used.
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: esKB2W1E5wk1TAIB, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:31:30 UTC, estimated runtime: 22300 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: qO3oeI92xk8p336w, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:31:32 UTC, estimated runtime: 22300 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: i9tg8jI3cJgZxZlz, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:31:35 UTC, estimated runtime: 17900 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: k9BGFTGtn76cSJHB, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:31:38 UTC, estimated runtime: 17900 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+dev_heavyhex19 8 native 18 -0.561
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: evNZUtBln3k2p1LO, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:31:41 UTC, estimated runtime: 22300 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: HE7njbGH5Vbg3YCZ, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:31:43 UTC, estimated runtime: 22300 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: DrqVuqeeQE4S9F3m, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:31:44 UTC, estimated runtime: 17900 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: UBgE67Bumf0nWgWx, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:31:47 UTC, estimated runtime: 17900 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+dev_heavyhex19 8 rcm 4 -0.826
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: sb33VoCmigYAI8jj, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:31:49 UTC, estimated runtime: 22300 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: E085OwlQVQVpod5C, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:31:51 UTC, estimated runtime: 22300 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: 2k3pIRy9RXoBnZiy, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:31:53 UTC, estimated runtime: 17900 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: zh5P5TvMHqpSaTNs, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:31:54 UTC, estimated runtime: 17900 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+dev_heavyhex19 8 spectral 3 -0.864
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: 8ka98zIcOQFIjayn, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:31:56 UTC, estimated runtime: 22300 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: TQ3gQaTzXDlSoap1, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:31:58 UTC, estimated runtime: 22300 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: 8AoM8m5cn1iciK5h, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:32:00 UTC, estimated runtime: 17900 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: 3qRLnJv3mRuz94iZ, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:32:01 UTC, estimated runtime: 17900 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+dev_heavyhex19 8 cutwidthSA0 3 -0.847
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: jy1SalO4d3HW5SB9, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:32:03 UTC, estimated runtime: 22300 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: 7LNkZk4437wKTSxY, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:32:05 UTC, estimated runtime: 22300 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: p7mGTBeKdTpMUNGi, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:32:07 UTC, estimated runtime: 17900 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: 79wlDXhD8gKgzkRS, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:32:08 UTC, estimated runtime: 17900 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+dev_heavyhex19 8 cutwidthSA1 3 -0.862
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: ySQY3xvDYRNC5FCl, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:32:10 UTC, estimated runtime: 22300 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: sUSzva8x2Fo3BUDK, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:32:12 UTC, estimated runtime: 22300 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: VdABblPHrjjQobZs, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:32:14 UTC, estimated runtime: 17900 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: IJLBZm8roUkoE0B3, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:32:16 UTC, estimated runtime: 17900 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+dev_heavyhex19 8 cutwidthSA2 3 -0.87
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: j7RvDwxanI912JpW, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:32:17 UTC, estimated runtime: 22300 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: DKiNI2Uq8p4lPpCL, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:32:19 UTC, estimated runtime: 22300 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: 2wN78bNGTLVeJ5RR, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:32:21 UTC, estimated runtime: 17900 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: GJWMLCoZf2HEWupz, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:32:23 UTC, estimated runtime: 17900 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+dev_heavyhex19 8 cutwidthSA3 3 -0.867
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: yJhA7Th47BzbtWIw, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:32:24 UTC, estimated runtime: 22300 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: ruoVauVM4dEsrAlM, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:32:26 UTC, estimated runtime: 22300 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: txf356RnfVcu7Gev, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:32:28 UTC, estimated runtime: 17900 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: tXB37GkvdiM0Op7J, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:32:31 UTC, estimated runtime: 17900 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+dev_heavyhex19 8 random0 12 -0.587
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: M27XMEQkkB7jKUFb, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:32:34 UTC, estimated runtime: 22300 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: Q6rY4q0TkphnAf9T, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:32:35 UTC, estimated runtime: 22300 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: 3WmitpMsJfVW508P, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:32:37 UTC, estimated runtime: 17900 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: Z2KiMH24NbNUokH3, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:32:43 UTC, estimated runtime: 17900 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+dev_heavyhex19 8 random1 13 -0.576
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: myXHzF4R54et8m2j, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:32:46 UTC, estimated runtime: 22300 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: Mn9ZQdLDzP4UA1pA, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:32:48 UTC, estimated runtime: 22300 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: XunNCXjVgUyba29O, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:32:50 UTC, estimated runtime: 17900 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: zgAH3pGN1WQz9lRx, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:32:52 UTC, estimated runtime: 17900 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+dev_heavyhex19 8 random2 10 -0.605
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: BfXn12wQV4MK2LNN, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:32:55 UTC, estimated runtime: 22300 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: El8PBwI07Lw7opwn, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:32:57 UTC, estimated runtime: 22300 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: 22GpCCFCrkRf8VDT, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:32:59 UTC, estimated runtime: 17900 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: I5b1L2EZmYci351h, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:33:02 UTC, estimated runtime: 17900 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+dev_heavyhex19 8 random3 12 -0.579
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: T9lTxq3d8JoKj0az, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:33:05 UTC, estimated runtime: 22300 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: 4jBfrG1pMQF3bss1, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:33:07 UTC, estimated runtime: 22300 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: gCoMDElnfEvwQqU1, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:33:09 UTC, estimated runtime: 17900 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: 7xJ2Ses0Af0G5dIP, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:33:12 UTC, estimated runtime: 17900 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+dev_heavyhex19 8 random4 11 -0.587
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: OQfJ7GKdCLkPIMQQ, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:33:15 UTC, estimated runtime: 22300 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: 5oJ9g4ygVzBgBKqn, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:33:17 UTC, estimated runtime: 22300 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: s8GcMfFcdyGXgsjN, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:33:18 UTC, estimated runtime: 17900 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: zdXtUDFHdhCA43R0, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:33:21 UTC, estimated runtime: 17900 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+dev_heavyhex19 8 random5 13 -0.579
+[BQ-PYTHON-SDK][WARNING] - Beta version 0.18.12b1 of BlueQubit Python SDK is being used.
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: CT7Ye4pnOWxq348d, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:33:24 UTC, estimated runtime: 23200 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: mZ1MoORbiphwUyTp, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:33:27 UTC, estimated runtime: 23200 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: 6v6N9JpfBehYL9cq, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:33:30 UTC, estimated runtime: 19200 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: qyNFaSWjb12dXJEK, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:33:34 UTC, estimated runtime: 19200 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+dev_heavyhex19 16 native 18 -0.602
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: vrV20ckxewJfleSM, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:33:37 UTC, estimated runtime: 23200 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: dIj2lV2wlPidO6p7, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:33:39 UTC, estimated runtime: 23200 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: JFMYlw2cnnm4jQVT, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:33:41 UTC, estimated runtime: 19200 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: LzVvfDsGFhRmTgBT, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:33:42 UTC, estimated runtime: 19200 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+dev_heavyhex19 16 rcm 4 -0.942
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: oTnqOZmvcgeEe352, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:33:44 UTC, estimated runtime: 23200 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: S25Zj1j05OegXtz3, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:33:46 UTC, estimated runtime: 23200 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: HHOMP3EfsqTCgNTf, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:33:48 UTC, estimated runtime: 19200 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: 4H0SkZodQe7c0Cb9, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:33:49 UTC, estimated runtime: 19200 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+dev_heavyhex19 16 spectral 3 -1.029
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: Q4POcFB7Npo5dqGf, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:33:51 UTC, estimated runtime: 23200 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: CSSrRIxKgVBhkMh7, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:33:53 UTC, estimated runtime: 23200 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: 9aLJrGj2qXsDxb0q, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:33:54 UTC, estimated runtime: 19200 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: J3CC24X4RY9PQuCi, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:33:56 UTC, estimated runtime: 19200 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+dev_heavyhex19 16 cutwidthSA0 3 -0.979
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: Ou3n6mpZjcb0CwW9, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:33:59 UTC, estimated runtime: 23200 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: Bt0cpvooaHTmCPRx, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:34:01 UTC, estimated runtime: 23200 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: ROuzCQx6lSQCFWeO, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:34:03 UTC, estimated runtime: 19200 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: g2psT9VB7XCbakID, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:34:05 UTC, estimated runtime: 19200 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+dev_heavyhex19 16 cutwidthSA1 3 -1.026
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: KL2AeBe9AaDScf9R, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:34:07 UTC, estimated runtime: 23200 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: E07WJHOARkjPwg8u, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:34:09 UTC, estimated runtime: 23200 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: CfH4VNmdkB39NK5u, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:34:11 UTC, estimated runtime: 19200 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: jCJ19FUCyogurevj, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:34:12 UTC, estimated runtime: 19200 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+dev_heavyhex19 16 cutwidthSA2 3 -1.02
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: mml2VviAqNpWsgCN, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:34:15 UTC, estimated runtime: 23200 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: O2kk5EWuMZS0VlUa, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:34:17 UTC, estimated runtime: 23200 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: 9A61QiWSqqLELVxT, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:34:19 UTC, estimated runtime: 19200 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: PX1tQGXeQlOKeiRP, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:34:21 UTC, estimated runtime: 19200 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+dev_heavyhex19 16 cutwidthSA3 3 -1.028
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: OqSVEOgfOZxc0Q6v, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:34:24 UTC, estimated runtime: 23200 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: 5TQ563fLHiMh1aAw, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:34:25 UTC, estimated runtime: 23200 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: aUXpE2oKYaHTEpaY, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:34:28 UTC, estimated runtime: 19200 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: VmmhkZ4wTyvrdX6W, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:34:31 UTC, estimated runtime: 19200 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+dev_heavyhex19 16 random0 12 -0.655
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: QtYU9yWxwzef6pD8, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:34:34 UTC, estimated runtime: 23200 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: kJepoHWXZKr3D1pv, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:34:39 UTC, estimated runtime: 23200 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: iZt4SdXZmtcNEtsQ, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:34:43 UTC, estimated runtime: 19200 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: uaxMxHADwMeThnuh, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:34:46 UTC, estimated runtime: 19200 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+dev_heavyhex19 16 random1 13 -0.653
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: 5PT7ihj1fArIWJHX, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:34:49 UTC, estimated runtime: 23200 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: rF7kBJcmhVl78za2, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:34:50 UTC, estimated runtime: 23200 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: f2RvhTsq4vt9TjkE, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:34:52 UTC, estimated runtime: 19200 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: cHRW4Rboh0NUpZ9w, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:34:55 UTC, estimated runtime: 19200 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+dev_heavyhex19 16 random2 10 -0.711
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: jLS2e6S9pndqWf6c, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:34:58 UTC, estimated runtime: 23200 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: XXEHOKkOPJ9qYsko, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:35:00 UTC, estimated runtime: 23200 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: tksarheewds6NQdD, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:35:01 UTC, estimated runtime: 19200 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: LYwVssjIstd06iGs, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:35:04 UTC, estimated runtime: 19200 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+dev_heavyhex19 16 random3 12 -0.656
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: IRFGXVO3SeSTimjb, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:35:07 UTC, estimated runtime: 23200 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: PGP5WM3jWjUX5g8Y, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:35:10 UTC, estimated runtime: 23200 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: 84LRfofuFEMsyUHv, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:35:12 UTC, estimated runtime: 19200 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: 6DCJzXpkvS0ZiU7l, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:35:15 UTC, estimated runtime: 19200 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+dev_heavyhex19 16 random4 11 -0.68
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: bqY4TdHAeDXLFP5X, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:35:18 UTC, estimated runtime: 23200 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: hkx2xJCHFOGf3uCz, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:35:21 UTC, estimated runtime: 23200 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: ReepQcC5XjKHeziP, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:35:23 UTC, estimated runtime: 19200 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: OTr7qYTbTOttDdWA, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:35:26 UTC, estimated runtime: 19200 ms, estimated cost: $0.00, num qubits: 19, shots: 1024
+dev_heavyhex19 16 random5 13 -0.644
+[BQ-PYTHON-SDK][WARNING] - Beta version 0.18.12b1 of BlueQubit Python SDK is being used.
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: n2MgKjtOFC1Yx29I, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:41:53 UTC, estimated runtime: 13300 ms, estimated cost: $0.00, num qubits: 20, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: M9WZRurBngSNhiPE, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:42:08 UTC, estimated runtime: 13300 ms, estimated cost: $0.00, num qubits: 20, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: wtPqzy5rKR1mA8OE, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:42:26 UTC, estimated runtime: 19700 ms, estimated cost: $0.00, num qubits: 20, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: hkkemn3lOvr4Cdsj, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:42:54 UTC, estimated runtime: 19700 ms, estimated cost: $0.00, num qubits: 20, shots: 1024
+test_square4x5 4 native 6 -0.347
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: Eo0rw5eR1lCRjWaL, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:43:24 UTC, estimated runtime: 13300 ms, estimated cost: $0.00, num qubits: 20, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: EBJOWdCJXzpM436q, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:43:26 UTC, estimated runtime: 13300 ms, estimated cost: $0.00, num qubits: 20, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: 9rVGUDqV2NJLbXky, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:43:29 UTC, estimated runtime: 19700 ms, estimated cost: $0.00, num qubits: 20, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: OgBCQUwr9g0I8uKJ, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:43:31 UTC, estimated runtime: 19700 ms, estimated cost: $0.00, num qubits: 20, shots: 1024
+test_square4x5 4 rcm 7 -0.366
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: IwBRfToKTuGmJseu, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:43:34 UTC, estimated runtime: 13300 ms, estimated cost: $0.00, num qubits: 20, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: ocC0GEs84hRrYpbv, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:43:36 UTC, estimated runtime: 13300 ms, estimated cost: $0.00, num qubits: 20, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: t3x1kHOfagM17vgf, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:43:38 UTC, estimated runtime: 19700 ms, estimated cost: $0.00, num qubits: 20, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: 36u8uRQ89uxvAtEI, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:43:44 UTC, estimated runtime: 19700 ms, estimated cost: $0.00, num qubits: 20, shots: 1024
+test_square4x5 4 spectral 6 -0.373
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: sCCFVHl02en7QHVu, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:43:46 UTC, estimated runtime: 13300 ms, estimated cost: $0.00, num qubits: 20, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: ll32UhHMIQqewPAP, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:43:48 UTC, estimated runtime: 13300 ms, estimated cost: $0.00, num qubits: 20, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: muiHxKaI7MSNenOk, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:43:50 UTC, estimated runtime: 19700 ms, estimated cost: $0.00, num qubits: 20, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: FLnHvS5ErImfb9rg, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:43:53 UTC, estimated runtime: 19700 ms, estimated cost: $0.00, num qubits: 20, shots: 1024
+test_square4x5 4 cutwidthSA0 5 -0.374
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: CuyH8k50S5tQwdTQ, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:43:56 UTC, estimated runtime: 13300 ms, estimated cost: $0.00, num qubits: 20, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: eOX8DhsN1QRNQYFA, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:43:58 UTC, estimated runtime: 13300 ms, estimated cost: $0.00, num qubits: 20, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: 0cR38nPTCJu7JrQY, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:44:00 UTC, estimated runtime: 19700 ms, estimated cost: $0.00, num qubits: 20, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: lGPICxITdvemiAmc, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:44:03 UTC, estimated runtime: 19700 ms, estimated cost: $0.00, num qubits: 20, shots: 1024
+test_square4x5 4 cutwidthSA1 5 -0.386
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: zPURcfgJS2ZamEoo, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:44:06 UTC, estimated runtime: 13300 ms, estimated cost: $0.00, num qubits: 20, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: ls5SHs1bHvqiqWxl, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:44:08 UTC, estimated runtime: 13300 ms, estimated cost: $0.00, num qubits: 20, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: BKcYctbqi9O9gonR, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:44:10 UTC, estimated runtime: 19700 ms, estimated cost: $0.00, num qubits: 20, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: 40iyuCRQlxeSxH8I, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:44:13 UTC, estimated runtime: 19700 ms, estimated cost: $0.00, num qubits: 20, shots: 1024
+test_square4x5 4 cutwidthSA2 5 -0.381
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: 3sjNQfhyUHfUFReq, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:44:15 UTC, estimated runtime: 13300 ms, estimated cost: $0.00, num qubits: 20, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: wdZPCMeeO1J2xaSA, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:44:17 UTC, estimated runtime: 13300 ms, estimated cost: $0.00, num qubits: 20, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: Shk3TYjrKUo0n51t, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:44:19 UTC, estimated runtime: 19700 ms, estimated cost: $0.00, num qubits: 20, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: varwILX0CeOwaS9J, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:44:22 UTC, estimated runtime: 19700 ms, estimated cost: $0.00, num qubits: 20, shots: 1024
+test_square4x5 4 cutwidthSA3 5 -0.393
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: WKSLwWEnIMni2M71, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:44:25 UTC, estimated runtime: 13300 ms, estimated cost: $0.00, num qubits: 20, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: wBczfM3cI7jMhVzw, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:44:28 UTC, estimated runtime: 13300 ms, estimated cost: $0.00, num qubits: 20, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: UOxcYy4dreoVXsdl, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:44:31 UTC, estimated runtime: 19700 ms, estimated cost: $0.00, num qubits: 20, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: zYBAS3pJCubXAva1, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:44:35 UTC, estimated runtime: 19700 ms, estimated cost: $0.00, num qubits: 20, shots: 1024
+test_square4x5 4 random0 19 -0.298
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: QNsauKRA9vgN1wBu, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:44:38 UTC, estimated runtime: 13300 ms, estimated cost: $0.00, num qubits: 20, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: dbVRyFr0SAdqPFsf, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:44:39 UTC, estimated runtime: 13300 ms, estimated cost: $0.00, num qubits: 20, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: yvWibJLmej8k1Yc8, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:44:44 UTC, estimated runtime: 19700 ms, estimated cost: $0.00, num qubits: 20, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: BMiuC82q2d0SzcEa, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:44:47 UTC, estimated runtime: 19700 ms, estimated cost: $0.00, num qubits: 20, shots: 1024
+test_square4x5 4 random1 15 -0.299
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: 1y83OT05SiIkG7lo, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:44:50 UTC, estimated runtime: 13300 ms, estimated cost: $0.00, num qubits: 20, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: vDvRxHu6BxJym6W5, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:44:53 UTC, estimated runtime: 13300 ms, estimated cost: $0.00, num qubits: 20, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: l7AHPxQdV2KzWjwo, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:44:56 UTC, estimated runtime: 19700 ms, estimated cost: $0.00, num qubits: 20, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: PeWvKafSMB701cb0, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:44:59 UTC, estimated runtime: 19700 ms, estimated cost: $0.00, num qubits: 20, shots: 1024
+test_square4x5 4 random2 21 -0.296
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: Gfzb0BxeHBcuOXjP, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:45:02 UTC, estimated runtime: 13300 ms, estimated cost: $0.00, num qubits: 20, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: tIeK1sj93oVU52bM, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:45:04 UTC, estimated runtime: 13300 ms, estimated cost: $0.00, num qubits: 20, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: qIBiMvNRojw7bwL3, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:45:07 UTC, estimated runtime: 19700 ms, estimated cost: $0.00, num qubits: 20, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: wrxAp1r6JNROHLsn, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:45:10 UTC, estimated runtime: 19700 ms, estimated cost: $0.00, num qubits: 20, shots: 1024
+test_square4x5 4 random3 18 -0.305
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: U6XBZumb29gdceH0, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:45:14 UTC, estimated runtime: 13300 ms, estimated cost: $0.00, num qubits: 20, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: DbHBWWrOpFkGal0Y, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:45:18 UTC, estimated runtime: 13300 ms, estimated cost: $0.00, num qubits: 20, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: xBN4pOnbN56lRPV0, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:45:21 UTC, estimated runtime: 19700 ms, estimated cost: $0.00, num qubits: 20, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: XpXz8xRNTwy7ygwW, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:45:24 UTC, estimated runtime: 19700 ms, estimated cost: $0.00, num qubits: 20, shots: 1024
+test_square4x5 4 random4 16 -0.295
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: hI1GsKS4Ox0RSpHD, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:45:27 UTC, estimated runtime: 13300 ms, estimated cost: $0.00, num qubits: 20, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: KSYpYdPIdaYZUuRF, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:45:30 UTC, estimated runtime: 13300 ms, estimated cost: $0.00, num qubits: 20, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: qnKqbKQDoiAT2hFT, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:45:33 UTC, estimated runtime: 19700 ms, estimated cost: $0.00, num qubits: 20, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: jOeHfKQL4r2W9QyZ, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:45:36 UTC, estimated runtime: 19700 ms, estimated cost: $0.00, num qubits: 20, shots: 1024
+test_square4x5 4 random5 17 -0.314
+[BQ-PYTHON-SDK][WARNING] - Beta version 0.18.12b1 of BlueQubit Python SDK is being used.
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: 9zHWBF3B0ULv0fOt, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:45:40 UTC, estimated runtime: 16700 ms, estimated cost: $0.00, num qubits: 20, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: jN0IaIzKSwHvEGoD, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:45:42 UTC, estimated runtime: 16700 ms, estimated cost: $0.00, num qubits: 20, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: 0JeQMQ6lObpggZnJ, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:45:44 UTC, estimated runtime: 21400 ms, estimated cost: $0.00, num qubits: 20, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: dHS044FoD8KUFwPp, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:45:47 UTC, estimated runtime: 21400 ms, estimated cost: $0.00, num qubits: 20, shots: 1024
+test_square4x5 8 native 6 -0.441
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: N6TpD55FuJ3YNoBk, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:45:49 UTC, estimated runtime: 16700 ms, estimated cost: $0.00, num qubits: 20, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: vSR907iJmQvn8clh, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:45:51 UTC, estimated runtime: 16700 ms, estimated cost: $0.00, num qubits: 20, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: llBn0p78cASzLE7f, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:45:53 UTC, estimated runtime: 21400 ms, estimated cost: $0.00, num qubits: 20, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: IUi5TEe5bKtBwd6C, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:45:56 UTC, estimated runtime: 21400 ms, estimated cost: $0.00, num qubits: 20, shots: 1024
+test_square4x5 8 rcm 7 -0.481
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: LvUY6NjWTxqNwE24, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:45:59 UTC, estimated runtime: 16700 ms, estimated cost: $0.00, num qubits: 20, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: emLkBBv04ZYoE25N, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:46:01 UTC, estimated runtime: 16700 ms, estimated cost: $0.00, num qubits: 20, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: jjWkpYsIPvmQ0vqW, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:46:04 UTC, estimated runtime: 21400 ms, estimated cost: $0.00, num qubits: 20, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: ywegVNVpQrTpKo00, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:46:07 UTC, estimated runtime: 21400 ms, estimated cost: $0.00, num qubits: 20, shots: 1024
+test_square4x5 8 spectral 6 -0.521
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: KT2CJ3By9kEmCLlW, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:46:09 UTC, estimated runtime: 16700 ms, estimated cost: $0.00, num qubits: 20, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: 0enbZdm8Pc8lsC7f, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:46:11 UTC, estimated runtime: 16700 ms, estimated cost: $0.00, num qubits: 20, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: jiIjkMm3C5gBhIpf, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:46:14 UTC, estimated runtime: 21400 ms, estimated cost: $0.00, num qubits: 20, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: wiCRJCTiGw3gudMo, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:46:17 UTC, estimated runtime: 21400 ms, estimated cost: $0.00, num qubits: 20, shots: 1024
+test_square4x5 8 cutwidthSA0 5 -0.518
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: 3ihbTwUn0pYBFOdO, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:46:20 UTC, estimated runtime: 16700 ms, estimated cost: $0.00, num qubits: 20, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: ZaIoCFSyApFRUrdD, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:46:21 UTC, estimated runtime: 16700 ms, estimated cost: $0.00, num qubits: 20, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: FHZSkvLMrhszzZY2, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:46:23 UTC, estimated runtime: 21400 ms, estimated cost: $0.00, num qubits: 20, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: YRMJruCoyyhdR5SO, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:46:26 UTC, estimated runtime: 21400 ms, estimated cost: $0.00, num qubits: 20, shots: 1024
+test_square4x5 8 cutwidthSA1 5 -0.533
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: v07eXYcSOzhsw7l7, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:46:30 UTC, estimated runtime: 16700 ms, estimated cost: $0.00, num qubits: 20, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: kd6ypUPSmRyPAOXr, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:46:31 UTC, estimated runtime: 16700 ms, estimated cost: $0.00, num qubits: 20, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: zmIici8WoQ8HD2mQ, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:46:33 UTC, estimated runtime: 21400 ms, estimated cost: $0.00, num qubits: 20, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: KSl5Uv6iGoE3QGus, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:46:36 UTC, estimated runtime: 21400 ms, estimated cost: $0.00, num qubits: 20, shots: 1024
+test_square4x5 8 cutwidthSA2 5 -0.518
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: QcjS32XEjFUP68Cm, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:46:39 UTC, estimated runtime: 16700 ms, estimated cost: $0.00, num qubits: 20, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: 2ykXJ2ltOqdDPrhb, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:46:41 UTC, estimated runtime: 16700 ms, estimated cost: $0.00, num qubits: 20, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: WET3e6OEN3QGd7uR, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:46:44 UTC, estimated runtime: 21400 ms, estimated cost: $0.00, num qubits: 20, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: BmcAz01UZOp6lkLh, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:46:47 UTC, estimated runtime: 21400 ms, estimated cost: $0.00, num qubits: 20, shots: 1024
+test_square4x5 8 cutwidthSA3 5 -0.538
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: DJeX9E0UblL6MCoi, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:46:50 UTC, estimated runtime: 16700 ms, estimated cost: $0.00, num qubits: 20, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: W0y76KmVYSOWVZJ7, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:46:53 UTC, estimated runtime: 16700 ms, estimated cost: $0.00, num qubits: 20, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: 8mp5TLlR9tymy8S9, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:46:56 UTC, estimated runtime: 21400 ms, estimated cost: $0.00, num qubits: 20, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: oZ6uwNNWZMhcHNki, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:47:00 UTC, estimated runtime: 21400 ms, estimated cost: $0.00, num qubits: 20, shots: 1024
+test_square4x5 8 random0 19 -0.336
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: SOdHqsJLbxChiDJZ, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:47:04 UTC, estimated runtime: 16700 ms, estimated cost: $0.00, num qubits: 20, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: K2NsPVRvYdAQgEWL, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:47:07 UTC, estimated runtime: 16700 ms, estimated cost: $0.00, num qubits: 20, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: sTVjUkeVpiu4Z7iU, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:47:10 UTC, estimated runtime: 21400 ms, estimated cost: $0.00, num qubits: 20, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: bjGcjbZkL1lrQtoc, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:47:13 UTC, estimated runtime: 21400 ms, estimated cost: $0.00, num qubits: 20, shots: 1024
+test_square4x5 8 random1 15 -0.354
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: DBoq6lH2GoLxJE4S, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:47:16 UTC, estimated runtime: 16700 ms, estimated cost: $0.00, num qubits: 20, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: dMMHIG7M4ikXjxTl, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:47:19 UTC, estimated runtime: 16700 ms, estimated cost: $0.00, num qubits: 20, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: 3sEKdVuleZtbRR9E, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:47:22 UTC, estimated runtime: 21400 ms, estimated cost: $0.00, num qubits: 20, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: Bhw444qo0WWfDWkq, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:47:26 UTC, estimated runtime: 21400 ms, estimated cost: $0.00, num qubits: 20, shots: 1024
+test_square4x5 8 random2 21 -0.339
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: UuE3a4CEa1bpsFbq, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:47:30 UTC, estimated runtime: 16700 ms, estimated cost: $0.00, num qubits: 20, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: YmRCzndCTyXiutSz, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:47:33 UTC, estimated runtime: 16700 ms, estimated cost: $0.00, num qubits: 20, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: EhRa1ZTJgr7VQdzM, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:47:36 UTC, estimated runtime: 21400 ms, estimated cost: $0.00, num qubits: 20, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: 3av05AcpqW4iwYQY, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:47:40 UTC, estimated runtime: 21400 ms, estimated cost: $0.00, num qubits: 20, shots: 1024
+test_square4x5 8 random3 18 -0.343
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: aEphqkkmGNr11BMB, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:47:44 UTC, estimated runtime: 16700 ms, estimated cost: $0.00, num qubits: 20, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: gDDsL45ulT33Nq8G, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:47:47 UTC, estimated runtime: 16700 ms, estimated cost: $0.00, num qubits: 20, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: 6kcQl0tFifZxBHmS, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:47:50 UTC, estimated runtime: 21400 ms, estimated cost: $0.00, num qubits: 20, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: ROpJLymQp7vXjsiR, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:47:53 UTC, estimated runtime: 21400 ms, estimated cost: $0.00, num qubits: 20, shots: 1024
+test_square4x5 8 random4 16 -0.366
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: Ej3aA7KtHRg38p7F, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:47:55 UTC, estimated runtime: 16700 ms, estimated cost: $0.00, num qubits: 20, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: ExfAelMk1LvhtI0R, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:47:58 UTC, estimated runtime: 16700 ms, estimated cost: $0.00, num qubits: 20, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: sEdD5mceVOlc0ekg, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:48:01 UTC, estimated runtime: 21400 ms, estimated cost: $0.00, num qubits: 20, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: wyRUklYKWFOU3NaY, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:48:04 UTC, estimated runtime: 21400 ms, estimated cost: $0.00, num qubits: 20, shots: 1024
+test_square4x5 8 random5 17 -0.35
+[BQ-PYTHON-SDK][WARNING] - Beta version 0.18.12b1 of BlueQubit Python SDK is being used.
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: WqlVnYaTzd9kJ66Y, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:48:08 UTC, estimated runtime: 17800 ms, estimated cost: $0.00, num qubits: 20, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: gnmgrdCRkYgc88xt, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:48:10 UTC, estimated runtime: 17800 ms, estimated cost: $0.00, num qubits: 20, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: 1OmV04ZM4VdZuxor, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:48:13 UTC, estimated runtime: 23700 ms, estimated cost: $0.00, num qubits: 20, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: XV8jgBJ8v0Rostyd, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:48:16 UTC, estimated runtime: 23700 ms, estimated cost: $0.00, num qubits: 20, shots: 1024
+test_square4x5 16 native 6 -0.609
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: lnhtLbMbImgAYq9A, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:48:19 UTC, estimated runtime: 17800 ms, estimated cost: $0.00, num qubits: 20, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: QfBJevz8tWrwCFf8, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:48:21 UTC, estimated runtime: 17800 ms, estimated cost: $0.00, num qubits: 20, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: M8s8lofwVMsiTJsY, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:48:24 UTC, estimated runtime: 23700 ms, estimated cost: $0.00, num qubits: 20, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: AghhbCPPZRtmBTfN, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:48:27 UTC, estimated runtime: 23700 ms, estimated cost: $0.00, num qubits: 20, shots: 1024
+test_square4x5 16 rcm 7 -0.631
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: kHyYJB7frCHaWHtS, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:48:30 UTC, estimated runtime: 17800 ms, estimated cost: $0.00, num qubits: 20, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: L7NtQ6ZeABIb9W5X, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:48:31 UTC, estimated runtime: 17800 ms, estimated cost: $0.00, num qubits: 20, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: taI50JRC73LJiS6J, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:48:33 UTC, estimated runtime: 23700 ms, estimated cost: $0.00, num qubits: 20, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: Q5LlvsMAOR5rZqgs, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:48:36 UTC, estimated runtime: 23700 ms, estimated cost: $0.00, num qubits: 20, shots: 1024
+test_square4x5 16 spectral 6 -0.686
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: PTAJcnrKyd6LvfSd, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:48:39 UTC, estimated runtime: 17800 ms, estimated cost: $0.00, num qubits: 20, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: xqNzBsFNP2y4NR4A, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:48:41 UTC, estimated runtime: 17800 ms, estimated cost: $0.00, num qubits: 20, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: 6EstcYbWFSmp8edO, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:48:42 UTC, estimated runtime: 23700 ms, estimated cost: $0.00, num qubits: 20, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: ha8Wyi4fzFZdjtlr, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:48:45 UTC, estimated runtime: 23700 ms, estimated cost: $0.00, num qubits: 20, shots: 1024
+test_square4x5 16 cutwidthSA0 5 -0.686
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: aM4S5azIYudGkWh3, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:48:48 UTC, estimated runtime: 17800 ms, estimated cost: $0.00, num qubits: 20, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: our0Zuizp04w8E8x, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:48:50 UTC, estimated runtime: 17800 ms, estimated cost: $0.00, num qubits: 20, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: PPKDIBfp69Eq5fzt, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:48:53 UTC, estimated runtime: 23700 ms, estimated cost: $0.00, num qubits: 20, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: ieS2IPqoJvMpOGGC, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:48:56 UTC, estimated runtime: 23700 ms, estimated cost: $0.00, num qubits: 20, shots: 1024
+test_square4x5 16 cutwidthSA1 5 -0.699
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: ZhB8oqIbZwqkRWFD, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:48:59 UTC, estimated runtime: 17800 ms, estimated cost: $0.00, num qubits: 20, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: WLKuUMNnGsTA5q94, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:49:01 UTC, estimated runtime: 17800 ms, estimated cost: $0.00, num qubits: 20, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: 1hfLksc7UPfJHx6V, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:49:04 UTC, estimated runtime: 23700 ms, estimated cost: $0.00, num qubits: 20, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: gtVKdjQS2F5ftpVb, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:49:08 UTC, estimated runtime: 23700 ms, estimated cost: $0.00, num qubits: 20, shots: 1024
+test_square4x5 16 cutwidthSA2 5 -0.69
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: hVRUJ5b3JSBw0Igo, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:49:10 UTC, estimated runtime: 17800 ms, estimated cost: $0.00, num qubits: 20, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: ccU4EhIhLE9UuuUc, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:49:12 UTC, estimated runtime: 17800 ms, estimated cost: $0.00, num qubits: 20, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: Yyk9iXm6wemv9UyL, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:49:14 UTC, estimated runtime: 23700 ms, estimated cost: $0.00, num qubits: 20, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: QQ2QGsQk0PTiu0l4, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:49:17 UTC, estimated runtime: 23700 ms, estimated cost: $0.00, num qubits: 20, shots: 1024
+test_square4x5 16 cutwidthSA3 5 -0.686
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: sh0gEbX2LDidQ5Ue, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:49:20 UTC, estimated runtime: 17800 ms, estimated cost: $0.00, num qubits: 20, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: cT9FhEoDEZt1mJRR, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:49:22 UTC, estimated runtime: 17800 ms, estimated cost: $0.00, num qubits: 20, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: JKE8lrntLA3hokgA, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:49:25 UTC, estimated runtime: 23700 ms, estimated cost: $0.00, num qubits: 20, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: Njdf9zHV4uHygwzV, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:49:29 UTC, estimated runtime: 23700 ms, estimated cost: $0.00, num qubits: 20, shots: 1024
+test_square4x5 16 random0 19 -0.421
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: ZvRkuEhPKTGdFPFL, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:49:33 UTC, estimated runtime: 17800 ms, estimated cost: $0.00, num qubits: 20, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: Zdw6V0f06uzAVul2, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:49:36 UTC, estimated runtime: 17800 ms, estimated cost: $0.00, num qubits: 20, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: UcE7Q9Zlf7XzhhCW, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:49:39 UTC, estimated runtime: 23700 ms, estimated cost: $0.00, num qubits: 20, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: r2t69DVAIi9eVqJx, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:49:43 UTC, estimated runtime: 23700 ms, estimated cost: $0.00, num qubits: 20, shots: 1024
+test_square4x5 16 random1 15 -0.449
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: LO6HHL6YyOe4Z7BZ, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:49:47 UTC, estimated runtime: 17800 ms, estimated cost: $0.00, num qubits: 20, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: VDHNbzZRV8ptuWI6, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:49:50 UTC, estimated runtime: 17800 ms, estimated cost: $0.00, num qubits: 20, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: bz3mqHvute41hAvF, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:49:53 UTC, estimated runtime: 23700 ms, estimated cost: $0.00, num qubits: 20, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: sAPkkfoSyYL0udcI, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:49:57 UTC, estimated runtime: 23700 ms, estimated cost: $0.00, num qubits: 20, shots: 1024
+test_square4x5 16 random2 21 -0.424
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: rVGJkwOA38FwUMzK, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:50:01 UTC, estimated runtime: 17800 ms, estimated cost: $0.00, num qubits: 20, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: tNCml1whRmL0dphC, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:50:04 UTC, estimated runtime: 17800 ms, estimated cost: $0.00, num qubits: 20, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: K16t2Y7pzBy91gDr, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:50:07 UTC, estimated runtime: 23700 ms, estimated cost: $0.00, num qubits: 20, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: aWTM9f0EURajEu28, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:50:11 UTC, estimated runtime: 23700 ms, estimated cost: $0.00, num qubits: 20, shots: 1024
+test_square4x5 16 random3 18 -0.437
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: YuelQClePEDbYEHn, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:50:15 UTC, estimated runtime: 17800 ms, estimated cost: $0.00, num qubits: 20, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: RqBYCB9BkhsAZlkx, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:50:18 UTC, estimated runtime: 17800 ms, estimated cost: $0.00, num qubits: 20, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: YliDI5wKXUTjMFAm, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:50:21 UTC, estimated runtime: 23700 ms, estimated cost: $0.00, num qubits: 20, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: 2SVtigjlGdpdzLya, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:50:25 UTC, estimated runtime: 23700 ms, estimated cost: $0.00, num qubits: 20, shots: 1024
+test_square4x5 16 random4 16 -0.472
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: AMxfDydJgw0PIsRt, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:50:29 UTC, estimated runtime: 17800 ms, estimated cost: $0.00, num qubits: 20, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: BGudfwq2HqLypFZe, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:50:31 UTC, estimated runtime: 17800 ms, estimated cost: $0.00, num qubits: 20, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: ziFMxgkNRXf7TjkB, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:50:34 UTC, estimated runtime: 23700 ms, estimated cost: $0.00, num qubits: 20, shots: 1024
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: iZCrFHHLBi3uuFPq, device: mps.cpu, run status: RUNNING, created on: 2026-09-23 22:50:38 UTC, estimated runtime: 23700 ms, estimated cost: $0.00, num qubits: 20, shots: 1024
+test_square4x5 16 random5 17 -0.432

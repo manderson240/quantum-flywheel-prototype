@@ -1,0 +1,9 @@
+n=27 cycle 1: mag=0.341570, zzd2=0.139223, zzd3=0.143119
+n=27 cycle 2: mag=0.068946, zzd2=0.222706, zzd3=0.068734
+n=27 cycle 4: mag=0.305757, zzd2=0.222633, zzd3=0.177551
+n=27 cycle 8: mag=0.262761, zzd2=0.227622, zzd3=0.143322
+n=27 cycle 13: mag=0.290261, zzd2=0.228508, zzd3=0.159725
+n=27 cycle 16: mag=0.288099, zzd2=0.210542, zzd3=0.139826
+n=27 cycle 20: mag=0.289763, zzd2=0.214452, zzd3=0.140581
+n=27 cycle 27: mag=0.309890, zzd2=0.228874, zzd3=0.160203
+n=27: 24 points, max |BlueQubit - local| = 1.77e-05

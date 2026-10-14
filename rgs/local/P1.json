@@ -1,0 +1,1 @@
+{"P1_max_rel_err_complex64": 6.720022976227028e-07, "threshold": 1e-5, "pass": true, "slices": "k=9,12,14; chunk bits 2 and 24; 36 amplitudes"}

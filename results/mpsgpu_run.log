@@ -1,0 +1,7 @@
+[BQ-PYTHON-SDK][WARNING] - Beta version 0.18.12b1 of BlueQubit Python SDK is being used.
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: PR9HTY4fBzWLUKKt, device: mps.gpu, run status: PENDING, created on: 2026-09-28 14:10:25 UTC, estimated runtime: 14871400 ms, estimated cost: $16.53, num qubits: 51, shots: 1024
+V_51qx30c_chi512 submitted PR9HTY4fBzWLUKKt
+V_51qx30c_chi512 COMPLETED 0.5583479436235084 cost 1.89 h 0.551 | spent 2.61
+74qx27c_chi2048 NOT RUN predicted $175.51 / 51.17 h vs remaining $22.39 / 7 h
+51qx30c_chi2048 NOT RUN predicted $120.96 / 35.26 h vs remaining $22.39 / 7 h
+RUN_MPSGPU_DONE {"V_51qx30c_chi512": "COMPLETED", "74qx27c_chi2048": "NOT RUN", "51qx30c_chi2048": "NOT RUN"}

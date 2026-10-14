@@ -1,0 +1,14 @@
+{
+ "cid": "M_i2_d36_chi256",
+ "attempt": 2,
+ "job": "5cP8LuOeJ1herhPS",
+ "key": "1100011000001101010011110000010011011010111100001010111011000",
+ "status": "COMPLETED",
+ "cost": 0.0,
+ "mps_build_time_s": 1.8552589416503906,
+ "hits": 200000,
+ "shots": 200000,
+ "run_time_ms": 3878899,
+ "collapsed": true,
+ "n_distinct": 1
+}

@@ -1,0 +1,16 @@
+Loading weights:   0%|          | 0/474 [00:00<?, ?it/s]Loading weights:  45%|████▌     | 214/474 [00:00<00:00, 2081.36it/s]Loading weights:  89%|████████▉ | 423/474 [00:00<00:00, 1776.77it/s]Loading weights: 100%|██████████| 474/474 [00:00<00:00, 2000.51it/s]
+loaded in 6.2s
+[transformers] `causal_conv1d_fn` is falling back to its reference PyTorch implementation because `causal_conv1d` is not installed. This is correct but much slower; install `causal_conv1d` for the optimized kernel.
+[transformers] `chunk_gated_delta_rule` is falling back to its reference PyTorch implementation because `flash-linear-attention` is not installed. This is correct but much slower; install `flash-linear-attention` for the optimized kernel.
+sanity control: supported 0.993 vs unsupported 0.001
+p1: supported 0.788 | unsupported 0.537 OK
+p2: supported 0.720 | unsupported 0.009 OK
+p3: supported 0.719 | unsupported 0.937 MISS
+p4: supported 0.969 | unsupported 0.929 OK
+p5: supported 0.984 | unsupported 0.255 OK
+p6: supported 0.997 | unsupported 0.005 OK
+p7: supported 0.804 | unsupported 0.132 OK
+p8: supported 0.608 | unsupported 0.299 OK
+p9: supported 0.986 | unsupported 0.804 OK
+p10: supported 0.219 | unsupported 0.881 MISS
+pairwise 8/10 | AUROC 0.740 vs length control 0.525 -> DROP

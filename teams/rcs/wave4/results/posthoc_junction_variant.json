@@ -1,0 +1,11 @@
+{
+ "label": "POST-HOC variant reading; junction duplicate is present in the logical circuit with barriers; native execution untested",
+ "N_m": 782.0,
+ "dN_cz": 17.200000000000045,
+ "G_c": 0.018575476397139974,
+ "G_cmax": 0.10640667197733672,
+ "G_all": 0.13555340749539935,
+ "G_c_over_g": 0.09402349915694991,
+ "rule_thr": "PARTLY EXPLAINS",
+ "rule_thr_alt": "PARTLY EXPLAINS"
+}

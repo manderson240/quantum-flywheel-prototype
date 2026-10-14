@@ -1,0 +1,17 @@
+{
+ "survival": 1.9948468081119222e-07,
+ "max_bond": 512,
+ "sum_discarded": 21.646875575420072,
+ "svd_fallbacks": 0,
+ "n_updates": 6242,
+ "peak_rss_mb_sampled": 553.36328125,
+ "n_cz": 802,
+ "kind": "mirror",
+ "variant": "CRA_NSB",
+ "inst": 1,
+ "d": 36,
+ "chi": 512,
+ "wall_s": 7925.208897352219,
+ "peak_rss_mb": 634.59375,
+ "threads": "8"
+}

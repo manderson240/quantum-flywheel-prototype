@@ -1,0 +1,63 @@
+{
+  "peaked_circuit": {
+    "instances": [
+      {
+        "id": "peaked_circuit_heavy_hex_49x4020",
+        "path": "peaked_circuit_heavy_hex_49x4020.qasm",
+        "qubits": 49,
+        "gates": 4020,
+        "category": "Superseded candidates"
+      },
+      {
+        "id": "peaked_circuit_heavy_hex_49x5072",
+        "path": "peaked_circuit_heavy_hex_49x5072.qasm",
+        "qubits": 49,
+        "gates": 5072,
+        "category": "Superseded candidates"
+      },
+      {
+        "id": "peaked_circuit_P9_Hqap_56x1917",
+        "path": "peaked_circuit_P9_Hqap_56x1917.qasm",
+        "qubits": 56,
+        "gates": 1917,
+        "category": "Superseded candidates"
+      },
+      {
+        "id": "peaked_circuit_P11_Hqap_98x1999",
+        "path": "peaked_circuit_P11_Hqap_98x1999.qasm",
+        "qubits": 98,
+        "gates": 1999,
+        "category": "Active candidates"
+      },
+      {
+        "id": "peaked_circuit_P12_Hqap_98x2457",
+        "path": "peaked_circuit_P12_Hqap_98x2457.qasm",
+        "qubits": 98,
+        "gates": 2457,
+        "category": "Active candidates"
+      }
+    ]
+  },
+  "random_graph_sampling": {
+    "instances": [
+      {
+        "id": "random_graph_sampling_nq70_depth70_checks27_basis_fstate",
+        "path": "nq70_depth70_checks27_basis_fstate.qasm",
+        "qubits": 70,
+        "gates": 2415,
+        "category": "Active candidates"
+      }
+    ]
+  },
+  "doped_random_graph_sampling": {
+    "instances": [
+      {
+        "id": "doped_random_graph_sampling_nq70_depth70_checks27",
+        "path": "nq70_depth70_checks27_doped.qasm",
+        "qubits": 70,
+        "gates": 2415,
+        "category": "Active candidates"
+      }
+    ]
+  }
+}

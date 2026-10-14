@@ -1,0 +1,11 @@
+# STATUS: ai_contribution wave 3, qualifier-procedure benchmark. Built and frozen; NO verifier has run.
+1. Question: does a qualifier-focused verifier procedure (arm Q) catch deleted qualifiers that the generic wave-2 brief (arm G, verbatim) misses (wave 2: 0 of 12), without a large rise in false findings?
+2. Freeze: `PREREG.sha16` = `b20ba288605a1338`, frozen 2026-09-27T23:47:01-04:00, before the corpus existed. Hashes of the key, assignment, pool, scripts and briefs are in PREREG sec. 2/4/5/6 and the Addendum.
+3. Built: 3 neutral copies (A–C: 2 planted + 1 placebo, 169 files each) from the CURRENT live application, with a new seed family. The copies hold 15 plants in 15 distinct sentences: 9 qualifier deletions and 6 controls (3 wrong_number, 3 reference swaps). No sentence overlaps a wave-2 plant sentence; the filter is checked against wave 2's pool.
+4. Each qualifier deletion makes its sentence false or overstated per a validator on corpus sources. 6 candidates that stayed true after deletion were rejected. 6 of the 9 have the restriction stated elsewhere (`cross_doc_tell`); recall is split by it.
+5. Frozen rule: Q closes the blind spot only if qQ ≥ 0.5, qQ − qG ≥ 0.3 with paired cluster-bootstrap lower bound > 0, and Q placebo (FP + unresolved) per run ≤ G's + 5. Verdict wording is fixed for every outcome, including "no improvement" and "blind spot not reproduced".
+6. Checks: score self-test 30/30, mutation test 5/5 mutants killed, merge self-test OK. Post-build on the real key: all 15 plants locatable; positive control 14/15 AUTO_HIT (1 goes to adjudication); negative control 0/15; wrong-restriction control 0/9; end-to-end dry run OK.
+7. Isolation: private staged directory plus a private `_scratch/` per run (identical harness note in both arms); arm stripped from the adjudication packet; two adjudicators with κ overall and located-only.
+8. Limits: one procedure, one document set, 9 distinct qualifier plants, 2 runs per copy per arm; the report's own "0 of 12" sentence primes both arms. Not a general claim about AI verification.
+9. Orchestrator next step: `RUNBOOK.md` (12 verifier runs, then 2 independent adjudicators, then `score.py`). Do not open `corpus/` or `SEALED/` before the runs finish.
+AI WAVE3 BUILD: qualifier_plants=9 other_plants=6 copies=3 prereg=b20ba288605a1338

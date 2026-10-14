@@ -1,0 +1,1 @@
+verdict EXCEED headline {'chi_max': 256, 'N': 6, 'margin': 2418.454544117468, 'z': 40.194187133714365, 'single_best_variant': 'LOG_SB', 'single_best_variant_margin': 2418.454544117468}

@@ -1,0 +1,838 @@
+{
+ "A_Q_run2#15": {
+  "verdict": "FP"
+ },
+ "B_G_run1#6": {
+  "verdict": "HIT",
+  "plant": "Q07"
+ },
+ "B_Q_run1#1": {
+  "verdict": "PREEXISTING",
+  "defect_id": "a2:report/report.html:54:bandwidth-specificity-unsupported"
+ },
+ "B_Q_run2#23": {
+  "verdict": "HIT",
+  "plant": "N02"
+ },
+ "B_G_run1#4": {
+  "verdict": "HIT",
+  "plant": "Q11"
+ },
+ "B_Q_run1#13": {
+  "verdict": "FP"
+ },
+ "C_Q_run1#11": {
+  "verdict": "FP"
+ },
+ "B_G_run2#14": {
+  "verdict": "HIT",
+  "plant": "Q11"
+ },
+ "B_G_run1#7": {
+  "verdict": "PREEXISTING",
+  "defect_id": "a1:FORM_ANSWERS.md:80:consistent-with-not-licensed"
+ },
+ "B_Q_run1#21": {
+  "verdict": "FP"
+ },
+ "B_G_run2#18": {
+  "verdict": "FP"
+ },
+ "C_G_run2#3": {
+  "verdict": "PREEXISTING",
+  "defect_id": "a2:report/report.html:54:bandwidth-specificity-unsupported"
+ },
+ "C_Q_run1#12": {
+  "verdict": "PREEXISTING",
+  "defect_id": "a2:report/report.html:153:runtime-range-selective"
+ },
+ "C_Q_run2#9": {
+  "verdict": "FP"
+ },
+ "C_G_run2#7": {
+  "verdict": "FP"
+ },
+ "C_G_run2#6": {
+  "verdict": "FP"
+ },
+ "B_Q_run1#19": {
+  "verdict": "PREEXISTING",
+  "defect_id": "a1:FORM_ANSWERS.md:80:consistent-with-not-licensed"
+ },
+ "B_Q_run2#25": {
+  "verdict": "HIT",
+  "plant": "Q11"
+ },
+ "A_G_run1#7": {
+  "verdict": "FP"
+ },
+ "B_Q_run2#11": {
+  "verdict": "FP"
+ },
+ "A_G_run2#2": {
+  "verdict": "PREEXISTING",
+  "defect_id": "a2:report/report.html:54:bandwidth-specificity-unsupported"
+ },
+ "A_G_run1#11": {
+  "verdict": "FP"
+ },
+ "B_Q_run2#7": {
+  "verdict": "FP"
+ },
+ "B_Q_run2#9": {
+  "verdict": "HIT",
+  "plant": "C03"
+ },
+ "C_G_run2#4": {
+  "verdict": "PREEXISTING",
+  "defect_id": "a2:report/report.html:56:ordering-calibration-limits-omitted"
+ },
+ "C_G_run1#12": {
+  "verdict": "FP"
+ },
+ "A_Q_run2#18": {
+  "verdict": "PREEXISTING",
+  "defect_id": "a1:FORM_ANSWERS.md:80:consistent-with-not-licensed"
+ },
+ "C_G_run2#14": {
+  "verdict": "FP"
+ },
+ "A_G_run1#1": {
+  "verdict": "HIT",
+  "plant": "N03"
+ },
+ "C_Q_run1#17": {
+  "verdict": "FP"
+ },
+ "B_Q_run1#16": {
+  "verdict": "FP"
+ },
+ "C_Q_run2#15": {
+  "verdict": "PREEXISTING",
+  "defect_id": "a1:FORM_ANSWERS.md:80:consistent-with-not-licensed"
+ },
+ "B_Q_run2#17": {
+  "verdict": "FP"
+ },
+ "C_G_run2#13": {
+  "verdict": "FP"
+ },
+ "B_Q_run1#2": {
+  "verdict": "PREEXISTING",
+  "defect_id": "a2:report/report.html:56:ordering-calibration-limits-omitted"
+ },
+ "A_Q_run2#4": {
+  "verdict": "PREEXISTING",
+  "defect_id": "a2:report/report.html:98:every-cycle-only-nine-sampled"
+ },
+ "B_Q_run1#8": {
+  "verdict": "PREEXISTING",
+  "defect_id": "a1:report/report.html:123:flash-beat-blind-twin"
+ },
+ "C_Q_run1#4": {
+  "verdict": "PREEXISTING",
+  "defect_id": "a2:report/report.html:89:signal-size-explanation-contradicted"
+ },
+ "B_Q_run1#18": {
+  "verdict": "HIT",
+  "plant": "Q11"
+ },
+ "C_Q_run1#21": {
+  "verdict": "FP"
+ },
+ "B_Q_run1#9": {
+  "verdict": "HIT",
+  "plant": "N01"
+ },
+ "A_G_run2#14": {
+  "verdict": "PREEXISTING",
+  "defect_id": "a2:FORM_ANSWERS.md:173:runtime-range-selective"
+ },
+ "A_Q_run1#12": {
+  "verdict": "FP"
+ },
+ "A_G_run2#9": {
+  "verdict": "HIT",
+  "plant": "Q05"
+ },
+ "A_G_run1#4": {
+  "verdict": "PREEXISTING",
+  "defect_id": "a2:FORM_ANSWERS.md:102:stage1-gonogo-plan-conflict"
+ },
+ "C_Q_run2#12": {
+  "verdict": "FP"
+ },
+ "C_Q_run2#16": {
+  "verdict": "FP"
+ },
+ "A_Q_run1#2": {
+  "verdict": "HIT",
+  "plant": "N03"
+ },
+ "C_G_run2#9": {
+  "verdict": "PREEXISTING",
+  "defect_id": "a1:FORM_ANSWERS.md:80:consistent-with-not-licensed"
+ },
+ "A_Q_run2#17": {
+  "verdict": "HIT",
+  "plant": "C01"
+ },
+ "A_G_run2#15": {
+  "verdict": "PREEXISTING",
+  "defect_id": "a1:FORM_ANSWERS.md:11:reordering-cannot-overstated"
+ },
+ "C_Q_run1#10": {
+  "verdict": "FP"
+ },
+ "C_G_run2#12": {
+  "verdict": "PREEXISTING",
+  "defect_id": "a2:report/report.html:89:signal-size-explanation-contradicted"
+ },
+ "B_G_run2#6": {
+  "verdict": "HIT",
+  "plant": "C03"
+ },
+ "B_Q_run2#20": {
+  "verdict": "PREEXISTING",
+  "defect_id": "a1:FORM_ANSWERS.md:80:consistent-with-not-licensed"
+ },
+ "A_G_run1#6": {
+  "verdict": "HIT",
+  "plant": "Q16"
+ },
+ "A_G_run2#25": {
+  "verdict": "FP"
+ },
+ "A_G_run2#6": {
+  "verdict": "PREEXISTING",
+  "defect_id": "a2:report/report.html:89:signal-size-explanation-contradicted"
+ },
+ "A_Q_run2#8": {
+  "verdict": "FP"
+ },
+ "C_G_run2#2": {
+  "verdict": "FP"
+ },
+ "A_Q_run2#1": {
+  "verdict": "HIT",
+  "plant": "Q16"
+ },
+ "B_Q_run1#12": {
+  "verdict": "HIT",
+  "plant": "C03"
+ },
+ "A_G_run2#21": {
+  "verdict": "HIT",
+  "plant": "C01"
+ },
+ "B_Q_run2#15": {
+  "verdict": "FP"
+ },
+ "B_G_run1#3": {
+  "verdict": "HIT",
+  "plant": "N02"
+ },
+ "A_Q_run2#23": {
+  "verdict": "FP"
+ },
+ "A_G_run2#11": {
+  "verdict": "HIT",
+  "plant": "N03"
+ },
+ "C_Q_run2#13": {
+  "verdict": "FP"
+ },
+ "A_Q_run1#6": {
+  "verdict": "PREEXISTING",
+  "defect_id": "a2:report/report.html:56:ordering-calibration-limits-omitted"
+ },
+ "A_Q_run2#21": {
+  "verdict": "FP"
+ },
+ "A_Q_run2#14": {
+  "verdict": "HIT",
+  "plant": "Q09"
+ },
+ "B_Q_run1#10": {
+  "verdict": "HIT",
+  "plant": "Q07"
+ },
+ "C_Q_run2#2": {
+  "verdict": "PREEXISTING",
+  "defect_id": "a2:report/report.html:54:bandwidth-specificity-unsupported"
+ },
+ "A_Q_run2#13": {
+  "verdict": "FP"
+ },
+ "B_G_run2#13": {
+  "verdict": "PREEXISTING",
+  "defect_id": "a1:FORM_ANSWERS.md:160:minus-one-example-misleading"
+ },
+ "A_Q_run1#5": {
+  "verdict": "PREEXISTING",
+  "defect_id": "a1:report/report.html:85:sign-flip-delta-unstated"
+ },
+ "B_Q_run1#20": {
+  "verdict": "PREEXISTING",
+  "defect_id": "a2:report/report.html:98:every-cycle-only-nine-sampled"
+ },
+ "C_G_run2#5": {
+  "verdict": "PREEXISTING",
+  "defect_id": "a1:report/report.html:85:sign-flip-delta-unstated"
+ },
+ "C_G_run2#18": {
+  "verdict": "PREEXISTING",
+  "defect_id": "a2:report/report.html:153:runtime-range-selective"
+ },
+ "B_G_run2#8": {
+  "verdict": "PREEXISTING",
+  "defect_id": "a1:report/report.html:95:stage1-plan-conflicts-decision-path"
+ },
+ "A_G_run2#8": {
+  "verdict": "MISS",
+  "np_verdict": "PREEXISTING",
+  "defect_id": "a1:report/report.html:95:stage1-plan-conflicts-decision-path"
+ },
+ "B_G_run2#2": {
+  "verdict": "FP"
+ },
+ "C_Q_run2#6": {
+  "verdict": "FP"
+ },
+ "A_Q_run1#3": {
+  "verdict": "FP"
+ },
+ "A_G_run2#18": {
+  "verdict": "FP"
+ },
+ "C_Q_run1#13": {
+  "verdict": "PREEXISTING",
+  "defect_id": "a2:FORM_ANSWERS.md:173:runtime-range-selective"
+ },
+ "C_G_run1#2": {
+  "verdict": "PREEXISTING",
+  "defect_id": "a1:report/report.html:85:sign-flip-delta-unstated"
+ },
+ "C_Q_run2#1": {
+  "verdict": "FP"
+ },
+ "A_Q_run2#19": {
+  "verdict": "FP"
+ },
+ "B_G_run1#5": {
+  "verdict": "PREEXISTING",
+  "defect_id": "a1:report/report.html:85:sign-flip-delta-unstated"
+ },
+ "A_G_run1#2": {
+  "verdict": "HIT",
+  "plant": "C02"
+ },
+ "B_Q_run1#14": {
+  "verdict": "FP"
+ },
+ "A_G_run2#3": {
+  "verdict": "PREEXISTING",
+  "defect_id": "a2:report/report.html:82:counts-use-unstated-tolerance"
+ },
+ "C_Q_run1#3": {
+  "verdict": "PREEXISTING",
+  "defect_id": "a1:report/report.html:85:sign-flip-delta-unstated"
+ },
+ "A_G_run1#3": {
+  "verdict": "MISS",
+  "np_verdict": "PREEXISTING",
+  "defect_id": "a1:report/report.html:95:stage1-plan-conflicts-decision-path"
+ },
+ "C_G_run1#7": {
+  "verdict": "FP"
+ },
+ "A_Q_run2#12": {
+  "verdict": "FP"
+ },
+ "C_Q_run2#17": {
+  "verdict": "PREEXISTING",
+  "defect_id": "a1:FORM_ANSWERS.md:160:minus-one-example-misleading"
+ },
+ "C_G_run2#1": {
+  "verdict": "FP"
+ },
+ "A_Q_run1#9": {
+  "verdict": "FP"
+ },
+ "A_Q_run2#2": {
+  "verdict": "PREEXISTING",
+  "defect_id": "a2:report/report.html:82:counts-use-unstated-tolerance"
+ },
+ "B_Q_run1#5": {
+  "verdict": "PREEXISTING",
+  "defect_id": "a1:report/report.html:85:sign-flip-delta-unstated"
+ },
+ "C_G_run2#16": {
+  "verdict": "FP"
+ },
+ "C_Q_run1#9": {
+  "verdict": "PREEXISTING",
+  "defect_id": "a1:FORM_ANSWERS.md:141:stage1-plan-inconsistent"
+ },
+ "A_Q_run2#20": {
+  "verdict": "FP"
+ },
+ "C_Q_run1#1": {
+  "verdict": "PREEXISTING",
+  "defect_id": "a2:report/report.html:54:bandwidth-specificity-unsupported"
+ },
+ "B_Q_run2#14": {
+  "verdict": "FP"
+ },
+ "C_G_run1#6": {
+  "verdict": "PREEXISTING",
+  "defect_id": "a1:report/report.html:54:random-order-worse-at-chi8"
+ },
+ "C_G_run1#14": {
+  "verdict": "UNRESOLVED"
+ },
+ "B_Q_run2#6": {
+  "verdict": "PREEXISTING",
+  "defect_id": "a1:report/report.html:85:sign-flip-delta-unstated"
+ },
+ "C_Q_run2#14": {
+  "verdict": "FP"
+ },
+ "B_Q_run1#6": {
+  "verdict": "FP"
+ },
+ "B_G_run2#5": {
+  "verdict": "PREEXISTING",
+  "defect_id": "a2:report/report.html:56:ordering-calibration-limits-omitted"
+ },
+ "C_G_run2#8": {
+  "verdict": "FP"
+ },
+ "A_Q_run1#17": {
+  "verdict": "PREEXISTING",
+  "defect_id": "a1:SUBMISSION_KIT.md:34:false-findings-condition-dropped"
+ },
+ "C_Q_run1#20": {
+  "verdict": "PREEXISTING",
+  "defect_id": "a1:FORM_ANSWERS.md:160:minus-one-example-misleading"
+ },
+ "B_Q_run2#22": {
+  "verdict": "FP"
+ },
+ "B_G_run2#9": {
+  "verdict": "PREEXISTING",
+  "defect_id": "a1:report/report.html:95:stage1-plan-conflicts-decision-path"
+ },
+ "B_Q_run1#3": {
+  "verdict": "FP"
+ },
+ "C_Q_run2#20": {
+  "verdict": "PREEXISTING",
+  "defect_id": "a1:RESULT_CHI1024.md:34:stale-form-line-reference"
+ },
+ "B_Q_run1#11": {
+  "verdict": "FP"
+ },
+ "C_G_run2#20": {
+  "verdict": "PREEXISTING",
+  "defect_id": "a2:FORM_ANSWERS.md:179:qpu-cost-from-selective-range"
+ },
+ "C_Q_run2#5": {
+  "verdict": "PREEXISTING",
+  "defect_id": "a1:report/report.html:85:sign-flip-delta-unstated"
+ },
+ "C_Q_run2#7": {
+  "verdict": "FP"
+ },
+ "A_G_run2#12": {
+  "verdict": "FP"
+ },
+ "A_G_run2#16": {
+  "verdict": "PREEXISTING",
+  "defect_id": "a1:FORM_ANSWERS.md:50:one-live-claim-inconsistent"
+ },
+ "B_G_run1#2": {
+  "verdict": "HIT",
+  "plant": "C03"
+ },
+ "B_Q_run2#24": {
+  "verdict": "FP"
+ },
+ "A_G_run1#13": {
+  "verdict": "HIT",
+  "plant": "Q09"
+ },
+ "B_Q_run1#4": {
+  "verdict": "PREEXISTING",
+  "defect_id": "a2:report/report.html:82:counts-use-unstated-tolerance"
+ },
+ "B_Q_run2#10": {
+  "verdict": "FP"
+ },
+ "A_Q_run1#16": {
+  "verdict": "PREEXISTING",
+  "defect_id": "a1:FORM_ANSWERS.md:56:false-findings-condition-dropped"
+ },
+ "B_Q_run1#17": {
+  "verdict": "HIT",
+  "plant": "N02"
+ },
+ "B_Q_run2#12": {
+  "verdict": "HIT",
+  "plant": "N01"
+ },
+ "B_Q_run1#7": {
+  "verdict": "FP"
+ },
+ "A_Q_run1#15": {
+  "verdict": "FP"
+ },
+ "A_Q_run2#3": {
+  "verdict": "FP"
+ },
+ "C_G_run1#3": {
+  "verdict": "PREEXISTING",
+  "defect_id": "a1:report/report.html:123:flash-beat-blind-twin"
+ },
+ "A_Q_run2#22": {
+  "verdict": "HIT",
+  "plant": "Q09"
+ },
+ "C_Q_run1#14": {
+  "verdict": "FP"
+ },
+ "A_Q_run1#18": {
+  "verdict": "PREEXISTING",
+  "defect_id": "a1:FORM_ANSWERS.md:160:minus-one-example-misleading"
+ },
+ "A_G_run2#5": {
+  "verdict": "PREEXISTING",
+  "defect_id": "a1:report/report.html:85:sign-flip-delta-unstated"
+ },
+ "B_Q_run1#15": {
+  "verdict": "FP"
+ },
+ "C_Q_run2#8": {
+  "verdict": "FP"
+ },
+ "C_Q_run1#18": {
+  "verdict": "FP"
+ },
+ "C_G_run2#11": {
+  "verdict": "PREEXISTING",
+  "defect_id": "a1:report/report.html:95:stage1-plan-conflicts-decision-path"
+ },
+ "C_G_run1#4": {
+  "verdict": "FP"
+ },
+ "A_G_run1#5": {
+  "verdict": "HIT",
+  "plant": "C01"
+ },
+ "A_G_run2#13": {
+  "verdict": "PREEXISTING",
+  "defect_id": "a2:report/report.html:153:runtime-range-selective"
+ },
+ "A_G_run2#10": {
+  "verdict": "FP"
+ },
+ "A_Q_run1#4": {
+  "verdict": "HIT",
+  "plant": "Q05"
+ },
+ "A_Q_run1#10": {
+  "verdict": "HIT",
+  "plant": "C01"
+ },
+ "B_Q_run2#19": {
+  "verdict": "FP"
+ },
+ "A_G_run2#24": {
+  "verdict": "PREEXISTING",
+  "defect_id": "a1:FORM_ANSWERS.md:141:stage1-plan-inconsistent"
+ },
+ "A_Q_run2#16": {
+  "verdict": "FP"
+ },
+ "A_Q_run2#24": {
+  "verdict": "FP"
+ },
+ "A_G_run2#4": {
+  "verdict": "PREEXISTING",
+  "defect_id": "a2:report/report.html:82:counts-use-unstated-tolerance"
+ },
+ "A_G_run2#23": {
+  "verdict": "FP"
+ },
+ "A_Q_run1#14": {
+  "verdict": "HIT",
+  "plant": "Q09"
+ },
+ "C_G_run1#11": {
+  "verdict": "PREEXISTING",
+  "defect_id": "a1:SUBMISSION_KIT.md:28:one-live-claim-inconsistent"
+ },
+ "B_G_run2#11": {
+  "verdict": "PREEXISTING",
+  "defect_id": "a1:FORM_ANSWERS.md:141:stage1-plan-inconsistent"
+ },
+ "B_Q_run2#2": {
+  "verdict": "PREEXISTING",
+  "defect_id": "a2:report/report.html:82:counts-use-unstated-tolerance"
+ },
+ "C_G_run2#17": {
+  "verdict": "UNRESOLVED"
+ },
+ "C_Q_run2#10": {
+  "verdict": "PREEXISTING",
+  "defect_id": "a2:report/report.html:153:runtime-range-selective"
+ },
+ "B_Q_run2#1": {
+  "verdict": "PREEXISTING",
+  "defect_id": "a2:report/report.html:82:counts-use-unstated-tolerance"
+ },
+ "B_G_run2#17": {
+  "verdict": "FP"
+ },
+ "A_Q_run1#13": {
+  "verdict": "HIT",
+  "plant": "Q09"
+ },
+ "C_Q_run1#15": {
+  "verdict": "FP"
+ },
+ "B_G_run2#3": {
+  "verdict": "PREEXISTING",
+  "defect_id": "a1:report/report.html:123:flash-beat-blind-twin"
+ },
+ "C_G_run1#8": {
+  "verdict": "FP"
+ },
+ "A_G_run2#22": {
+  "verdict": "FP"
+ },
+ "A_G_run1#15": {
+  "verdict": "PREEXISTING",
+  "defect_id": "a1:report/report.html:107:stage2-chi-tightening-inconsistent"
+ },
+ "C_Q_run2#3": {
+  "verdict": "PREEXISTING",
+  "defect_id": "a2:report/report.html:56:ordering-calibration-limits-omitted"
+ },
+ "C_G_run1#15": {
+  "verdict": "PREEXISTING",
+  "defect_id": "a1:FORM_ANSWERS.md:160:minus-one-example-misleading"
+ },
+ "C_G_run1#5": {
+  "verdict": "PREEXISTING",
+  "defect_id": "a2:report/report.html:56:ordering-calibration-limits-omitted"
+ },
+ "C_Q_run1#7": {
+  "verdict": "PREEXISTING",
+  "defect_id": "a1:report/report.html:123:flash-beat-blind-twin"
+ },
+ "A_Q_run2#7": {
+  "verdict": "FP"
+ },
+ "B_G_run2#7": {
+  "verdict": "PREEXISTING",
+  "defect_id": "a1:report/report.html:85:sign-flip-delta-unstated"
+ },
+ "B_G_run2#1": {
+  "verdict": "HIT",
+  "plant": "N01"
+ },
+ "A_Q_run2#10": {
+  "verdict": "HIT",
+  "plant": "C02"
+ },
+ "C_G_run1#13": {
+  "verdict": "FP"
+ },
+ "C_Q_run2#4": {
+  "verdict": "PREEXISTING",
+  "defect_id": "a2:report/report.html:82:counts-use-unstated-tolerance"
+ },
+ "A_G_run2#19": {
+  "verdict": "FP"
+ },
+ "B_Q_run2#4": {
+  "verdict": "FP"
+ },
+ "C_Q_run1#16": {
+  "verdict": "FP"
+ },
+ "C_Q_run2#18": {
+  "verdict": "PREEXISTING",
+  "defect_id": "a2:FORM_ANSWERS.md:173:runtime-range-selective"
+ },
+ "B_G_run2#4": {
+  "verdict": "PREEXISTING",
+  "defect_id": "a2:report/report.html:54:bandwidth-specificity-unsupported"
+ },
+ "A_G_run2#1": {
+  "verdict": "HIT",
+  "plant": "Q16"
+ },
+ "B_Q_run2#16": {
+  "verdict": "FP"
+ },
+ "A_Q_run1#11": {
+  "verdict": "FP"
+ },
+ "C_Q_run1#19": {
+  "verdict": "PREEXISTING",
+  "defect_id": "a1:FORM_ANSWERS.md:80:consistent-with-not-licensed"
+ },
+ "B_Q_run2#13": {
+  "verdict": "HIT",
+  "plant": "Q07"
+ },
+ "C_G_run1#1": {
+  "verdict": "PREEXISTING",
+  "defect_id": "a2:report/report.html:82:counts-use-unstated-tolerance"
+ },
+ "C_G_run2#15": {
+  "verdict": "FP"
+ },
+ "B_Q_run2#18": {
+  "verdict": "FP"
+ },
+ "A_Q_run2#9": {
+  "verdict": "PREEXISTING",
+  "defect_id": "a1:report/report.html:123:flash-beat-blind-twin"
+ },
+ "C_Q_run1#5": {
+  "verdict": "PREEXISTING",
+  "defect_id": "a2:report/report.html:98:every-cycle-only-nine-sampled"
+ },
+ "C_Q_run2#11": {
+  "verdict": "FP"
+ },
+ "C_Q_run1#6": {
+  "verdict": "FP"
+ },
+ "B_Q_run1#23": {
+  "verdict": "FP"
+ },
+ "A_Q_run2#5": {
+  "verdict": "PREEXISTING",
+  "defect_id": "a1:report/report.html:85:sign-flip-delta-unstated"
+ },
+ "B_Q_run2#5": {
+  "verdict": "PREEXISTING",
+  "defect_id": "a2:report/report.html:89:signal-size-explanation-contradicted"
+ },
+ "B_G_run2#15": {
+  "verdict": "FP"
+ },
+ "B_G_run2#16": {
+  "verdict": "FP"
+ },
+ "A_G_run2#17": {
+  "verdict": "PREEXISTING",
+  "defect_id": "a1:SUBMISSION_KIT.md:28:one-live-claim-inconsistent"
+ },
+ "A_G_run2#20": {
+  "verdict": "PREEXISTING",
+  "defect_id": "a1:FORM_ANSWERS.md:80:consistent-with-not-licensed"
+ },
+ "A_G_run1#14": {
+  "verdict": "HIT",
+  "plant": "Q09"
+ },
+ "A_G_run1#10": {
+  "verdict": "PREEXISTING",
+  "defect_id": "a1:report/report.html:123:flash-beat-blind-twin"
+ },
+ "B_Q_run1#22": {
+  "verdict": "PREEXISTING",
+  "defect_id": "a2:report/report.html:153:runtime-range-selective"
+ },
+ "C_G_run2#21": {
+  "verdict": "UNRESOLVED"
+ },
+ "A_G_run2#7": {
+  "verdict": "HIT",
+  "plant": "C02"
+ },
+ "C_G_run2#10": {
+  "verdict": "PREEXISTING",
+  "defect_id": "a2:FORM_ANSWERS.md:102:stage1-gonogo-plan-conflict"
+ },
+ "B_Q_run2#21": {
+  "verdict": "FP"
+ },
+ "C_Q_run1#2": {
+  "verdict": "PREEXISTING",
+  "defect_id": "a2:report/report.html:82:counts-use-unstated-tolerance"
+ },
+ "C_G_run1#10": {
+  "verdict": "PREEXISTING",
+  "defect_id": "a1:FORM_ANSWERS.md:50:one-live-claim-inconsistent"
+ },
+ "A_G_run1#9": {
+  "verdict": "PREEXISTING",
+  "defect_id": "a1:FORM_ANSWERS.md:80:consistent-with-not-licensed"
+ },
+ "B_G_run2#12": {
+  "verdict": "HIT",
+  "plant": "N02"
+ },
+ "C_G_run2#19": {
+  "verdict": "PREEXISTING",
+  "defect_id": "a2:FORM_ANSWERS.md:173:runtime-range-selective"
+ },
+ "B_G_run1#1": {
+  "verdict": "HIT",
+  "plant": "N01"
+ },
+ "C_Q_run2#19": {
+  "verdict": "UNRESOLVED"
+ },
+ "C_Q_run1#8": {
+  "verdict": "PREEXISTING",
+  "defect_id": "a1:report/report.html:95:stage1-plan-conflicts-decision-path"
+ },
+ "B_Q_run2#3": {
+  "verdict": "PREEXISTING",
+  "defect_id": "a2:report/report.html:98:every-cycle-only-nine-sampled"
+ },
+ "A_G_run1#8": {
+  "verdict": "HIT",
+  "plant": "Q05"
+ },
+ "B_G_run2#10": {
+  "verdict": "PREEXISTING",
+  "defect_id": "a2:report/report.html:82:counts-use-unstated-tolerance"
+ },
+ "A_G_run1#12": {
+  "verdict": "FP"
+ },
+ "A_Q_run2#6": {
+  "verdict": "HIT",
+  "plant": "Q05"
+ },
+ "A_Q_run1#8": {
+  "verdict": "FP"
+ },
+ "A_Q_run1#7": {
+  "verdict": "PREEXISTING",
+  "defect_id": "a2:report/report.html:54:bandwidth-specificity-unsupported"
+ },
+ "A_Q_run1#1": {
+  "verdict": "HIT",
+  "plant": "C02"
+ },
+ "B_Q_run2#8": {
+  "verdict": "PREEXISTING",
+  "defect_id": "a2:report/report.html:56:ordering-calibration-limits-omitted"
+ },
+ "A_Q_run2#11": {
+  "verdict": "HIT",
+  "plant": "N03"
+ },
+ "C_G_run1#9": {
+  "verdict": "FP"
+ }
+}

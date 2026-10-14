@@ -1,0 +1,661 @@
+{
+ "circuits": {
+  "patched/K3/d36/partition0_instance0.qasm": {
+   "group": "K3",
+   "counts": {
+    "cz": 810,
+    "rx": 2196,
+    "rz": 4392,
+    "sx": 0,
+    "x": 0,
+    "prep_rx": 0,
+    "barrier": 72,
+    "measure": 61,
+    "cz_layers": 36,
+    "idle_qubit_layers": 576
+   }
+  },
+  "patched/K3/d36/partition0_instance1.qasm": {
+   "group": "K3",
+   "counts": {
+    "cz": 810,
+    "rx": 2196,
+    "rz": 4392,
+    "sx": 0,
+    "x": 0,
+    "prep_rx": 0,
+    "barrier": 72,
+    "measure": 61,
+    "cz_layers": 36,
+    "idle_qubit_layers": 576
+   }
+  },
+  "patched/K3/d36/partition0_instance2.qasm": {
+   "group": "K3",
+   "counts": {
+    "cz": 810,
+    "rx": 2196,
+    "rz": 4392,
+    "sx": 0,
+    "x": 0,
+    "prep_rx": 0,
+    "barrier": 72,
+    "measure": 61,
+    "cz_layers": 36,
+    "idle_qubit_layers": 576
+   }
+  },
+  "patched/K3/d36/partition1_instance0.qasm": {
+   "group": "K3",
+   "counts": {
+    "cz": 801,
+    "rx": 2196,
+    "rz": 4392,
+    "sx": 0,
+    "x": 0,
+    "prep_rx": 0,
+    "barrier": 72,
+    "measure": 61,
+    "cz_layers": 36,
+    "idle_qubit_layers": 594
+   }
+  },
+  "patched/K3/d36/partition1_instance1.qasm": {
+   "group": "K3",
+   "counts": {
+    "cz": 801,
+    "rx": 2196,
+    "rz": 4392,
+    "sx": 0,
+    "x": 0,
+    "prep_rx": 0,
+    "barrier": 72,
+    "measure": 61,
+    "cz_layers": 36,
+    "idle_qubit_layers": 594
+   }
+  },
+  "patched/K3/d36/partition1_instance2.qasm": {
+   "group": "K3",
+   "counts": {
+    "cz": 801,
+    "rx": 2196,
+    "rz": 4392,
+    "sx": 0,
+    "x": 0,
+    "prep_rx": 0,
+    "barrier": 72,
+    "measure": 61,
+    "cz_layers": 36,
+    "idle_qubit_layers": 594
+   }
+  },
+  "patched/K3/d36/partition2_instance0.qasm": {
+   "group": "K3",
+   "counts": {
+    "cz": 801,
+    "rx": 2196,
+    "rz": 4392,
+    "sx": 0,
+    "x": 0,
+    "prep_rx": 0,
+    "barrier": 72,
+    "measure": 61,
+    "cz_layers": 36,
+    "idle_qubit_layers": 594
+   }
+  },
+  "patched/K3/d36/partition2_instance1.qasm": {
+   "group": "K3",
+   "counts": {
+    "cz": 801,
+    "rx": 2196,
+    "rz": 4392,
+    "sx": 0,
+    "x": 0,
+    "prep_rx": 0,
+    "barrier": 72,
+    "measure": 61,
+    "cz_layers": 36,
+    "idle_qubit_layers": 594
+   }
+  },
+  "patched/K3/d36/partition2_instance2.qasm": {
+   "group": "K3",
+   "counts": {
+    "cz": 801,
+    "rx": 2196,
+    "rz": 4392,
+    "sx": 0,
+    "x": 0,
+    "prep_rx": 0,
+    "barrier": 72,
+    "measure": 61,
+    "cz_layers": 36,
+    "idle_qubit_layers": 594
+   }
+  },
+  "patched/K3/d36/partition3_instance0.qasm": {
+   "group": "K3",
+   "counts": {
+    "cz": 792,
+    "rx": 2196,
+    "rz": 4392,
+    "sx": 0,
+    "x": 0,
+    "prep_rx": 0,
+    "barrier": 72,
+    "measure": 61,
+    "cz_layers": 36,
+    "idle_qubit_layers": 612
+   }
+  },
+  "patched/K3/d36/partition3_instance1.qasm": {
+   "group": "K3",
+   "counts": {
+    "cz": 792,
+    "rx": 2196,
+    "rz": 4392,
+    "sx": 0,
+    "x": 0,
+    "prep_rx": 0,
+    "barrier": 72,
+    "measure": 61,
+    "cz_layers": 36,
+    "idle_qubit_layers": 612
+   }
+  },
+  "patched/K3/d36/partition3_instance2.qasm": {
+   "group": "K3",
+   "counts": {
+    "cz": 792,
+    "rx": 2196,
+    "rz": 4392,
+    "sx": 0,
+    "x": 0,
+    "prep_rx": 0,
+    "barrier": 72,
+    "measure": 61,
+    "cz_layers": 36,
+    "idle_qubit_layers": 612
+   }
+  },
+  "patched/K3/d36/partition4_instance0.qasm": {
+   "group": "K3",
+   "counts": {
+    "cz": 792,
+    "rx": 2196,
+    "rz": 4392,
+    "sx": 0,
+    "x": 0,
+    "prep_rx": 0,
+    "barrier": 72,
+    "measure": 61,
+    "cz_layers": 36,
+    "idle_qubit_layers": 612
+   }
+  },
+  "patched/K3/d36/partition4_instance1.qasm": {
+   "group": "K3",
+   "counts": {
+    "cz": 792,
+    "rx": 2196,
+    "rz": 4392,
+    "sx": 0,
+    "x": 0,
+    "prep_rx": 0,
+    "barrier": 72,
+    "measure": 61,
+    "cz_layers": 36,
+    "idle_qubit_layers": 612
+   }
+  },
+  "patched/K3/d36/partition4_instance2.qasm": {
+   "group": "K3",
+   "counts": {
+    "cz": 792,
+    "rx": 2196,
+    "rz": 4392,
+    "sx": 0,
+    "x": 0,
+    "prep_rx": 0,
+    "barrier": 72,
+    "measure": 61,
+    "cz_layers": 36,
+    "idle_qubit_layers": 612
+   }
+  },
+  "patched/K4/d36/partition0_instance0.qasm": {
+   "group": "K4",
+   "counts": {
+    "cz": 747,
+    "rx": 2196,
+    "rz": 4392,
+    "sx": 0,
+    "x": 0,
+    "prep_rx": 0,
+    "barrier": 72,
+    "measure": 61,
+    "cz_layers": 36,
+    "idle_qubit_layers": 702
+   }
+  },
+  "patched/K4/d36/partition0_instance1.qasm": {
+   "group": "K4",
+   "counts": {
+    "cz": 747,
+    "rx": 2196,
+    "rz": 4392,
+    "sx": 0,
+    "x": 0,
+    "prep_rx": 0,
+    "barrier": 72,
+    "measure": 61,
+    "cz_layers": 36,
+    "idle_qubit_layers": 702
+   }
+  },
+  "patched/K4/d36/partition0_instance2.qasm": {
+   "group": "K4",
+   "counts": {
+    "cz": 747,
+    "rx": 2196,
+    "rz": 4392,
+    "sx": 0,
+    "x": 0,
+    "prep_rx": 0,
+    "barrier": 72,
+    "measure": 61,
+    "cz_layers": 36,
+    "idle_qubit_layers": 702
+   }
+  },
+  "patched/K4/d36/partition1_instance0.qasm": {
+   "group": "K4",
+   "counts": {
+    "cz": 720,
+    "rx": 2196,
+    "rz": 4392,
+    "sx": 0,
+    "x": 0,
+    "prep_rx": 0,
+    "barrier": 72,
+    "measure": 61,
+    "cz_layers": 36,
+    "idle_qubit_layers": 756
+   }
+  },
+  "patched/K4/d36/partition1_instance1.qasm": {
+   "group": "K4",
+   "counts": {
+    "cz": 720,
+    "rx": 2196,
+    "rz": 4392,
+    "sx": 0,
+    "x": 0,
+    "prep_rx": 0,
+    "barrier": 72,
+    "measure": 61,
+    "cz_layers": 36,
+    "idle_qubit_layers": 756
+   }
+  },
+  "patched/K4/d36/partition1_instance2.qasm": {
+   "group": "K4",
+   "counts": {
+    "cz": 720,
+    "rx": 2196,
+    "rz": 4392,
+    "sx": 0,
+    "x": 0,
+    "prep_rx": 0,
+    "barrier": 72,
+    "measure": 61,
+    "cz_layers": 36,
+    "idle_qubit_layers": 756
+   }
+  },
+  "patched/K4/d36/partition2_instance0.qasm": {
+   "group": "K4",
+   "counts": {
+    "cz": 720,
+    "rx": 2196,
+    "rz": 4392,
+    "sx": 0,
+    "x": 0,
+    "prep_rx": 0,
+    "barrier": 72,
+    "measure": 61,
+    "cz_layers": 36,
+    "idle_qubit_layers": 756
+   }
+  },
+  "patched/K4/d36/partition2_instance1.qasm": {
+   "group": "K4",
+   "counts": {
+    "cz": 720,
+    "rx": 2196,
+    "rz": 4392,
+    "sx": 0,
+    "x": 0,
+    "prep_rx": 0,
+    "barrier": 72,
+    "measure": 61,
+    "cz_layers": 36,
+    "idle_qubit_layers": 756
+   }
+  },
+  "patched/K4/d36/partition2_instance2.qasm": {
+   "group": "K4",
+   "counts": {
+    "cz": 720,
+    "rx": 2196,
+    "rz": 4392,
+    "sx": 0,
+    "x": 0,
+    "prep_rx": 0,
+    "barrier": 72,
+    "measure": 61,
+    "cz_layers": 36,
+    "idle_qubit_layers": 756
+   }
+  },
+  "patched/K4/d36/partition3_instance0.qasm": {
+   "group": "K4",
+   "counts": {
+    "cz": 711,
+    "rx": 2196,
+    "rz": 4392,
+    "sx": 0,
+    "x": 0,
+    "prep_rx": 0,
+    "barrier": 72,
+    "measure": 61,
+    "cz_layers": 36,
+    "idle_qubit_layers": 774
+   }
+  },
+  "patched/K4/d36/partition3_instance1.qasm": {
+   "group": "K4",
+   "counts": {
+    "cz": 711,
+    "rx": 2196,
+    "rz": 4392,
+    "sx": 0,
+    "x": 0,
+    "prep_rx": 0,
+    "barrier": 72,
+    "measure": 61,
+    "cz_layers": 36,
+    "idle_qubit_layers": 774
+   }
+  },
+  "patched/K4/d36/partition3_instance2.qasm": {
+   "group": "K4",
+   "counts": {
+    "cz": 711,
+    "rx": 2196,
+    "rz": 4392,
+    "sx": 0,
+    "x": 0,
+    "prep_rx": 0,
+    "barrier": 72,
+    "measure": 61,
+    "cz_layers": 36,
+    "idle_qubit_layers": 774
+   }
+  },
+  "patched/K4/d36/partition4_instance0.qasm": {
+   "group": "K4",
+   "counts": {
+    "cz": 711,
+    "rx": 2196,
+    "rz": 4392,
+    "sx": 0,
+    "x": 0,
+    "prep_rx": 0,
+    "barrier": 72,
+    "measure": 61,
+    "cz_layers": 36,
+    "idle_qubit_layers": 774
+   }
+  },
+  "patched/K4/d36/partition4_instance1.qasm": {
+   "group": "K4",
+   "counts": {
+    "cz": 711,
+    "rx": 2196,
+    "rz": 4392,
+    "sx": 0,
+    "x": 0,
+    "prep_rx": 0,
+    "barrier": 72,
+    "measure": 61,
+    "cz_layers": 36,
+    "idle_qubit_layers": 774
+   }
+  },
+  "patched/K4/d36/partition4_instance2.qasm": {
+   "group": "K4",
+   "counts": {
+    "cz": 711,
+    "rx": 2196,
+    "rz": 4392,
+    "sx": 0,
+    "x": 0,
+    "prep_rx": 0,
+    "barrier": 72,
+    "measure": 61,
+    "cz_layers": 36,
+    "idle_qubit_layers": 774
+   }
+  },
+  "full/d36_logical.qasm": {
+   "group": "full",
+   "counts": {
+    "cz": 918,
+    "rx": 2196,
+    "rz": 4392,
+    "sx": 0,
+    "x": 0,
+    "prep_rx": 0,
+    "barrier": 72,
+    "measure": 61,
+    "cz_layers": 36,
+    "idle_qubit_layers": 360
+   }
+  },
+  "full/d40_logical.qasm": {
+   "group": "full",
+   "counts": {
+    "cz": 1020,
+    "rx": 2440,
+    "rz": 4880,
+    "sx": 0,
+    "x": 0,
+    "prep_rx": 0,
+    "barrier": 80,
+    "measure": 61,
+    "cz_layers": 40,
+    "idle_qubit_layers": 400
+   }
+  }
+ },
+ "missing": [
+  {
+   "file": "mirror/d36_instance0.qasm",
+   "error": "d36_instance0.qasm: unsupported gate 'meas'"
+  },
+  {
+   "file": "mirror/d36_instance1.qasm",
+   "error": "d36_instance1.qasm: unsupported gate 'meas'"
+  },
+  {
+   "file": "mirror/d36_instance2.qasm",
+   "error": "d36_instance2.qasm: unsupported gate 'meas'"
+  }
+ ],
+ "s4_manifest": {
+  "patched/K3/d36/partition0_instance0.qasm": {
+   "manifest_cz": 810,
+   "mine": 810,
+   "agree": true
+  },
+  "patched/K3/d36/partition0_instance1.qasm": {
+   "manifest_cz": 810,
+   "mine": 810,
+   "agree": true
+  },
+  "patched/K3/d36/partition0_instance2.qasm": {
+   "manifest_cz": 810,
+   "mine": 810,
+   "agree": true
+  },
+  "patched/K3/d36/partition1_instance0.qasm": {
+   "manifest_cz": 801,
+   "mine": 801,
+   "agree": true
+  },
+  "patched/K3/d36/partition1_instance1.qasm": {
+   "manifest_cz": 801,
+   "mine": 801,
+   "agree": true
+  },
+  "patched/K3/d36/partition1_instance2.qasm": {
+   "manifest_cz": 801,
+   "mine": 801,
+   "agree": true
+  },
+  "patched/K3/d36/partition2_instance0.qasm": {
+   "manifest_cz": 801,
+   "mine": 801,
+   "agree": true
+  },
+  "patched/K3/d36/partition2_instance1.qasm": {
+   "manifest_cz": 801,
+   "mine": 801,
+   "agree": true
+  },
+  "patched/K3/d36/partition2_instance2.qasm": {
+   "manifest_cz": 801,
+   "mine": 801,
+   "agree": true
+  },
+  "patched/K3/d36/partition3_instance0.qasm": {
+   "manifest_cz": 792,
+   "mine": 792,
+   "agree": true
+  },
+  "patched/K3/d36/partition3_instance1.qasm": {
+   "manifest_cz": 792,
+   "mine": 792,
+   "agree": true
+  },
+  "patched/K3/d36/partition3_instance2.qasm": {
+   "manifest_cz": 792,
+   "mine": 792,
+   "agree": true
+  },
+  "patched/K3/d36/partition4_instance0.qasm": {
+   "manifest_cz": 792,
+   "mine": 792,
+   "agree": true
+  },
+  "patched/K3/d36/partition4_instance1.qasm": {
+   "manifest_cz": 792,
+   "mine": 792,
+   "agree": true
+  },
+  "patched/K3/d36/partition4_instance2.qasm": {
+   "manifest_cz": 792,
+   "mine": 792,
+   "agree": true
+  },
+  "patched/K4/d36/partition0_instance0.qasm": {
+   "manifest_cz": 747,
+   "mine": 747,
+   "agree": true
+  },
+  "patched/K4/d36/partition0_instance1.qasm": {
+   "manifest_cz": 747,
+   "mine": 747,
+   "agree": true
+  },
+  "patched/K4/d36/partition0_instance2.qasm": {
+   "manifest_cz": 747,
+   "mine": 747,
+   "agree": true
+  },
+  "patched/K4/d36/partition1_instance0.qasm": {
+   "manifest_cz": 720,
+   "mine": 720,
+   "agree": true
+  },
+  "patched/K4/d36/partition1_instance1.qasm": {
+   "manifest_cz": 720,
+   "mine": 720,
+   "agree": true
+  },
+  "patched/K4/d36/partition1_instance2.qasm": {
+   "manifest_cz": 720,
+   "mine": 720,
+   "agree": true
+  },
+  "patched/K4/d36/partition2_instance0.qasm": {
+   "manifest_cz": 720,
+   "mine": 720,
+   "agree": true
+  },
+  "patched/K4/d36/partition2_instance1.qasm": {
+   "manifest_cz": 720,
+   "mine": 720,
+   "agree": true
+  },
+  "patched/K4/d36/partition2_instance2.qasm": {
+   "manifest_cz": 720,
+   "mine": 720,
+   "agree": true
+  },
+  "patched/K4/d36/partition3_instance0.qasm": {
+   "manifest_cz": 711,
+   "mine": 711,
+   "agree": true
+  },
+  "patched/K4/d36/partition3_instance1.qasm": {
+   "manifest_cz": 711,
+   "mine": 711,
+   "agree": true
+  },
+  "patched/K4/d36/partition3_instance2.qasm": {
+   "manifest_cz": 711,
+   "mine": 711,
+   "agree": true
+  },
+  "patched/K4/d36/partition4_instance0.qasm": {
+   "manifest_cz": 711,
+   "mine": 711,
+   "agree": true
+  },
+  "patched/K4/d36/partition4_instance1.qasm": {
+   "manifest_cz": 711,
+   "mine": 711,
+   "agree": true
+  },
+  "patched/K4/d36/partition4_instance2.qasm": {
+   "manifest_cz": 711,
+   "mine": 711,
+   "agree": true
+  },
+  "full/d36_logical.qasm": {
+   "manifest_cz": 918,
+   "mine": 918,
+   "agree": true
+  },
+  "full/d40_logical.qasm": {
+   "manifest_cz": 1020,
+   "mine": 1020,
+   "agree": true
+  }
+ },
+ "rss_mb": 17.57421875
+}

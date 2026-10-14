@@ -1,0 +1,151 @@
+{"t": 1790438441.917098, "job_id": "XdZCyyeA6K5dSYPQ", "event": "submitted", "device": "mps.cpu", "purpose": "wave6 phase0 metadata probe"}
+{"t": 1790438448.9162683, "job_id": "XdZCyyeA6K5dSYPQ", "event": "done", "cost": 0.0, "device": "mps.cpu"}
+{"t": 1790438918.927588, "job_id": "KjYbiIsHJH6rn6Nd", "event": "submitted", "device": "mps.cpu", "purpose": "wave6_qpu mirror d4", "est_cost": 0.0}
+{"t": 1790438949.2327163, "job_id": "KjYbiIsHJH6rn6Nd", "event": "done", "cost": 0.0, "device": "mps.cpu"}
+{"t": 1790438978.8665252, "job_id": "BmXmGjGdSV0A0Fp0", "event": "submitted", "device": "mps.cpu", "purpose": "wave6_qpu mirror d4", "est_cost": 0.0}
+{"t": 1790439009.1795762, "job_id": "BmXmGjGdSV0A0Fp0", "event": "done", "cost": 0.0, "device": "mps.cpu"}
+{"t": 1790439021.0028782, "job_id": "VWJFTVgAxTFQtx2M", "event": "submitted", "device": "mps.cpu", "purpose": "wave6_qpu mirror d8", "est_cost": 0.0}
+{"t": 1790439051.4051666, "job_id": "VWJFTVgAxTFQtx2M", "event": "done", "cost": 0.0, "device": "mps.cpu"}
+{"t": 1790439054.3864553, "job_id": "ztnrnVqECDhUQNrL", "event": "submitted", "device": "mps.cpu", "purpose": "wave6_qpu mirror d12", "est_cost": 0.0}
+{"t": 1790439084.7433116, "job_id": "ztnrnVqECDhUQNrL", "event": "done", "cost": 0.0, "device": "mps.cpu"}
+{"t": 1790439105.3233082, "job_id": "Z83WrUyTxMvrOqaQ", "event": "submitted", "device": "quantum", "purpose": "wave6_qpu mirror d4", "est_cost": 0.72}
+{"t": 1790439135.619987, "job_id": "Z83WrUyTxMvrOqaQ", "event": "done", "cost": 0.72, "device": "quantum"}
+{"t": 1790439215.1150823, "job_id": "et92IhnigBLGNytE", "event": "submitted", "device": "mps.cpu", "purpose": "floquet 51qx30c mps_2048 async", "tag": "51qx30c"}
+{"t": 1790439217.3371048, "job_id": "2U0iqV5pT3N0D5zZ", "event": "submitted", "device": "mps.cpu", "purpose": "floquet 74qx27c mps_2048 async", "tag": "74qx27c"}
+{"t": 1790439319.3837626, "job_id": "bX2WQF8flRjiQOFM", "event": "submitted", "device": "mps.cpu", "purpose": "rcs wave6 V3_61q_d2_chi64", "chi": 64, "shots": 10000}
+{"t": 1790439319.9894462, "job_id": "U3C8FsJ651f5Diz4", "event": "submitted", "device": "mps.cpu", "purpose": "rcs wave6 V1_16q_d36_chi256", "chi": 256, "shots": 100000}
+{"t": 1790439320.5224087, "job_id": "34ekkmJFiYIKDJp8", "event": "submitted", "device": "mps.cpu", "purpose": "rcs wave6 V2_16q_d36_chi4", "chi": 4, "shots": 100000}
+{"t": 1790439663.7240446, "job_id": "bX2WQF8flRjiQOFM", "event": "done", "cost": 0.0, "device": "mps.cpu", "purpose": "rcs wave6 V3_61q_d2_chi64"}
+{"t": 1790439664.860822, "job_id": "lcei7A9PAmtvlH6R", "event": "submitted", "device": "mps.cpu", "purpose": "rcs wave6 V2_16q_d36_chi8", "chi": 8, "shots": 100000}
+{"t": 1790439850.781945, "job_id": "34ekkmJFiYIKDJp8", "event": "done", "cost": 0.0, "device": "mps.cpu", "purpose": "rcs wave6 V2_16q_d36_chi4"}
+{"t": 1790439852.073242, "job_id": "QDXPefKlgFDQJ19r", "event": "submitted", "device": "mps.cpu", "purpose": "rcs wave6 V2_16q_d36_chi16", "chi": 16, "shots": 100000}
+{"t": 1790439912.208146, "job_id": "U3C8FsJ651f5Diz4", "event": "done", "cost": 0.0, "device": "mps.cpu", "purpose": "rcs wave6 V1_16q_d36_chi256"}
+{"t": 1790439913.6996775, "job_id": "K9Jesm1R0UgsbTkZ", "event": "submitted", "device": "mps.cpu", "purpose": "rcs wave6 P1_i0_d36_chi128", "chi": 128, "shots": 1000000}
+{"t": 1790440094.9304152, "job_id": "lcei7A9PAmtvlH6R", "event": "done", "cost": 0.0, "device": "mps.cpu", "purpose": "rcs wave6 V2_16q_d36_chi8"}
+{"t": 1790440097.4267097, "job_id": "kUToY3H5K2Ya5eeX", "event": "submitted", "device": "mps.cpu", "purpose": "rcs wave6 P2_i0_d36_chi256", "chi": 256, "shots": 1000000}
+{"t": 1790440278.4338896, "job_id": "QDXPefKlgFDQJ19r", "event": "done", "cost": 0.0, "device": "mps.cpu", "purpose": "rcs wave6 V2_16q_d36_chi16"}
+{"t": 1790440280.0919235, "job_id": "G1bju9sxfaZ2Dhxh", "event": "submitted", "device": "mps.cpu", "purpose": "rcs wave6 M_i1_d36_chi256", "chi": 256, "shots": 1000000}
+{"t": 1790451600.0563548, "job_id": "K9Jesm1R0UgsbTkZ", "event": "done", "cost": 0.0, "device": "mps.cpu", "purpose": "rcs wave6 P1_i0_d36_chi128 TERMINATED"}
+{"t": 1790451601.8478866, "job_id": "65spVJwN1kABGWSa", "event": "submitted", "device": "mps.cpu", "purpose": "rcs wave6 P1_i0_d36_chi128", "chi": 128, "shots": 1000000}
+{"t": 1790451891.6796055, "job_id": "MoR7ocniChE76r2B", "event": "submitted", "device": "mps.cpu", "purpose": "rcs wave6 P1_i0_d36_chi128", "chi": 128, "shots": 200000}
+{"t": 1790451893.4454336, "job_id": "XtkW9KV80vuDviXD", "event": "submitted", "device": "mps.cpu", "purpose": "rcs wave6 P2_i0_d36_chi256", "chi": 256, "shots": 200000}
+{"t": 1790451894.964266, "job_id": "b1fgyZTXjqDMV7CD", "event": "submitted", "device": "mps.cpu", "purpose": "rcs wave6 M_i1_d36_chi256", "chi": 256, "shots": 200000}
+{"t": 1790455706.0673227, "job_id": "MoR7ocniChE76r2B", "event": "done", "cost": 0.0, "device": "mps.cpu", "purpose": "rcs wave6 P1_i0_d36_chi128"}
+{"t": 1790455706.44969, "job_id": "b1fgyZTXjqDMV7CD", "event": "done", "cost": 0.0, "device": "mps.cpu", "purpose": "rcs wave6 M_i1_d36_chi256"}
+{"t": 1790455707.7886603, "job_id": "qtLl3lJPF9DxdG64", "event": "submitted", "device": "mps.cpu", "purpose": "rcs wave6 M_i2_d36_chi256", "chi": 256, "shots": 200000}
+{"t": 1790455708.8519883, "job_id": "6i58BaXnYErprfx1", "event": "submitted", "device": "mps.cpu", "purpose": "rcs wave6 M_i1_d36_chi128", "chi": 128, "shots": 200000}
+{"t": 1790455791.845757, "job_id": "n2hpUi8taRGSZeGm", "event": "submitted", "device": "mps.cpu", "purpose": "rcs wave6 posthoc diag a_no_barrier"}
+{"t": 1790455793.1743379, "job_id": "P3tPl9GtXdAPNQDF", "event": "submitted", "device": "mps.cpu", "purpose": "rcs wave6 posthoc diag b_barrier_every_segment"}
+{"t": 1790455823.4751787, "job_id": "n2hpUi8taRGSZeGm", "event": "done", "cost": 0.0, "device": "mps.cpu", "purpose": "rcs wave6 posthoc diag a_no_barrier"}
+{"t": 1790455823.6274002, "job_id": "P3tPl9GtXdAPNQDF", "event": "done", "cost": 0.0, "device": "mps.cpu", "purpose": "rcs wave6 posthoc diag b_barrier_every_segment"}
+{"t": 1790455866.0568962, "job_id": "whzBEkNfkOCtsQ2W", "event": "submitted", "device": "mps.cpu", "purpose": "rcs wave6 posthoc diag c_forward_only_U18"}
+{"t": 1790455868.045792, "job_id": "yvh6cl1eCw9AYB9u", "event": "submitted", "device": "mps.cpu", "purpose": "rcs wave6 posthoc diag d_mirror_with_mid_X30"}
+{"t": 1790456232.9902582, "job_id": "whzBEkNfkOCtsQ2W", "event": "done", "cost": 0.0, "device": "mps.cpu", "purpose": "rcs wave6 posthoc diag c_forward_only_U18"}
+{"t": 1790456353.830135, "job_id": "yvh6cl1eCw9AYB9u", "event": "done", "cost": 0.0, "device": "mps.cpu", "purpose": "rcs wave6 posthoc diag d_mirror_with_mid_X30"}
+{"t": 1790458581.134186, "job_id": "XtkW9KV80vuDviXD", "event": "done", "cost": 0.0, "device": "mps.cpu", "purpose": "rcs wave6 P2_i0_d36_chi256"}
+{"t": 1790458583.80114, "job_id": "cl5CkkAovhM5dybr", "event": "submitted", "device": "mps.cpu", "purpose": "rcs wave6 F_full_d36_logical", "chi": 256, "shots": 1000}
+{"t": 1790459092.0003512, "job_id": "cfJBd7Y3YpoUfyk2", "event": "submitted", "device": "mps.cpu", "purpose": "rcs wave6 P1_i0_d36_chi128", "chi": 128, "shots": 200000}
+{"t": 1790459093.4076896, "job_id": "VG8WGnTSEaxwprBl", "event": "submitted", "device": "mps.cpu", "purpose": "rcs wave6 M_i1_d36_chi256", "chi": 256, "shots": 200000}
+{"t": 1790459819.0954938, "job_id": "cl5CkkAovhM5dybr", "event": "done", "cost": 0.0, "device": "mps.cpu", "purpose": "rcs wave6 F_full_d36_logical"}
+{"t": 1790459821.0062532, "job_id": "w4QESBS2DOgLQSth", "event": "submitted", "device": "mps.cpu", "purpose": "rcs wave6 M_i2_d36_chi256", "chi": 256, "shots": 200000}
+{"t": 1790460872.0085456, "job_id": "et92IhnigBLGNytE", "event": "done", "cost": 0.0, "device": "mps.cpu", "tag": "51qx30c"}
+{"t": 1790462967.536528, "job_id": "VG8WGnTSEaxwprBl", "event": "done", "cost": 0.0, "device": "mps.cpu", "purpose": "rcs wave6 M_i1_d36_chi256"}
+{"t": 1790462968.8631008, "job_id": "vWYMn4fRbaDXiztY", "event": "submitted", "device": "mps.cpu", "purpose": "rcs wave6 M_i1_d36_chi128", "chi": 128, "shots": 200000}
+{"t": 1790463573.8038256, "job_id": "2U0iqV5pT3N0D5zZ", "event": "done", "cost": 0.0, "device": "mps.cpu", "tag": "74qx27c"}
+{"t": 1790464480.7861197, "job_id": "cfJBd7Y3YpoUfyk2", "event": "done", "cost": 0.0, "device": "mps.cpu", "purpose": "rcs wave6 P1_i0_d36_chi128"}
+{"t": 1790464483.702526, "job_id": "BxZzQQyMygDKpgZO", "event": "submitted", "device": "mps.cpu", "purpose": "rcs wave6 M_i2_d36_chi128", "chi": 128, "shots": 200000}
+{"t": 1790466480.8322198, "job_id": "w4QESBS2DOgLQSth", "event": "done", "cost": 0.0, "device": "mps.cpu", "purpose": "rcs wave6 M_i2_d36_chi256"}
+{"t": 1790466484.034859, "job_id": "Dfc12Alr7xxsNtwt", "event": "submitted", "device": "mps.cpu", "purpose": "rcs wave6 S256_i0_d28", "chi": 256, "shots": 200000}
+{"t": 1790466846.5454276, "job_id": "vWYMn4fRbaDXiztY", "event": "done", "cost": 0.0, "device": "mps.cpu", "purpose": "rcs wave6 M_i1_d36_chi128"}
+{"t": 1790466848.1459737, "job_id": "kFhOu8yzF378s7qn", "event": "submitted", "device": "mps.cpu", "purpose": "rcs wave6 M_i1_d36_chi128", "chi": 128, "shots": 200000}
+{"t": 1790469932.8630435, "job_id": "BxZzQQyMygDKpgZO", "event": "done", "cost": 0.0, "device": "mps.cpu", "purpose": "rcs wave6 M_i2_d36_chi128"}
+{"t": 1790469944.0085444, "job_id": "VJ5I6Xsv3Bs8NUXV", "event": "submitted", "device": "mps.cpu", "purpose": "rcs wave6 S256_i1_d28", "chi": 256, "shots": 200000}
+{"t": 1790470730.659729, "job_id": "kFhOu8yzF378s7qn", "event": "done", "cost": 0.0, "device": "mps.cpu", "purpose": "rcs wave6 M_i1_d36_chi128"}
+{"t": 1790470732.734425, "job_id": "26jbQ4nw9LqvqaJU", "event": "submitted", "device": "mps.cpu", "purpose": "rcs wave6 S256_i2_d28", "chi": 256, "shots": 200000}
+{"t": 1790472849.7912092, "job_id": "Dfc12Alr7xxsNtwt", "event": "done", "cost": 0.0, "device": "mps.cpu", "purpose": "rcs wave6 S256_i0_d28"}
+{"t": 1790473639.0958693, "job_id": "VJ5I6Xsv3Bs8NUXV", "event": "done", "cost": 0.0, "device": "mps.cpu", "purpose": "rcs wave6 S256_i1_d28 CANCELED"}
+{"t": 1790473639.5590332, "job_id": "26jbQ4nw9LqvqaJU", "event": "done", "cost": 0.0, "device": "mps.cpu", "purpose": "rcs wave6 S256_i2_d28 CANCELED"}
+{"t": 1790538641.3048327, "job_id": "XCpsbeAMVvUZth11", "event": "submitted", "device": "mps.cpu", "purpose": "instrument_chi512"}
+{"t": 1790538719.2512252, "job_id": "XCpsbeAMVvUZth11", "event": "done", "cost": 0.0, "device": "mps.cpu"}
+{"t": 1790538719.6899216, "job_id": "PgqzJ1NadW7fiCQD", "event": "submitted", "device": "mps.cpu", "purpose": "instrument_chi512"}
+{"t": 1790538796.687291, "job_id": "PgqzJ1NadW7fiCQD", "event": "done", "cost": 0.0, "device": "mps.cpu"}
+{"t": 1790538798.2342288, "job_id": "gmuS92hssUw6JnZ8", "event": "submitted", "device": "mps.cpu", "purpose": "instrument_chi512"}
+{"t": 1790538898.142835, "job_id": "gmuS92hssUw6JnZ8", "event": "done", "cost": 0.0, "device": "mps.cpu"}
+{"t": 1790538898.5594769, "job_id": "OdJYvwtG6ipmJZzu", "event": "submitted", "device": "mps.cpu", "purpose": "instrument_chi512"}
+{"t": 1790538998.6125026, "job_id": "OdJYvwtG6ipmJZzu", "event": "done", "cost": 0.0, "device": "mps.cpu"}
+{"t": 1790539000.7164536, "job_id": "sEHA1LlZJvYFyQRR", "event": "submitted", "device": "mps.cpu", "purpose": "instrument_chi512"}
+{"t": 1790539103.7309735, "job_id": "sEHA1LlZJvYFyQRR", "event": "done", "cost": 0.0, "device": "mps.cpu"}
+{"t": 1790539104.19507, "job_id": "TwtgzOgRcSBQH9c2", "event": "submitted", "device": "mps.cpu", "purpose": "instrument_chi512"}
+{"t": 1790539204.9653454, "job_id": "TwtgzOgRcSBQH9c2", "event": "done", "cost": 0.0, "device": "mps.cpu"}
+{"t": 1790604625.7554934, "job_id": "PR9HTY4fBzWLUKKt", "event": "submitted", "device": "mps.gpu", "purpose": "PREREG_MPSGPU V_51qx30c_chi512", "tag": "51qx30c"}
+{"t": 1790606607.6985333, "job_id": "PR9HTY4fBzWLUKKt", "event": "done", "cost": 1.89, "device": "mps.gpu", "tag": "51qx30c"}
+{"t": 1790606722.6282282, "job_id": "9MmjGkhUPfwM0ZFE", "event": "submitted", "device": "mps.gpu", "purpose": "PREREG_MPSGPU A_74qx27c_chi512", "tag": "74qx27c"}
+{"t": 1790609425.2658596, "job_id": "9MmjGkhUPfwM0ZFE", "event": "done", "cost": 2.82, "device": "mps.gpu", "tag": "74qx27c"}
+{"t": 1790609427.5493407, "job_id": "Temr3BqLJuJyqQKn", "event": "submitted", "device": "mps.gpu", "purpose": "PREREG_MPSGPU B_51qx30c_chi1024", "tag": "51qx30c"}
+{"t": 1790615734.4305215, "job_id": "Temr3BqLJuJyqQKn", "event": "done", "cost": 6.95, "device": "mps.gpu", "tag": "51qx30c"}
+{"t": 1791223007.566368, "job_id": "057l763XcQOGI4c7", "event": "submitted", "device": "quantum", "purpose": "wave8_qpu J0 readout c0", "est_cost": 0.72}
+{"t": 1791224903.0186536, "job_id": "VRjviWOIscWwx80i", "event": "submitted", "device": "quantum", "purpose": "wave8_qpu J1 floquet c1 (D2 concurrent)", "est_cost": 0.72}
+{"t": 1791224912.3132343, "job_id": "7l1928ZCvcD0Sdyw", "event": "submitted", "device": "quantum", "purpose": "wave8_qpu J2 floquet c2 (D2 concurrent)", "est_cost": 0.72}
+{"t": 1791224921.2366996, "job_id": "WQVkTErwBfr5nARt", "event": "submitted", "device": "quantum", "purpose": "wave8_qpu J3 floquet c3 (D2 concurrent)", "est_cost": 0.72}
+{"t": 1791224922.974158, "job_id": "NZQjTP7A0g07qvsu", "event": "submitted", "device": "quantum", "purpose": "wave8_qpu J4 floquet c4 (D2 concurrent)", "est_cost": 0.72}
+{"t": 1791224923.9077356, "job_id": "6HfvpZsEg7firDYC", "event": "submitted", "device": "quantum", "purpose": "wave8_qpu J5 mirror c1 (D2 concurrent)", "est_cost": 0.72}
+{"t": 1791224926.281813, "job_id": "PVJNF7126ELDDvzO", "event": "submitted", "device": "quantum", "purpose": "wave8_qpu J6 mirror c2 (D2 concurrent)", "est_cost": 0.72}
+{"t": 1791224934.3699303, "job_id": "dk6UoncC23tkDv00", "event": "submitted", "device": "quantum", "purpose": "wave8_qpu J7 mirror c3 (D2 concurrent)", "est_cost": 0.72}
+{"t": 1791224945.6053777, "job_id": "dKvLfJYGlWqwOvHR", "event": "submitted", "device": "quantum", "purpose": "wave8_qpu J8 mirror c4 (D2 concurrent)", "est_cost": 0.72}
+{"t": 1791224953.8045652, "job_id": "gdI1N4Nq2eiMUujM", "event": "submitted", "device": "quantum", "purpose": "wave8_qpu J9 floquet c1 (D2 concurrent)", "est_cost": 0.72}
+{"t": 1791226315.6564538, "job_id": "VRjviWOIscWwx80i", "event": "done", "cost": 0.72, "device": "quantum"}
+{"t": 1791226316.3861234, "job_id": "dk6UoncC23tkDv00", "event": "done", "cost": 0.72, "device": "quantum"}
+{"t": 1791226376.8494875, "job_id": "057l763XcQOGI4c7", "event": "done", "cost": 0.72, "device": "quantum"}
+{"t": 1791226377.1278222, "job_id": "7l1928ZCvcD0Sdyw", "event": "done", "cost": 0.72, "device": "quantum"}
+{"t": 1791226377.3717563, "job_id": "WQVkTErwBfr5nARt", "event": "done", "cost": 0.72, "device": "quantum"}
+{"t": 1791226377.6475172, "job_id": "NZQjTP7A0g07qvsu", "event": "done", "cost": 0.72, "device": "quantum"}
+{"t": 1791226377.9695115, "job_id": "dKvLfJYGlWqwOvHR", "event": "done", "cost": 0.72, "device": "quantum"}
+{"t": 1791226438.2218504, "job_id": "6HfvpZsEg7firDYC", "event": "done", "cost": 0.72, "device": "quantum"}
+{"t": 1791226438.3531187, "job_id": "PVJNF7126ELDDvzO", "event": "done", "cost": 0.72, "device": "quantum"}
+{"t": 1791226438.6011763, "job_id": "gdI1N4Nq2eiMUujM", "event": "done", "cost": 0.72, "device": "quantum"}
+{"t": 1791231535.66349, "job_id": "YYOeLPN1ZEXzsPjf", "event": "submitted", "device": "quantum", "purpose": "wave8b_qpu K1 barrier mirror c1", "est_cost": 0.72}
+{"t": 1791231548.6392689, "job_id": "k6dbXlNmQc2E6E0z", "event": "submitted", "device": "quantum", "purpose": "wave8b_qpu K2 barrier mirror c2", "est_cost": 0.72}
+{"t": 1791231562.747347, "job_id": "rZPYbDi1peZyu78P", "event": "submitted", "device": "quantum", "purpose": "wave8b_qpu K3 barrier mirror c3", "est_cost": 0.72}
+{"t": 1791231575.3597896, "job_id": "kGE9ku2RsdHvxLYl", "event": "submitted", "device": "quantum", "purpose": "wave8b_qpu K4 barrier mirror c4", "est_cost": 0.72}
+{"t": 1791237823.633473, "job_id": "YYOeLPN1ZEXzsPjf", "event": "done", "cost": 0.72, "device": "quantum"}
+{"t": 1791238427.6179135, "job_id": "k6dbXlNmQc2E6E0z", "event": "done", "cost": 0.72, "device": "quantum"}
+{"t": 1791238427.863641, "job_id": "rZPYbDi1peZyu78P", "event": "done", "cost": 0.72, "device": "quantum"}
+{"t": 1791238428.123274, "job_id": "kGE9ku2RsdHvxLYl", "event": "done", "cost": 0.72, "device": "quantum"}
+{"t": 1791322628.5391476, "job_id": "PiPrZ3LknnL5r6ua", "event": "submitted", "device": "cpu", "purpose": "allowance probe 2026-10-06"}
+{"t": 1791322633.758331, "job_id": "PiPrZ3LknnL5r6ua", "event": "done", "cost": 0.0, "device": "cpu", "purpose": "allowance probe 2026-10-06"}
+{"t": 1791322634.2102613, "job_id": "12ywjcV2cscgoz4m", "event": "submitted", "device": "mps.cpu", "purpose": "allowance probe 2026-10-06"}
+{"t": 1791322639.4098878, "job_id": "12ywjcV2cscgoz4m", "event": "done", "cost": 0.0, "device": "mps.cpu", "purpose": "allowance probe 2026-10-06"}
+{"t": 1791322768.7465436, "job_id": "PQQxITmooQzjAnu6", "event": "submitted", "device": "mps.cpu", "purpose": "v2diag F_chi4"}
+{"t": 1791322769.2704248, "job_id": "d2onkEWtP4UseXYs", "event": "submitted", "device": "mps.cpu", "purpose": "v2diag F_chi8"}
+{"t": 1791322769.7795565, "job_id": "1t5vbMrhTbIC7K9M", "event": "submitted", "device": "mps.cpu", "purpose": "v2diag F_chi16"}
+{"t": 1791322770.2611978, "job_id": "ghOmDzncXwrszumb", "event": "submitted", "device": "mps.cpu", "purpose": "v2diag B_chi4"}
+{"t": 1791322770.6650538, "job_id": "fUlObj7mzy3LkXXO", "event": "submitted", "device": "mps.cpu", "purpose": "v2diag B_chi8"}
+{"t": 1791322771.1714654, "job_id": "e5JOfwa14HIRc5jG", "event": "submitted", "device": "mps.cpu", "purpose": "v2diag B_chi16"}
+{"t": 1791322771.6198866, "job_id": "IvstwILM5x7gdVwr", "event": "submitted", "device": "mps.cpu", "purpose": "v2diag R_chi4"}
+{"t": 1791322771.9806657, "job_id": "5G18Gpp2B3WjYLcO", "event": "submitted", "device": "mps.cpu", "purpose": "v2diag R_chi8"}
+{"t": 1791323189.2438092, "job_id": "PQQxITmooQzjAnu6", "event": "done", "cost": 0.0, "device": "mps.cpu", "purpose": "v2diag F_chi4"}
+{"t": 1791323294.0195785, "job_id": "d2onkEWtP4UseXYs", "event": "done", "cost": 0.0, "device": "mps.cpu", "purpose": "v2diag F_chi8"}
+{"t": 1791323315.1121352, "job_id": "1t5vbMrhTbIC7K9M", "event": "done", "cost": 0.0, "device": "mps.cpu", "purpose": "v2diag F_chi16"}
+{"t": 1791323336.053423, "job_id": "ghOmDzncXwrszumb", "event": "done", "cost": 0.0, "device": "mps.cpu", "purpose": "v2diag B_chi4"}
+{"t": 1791323336.635861, "job_id": "IvstwILM5x7gdVwr", "event": "done", "cost": 0.0, "device": "mps.cpu", "purpose": "v2diag R_chi4"}
+{"t": 1791323357.078814, "job_id": "fUlObj7mzy3LkXXO", "event": "done", "cost": 0.0, "device": "mps.cpu", "purpose": "v2diag B_chi8"}
+{"t": 1791323357.3881764, "job_id": "e5JOfwa14HIRc5jG", "event": "done", "cost": 0.0, "device": "mps.cpu", "purpose": "v2diag B_chi16"}
+{"t": 1791323377.9109774, "job_id": "5G18Gpp2B3WjYLcO", "event": "done", "cost": 0.0, "device": "mps.cpu", "purpose": "v2diag R_chi8"}
+{"t": 1791483642.003908, "job_id": "jLSixsgoE0ejxFGe", "event": "submitted", "device": "mps.cpu", "purpose": "v2diag D2 R_chi4_rep2"}
+{"t": 1791483642.545508, "job_id": "h9P3DzqlOjmbzNOH", "event": "submitted", "device": "mps.cpu", "purpose": "v2diag D2 R_chi4_rep3"}
+{"t": 1791483643.2753866, "job_id": "oTmPJqxFdRXRL6zf", "event": "submitted", "device": "mps.cpu", "purpose": "v2diag D2 R_chi8_rep2"}
+{"t": 1791483643.7841122, "job_id": "HBal0cfioTa6Qmdk", "event": "submitted", "device": "mps.cpu", "purpose": "v2diag D2 R_chi8_rep3"}
+{"t": 1791483644.3080678, "job_id": "PDcF7GDk2EU4BssX", "event": "submitted", "device": "mps.cpu", "purpose": "v2diag D2 F_chi16_rep2"}
+{"t": 1791483645.1327474, "job_id": "cbz5kA6U3WQHavub", "event": "submitted", "device": "mps.cpu", "purpose": "v2diag D2 F_chi16_rep3"}
+{"t": 1791484059.66127, "job_id": "jLSixsgoE0ejxFGe", "event": "done", "cost": 0.0, "device": "mps.cpu", "purpose": "v2diag D2 R_chi4_rep2"}
+{"t": 1791484163.3490689, "job_id": "h9P3DzqlOjmbzNOH", "event": "done", "cost": 0.0, "device": "mps.cpu", "purpose": "v2diag D2 R_chi4_rep3"}
+{"t": 1791484163.6658602, "job_id": "oTmPJqxFdRXRL6zf", "event": "done", "cost": 0.0, "device": "mps.cpu", "purpose": "v2diag D2 R_chi8_rep2"}
+{"t": 1791484164.138317, "job_id": "PDcF7GDk2EU4BssX", "event": "done", "cost": 0.0, "device": "mps.cpu", "purpose": "v2diag D2 F_chi16_rep2"}
+{"t": 1791484164.4762452, "job_id": "cbz5kA6U3WQHavub", "event": "done", "cost": 0.0, "device": "mps.cpu", "purpose": "v2diag D2 F_chi16_rep3"}
+{"t": 1791484184.8261101, "job_id": "HBal0cfioTa6Qmdk", "event": "done", "cost": 0.0, "device": "mps.cpu", "purpose": "v2diag D2 R_chi8_rep3"}
+{"t": 1791484343.5031867, "job_id": "Nkks5foDePOfqoG0", "event": "submitted", "device": "mps.cpu", "purpose": "rep224 P2_i0_d36_chi256 a1"}
+{"t": 1791484345.170582, "job_id": "xalr5u2taW7NHP6k", "event": "submitted", "device": "mps.cpu", "purpose": "rep224 M_i2_d36_chi256 a1"}
+{"t": 1791488194.8478172, "job_id": "xalr5u2taW7NHP6k", "event": "done", "cost": 0.0, "device": "mps.cpu", "purpose": "rep224 M_i2_d36_chi256 a1"}
+{"t": 1791488196.682172, "job_id": "5cP8LuOeJ1herhPS", "event": "submitted", "device": "mps.cpu", "purpose": "rep224 M_i2_d36_chi256 a2"}
+{"t": 1791491206.24985, "job_id": "Nkks5foDePOfqoG0", "event": "done", "cost": 0.0, "device": "mps.cpu", "purpose": "rep224 P2_i0_d36_chi256 a1"}
+{"t": 1791492168.9587348, "job_id": "5cP8LuOeJ1herhPS", "event": "done", "cost": 0.0, "device": "mps.cpu", "purpose": "rep224 M_i2_d36_chi256 a2"}

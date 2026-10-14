@@ -1,0 +1,30 @@
+[
+ {
+  "file": "floquet_mixed_field_ising_mag_74qx27c.qasm",
+  "n": 74,
+  "cycles": 27,
+  "obs": "mag",
+  "pau_0.001": 0.0,
+  "pau_0.001_cost": 0.0,
+  "pau_0.001_s": 48.6,
+  "pau_0.0001": 0.08575957245186222,
+  "pau_0.0001_cost": 0.0,
+  "pau_0.0001_s": 12.4,
+  "mps_64": 0.6098131470860225,
+  "mps_64_cost": 0.0,
+  "mps_64_s": 104.9,
+  "mps_256": 0.5632804864172263,
+  "mps_256_cost": 0.0,
+  "mps_256_s": 1780.0,
+  "mps_512": 0.5435972771734179,
+  "mps_512_cost": 0.0,
+  "mps_512_s": 10891.7,
+  "mps_1024": 0.5256639733175006,
+  "mps_1024_cost": 0.0,
+  "mps_1024_s": 73339.5,
+  "mps_2048_async_job": "2U0iqV5pT3N0D5zZ",
+  "mps_2048_async_status": "TERMINATED",
+  "mps_2048_async_billed": 0.0,
+  "mps_2048_async_err": "Something went wrong with the request, we are investigating it."
+ }
+]
