@@ -12,12 +12,12 @@ method families under a pre-registered criterion.
 | Path | Contents |
 |---|---|
 | `results/` | BlueQubit job outputs (JSON) for the Floquet-Ising oracle points (19–33 qubits), the 51-qubit tracker sweep, OTOC echoes and the MPS ordering sweep; also 2026-09-23 snapshots of the tracker's submission/model lists (`tracker_*_2026-09-23.json`, third party, Apache-2.0) |
-| `PATCH_PREREG*.md`, `PREREG_MPSGPU*.md`, `RESULT_*.md` | pre-registered 27/33-qubit bracket tests and MPS scaling runs, with outcomes |
+| `PATCH_PREREG*.md`, `PREREG_MPSGPU*.md`, `RESULT_*.md` | pre-registered 27/33-qubit bracket tests, 51-qubit large-instance brackets, and GPU MPS runs on the tracker candidates, with outcomes |
 | `pilot/`, `pilot2/`, `pilot_nli/` | the pre-registered AI-agent pilots (frozen prompts and hashes, runs, analysis) |
 | `rgs/` | exact graph-state / cut-rank method for IBM's 70-qubit random-graph sampling candidates, validated against statevector on slices; GPU runbook (`rgs/README.md`) |
 | `teams/rcs/` | BlueQubit 61-qubit random-circuit claim: patch-XEB reproduction, mirror-proxy waves 2–7 with pre-registrations and deviations |
 | `teams/floquet/`, `teams/qpu/` | Floquet NLCE study; QPU mirror-calibration waves 8/8b |
-| `teams/verification/` | independent verifier reports on the research waves (one per wave) |
+| `teams/verification/` | independent verifier reports on RCS waves 1–6, Floquet wave 1 and AI wave 1 (later waves were verified in the application's internal review rounds, not shipped) |
 | `teams/ai_contribution/` | sealed-key verifier benchmark: pre-registrations, builder, scores and adjudication tables (the planted-defect corpora and the adjudication packets, which quote application drafts, are omitted) |
 | `tracker/` | circuits and data files from the Quantum Advantage Tracker (third party, Apache-2.0; see `tracker/NOTICE.md`) |
 | `check_claims.py` | recomputes the numbers in the application from raw files |
@@ -31,7 +31,8 @@ python check_claims.py
 from `results/`, the pilots and the tracker circuits, and then exits with a `FileNotFoundError` (exit code 1) at the
 first check that reads the application text or third-party paper excerpts, which are not redistributed here. The full
 run on the private tree (153/153 PASS) is in `CHECK_CLAIMS_FULL_RUN_20261014.txt`. Scripts that submit BlueQubit jobs
-read `BLUEQUBIT_API_TOKEN` from the environment.
+read `BLUEQUBIT_API_TOKEN` from the environment (falling back to `$BLUEQUBIT_ENV_FILE` or `~/.env`; some scripts and
+`teams/rcs/wave6/supervise.sh` name the author's local `.env` path — no token is included).
 
 ## Pre-registration hashes (first 16 hex digits of SHA-256 of the file as shipped)
 | File | SHA-256 prefix |
@@ -49,7 +50,12 @@ read `BLUEQUBIT_API_TOKEN` from the environment.
 | `teams/rcs/wave7/ADDENDUM_POSTDEADLINE.md` | `9cfffd32ce2bcd1d` |
 
 Further frozen files carry their own `*.sha16` (or `*.sha256`) next to them. These hashes were recorded locally at
-freeze time; they show the files have not changed since, not when they were frozen.
+freeze time; they show the files have not changed since, not when they were frozen. Exceptions, disclosed where they
+occur: `teams/ai_contribution/wave2|wave3/PREREG.sha16` hash only the file header (a marker bug; the protocol body is
+covered by each wave's `FREEZE_ATTESTATION.md`), and `teams/rcs/wave6/results/scripts_at_freeze.sha256` does not match
+4 of 5 scripts (see wave 6 `DEVIATIONS.md` and `teams/verification/verify_rcs_wave6.md`). `pilot/PILOT_PREREG.md`
+(`c386183bbafd4c05`) and `RESULT_BIG_INTERIM.md` (`e8a5f47c22b52bb3`) have no hash file; their hashes are cited in
+the files that depend on them.
 
 ## Notes for readers
 - Several pre-registrations and drafts carry an internal header such as "Private; not to be posted". These labels
@@ -57,13 +63,14 @@ freeze time; they show the files have not changed since, not when they were froz
   because editing them would break their hashes; the drafts are left as written.
 - Two pre-registrations are unfrozen drafts for the program period and have not been run:
   `teams/rcs/DRAFT_PREREG_RCS.md` (finite-fidelity MPS sampling of arXiv:2609.28657) and `rgs/PREREG_UNDOPED_XEB.md`
-  (parked GPU scoring of IBM's undoped samples). Each will be revised and hash-frozen before any program compute.
+  (parked GPU scoring of IBM's undoped samples; a frozen local CPU variant was started and abandoned before any
+  amplitude was computed, see `rgs/local/RESULT_PROBE.md`). Each will be revised and hash-frozen before any program compute.
 - `teams/rcs/wave6_rep224/` is a post-hoc, pre-registered replication of the 224.08 figure; its verdict is
   INCONCLUSIVE (one cell not run), as recorded in its RESULT.md.
 - Some frozen files cite paths that are not shipped here (internal notes, the application text).
 
 ## Not included
-- The application text itself, the planted-defect copies of it used by the sealed-key benchmark, and the adjudication
+- The application text itself (the benchmark's `build.py` and `PLANT_AUDIT.md` quote short fragments of earlier drafts), the planted-defect copies of it used by the sealed-key benchmark, and the adjudication
   packets that quote application drafts.
 - Third-party data: Manabe, Gu & Pan (doi:10.5281/zenodo.21912448, CC-BY-4.0); IBM doped-Clifford circuits
   (doi:10.5281/zenodo.22233383, CC-BY-4.0; never unpickle the `.pkl`); IBM's undoped samples (tracker issue #151).
@@ -72,7 +79,7 @@ freeze time; they show the files have not changed since, not when they were froz
 Some logs contain absolute paths from the machine the runs were made on; they are informational only.
 
 ## Provenance
-Code and analysis were designed, run and checked by AI agents under the author's direction, 2026-09-23 to 2026-10-13.
+Code and analysis were designed, run and checked by AI agents under the author's direction, 2026-09-23 to 2026-10-13 (full check run re-executed 2026-10-14).
 Deviations from pre-registrations are recorded next to them (`DEVIATIONS.md`, addenda).
 
 ## License
